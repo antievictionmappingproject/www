@@ -1,6 +1,13 @@
 import { SAXParser } from "https://deno.land/x/xmlp/mod.ts";
 import { Machine, interpret, assign } from "https://cdn.pika.dev/xstate";
 
+function writeItem(item) {
+  if (item["wp:post_type"] === "page") {
+    const { "content:encoded": content, link, ...data } = item;
+    Deno.writeTextFile(`pages${link}.html`, content);
+  }
+}
+
 const machine = Machine({
   id: "xml",
   initial: "inactive",
@@ -24,7 +31,7 @@ const machine = Machine({
           target: "inactive",
           actions: assign({
             currentItem: (context) => {
-              console.log(context.currentItem);
+              writeItem(context.currentItem);
               return {};
             },
           }),
