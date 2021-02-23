@@ -4,7 +4,10 @@ import { Machine, interpret, assign } from "https://cdn.pika.dev/xstate";
 function writeItem(item) {
   if (item["wp:post_type"] === "page") {
     const { "content:encoded": content, link, ...data } = item;
-    Deno.writeTextFile(`pages${link}.html`, content);
+    Deno.writeTextFile(
+      `pages${link}.html`,
+      `---json\n${JSON.stringify(data)}\n---\n\n${content}`
+    );
   }
 }
 
