@@ -3,11 +3,17 @@ import { Machine, interpret, assign } from "https://cdn.pika.dev/xstate";
 
 function writeItem(item) {
   if (item["wp:post_type"] === "page") {
-    const { "content:encoded": content, link, ...data } = item;
+    const { "content:encoded": initialContent, link, ...data } = item;
     const frontmatter = JSON.stringify({
-      layout: "layouts/page.njk",
+      layout: "layouts/page.liquid",
       ...data,
     });
+    const content = initialContent
+      .replace(/<script\b[^<]*(?:(?!<\/script>)<[^<]*)*<\/script>/gi, "")
+      .replace(
+        /<noscript\b[^<]*((?:(?!<\/noscript>)<[^<]*)*)<\/noscript>/gi,
+        (_, p1) => p1
+      );
     Deno.writeTextFile(
       `pages${link}.html`,
       `---json\n${frontmatter}\n---\n\n${content}`
