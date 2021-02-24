@@ -1,0 +1,15 @@
+{
+  "name": "aemp",
+  "version": "1.0.0",
+  "description": "",
+  "main": "import.js",
+  "scripts": {
+    "start": "npx eleventy --input=pages --serve"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "@11ty/eleventy": "^0.11.1"
+  }
+}

@@ -4,9 +4,13 @@ import { Machine, interpret, assign } from "https://cdn.pika.dev/xstate";
 function writeItem(item) {
   if (item["wp:post_type"] === "page") {
     const { "content:encoded": content, link, ...data } = item;
+    const frontmatter = JSON.stringify({
+      layout: "layouts/page.njk",
+      ...data,
+    });
     Deno.writeTextFile(
       `pages${link}.html`,
-      `---json\n${JSON.stringify(data)}\n---\n\n${content}`
+      `---json\n${frontmatter}\n---\n\n${content}`
     );
   }
 }
