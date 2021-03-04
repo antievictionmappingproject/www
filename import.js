@@ -48,27 +48,52 @@ const machine = Machine({
   initial: "inactive",
   context: {
     currentItem: {},
+    currentMeta: {},
   },
   states: {
-    inactive: { on: { startItem: "item" } },
+    inactive: { on: { "start:item": "item" } },
     item: {
       on: {
+        "start:wp:postmeta": "wp:postmeta",
         text: {
           target: "item",
           actions: assign({
             currentItem: (context, event) => ({
               ...context.currentItem,
-              [event.key]: event.value,
+              [event.element.qName]: event.text,
             }),
           }),
         },
-        endItem: {
+        "end:item": {
           target: "inactive",
           actions: assign({
             currentItem: (context) => {
               writeItem(context.currentItem);
               return {};
             },
+          }),
+        },
+      },
+    },
+    "wp:postmeta": {
+      on: {
+        text: {
+          target: "wp:postmeta",
+          actions: assign({
+            currentMeta: (context, event) => ({
+              ...context.currentMeta,
+              [event.element.qName]: event.text,
+            }),
+          }),
+        },
+        "end:wp:postmeta": {
+          target: "item",
+          actions: assign({
+            currentItem: ({ currentItem, currentMeta }) => ({
+              ...currentItem,
+              [currentMeta["wp:meta_key"]]: currentMeta["wp:meta_value"],
+            }),
+            currentMeta: () => ({}),
           }),
         },
       },
@@ -82,17 +107,13 @@ service.start();
 const parser = new SAXParser();
 parser
   .on("start_element", (element) => {
-    if (element.qName === "item") {
-      service.send("startItem");
-    }
+    service.send({ type: "start:" + element.qName, element });
   })
   .on("end_element", (element) => {
-    if (element.qName === "item") {
-      service.send("endItem");
-    }
+    service.send({ type: "end:" + element.qName, element });
   })
   .on("text", (text, element) => {
-    service.send({ type: "text", key: element.qName, value: text });
+    service.send({ type: "text", element, text });
   });
 
 const reader = await Deno.open(Deno.args[0]);
