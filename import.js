@@ -58,10 +58,26 @@ const machine = Machine({
         text: {
           target: "item",
           actions: assign({
-            currentItem: (context, event) => ({
-              ...context.currentItem,
-              [event.element.qName]: event.text,
-            }),
+            currentItem: (context, event) => {
+              if (event.element.qName === "category") {
+                const key = event.element.attributes.find(
+                  ({ qName }) => qName === "domain"
+                )?.value;
+                if (key) {
+                  return {
+                    ...context.currentItem,
+                    [key]: [...(context.currentItem[key] ?? []), event.text],
+                  };
+                } else {
+                  return context.currentItem;
+                }
+              } else {
+                return {
+                  ...context.currentItem,
+                  [event.element.qName]: event.text,
+                };
+              }
+            },
           }),
         },
         "end:item": {
