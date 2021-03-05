@@ -1,26 +1,44 @@
 import { SAXParser } from "https://deno.land/x/xmlp/mod.ts";
 import { Machine, interpret, assign } from "https://cdn.pika.dev/xstate";
 import { slugify } from "https://deno.land/x/slugify/mod.ts";
+import { DOMParser } from "https://deno.land/x/deno_dom/deno-dom-wasm.ts";
 
 await Deno.remove("pages", { recursive: true });
 await Deno.mkdir("pages", { recursive: true });
 
 async function writePost(post) {
-  const { "content:encoded": initialContent = "", link, ...data } = post;
+  const { "content:encoded": content = "", link, ...data } = post;
   const slug = slugify(link.match(/[^\/]*$/g)[0]);
   const frontmatter = JSON.stringify({
-    layout: "layouts/page.liquid",
+    layout: "layouts/page.njk",
     ...data,
   });
-  const content = initialContent
-    .replace(/<script\b[^<]*(?:(?!<\/script>)<[^<]*)*<\/script>/gi, "")
-    .replace(
-      /<noscript\b[^<]*((?:(?!<\/noscript>)<[^<]*)*)<\/noscript>/gi,
-      (_, p1) => p1
-    );
+  const document = new DOMParser().parseFromString(
+    content.replaceAll("&nbsp;", ""),
+    "text/html"
+  );
+  document.querySelectorAll("script").forEach((node) => void node.remove());
+  document.querySelectorAll("style").forEach((node) => void node.remove());
+  document.querySelectorAll("noscript").forEach((node) => {
+    const child = document.createElement("div");
+    child.innerHTML = node.textContent;
+    node.parentElement.replaceChild(child, node);
+  });
+  [
+    ...document.querySelectorAll("p"),
+    ...document.querySelectorAll("span"),
+    ...document.querySelectorAll("blockquote"),
+  ].forEach((node) => {
+    if (node.textContent.trim() === "") {
+      node.remove();
+    }
+  });
+  document.querySelectorAll("[style]").forEach((node) => {
+    node.removeAttribute("style");
+  });
   return Deno.writeTextFile(
     `pages/${slug}.html`,
-    `---json\n${frontmatter}\n---\n\n${content}`
+    `---json\n${frontmatter}\n---\n\n${document.body.innerHTML}`
   );
 }
 

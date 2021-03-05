@@ -1,0 +1,14 @@
+/* Hide unloaded images. */
+img[data-src] {
+  display: none;
+}
+
+/* Hide visually hidden elements inside lightbox openers. */
+.js-gallery-lightbox-opener .v6-visually-hidden {
+  display: none;
+}
+
+/* Remove bottom padding on image blocks. */
+.image-block-wrapper {
+  padding: 0 !important;
+}

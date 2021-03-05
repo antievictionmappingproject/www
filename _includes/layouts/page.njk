@@ -1,0 +1,21 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>AEMP | {{ title }}</title>
+    {% set resetCss %} {% include "css/reset.css" %} {% endset %}
+    <style>
+      {{ resetCss | cssmin | safe }}
+    </style>
+    {% set squarespaceCss %} {% include "css/squarespace.css" %} {% endset %}
+    <style>
+      {{ squarespaceCss | cssmin | safe }}
+    </style>
+  </head>
+  <body>
+    <main>
+      {{ content | safe }}
+    </main>
+  </body>
+</html>
