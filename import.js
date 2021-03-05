@@ -1,57 +1,71 @@
 import { SAXParser } from "https://deno.land/x/xmlp/mod.ts";
 import { Machine, interpret, assign } from "https://cdn.pika.dev/xstate";
+import { slugify } from "https://deno.land/x/slugify/mod.ts";
 
+await Deno.remove("pages", { recursive: true });
 await Deno.mkdir("pages", { recursive: true });
-await Deno.mkdir("posts", { recursive: true });
 
-function writeItem(item) {
-  if (item["wp:post_type"] === "page") {
-    const { "content:encoded": initialContent, link, ...data } = item;
-    const frontmatter = JSON.stringify({
-      layout: "layouts/page.liquid",
-      ...data,
-    });
-    const content = initialContent
-      .replace(/<script\b[^<]*(?:(?!<\/script>)<[^<]*)*<\/script>/gi, "")
-      .replace(
-        /<noscript\b[^<]*((?:(?!<\/noscript>)<[^<]*)*)<\/noscript>/gi,
-        (_, p1) => p1
-      );
-    Deno.writeTextFile(
-      `pages${link}.html`,
-      `---json\n${frontmatter}\n---\n\n${content}`
+async function writePost(post) {
+  const { "content:encoded": initialContent = "", link, ...data } = post;
+  const slug = slugify(link.match(/[^\/]*$/g)[0]);
+  const frontmatter = JSON.stringify({
+    layout: "layouts/page.liquid",
+    ...data,
+  });
+  const content = initialContent
+    .replace(/<script\b[^<]*(?:(?!<\/script>)<[^<]*)*<\/script>/gi, "")
+    .replace(
+      /<noscript\b[^<]*((?:(?!<\/noscript>)<[^<]*)*)<\/noscript>/gi,
+      (_, p1) => p1
     );
-  } else if (item["wp:post_type"] === "post") {
-    const { "content:encoded": initialContent, link, ...data } = item;
-    const frontmatter = JSON.stringify({
-      layout: "layouts/page.liquid",
-      ...data,
-    });
-    if (initialContent) {
-      const content = initialContent
-        .replace(/<script\b[^<]*(?:(?!<\/script>)<[^<]*)*<\/script>/gi, "")
-        .replace(
-          /<noscript\b[^<]*((?:(?!<\/noscript>)<[^<]*)*)<\/noscript>/gi,
-          (_, p1) => p1
-        );
-      const shortLink = link.match(/[\w-]*$/gi)[0];
-      Deno.writeTextFile(
-        `posts/${shortLink}.html`,
-        `---json\n${frontmatter}\n---\n\n${content}`
-      );
-    }
-  }
+  return Deno.writeTextFile(
+    `pages/${slug}.html`,
+    `---json\n${frontmatter}\n---\n\n${content}`
+  );
 }
 
 const machine = Machine({
   id: "xml",
   initial: "inactive",
   context: {
+    items: [],
     currentItem: {},
     currentMeta: {},
   },
   states: {
-    inactive: { on: { "start:item": "item" } },
+    inactive: {
+      on: {
+        "start:item": "item",
+        "end:channel": {
+          actions: ({ items }) => {
+            const posts = items.filter(
+              (item) => item["wp:post_type"] === "post"
+            );
+            for (let post of posts) {
+              if (post.passthrough_url) {
+                const url = new URL(post.passthrough_url);
+                if (
+                  url.hostname === "www.antievictionmap.com" ||
+                  url.hostname === "antievictionmap.com"
+                ) {
+                  const page = items.find(
+                    (item) =>
+                      item["wp:post_type"] === "page" &&
+                      slugify(item.link) === slugify(url.pathname)
+                  );
+                  if (page) {
+                    Object.assign(post, {
+                      "content:encoded": page["content:encoded"],
+                    });
+                  }
+                }
+              }
+              writePost(post);
+            }
+          },
+        },
+      },
+    },
     item: {
       on: {
         "start:wp:postmeta": "wp:postmeta",
@@ -83,10 +97,10 @@ const machine = Machine({
         "end:item": {
           target: "inactive",
           actions: assign({
-            currentItem: (context) => {
-              writeItem(context.currentItem);
-              return {};
+            items: ({ items, currentItem }) => {
+              return [...items, currentItem];
             },
+            currentItem: () => ({}),
           }),
         },
       },
@@ -96,8 +110,8 @@ const machine = Machine({
         text: {
           target: "wp:postmeta",
           actions: assign({
-            currentMeta: (context, event) => ({
-              ...context.currentMeta,
+            currentMeta: ({ currentMeta }, event) => ({
+              ...currentMeta,
               [event.element.qName]: event.text,
             }),
           }),
