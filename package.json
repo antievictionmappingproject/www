@@ -4,7 +4,8 @@
   "description": "",
   "main": "import.js",
   "scripts": {
-    "start": "npx eleventy --serve"
+    "start": "npx eleventy --serve",
+    "build": "npx eleventy"
   },
   "keywords": [],
   "author": "",
