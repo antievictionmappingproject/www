@@ -20,7 +20,7 @@ async function writePost(post) {
   const frontmatter = JSON.stringify({
     layout: "layouts/default.njk",
     tags: [...post_tag, ...category],
-    date,
+    date: date.split(" ").join("T"),
     title,
   });
   const document = new DOMParser().parseFromString(
