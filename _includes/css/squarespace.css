@@ -3,12 +3,53 @@ img[data-src] {
   display: none;
 }
 
-/* Hide visually hidden elements inside lightbox openers. */
-.js-gallery-lightbox-opener .v6-visually-hidden {
-  display: none;
+/* Hide visually hidden elements. */
+.v6-visually-hidden {
+  border: 0;
+  clip: rect(0 0 0 0);
+  height: auto;
+  margin: 0;
+  overflow: hidden;
+  padding: 0;
+  position: absolute;
+  width: 1px;
+  white-space: nowrap;
 }
 
 /* Remove bottom padding on image blocks. */
 .image-block-wrapper {
   padding: 0 !important;
+}
+
+/* Remove button styles around image blocks. */
+.sqs-block-image-button {
+  appearance: none;
+  border: none;
+  background: none;
+  padding: 0;
+  margin: 0;
+}
+
+.sqs-gallery {
+  display: grid;
+  grid-template-columns: repeat(auto-fill, minmax(16rem, 1fr));
+  grid-gap: 2rem;
+}
+
+.sqs-video-wrapper {
+  height: 0;
+  padding-bottom: 56.25%;
+  position: relative;
+}
+
+.sqs-video-wrapper > iframe {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+}
+
+.sqs-gallery img {
+  width: 100%;
 }

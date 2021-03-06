@@ -3,7 +3,6 @@ import { Machine, interpret, assign } from "https://cdn.pika.dev/xstate";
 import { slugify } from "https://deno.land/x/slugify/mod.ts";
 import { DOMParser } from "https://deno.land/x/deno_dom/deno-dom-wasm.ts";
 
-await Deno.remove("pages", { recursive: true });
 await Deno.mkdir("pages", { recursive: true });
 
 async function writePost(post) {
@@ -35,6 +34,10 @@ async function writePost(post) {
   });
   document.querySelectorAll("[style]").forEach((node) => {
     node.removeAttribute("style");
+  });
+  document.querySelectorAll("[data-html]").forEach((node) => {
+    node.innerHTML = node.getAttribute("data-html");
+    node.removeAttribute("data-html");
   });
   return Deno.writeTextFile(
     `pages/${slug}.html`,
