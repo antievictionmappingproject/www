@@ -9,6 +9,7 @@ await Deno.mkdir("posts", { recursive: true });
 async function writePost(post) {
   const {
     "content:encoded": content,
+    "wp:post_date": date,
     link,
     post_tag = [],
     category = [],
@@ -17,8 +18,9 @@ async function writePost(post) {
   if (!title || !content) return;
   const slug = slugify(link.match(/[^\/]*$/g)[0]);
   const frontmatter = JSON.stringify({
-    layout: "layouts/page.njk",
+    layout: "layouts/post.njk",
     tags: [...post_tag, ...category],
+    date,
     title,
   });
   const document = new DOMParser().parseFromString(
