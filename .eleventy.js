@@ -7,6 +7,6 @@ module.exports = function (eleventyConfig) {
   eleventyConfig.addPassthroughCopy("admin");
 
   eleventyConfig.addCollection("posts", function (collectionApi) {
-    return collectionApi.getFilteredByGlob("pages/*");
+    return collectionApi.getFilteredByGlob("posts/*");
   });
 };
