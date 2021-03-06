@@ -3,14 +3,23 @@ import { Machine, interpret, assign } from "https://cdn.pika.dev/xstate";
 import { slugify } from "https://deno.land/x/slugify/mod.ts";
 import { DOMParser } from "https://deno.land/x/deno_dom/deno-dom-wasm.ts";
 
+await Deno.remove("pages", { recursive: true });
 await Deno.mkdir("pages", { recursive: true });
 
-async function writePost(post) {
-  const { "content:encoded": content = "", link, ...data } = post;
+async function writePage(page) {
+  const {
+    "content:encoded": content,
+    link,
+    post_tag = [],
+    category = [],
+    title,
+  } = page;
+  if (!title || !content) return;
   const slug = slugify(link.match(/[^\/]*$/g)[0]);
   const frontmatter = JSON.stringify({
     layout: "layouts/page.njk",
-    ...data,
+    tags: [...post_tag, ...category],
+    title,
   });
   const document = new DOMParser().parseFromString(
     content.replaceAll("&nbsp;", ""),
@@ -81,7 +90,7 @@ const machine = Machine({
                   }
                 }
               }
-              writePost(post);
+              writePage(post);
             }
           },
         },
