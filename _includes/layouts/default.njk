@@ -8,9 +8,9 @@
     <style>
       {{ resetCss | cssmin | safe }}
     </style>
-    {% set squarespaceCss %} {% include "css/squarespace.css" %} {% endset %}
+    {% set mainCss %} {% include "css/main.css" %} {% endset %}
     <style>
-      {{ squarespaceCss | cssmin | safe }}
+      {{ mainCss | cssmin | safe }}
     </style>
     <script src="https://identity.netlify.com/v1/netlify-identity-widget.js"></script>
   </head>
