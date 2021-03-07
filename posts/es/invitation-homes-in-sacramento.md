@@ -1,0 +1,22 @@
+---json
+{"layout":"layouts/default.njk","tags":["Speculation","Foreclosure","Banks","Ownership","Sacramento"],"date":"2019-02-18T00:36:00","title":"Invitation Homes in Sacramento"}
+---
+
+Invitation Homes, Sacramento, 2018
+==================================
+
+Invitation Homes is a subsidiary of the 434 billion dollar company (as of December 2017), [The Blackstone Group.](https://en.wikipedia.org/wiki/The_Blackstone_Group) Launched in 2012 as Blackstone began acquiring foreclosed single family homes, Invitation has since moved into multi-family properties. After a 2017 IPO, Invitation now trades on the New York Stock Exchange.
+
+Sacramento neighborhoods were hit hard by the [subprime mortgage crisis](https://en.wikipedia.org/wiki/Subprime_mortgage_crisis) which created an opportunity for companies like Blackstone and [Thomas Barrack’s Colony](https://www.revealnews.org/article/profiting-off-pain-trump-confidant-cashed-in-on-housing-crisis/) to acquire single family homes at rock bottom prices. After the 2017 merger of Colony, Starwood and Waypoint with Invitation Homes, the company held 82,000 single family homes.
+
+As The California Reinvestment Coalition detailed in their 2015 [“REO to Rental” report](http://calreinvest.org/wp-content/uploads/2018/08/REO-to-Rental-in-California-CRC-June-2015.pdf), the entrance of Wall Street companies into the market for single family homes cause many levels of harm and instability to communities, raising issues of displacement, lack of home-ownership opportunities, and troubling fair housing issues. A recent study of affordable homes in New York showed that [most affordable homes are purchased by cash buyers](https://www.crainsnewyork.com/real-estate/investors-purchased-majority-affordable-homes-2017?utm_medium=social&utm_source=twitter&utm_campaign=socialflow), making it that much more difficult for individuals and families to purchase a home.
+
+Known for [rent gouging](https://www.mercurynews.com/2018/05/31/major-california-landlord-accused-of-illegal-fee-gouging/) and investigated for [negligence](https://www.reuters.com/investigates/special-report/usa-housing-invitation/), Invitation is able to operate in the Sacramento market unfettered by any eviction or just cause protections or rent control laws. The California state law that is, in 2018, being challenged by Proposition 10, also protects single family homes from local rent control ordinances. [Blackstone spent over $6 million dollars against Proposition 10](https://theintercept.com/2018/10/12/prop-10-california-rent-control-wall-street/), much of it from investors, including [public pension funds.](https://www.theguardian.com/us-news/2018/oct/23/california-public-employees-unwittingly-fund-rent-control-fight) The Sacramento County Employees Retirement System is invested in Invitation Homes. As [noted in 2015](http://america.aljazeera.com/articles/2015/10/16/public-pensions-invest-big-in-blackstones-controversial-rental-properties.html), pension investment strategies such as these may undercut their own financial base.
+
+Invitation’s holdings bring profits to its executives and investors, raising rents at will and causing community instability. Under California’s Proposition 13, mergers and transfers such as the Colony Starwood sale to Blackstone/Invitation change actual ownership, but maintain tax rates at low foreclosure crisis prices. An random example on the map below below is a single family home on Sandylee Way, purchased in 2005 for $302,000. Foreclosed in 2012 by JP Morgan Chase, Invitation Homes acquired the home for $150,000 and bundled it in a security offered by Wells Fargo Bank in 2017. Sacramento County collects property taxes based on the 2012 purchase price, a value of less than half what it was in 2005, while Invitation keeps the house off of the market for other homeowners, destabilizing the community with rent hikes and turnover and depriving the County of assessment income.
+
+According to Sacramento County Court data, Invitation Homes filed at least 156 unlawful detainers (the last stage of an eviction) between 2015 and 2017. Invitation owns approximately 2000 properties in Sacramento County.
+
+[LINK TO MAP](https://ampitup.carto.com/builder/96859f31-2f8e-49d8-8bc4-468133e74eaa/embed)
+
+Sources: Sacramento Assessor and Tract level ACS census data
