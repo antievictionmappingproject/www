@@ -2,6 +2,30 @@ import { SAXParser } from "https://deno.land/x/xmlp/mod.ts";
 import { Machine, interpret, assign } from "https://cdn.pika.dev/xstate";
 import { slugify } from "https://deno.land/x/slugify/mod.ts";
 import { DOMParser } from "https://deno.land/x/deno_dom/deno-dom-wasm.ts";
+import { createRequire } from "https://deno.land/std/node/module.ts";
+
+function cleanAttribute(attribute) {
+  return attribute ? attribute.replace(/(\n+\s*)+/g, "\n") : "";
+}
+
+const require = createRequire(import.meta.url);
+const TurndownService = require("turndown");
+const turndownService = new TurndownService();
+turndownService
+  .remove("style")
+  .remove("script")
+  .remove("noscript")
+  .remove((node) => node.classList.contains("v6-visually-hidden"))
+  .addRule("imageLoader", {
+    filter: (node) => node.nodeName === "IMG" && node.getAttribute("data-src"),
+    replacement: (_, node) => {
+      var alt = cleanAttribute(node.getAttribute("alt"));
+      var src = node.getAttribute("data-src") || "";
+      var title = cleanAttribute(node.getAttribute("title"));
+      var titlePart = title ? ' "' + title + '"' : "";
+      return src ? "![" + alt + "]" + "(" + src + titlePart + ")" : "";
+    },
+  });
 
 await Deno.remove("posts", { recursive: true });
 await Deno.mkdir("posts", { recursive: true });
@@ -23,36 +47,38 @@ async function writePost(post) {
     date: date.split(" ").join("T"),
     title,
   });
-  const document = new DOMParser().parseFromString(
-    content.replaceAll("&nbsp;", ""),
-    "text/html"
-  );
-  document.querySelectorAll("script").forEach((node) => void node.remove());
-  document.querySelectorAll("style").forEach((node) => void node.remove());
-  document.querySelectorAll("noscript").forEach((node) => {
-    const child = document.createElement("div");
-    child.innerHTML = node.textContent;
-    node.parentElement.replaceChild(child, node);
-  });
-  [
-    ...document.querySelectorAll("p"),
-    ...document.querySelectorAll("span"),
-    ...document.querySelectorAll("blockquote"),
-  ].forEach((node) => {
-    if (node.textContent.trim() === "") {
-      node.remove();
-    }
-  });
-  document.querySelectorAll("[style]").forEach((node) => {
-    node.removeAttribute("style");
-  });
-  document.querySelectorAll("[data-html]").forEach((node) => {
-    node.innerHTML = node.getAttribute("data-html");
-    node.removeAttribute("data-html");
-  });
+  // const document = new DOMParser().parseFromString(
+  //   content.replaceAll("&nbsp;", ""),
+  //   "text/html"
+  // );
+  // document.querySelectorAll("script").forEach((node) => void node.remove());
+  // document.querySelectorAll("style").forEach((node) => void node.remove());
+  // document.querySelectorAll("noscript").forEach((node) => {
+  //   const child = document.createElement("div");
+  //   child.innerHTML = node.textContent;
+  //   node.parentElement.replaceChild(child, node);
+  // });
+  // [
+  //   ...document.querySelectorAll("p"),
+  //   ...document.querySelectorAll("span"),
+  //   ...document.querySelectorAll("blockquote"),
+  // ].forEach((node) => {
+  //   if (node.textContent.trim() === "") {
+  //     node.remove();
+  //   }
+  // });
+  // document.querySelectorAll("[style]").forEach((node) => {
+  //   node.removeAttribute("style");
+  // });
+  // document.querySelectorAll("[data-html]").forEach((node) => {
+  //   node.innerHTML = node.getAttribute("data-html");
+  //   node.removeAttribute("data-html");
+  // });
   return Deno.writeTextFile(
-    `posts/${slug}.html`,
-    `---json\n${frontmatter}\n---\n\n${document.body.innerHTML}`
+    `posts/${slug}.md`,
+    `---json\n${frontmatter}\n---\n\n${turndownService
+      .turndown(content)
+      .replaceAll("&nbsp;", " ")}`
   );
 }
 
