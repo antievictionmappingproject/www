@@ -2,6 +2,9 @@ import { SAXParser } from "https://deno.land/x/xmlp/mod.ts";
 import { Machine, interpret, assign } from "https://cdn.pika.dev/xstate";
 import { slugify } from "https://deno.land/x/slugify/mod.ts";
 import { createRequire } from "https://deno.land/std/node/module.ts";
+import * as path from "https://deno.land/x/std/path/mod.ts";
+
+const [inputFile, outputDir] = Deno.args;
 
 function cleanAttribute(attribute) {
   return attribute ? attribute.replace(/(\n+\s*)+/g, "\n") : "";
@@ -47,8 +50,7 @@ async function writePost(post) {
   const text = `---json\n${frontmatter}\n---\n\n${turndownService
     .turndown(content)
     .replaceAll("&nbsp;", " ")}`;
-  await Deno.writeTextFile(`posts/es/${slug}.md`, text);
-  await Deno.writeTextFile(`posts/en/${slug}.md`, text);
+  await Deno.writeTextFile(path.resolve(outputDir, `${slug}.md`), text);
 }
 
 const machine = Machine({
@@ -173,6 +175,6 @@ parser
     service.send({ type: "text", element, text });
   });
 
-const reader = await Deno.open(Deno.args[0]);
+const reader = await Deno.open(inputFile);
 await parser.parse(reader);
 reader.close();
