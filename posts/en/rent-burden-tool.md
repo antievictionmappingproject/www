@@ -1,5 +1,5 @@
 ---json
-{"layout":"layouts/default.njk","tags":["Tool","Affordability","San Francisco"],"date":"2015-09-24T18:20:00","title":"Rent Burden Tool, San Francisco"}
+{"layout":"layouts/default.njk","tags":["Tool","Affordability","San Francisco"],"date":"2015-09-24T18:20:00","title":"Rent Burden Tool, San Francisco","slug":"rent-burden-tool"}
 ---
 
 Map of Renter Burden in San Francisco

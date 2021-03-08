@@ -1,5 +1,5 @@
 ---json
-{"layout":"layouts/default.njk","tags":["Speculation","Evictions","Evictors","Ownership","San Francisco"],"date":"2015-01-02T04:40:00","title":"The Speculator Loophole"}
+{"layout":"layouts/default.njk","tags":["Speculation","Evictions","Evictors","Ownership","San Francisco"],"date":"2015-01-02T04:40:00","title":"The Speculator Loophole","slug":"the-speculator-loophole"}
 ---
 
 Report made on speculation in San Francisco, with Tenants Together

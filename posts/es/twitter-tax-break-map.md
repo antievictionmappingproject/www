@@ -1,5 +1,5 @@
 ---json
-{"layout":"layouts/default.njk","tags":["Tech","Evictions","Speculation","Development","Privatization","Transportation","San Francisco"],"date":"2016-03-28T17:40:00","title":"Twitter Tax Break Map"}
+{"layout":"layouts/default.njk","tags":["Tech","Evictions","Speculation","Development","Privatization","Transportation","San Francisco"],"date":"2016-03-28T17:40:00","title":"Twitter Tax Break Map","slug":"twitter-tax-break-map"}
 ---
 
 Map of Twitter’s impacts in the Twitter Tax Break Zone, San Francisco

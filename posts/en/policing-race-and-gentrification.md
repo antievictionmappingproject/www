@@ -1,5 +1,5 @@
 ---json
-{"layout":"layouts/default.njk","tags":["Policing","Race","San Francisco"],"date":"2017-01-21T19:19:00","title":"Policing, Race, and Gentrification"}
+{"layout":"layouts/default.njk","tags":["Policing","Race","San Francisco"],"date":"2017-01-21T19:19:00","title":"Policing, Race, and Gentrification","slug":"policing-race-and-gentrification"}
 ---
 
 Danger of Leading an Immoral Life, San Francisco, 2016

@@ -1,5 +1,5 @@
 ---json
-{"layout":"layouts/default.njk","tags":["Evictions","Narratives","San Francisco","Oakland","Bay Area"],"date":"2018-03-28T10:59:45","title":"The Anti-Eviction Mapping Project: Counter Mapping and Oral History toward Bay Area Housing Justice"}
+{"layout":"layouts/default.njk","tags":["Evictions","Narratives","San Francisco","Oakland","Bay Area"],"date":"2018-03-28T10:59:45","title":"The Anti-Eviction Mapping Project: Counter Mapping and Oral History toward Bay Area Housing Justice","slug":"the-anti-eviction-mapping-project-counter-mapping-and-oral-history-toward-bay-area-housing-justice"}
 ---
 
 _Article on the AEMP’s Countermapping and Narrative work by Manissa Maharawal and Erin McElroy_

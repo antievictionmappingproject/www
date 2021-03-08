@@ -1,5 +1,5 @@
 ---json
-{"layout":"layouts/default.njk","tags":["Tool","Affordability","Rent Control","Resistance","California","Sacramento","Los Angeles","Santa Cruz","Fremont"],"date":"2019-05-07T16:53:58","title":"California Rent Control Campaigns"}
+{"layout":"layouts/default.njk","tags":["Tool","Affordability","Rent Control","Resistance","California","Sacramento","Los Angeles","Santa Cruz","Fremont"],"date":"2019-05-07T16:53:58","title":"California Rent Control Campaigns","slug":"california-rent-control-campaigns"}
 ---
 
 California Rent Control Campaign Information

@@ -1,5 +1,5 @@
 ---json
-{"layout":"layouts/default.njk","tags":["Evictions","Speculation","San Francisco"],"date":"2020-10-26T17:44:00","title":"Ellis Act Evictions, San Francisco, 1994-2020"}
+{"layout":"layouts/default.njk","tags":["Evictions","Speculation","San Francisco"],"date":"2020-10-26T17:44:00","title":"Ellis Act Evictions, San Francisco, 1994-2020","slug":"ellis-act-evictions-sf"}
 ---
 
 Map of Ellis Act Evictions in San Francisco, 1994-2020

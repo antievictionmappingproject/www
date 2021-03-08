@@ -1,5 +1,5 @@
 ---json
-{"layout":"layouts/default.njk","tags":["Tech","Transportation","San Francisco","Bay Area"],"date":"2017-01-13T18:37:00","title":"Digerati Dorm/Tech Commune"}
+{"layout":"layouts/default.njk","tags":["Tech","Transportation","San Francisco","Bay Area"],"date":"2017-01-13T18:37:00","title":"Digerati Dorm/Tech Commune","slug":"digerati-dormtech-commune"}
 ---
 
 _All Bay Area tech dorms and bus stops_

@@ -1,5 +1,5 @@
 ---json
-{"layout":"layouts/default.njk","tags":["Evictors","Tech","Ownership","Evictions","Speculation","San Francisco"],"date":"2017-03-01T19:51:00","title":"Bay Area Evictor: Darren &amp; Valerie Lee"}
+{"layout":"layouts/default.njk","tags":["Evictors","Tech","Ownership","Evictions","Speculation","San Francisco"],"date":"2017-03-01T19:51:00","title":"Bay Area Evictor: Darren &amp; Valerie Lee","slug":"bay-area-evictor-darren-amp-valerie-lee"}
 ---
 
 **DARREN & VALERIE LEE**

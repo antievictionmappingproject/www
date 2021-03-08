@@ -1,5 +1,5 @@
 ---json
-{"layout":"layouts/default.njk","tags":["Evictions","Affordability","Tech","Rent Control","Los Angeles"],"date":"2019-02-17T18:22:00","title":"Los Angeles Homes To Gain Rent Control if Costa Hawkins is Repealed"}
+{"layout":"layouts/default.njk","tags":["Evictions","Affordability","Tech","Rent Control","Los Angeles"],"date":"2019-02-17T18:22:00","title":"Los Angeles Homes To Gain Rent Control if Costa Hawkins is Repealed","slug":"los-angeles-homes-to-gain-rent-control-if-costa-hawkins-is-repealed"}
 ---
 
 _Los Angeles Homes To Gain Rent Control if Costa Hawkins is Repealed._

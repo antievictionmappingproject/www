@@ -1,5 +1,5 @@
 ---json
-{"layout":"layouts/default.njk","tags":["Evictors","Tech","Evictions","Speculation","Ownership"],"date":"2019-02-17T23:11:09","title":"Bay Area Evictor: Karen Wickre and Gillian Gillett"}
+{"layout":"layouts/default.njk","tags":["Evictors","Tech","Evictions","Speculation","Ownership"],"date":"2019-02-17T23:11:09","title":"Bay Area Evictor: Karen Wickre and Gillian Gillett","slug":"bay-are-evictor-karen-wickre-and-gillian-gillett"}
 ---
 
 [![Screen Shot 2014-05-21 at 8.40.14 AM.png](https://images.squarespace-cdn.com/content/v1/52b7d7a6e4b0b3e376ac8ea2/1400687252081-B7BNTV749YHSV8WAHF9K/ke17ZwdGBToddI8pDm48kDxUZKIT1RWFN-iG4RjLE0BZw-zPPgdn4jUwVcJE1ZvWQUxwkmyExglNqGp0IvTJZUJFbgE-7XRK3dMEBRBhUpwiQ24w4VKCUMMtBHel_9SKqAd3QejD2Zzjtu1lpvfkn4xJpTzglJoXTxX9Gkn3HLg/Screen+Shot+2014-05-21+at+8.40.14+AM.png)](https://images.squarespace-cdn.com/content/v1/52b7d7a6e4b0b3e376ac8ea2/1400687252081-B7BNTV749YHSV8WAHF9K/ke17ZwdGBToddI8pDm48kDxUZKIT1RWFN-iG4RjLE0BZw-zPPgdn4jUwVcJE1ZvWQUxwkmyExglNqGp0IvTJZUJFbgE-7XRK3dMEBRBhUpwiQ24w4VKCUMMtBHel_9SKqAd3QejD2Zzjtu1lpvfkn4xJpTzglJoXTxX9Gkn3HLg/Screen+Shot+2014-05-21+at+8.40.14+AM.png) 

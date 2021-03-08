@@ -1,5 +1,5 @@
 ---json
-{"layout":"layouts/default.njk","tags":["Tech","Speculation","San Francisco"],"date":"2017-06-01T19:14:00","title":"Airbnb Actor: Vic Wang"}
+{"layout":"layouts/default.njk","tags":["Tech","Speculation","San Francisco"],"date":"2017-06-01T19:14:00","title":"Airbnb Actor: Vic Wang","slug":"airbnb-actor-vic-wang"}
 ---
 
 **VIC WANG**: The HackerHome Network

@@ -1,5 +1,5 @@
 ---json
-{"layout":"layouts/default.njk","tags":["Evictions","San Francisco"],"date":"2017-05-19T17:50:00","title":"San Francisco Buyouts"}
+{"layout":"layouts/default.njk","tags":["Evictions","San Francisco"],"date":"2017-05-19T17:50:00","title":"San Francisco Buyouts","slug":"san-francisco-buyouts"}
 ---
 
 Buyouts reported to the City of San Francisco, 2015-2017

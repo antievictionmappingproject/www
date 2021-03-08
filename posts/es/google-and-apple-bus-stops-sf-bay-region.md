@@ -1,5 +1,5 @@
 ---json
-{"layout":"layouts/default.njk","tags":["Tech","Development","Speculation","Privatization","Transportation","San Francisco","Oakland","San Jose","Bay Area","Berkeley"],"date":"2015-11-20T18:46:00","title":"Google and Apple Bus Stops, SF Bay Region"}
+{"layout":"layouts/default.njk","tags":["Tech","Development","Speculation","Privatization","Transportation","San Francisco","Oakland","San Jose","Bay Area","Berkeley"],"date":"2015-11-20T18:46:00","title":"Google and Apple Bus Stops, SF Bay Region","slug":"google-and-apple-bus-stops-sf-bay-region"}
 ---
 
 Map of Google Bus Stops, Bay Area

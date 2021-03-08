@@ -1,5 +1,5 @@
 ---json
-{"layout":"layouts/default.njk","tags":["Health","Race","Resistance","Relocation","Development","San Francisco"],"date":"2019-12-18T18:19:07","title":"Interview with Marie Harrison"}
+{"layout":"layouts/default.njk","tags":["Health","Race","Resistance","Relocation","Development","San Francisco"],"date":"2019-12-18T18:19:07","title":"Interview with Marie Harrison","slug":"interview-with-marie-harrison"}
 ---
 
 (Dis)location/Black Exodus

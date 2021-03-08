@@ -1,5 +1,5 @@
 ---json
-{"layout":"layouts/default.njk","tags":["Tech","Evictors","Evictions","Speculation","Ownership","San Francisco"],"date":"2019-02-17T01:56:53","title":"Bay Area Evictor: Chrisoph M. Moskalonek (with Debora Cohn)"}
+{"layout":"layouts/default.njk","tags":["Tech","Evictors","Evictions","Speculation","Ownership","San Francisco"],"date":"2019-02-17T01:56:53","title":"Bay Area Evictor: Chrisoph M. Moskalonek (with Debora Cohn)","slug":"christoph-m-moskalonek"}
 ---
 
 [![Screen Shot 2014-05-13 at 12.08.44 AM.png](https://images.squarespace-cdn.com/content/v1/52b7d7a6e4b0b3e376ac8ea2/1399964644092-IBTDMYPWIL2H7E0AI7MP/ke17ZwdGBToddI8pDm48kKlPKi_-I0j26hAz4kgJKNJZw-zPPgdn4jUwVcJE1ZvWEtT5uBSRWt4vQZAgTJucoTqqXjS3CfNDSuuf31e0tVH7sq212DC7rfN15hEck6jssy4xoofZef8bK2MGKZOiwmQ6l2WM7tn7mqHTODzkmeM/Screen+Shot+2014-05-13+at+12.08.44+AM.png)](https://images.squarespace-cdn.com/content/v1/52b7d7a6e4b0b3e376ac8ea2/1399964644092-IBTDMYPWIL2H7E0AI7MP/ke17ZwdGBToddI8pDm48kKlPKi_-I0j26hAz4kgJKNJZw-zPPgdn4jUwVcJE1ZvWEtT5uBSRWt4vQZAgTJucoTqqXjS3CfNDSuuf31e0tVH7sq212DC7rfN15hEck6jssy4xoofZef8bK2MGKZOiwmQ6l2WM7tn7mqHTODzkmeM/Screen+Shot+2014-05-13+at+12.08.44+AM.png) 

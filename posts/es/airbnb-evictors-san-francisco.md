@@ -1,5 +1,5 @@
 ---json
-{"layout":"layouts/default.njk","tags":["Tech","San Francisco"],"date":"2019-03-30T19:55:21","title":"Airbnb Evictors, San Francisco"}
+{"layout":"layouts/default.njk","tags":["Tech","San Francisco"],"date":"2019-03-30T19:55:21","title":"Airbnb Evictors, San Francisco","slug":"airbnb-evictors-san-francisco"}
 ---
 
 _Evictors in San Francisco who have used Airbnb and VRBO_

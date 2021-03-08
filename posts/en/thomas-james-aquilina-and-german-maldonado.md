@@ -1,5 +1,5 @@
 ---json
-{"layout":"layouts/default.njk","tags":["Evictors","Evictions","Ownership","San Francisco"],"date":"2019-02-16T23:23:01","title":"Bay Area Evictor: Thomas James Aquilina and German Maldonado"}
+{"layout":"layouts/default.njk","tags":["Evictors","Evictions","Ownership","San Francisco"],"date":"2019-02-16T23:23:01","title":"Bay Area Evictor: Thomas James Aquilina and German Maldonado","slug":"thomas-james-aquilina-and-german-maldonado"}
 ---
 
 [![poster desalojo-01.jpg](https://images.squarespace-cdn.com/content/v1/52b7d7a6e4b0b3e376ac8ea2/1408470818408-5OH4VKTQHWWIDLOCKQEZ/ke17ZwdGBToddI8pDm48kJanlAjKydPZDDRBEy8QTGN7gQa3H78H3Y0txjaiv_0fDoOvxcdMmMKkDsyUqMSsMWxHk725yiiHCCLfrh8O1z4YTzHvnKhyp6Da-NYroOW3ZGjoBKy3azqku80C789l0hveExjbswnAj1UrRPScjfAi-WHBb3R4axoAEB7lfybbrcBqLQ3Qt4YGS4XJxXD2Ag/poster+desalojo-01.jpg)](https://images.squarespace-cdn.com/content/v1/52b7d7a6e4b0b3e376ac8ea2/1408470818408-5OH4VKTQHWWIDLOCKQEZ/ke17ZwdGBToddI8pDm48kJanlAjKydPZDDRBEy8QTGN7gQa3H78H3Y0txjaiv_0fDoOvxcdMmMKkDsyUqMSsMWxHk725yiiHCCLfrh8O1z4YTzHvnKhyp6Da-NYroOW3ZGjoBKy3azqku80C789l0hveExjbswnAj1UrRPScjfAi-WHBb3R4axoAEB7lfybbrcBqLQ3Qt4YGS4XJxXD2Ag/poster+desalojo-01.jpg) 

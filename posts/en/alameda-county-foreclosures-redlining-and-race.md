@@ -1,5 +1,5 @@
 ---json
-{"layout":"layouts/default.njk","tags":["Foreclosure","Race","Oakland"],"date":"2016-12-20T20:14:00","title":"Foreclosures: Redlining and Race, Alameda County"}
+{"layout":"layouts/default.njk","tags":["Foreclosure","Race","Oakland"],"date":"2016-12-20T20:14:00","title":"Foreclosures: Redlining and Race, Alameda County","slug":"alameda-county-foreclosures-redlining-and-race"}
 ---
 
 Map correlating foreclosures, redlining, and race in Alameda County

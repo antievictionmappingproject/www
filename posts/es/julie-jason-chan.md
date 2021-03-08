@@ -1,5 +1,5 @@
 ---json
-{"layout":"layouts/default.njk","tags":["Evictions","Evictors","Speculation","Ownership","San Francisco"],"date":"2019-02-16T23:42:43","title":"Bay Area Evictor: Julie and Jason Chan"}
+{"layout":"layouts/default.njk","tags":["Evictions","Evictors","Speculation","Ownership","San Francisco"],"date":"2019-02-16T23:42:43","title":"Bay Area Evictor: Julie and Jason Chan","slug":"julie-jason-chan"}
 ---
 
 ![](https://images.squarespace-cdn.com/content/v1/52b7d7a6e4b0b3e376ac8ea2/1409009044595-BR3CWMY07932ATSJB96V/ke17ZwdGBToddI8pDm48kNKU_v8gJAcxDrmB-soKvj1Zw-zPPgdn4jUwVcJE1ZvWEtT5uBSRWt4vQZAgTJucoTqqXjS3CfNDSuuf31e0tVH7wdpQi_gwH_-rfgB8xc3aCDYU5QsKfHvKofLxtwAwA5XleA9PsoOHujT9UMkA80c/image-asset.jpeg)

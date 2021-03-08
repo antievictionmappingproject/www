@@ -1,5 +1,5 @@
 ---json
-{"layout":"layouts/default.njk","tags":["Narratives","Resistance","Race","Events","Evictions","Oakland"],"date":"2016-09-08T21:40:00","title":"Alameda County Videos"}
+{"layout":"layouts/default.njk","tags":["Narratives","Resistance","Race","Events","Evictions","Oakland"],"date":"2016-09-08T21:40:00","title":"Alameda County Videos","slug":"alameda-videos"}
 ---
 
 Narrative videos in Alameda County

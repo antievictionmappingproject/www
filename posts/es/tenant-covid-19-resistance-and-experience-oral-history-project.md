@@ -1,5 +1,5 @@
 ---json
-{"layout":"layouts/default.njk","tags":["Resistance","Narratives","Evictions","Global","Bay Area","Berkeley","California","City of Alameda","Fremont","Los Angeles","New York City","Oakland","Sacramento","San Francisco","San Jose","San Mateo","Santa Cruz"],"date":"2020-12-01T22:13:00","title":"Tenant COVID-19 Resistance and Experience Oral History Project // Como inquilino/a/x, ¿cómo le ha afectado la pandemia COVID-19 a su experiencia de vivienda?"}
+{"layout":"layouts/default.njk","tags":["Resistance","Narratives","Evictions","Global","Bay Area","Berkeley","California","City of Alameda","Fremont","Los Angeles","New York City","Oakland","Sacramento","San Francisco","San Jose","San Mateo","Santa Cruz"],"date":"2020-12-01T22:13:00","title":"Tenant COVID-19 Resistance and Experience Oral History Project // Como inquilino/a/x, ¿cómo le ha afectado la pandemia COVID-19 a su experiencia de vivienda?","slug":"tenant-covid-19-resistance-and-experience-oral-history-project"}
 ---
 
 ### **As a tenant, how has COVID-19 impacted your housing experience? Do you feel protected?**

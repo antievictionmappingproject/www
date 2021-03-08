@@ -1,5 +1,5 @@
 ---json
-{"layout":"layouts/default.njk","tags":["Evictions","Speculation","Resistance","Tech","Oakland","San Francisco","Bay Area"],"date":"2018-10-10T17:40:26","title":"The Digital Humanities, American Studies, and the Anti-Eviction Mapping Project"}
+{"layout":"layouts/default.njk","tags":["Evictions","Speculation","Resistance","Tech","Oakland","San Francisco","Bay Area"],"date":"2018-10-10T17:40:26","title":"The Digital Humanities, American Studies, and the Anti-Eviction Mapping Project","slug":"the-digital-humanities-american-studies-and-the-anti-eviction-mapping-project"}
 ---
 
 _American Quarterly article about the AEMP, the digital humanities, and American Studies, by Erin McElroy._

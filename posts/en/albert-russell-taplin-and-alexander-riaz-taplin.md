@@ -1,5 +1,5 @@
 ---json
-{"layout":"layouts/default.njk","tags":["Evictors","Evictions","Speculation","Ownership","Oakland","San Francisco","Bay Area"],"date":"2019-02-17T02:39:29","title":"Bay Area Evictor: Albert Russell Taplin and Alexander Riaz Taplin"}
+{"layout":"layouts/default.njk","tags":["Evictors","Evictions","Speculation","Ownership","Oakland","San Francisco","Bay Area"],"date":"2019-02-17T02:39:29","title":"Bay Area Evictor: Albert Russell Taplin and Alexander Riaz Taplin","slug":"albert-russell-taplin-and-alexander-riaz-taplin"}
 ---
 
 [![PastedGraphic-10.png](https://images.squarespace-cdn.com/content/v1/52b7d7a6e4b0b3e376ac8ea2/1472521658250-U2OOD8VDA7QLNIWKLLQC/ke17ZwdGBToddI8pDm48kNvA5MgqoW-G5xwSK-if0-1Zw-zPPgdn4jUwVcJE1ZvWhcwhEtWJXoshNdA9f1qD7esRAHmdXdveR1--lCDQNB6-cDfoOxL5dirzvxYrDudtkvKPFUoSR9FOW_49xhQZdA/PastedGraphic-10.png)](https://images.squarespace-cdn.com/content/v1/52b7d7a6e4b0b3e376ac8ea2/1472521658250-U2OOD8VDA7QLNIWKLLQC/ke17ZwdGBToddI8pDm48kNvA5MgqoW-G5xwSK-if0-1Zw-zPPgdn4jUwVcJE1ZvWhcwhEtWJXoshNdA9f1qD7esRAHmdXdveR1--lCDQNB6-cDfoOxL5dirzvxYrDudtkvKPFUoSR9FOW_49xhQZdA/PastedGraphic-10.png) 

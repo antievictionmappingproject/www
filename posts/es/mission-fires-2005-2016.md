@@ -1,5 +1,5 @@
 ---json
-{"layout":"layouts/default.njk","tags":["Health","San Francisco"],"date":"2016-04-24T17:53:00","title":"Mission Fires, 2005-2016"}
+{"layout":"layouts/default.njk","tags":["Health","San Francisco"],"date":"2016-04-24T17:53:00","title":"Mission Fires, 2005-2016","slug":"mission-fires-2005-2016"}
 ---
 
 Mission Fires, San Francisco

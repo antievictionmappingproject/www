@@ -1,5 +1,5 @@
 ---json
-{"layout":"layouts/default.njk","tags":["Yimby","Speculation","San Francisco"],"date":"2017-06-25T16:23:00","title":"Absentee Owners, San Francisco"}
+{"layout":"layouts/default.njk","tags":["Yimby","Speculation","San Francisco"],"date":"2017-06-25T16:23:00","title":"Absentee Owners, San Francisco","slug":"absentee-owners-san-francisco"}
 ---
 
 _Mapping absentee owners in new condos_

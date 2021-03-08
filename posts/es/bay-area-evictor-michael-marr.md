@@ -1,5 +1,5 @@
 ---json
-{"layout":"layouts/default.njk","tags":["Evictors","Banks","Speculation","Ownership","Oakland","Bay Area","Fremont","City of Alameda"],"date":"2019-07-18T18:57:00","title":"Bay Area Evictor: Michael Marr"}
+{"layout":"layouts/default.njk","tags":["Evictors","Banks","Speculation","Ownership","Oakland","Bay Area","Fremont","City of Alameda"],"date":"2019-07-18T18:57:00","title":"Bay Area Evictor: Michael Marr","slug":"bay-area-evictor-michael-marr"}
 ---
 
 Michael Marr / Community Fund LLC

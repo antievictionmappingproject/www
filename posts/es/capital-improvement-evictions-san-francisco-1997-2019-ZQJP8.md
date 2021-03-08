@@ -1,5 +1,5 @@
 ---json
-{"layout":"layouts/default.njk","tags":["Evictions","San Francisco"],"date":"2019-09-19T17:09:05","title":"Capital Improvement Evictions, San Francisco, 1997-2019"}
+{"layout":"layouts/default.njk","tags":["Evictions","San Francisco"],"date":"2019-09-19T17:09:05","title":"Capital Improvement Evictions, San Francisco, 1997-2019","slug":"capital-improvement-evictions-san-francisco-1997-2019-ZQJP8"}
 ---
 
 Capital Improvement Evictions mapped in San Francisco, 1997-2019

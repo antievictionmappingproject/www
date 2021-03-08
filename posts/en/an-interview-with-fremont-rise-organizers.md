@@ -1,5 +1,5 @@
 ---json
-{"layout":"layouts/default.njk","tags":["Narratives","Resistance","Race","Fremont"],"date":"2019-03-31T03:34:30","title":"Alameda County Narrative Video: An Interview with Fremont RISE Organizers"}
+{"layout":"layouts/default.njk","tags":["Narratives","Resistance","Race","Fremont"],"date":"2019-03-31T03:34:30","title":"Alameda County Narrative Video: An Interview with Fremont RISE Organizers","slug":"an-interview-with-fremont-rise-organizers"}
 ---
 
 In this short interview, two of Fremont RISE's organizers address the need for tenant protections in Fremont, what their organizing strategies look like, and how they define housing justice.

@@ -1,5 +1,5 @@
 ---json
-{"layout":"layouts/default.njk","tags":["Ownership","Speculation","Evictors","Evictions","San Francisco"],"date":"2019-02-17T01:53:22","title":"Bay Area Evictor: The Lembi Family"}
+{"layout":"layouts/default.njk","tags":["Ownership","Speculation","Evictors","Evictions","San Francisco"],"date":"2019-02-17T01:53:22","title":"Bay Area Evictor: The Lembi Family","slug":"lembi"}
 ---
 
 **THE LEMBI EMPIRE**

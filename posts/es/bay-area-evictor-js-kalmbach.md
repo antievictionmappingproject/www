@@ -1,5 +1,5 @@
 ---json
-{"layout":"layouts/default.njk","tags":["Evictors","Speculation","Ownership","Oakland"],"date":"2019-07-12T18:46:52","title":"Bay Area Evictor: JS Kalmbach"}
+{"layout":"layouts/default.njk","tags":["Evictors","Speculation","Ownership","Oakland"],"date":"2019-07-12T18:46:52","title":"Bay Area Evictor: JS Kalmbach","slug":"bay-area-evictor-js-kalmbach"}
 ---
 
 **JS Kalmbach**

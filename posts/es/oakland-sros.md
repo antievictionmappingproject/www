@@ -1,5 +1,5 @@
 ---json
-{"layout":"layouts/default.njk","tags":["Evictions","Evictors","Speculation","Oakland"],"date":"2017-12-23T19:27:55","title":"Oakland SROs"}
+{"layout":"layouts/default.njk","tags":["Evictions","Evictors","Speculation","Oakland"],"date":"2017-12-23T19:27:55","title":"Oakland SROs","slug":"oakland-sros"}
 ---
 
 Information on Oakland’s threatened and disappeared SRO hotels

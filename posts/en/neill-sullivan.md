@@ -1,5 +1,5 @@
 ---json
-{"layout":"layouts/default.njk","tags":["Speculation","Evictors","Evictions","Ownership","Oakland"],"date":"2019-02-17T02:23:49","title":"Bay Area Evictor: Neill Sullivan"}
+{"layout":"layouts/default.njk","tags":["Speculation","Evictors","Evictions","Ownership","Oakland"],"date":"2019-02-17T02:23:49","title":"Bay Area Evictor: Neill Sullivan","slug":"neill-sullivan"}
 ---
 
 Neill Sullivan / REO Homes

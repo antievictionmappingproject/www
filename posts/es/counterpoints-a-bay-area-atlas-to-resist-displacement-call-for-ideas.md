@@ -1,5 +1,5 @@
 ---json
-{"layout":"layouts/default.njk","tags":["Events","Narratives","Resistance","Indigenous","Policing","Transportation","Health","Relocation","Race","Speculation","Houseless","Bay Area"],"date":"2018-05-01T17:03:00","title":"Counterpoints: A San Francisco Bay Area Atlas for Resisting Displacement"}
+{"layout":"layouts/default.njk","tags":["Events","Narratives","Resistance","Indigenous","Policing","Transportation","Health","Relocation","Race","Speculation","Houseless","Bay Area"],"date":"2018-05-01T17:03:00","title":"Counterpoints: A San Francisco Bay Area Atlas for Resisting Displacement","slug":"counterpoints-a-bay-area-atlas-to-resist-displacement-call-for-ideas"}
 ---
 
 **Call for Ideas, Images and Maps: _Counterpoints, A Bay Area Atlas_ by the Anti-Eviction Mapping Project**

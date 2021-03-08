@@ -1,5 +1,5 @@
 ---json
-{"layout":"layouts/default.njk","tags":["Foreclosure","Speculation","Banks","Ownership","Privatization","California","Sacramento","Los Angeles","Oakland","Bay Area"],"date":"2019-05-10T19:43:00","title":"Wall Street Landlords, California"}
+{"layout":"layouts/default.njk","tags":["Foreclosure","Speculation","Banks","Ownership","Privatization","California","Sacramento","Los Angeles","Oakland","Bay Area"],"date":"2019-05-10T19:43:00","title":"Wall Street Landlords, California","slug":"wall-street-landlords-california"}
 ---
 
 Wall Street Landlords, California

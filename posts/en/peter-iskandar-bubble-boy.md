@@ -1,5 +1,5 @@
 ---json
-{"layout":"layouts/default.njk","tags":["Speculation","Evictors","Evictions","Ownership","Tech","San Francisco"],"date":"2019-02-17T01:20:22","title":"Bay Area Evictor: Peter Iskandar / Bubble Boy"}
+{"layout":"layouts/default.njk","tags":["Speculation","Evictors","Evictions","Ownership","Tech","San Francisco"],"date":"2019-02-17T01:20:22","title":"Bay Area Evictor: Peter Iskandar / Bubble Boy","slug":"peter-iskandar-bubble-boy"}
 ---
 
 [![BubbleIskander copy.jpeg](https://images.squarespace-cdn.com/content/v1/52b7d7a6e4b0b3e376ac8ea2/1412286355508-990D3VKFCHRC3RBKPQ1B/ke17ZwdGBToddI8pDm48kNnTBge4Cqbf0CHeyOlbDEBZw-zPPgdn4jUwVcJE1ZvWhcwhEtWJXoshNdA9f1qD7Xj1nVWs2aaTtWBneO2WM-t68JmFTiKHPvT-Un8KXAALmW_5Z8CKpZukhjUYF2S_Aw/BubbleIskander+copy.jpeg)](https://images.squarespace-cdn.com/content/v1/52b7d7a6e4b0b3e376ac8ea2/1412286355508-990D3VKFCHRC3RBKPQ1B/ke17ZwdGBToddI8pDm48kNnTBge4Cqbf0CHeyOlbDEBZw-zPPgdn4jUwVcJE1ZvWhcwhEtWJXoshNdA9f1qD7Xj1nVWs2aaTtWBneO2WM-t68JmFTiKHPvT-Un8KXAALmW_5Z8CKpZukhjUYF2S_Aw/BubbleIskander+copy.jpeg) 

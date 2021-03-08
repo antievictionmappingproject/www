@@ -1,5 +1,5 @@
 ---json
-{"layout":"layouts/default.njk","tags":["Tool","Resistance","Rent Control","New York City"],"date":"2019-05-07T16:46:41","title":"New York City Tenants Rights"}
+{"layout":"layouts/default.njk","tags":["Tool","Resistance","Rent Control","New York City"],"date":"2019-05-07T16:46:41","title":"New York City Tenants Rights","slug":"new-york-city-tenants-rights"}
 ---
 
 Learn about your rights as tenants, based out of our New York City Chapter

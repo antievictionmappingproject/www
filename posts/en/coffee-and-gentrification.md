@@ -1,5 +1,5 @@
 ---json
-{"layout":"layouts/default.njk","tags":["Affordability","Speculation","Development","San Francisco"],"date":"2015-11-05T17:26:00","title":"Coffee and Gentrification, 2010-2015"}
+{"layout":"layouts/default.njk","tags":["Affordability","Speculation","Development","San Francisco"],"date":"2015-11-05T17:26:00","title":"Coffee and Gentrification, 2010-2015","slug":"coffee-and-gentrification"}
 ---
 
 Map detailing the increase of coffee shops in gentrifying San Francisco, 2010-2015

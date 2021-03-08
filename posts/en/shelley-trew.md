@@ -1,5 +1,5 @@
 ---json
-{"layout":"layouts/default.njk","tags":["Speculation","Ownership","Evictors","Evictions","San Francisco"],"date":"2019-02-17T02:45:03","title":"Bay Area Evictor: Shelley Trew"}
+{"layout":"layouts/default.njk","tags":["Speculation","Ownership","Evictors","Evictions","San Francisco"],"date":"2019-02-17T02:45:03","title":"Bay Area Evictor: Shelley Trew","slug":"shelley-trew"}
 ---
 
 ![PastedGraphic-26.png](https://images.squarespace-cdn.com/content/v1/52b7d7a6e4b0b3e376ac8ea2/1472627363232-NM0R01O0KV65DSFO1LQA/ke17ZwdGBToddI8pDm48kCFulhhFv-wVCg7j8aN6I4ZZw-zPPgdn4jUwVcJE1ZvWQUxwkmyExglNqGp0IvTJZUJFbgE-7XRK3dMEBRBhUpzS0WO5kI999uyJFlI818ReYqwwRiYMCV_jpRwUWYkWibZZkcDDBbdZgPrxmt9Bm6k/PastedGraphic-26.png) 

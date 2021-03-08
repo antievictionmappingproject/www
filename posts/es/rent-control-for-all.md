@@ -1,5 +1,5 @@
 ---json
-{"layout":"layouts/default.njk","tags":["Evictions","Resistance","Tool","Rent Control","California","Berkeley","Los Angeles","San Francisco","Oakland","San Jose"],"date":"2019-02-18T14:19:00","title":"Rent Control For All, California"}
+{"layout":"layouts/default.njk","tags":["Evictions","Resistance","Tool","Rent Control","California","Berkeley","Los Angeles","San Francisco","Oakland","San Jose"],"date":"2019-02-18T14:19:00","title":"Rent Control For All, California","slug":"rent-control-for-all"}
 ---
 
 _Only 19 out of 482 cities in California protect tenants against rent hikes and arbitrary evictions. That means most of California’s tenants can be evicted for no reason at all, and can have their rents raised by any amount their landlord wants._ 

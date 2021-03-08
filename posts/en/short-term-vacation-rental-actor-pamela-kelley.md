@@ -1,5 +1,5 @@
 ---json
-{"layout":"layouts/default.njk","tags":["Tech","San Francisco"],"date":"2016-10-01T19:00:00","title":"Short Term Vacation Rental Actor: Pamela Kelley"}
+{"layout":"layouts/default.njk","tags":["Tech","San Francisco"],"date":"2016-10-01T19:00:00","title":"Short Term Vacation Rental Actor: Pamela Kelley","slug":"short-term-vacation-rental-actor-pamela-kelley"}
 ---
 
 **PAMELA KELLEY**

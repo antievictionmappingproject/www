@@ -1,5 +1,5 @@
 ---json
-{"layout":"layouts/default.njk","tags":["Evictions","Evictors","Ownership","Speculation","San Francisco"],"date":"2019-02-16T23:46:40","title":"Bay Area Evictor: W B Coyle"}
+{"layout":"layouts/default.njk","tags":["Evictions","Evictors","Ownership","Speculation","San Francisco"],"date":"2019-02-16T23:46:40","title":"Bay Area Evictor: W B Coyle","slug":"wb-coyle"}
 ---
 
 [![Screen Shot 2014-06-23 at 4.21.35 PM.png](https://images.squarespace-cdn.com/content/v1/52b7d7a6e4b0b3e376ac8ea2/1403565316035-3N8QK0CWYJDB551C8D5V/ke17ZwdGBToddI8pDm48kJ3EPFbbp5Am2rhDP3xHywBZw-zPPgdn4jUwVcJE1ZvWEtT5uBSRWt4vQZAgTJucoTqqXjS3CfNDSuuf31e0tVGFHBD0KZktlatCBM01I_PZCmJZSZgtRC9NHsAPV8w03h926scO3xePJoa6uVJa9B4/Screen+Shot+2014-06-23+at+4.21.35+PM.png)](https://images.squarespace-cdn.com/content/v1/52b7d7a6e4b0b3e376ac8ea2/1403565316035-3N8QK0CWYJDB551C8D5V/ke17ZwdGBToddI8pDm48kJ3EPFbbp5Am2rhDP3xHywBZw-zPPgdn4jUwVcJE1ZvWEtT5uBSRWt4vQZAgTJucoTqqXjS3CfNDSuuf31e0tVGFHBD0KZktlatCBM01I_PZCmJZSZgtRC9NHsAPV8w03h926scO3xePJoa6uVJa9B4/Screen+Shot+2014-06-23+at+4.21.35+PM.png) 

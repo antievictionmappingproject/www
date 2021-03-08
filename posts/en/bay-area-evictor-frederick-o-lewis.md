@@ -1,5 +1,5 @@
 ---json
-{"layout":"layouts/default.njk","tags":["Speculation","Evictors","Ownership","Oakland","Bay Area","Sacramento"],"date":"2019-07-12T18:44:23","title":"Bay Area Evictor: Frederick O. Lewis"}
+{"layout":"layouts/default.njk","tags":["Speculation","Evictors","Ownership","Oakland","Bay Area","Sacramento"],"date":"2019-07-12T18:44:23","title":"Bay Area Evictor: Frederick O. Lewis","slug":"bay-area-evictor-frederick-o-lewis"}
 ---
 
 Frederick O. Lewis / California Affordable Housing Group, LLC

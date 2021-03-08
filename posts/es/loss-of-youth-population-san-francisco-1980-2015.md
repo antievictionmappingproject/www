@@ -1,5 +1,5 @@
 ---json
-{"layout":"layouts/default.njk","tags":["Relocation","San Francisco","Bay Area","Oakland","City of Alameda","Fremont","Berkeley"],"date":"2015-10-27T17:06:00","title":"Loss of Youth Population, Bay Area, 1980-2015"}
+{"layout":"layouts/default.njk","tags":["Relocation","San Francisco","Bay Area","Oakland","City of Alameda","Fremont","Berkeley"],"date":"2015-10-27T17:06:00","title":"Loss of Youth Population, Bay Area, 1980-2015","slug":"loss-of-youth-population-san-francisco-1980-2015"}
 ---
 
 [Click to view Loss of Youth Population map](https://www.socialexplorer.com/f863155b52/view)

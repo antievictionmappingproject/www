@@ -1,5 +1,5 @@
 ---json
-{"layout":"layouts/default.njk","tags":["Narratives","Resistance","San Francisco"],"date":"2017-02-08T22:50:00","title":"Listen to the Silence 2017 - The LTS Dance Project"}
+{"layout":"layouts/default.njk","tags":["Narratives","Resistance","San Francisco"],"date":"2017-02-08T22:50:00","title":"Listen to the Silence 2017 - The LTS Dance Project","slug":"listen-to-the-silence-2017-the-lts-dance-project"}
 ---
 
 Listen to the Silence 2017 - The LTS Dance Project

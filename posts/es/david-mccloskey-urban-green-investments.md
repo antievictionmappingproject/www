@@ -1,5 +1,5 @@
 ---json
-{"layout":"layouts/default.njk","tags":["Speculation","Ownership","Evictors","Evictions","Oakland","San Francisco","Bay Area"],"date":"2019-02-18T02:07:00","title":"Bay Area Evictor: David McCloskey / Urban Green Investments"}
+{"layout":"layouts/default.njk","tags":["Speculation","Ownership","Evictors","Evictions","Oakland","San Francisco","Bay Area"],"date":"2019-02-18T02:07:00","title":"Bay Area Evictor: David McCloskey / Urban Green Investments","slug":"david-mccloskey-urban-green-investments"}
 ---
 
 URBAN GREEN INVESTMENTS, CEO: DAVID PALMER MCCLOSKEY

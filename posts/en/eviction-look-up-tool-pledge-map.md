@@ -1,5 +1,5 @@
 ---json
-{"layout":"layouts/default.njk","tags":["Tool","Evictors","Evictions","Resistance","San Francisco"],"date":"2019-03-04T18:12:12","title":"Eviction Look Up Tool / Pledge Map"}
+{"layout":"layouts/default.njk","tags":["Tool","Evictors","Evictions","Resistance","San Francisco"],"date":"2019-03-04T18:12:12","title":"Eviction Look Up Tool / Pledge Map","slug":"eviction-look-up-tool-pledge-map"}
 ---
 
 _Look up tool to determine in an address has had an eviction, Pledge to not rent or buy from that evictor_

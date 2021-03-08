@@ -1,5 +1,5 @@
 ---json
-{"layout":"layouts/default.njk","tags":["Rent Control","Evictions","Evictors","Oakland"],"date":"2019-07-13T00:21:42","title":"Oakland Rent Board Data"}
+{"layout":"layouts/default.njk","tags":["Rent Control","Evictions","Evictors","Oakland"],"date":"2019-07-13T00:21:42","title":"Oakland Rent Board Data","slug":"oakland-rent-board-data"}
 ---
 
 Oakland Rent Board Data

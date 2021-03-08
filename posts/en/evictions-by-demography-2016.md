@@ -1,5 +1,5 @@
 ---json
-{"layout":"layouts/default.njk","tags":["Evictions","Race","San Francisco"],"date":"2016-06-22T17:49:00","title":"Evictions by Demography, 2016"}
+{"layout":"layouts/default.njk","tags":["Evictions","Race","San Francisco"],"date":"2016-06-22T17:49:00","title":"Evictions by Demography, 2016","slug":"evictions-by-demography-2016"}
 ---
 
 Eviction by Demography, San Francisco, 2015

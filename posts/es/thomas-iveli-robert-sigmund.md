@@ -1,5 +1,5 @@
 ---json
-{"layout":"layouts/default.njk","tags":["Evictors","Evictions","Speculation","Ownership","San Francisco","New York City"],"date":"2019-02-17T01:28:21","title":"Bay Area Evictor: Thomas Iveli and Robert Sigmund"}
+{"layout":"layouts/default.njk","tags":["Evictors","Evictions","Speculation","Ownership","San Francisco","New York City"],"date":"2019-02-17T01:28:21","title":"Bay Area Evictor: Thomas Iveli and Robert Sigmund","slug":"thomas-iveli-robert-sigmund"}
 ---
 
 **THOMAS IVELI and BOB SIGMUND**

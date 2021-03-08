@@ -1,5 +1,5 @@
 ---json
-{"layout":"layouts/default.njk","tags":["Policing","Development","Speculation","San Francisco"],"date":"2019-03-31T05:33:22","title":"311 and Graffiti, San Francisco"}
+{"layout":"layouts/default.njk","tags":["Policing","Development","Speculation","San Francisco"],"date":"2019-03-31T05:33:22","title":"311 and Graffiti, San Francisco","slug":"311-and-graffiti-san-francisco"}
 ---
 
 Graffiti reported to San Francisco via 311

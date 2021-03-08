@@ -1,5 +1,5 @@
 ---json
-{"layout":"layouts/default.njk","tags":["Evictions","Narratives","Race","Resistance","Rent Control","San Jose","California"],"date":"2018-11-06T18:20:02","title":"San Jose Tenants For Rent Control"}
+{"layout":"layouts/default.njk","tags":["Evictions","Narratives","Race","Resistance","Rent Control","San Jose","California"],"date":"2018-11-06T18:20:02","title":"San Jose Tenants For Rent Control","slug":"san-jose-tenants-for-rent-control"}
 ---
 
 Yes On 10 - Repeal Costa Hawkins!

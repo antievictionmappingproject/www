@@ -1,5 +1,5 @@
 ---json
-{"layout":"layouts/default.njk","tags":["Evictions","California"],"date":"2018-06-01T21:04:14","title":"Unlawful Detainer Evictions in California"}
+{"layout":"layouts/default.njk","tags":["Evictions","California"],"date":"2018-06-01T21:04:14","title":"Unlawful Detainer Evictions in California","slug":"unlawful-detainer-evictions-in-california"}
 ---
 
 Unlawful Detainer Evictions in California, 2014-2016

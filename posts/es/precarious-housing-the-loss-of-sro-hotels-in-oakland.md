@@ -1,5 +1,5 @@
 ---json
-{"layout":"layouts/default.njk","tags":["Speculation","Evictions","Houseless","Evictors","Privatization","Oakland"],"date":"2017-09-24T17:18:00","title":"The Loss of SRO Hotels in Oakland and Increased Houselessness"}
+{"layout":"layouts/default.njk","tags":["Speculation","Evictions","Houseless","Evictors","Privatization","Oakland"],"date":"2017-09-24T17:18:00","title":"The Loss of SRO Hotels in Oakland and Increased Houselessness","slug":"precarious-housing-the-loss-of-sro-hotels-in-oakland"}
 ---
 
 _Loss of SRO Hotels in Oakland and increase in houselessness, mapped_

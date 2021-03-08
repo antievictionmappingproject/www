@@ -1,5 +1,5 @@
 ---json
-{"layout":"layouts/default.njk","tags":["Narratives","Evictions","Tech","Events","San Francisco"],"date":"2016-06-15T17:30:00","title":"Delta_Ark Projection"}
+{"layout":"layouts/default.njk","tags":["Narratives","Evictions","Tech","Events","San Francisco"],"date":"2016-06-15T17:30:00","title":"Delta_Ark Projection","slug":"saito-group-collaboration"}
 ---
 
 Projecting narrative work in collaboration with Delta\_Ark (formerly Saito Group)

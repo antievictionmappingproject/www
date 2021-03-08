@@ -1,5 +1,5 @@
 ---json
-{"layout":"layouts/default.njk","tags":["Evictors","Evictions","Speculation","Ownership","Oakland","Los Angeles","New York City","San Francisco","Bay Area"],"date":"2019-02-17T02:15:40","title":"Bay Area Evictor: Prana Investments"}
+{"layout":"layouts/default.njk","tags":["Evictors","Evictions","Speculation","Ownership","Oakland","Los Angeles","New York City","San Francisco","Bay Area"],"date":"2019-02-17T02:15:40","title":"Bay Area Evictor: Prana Investments","slug":"prana-investments"}
 ---
 
 [![PastedGraphic-19.png](https://images.squarespace-cdn.com/content/v1/52b7d7a6e4b0b3e376ac8ea2/1472543244024-YC2IJCDRCSLBPWJYKOPT/ke17ZwdGBToddI8pDm48kFkYTDftPVMjobuSeyZGKa1Zw-zPPgdn4jUwVcJE1ZvWQUxwkmyExglNqGp0IvTJZUJFbgE-7XRK3dMEBRBhUpyv7NmcNKQQJqp679BwoPZpY4YYBcU5nEkGFK_4llASWwN-GDiSaIUrWuh-TFZh2MU/PastedGraphic-19.png)](https://images.squarespace-cdn.com/content/v1/52b7d7a6e4b0b3e376ac8ea2/1472543244024-YC2IJCDRCSLBPWJYKOPT/ke17ZwdGBToddI8pDm48kFkYTDftPVMjobuSeyZGKa1Zw-zPPgdn4jUwVcJE1ZvWQUxwkmyExglNqGp0IvTJZUJFbgE-7XRK3dMEBRBhUpyv7NmcNKQQJqp679BwoPZpY4YYBcU5nEkGFK_4llASWwN-GDiSaIUrWuh-TFZh2MU/PastedGraphic-19.png) 

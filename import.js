@@ -1,7 +1,6 @@
 import { SAXParser } from "https://deno.land/x/xmlp/mod.ts";
 import { Machine, interpret, assign } from "https://cdn.pika.dev/xstate";
 import { slugify } from "https://deno.land/x/slugify/mod.ts";
-import { DOMParser } from "https://deno.land/x/deno_dom/deno-dom-wasm.ts";
 import { createRequire } from "https://deno.land/std/node/module.ts";
 
 function cleanAttribute(attribute) {
@@ -27,8 +26,8 @@ turndownService
     },
   });
 
-await Deno.remove("posts", { recursive: true });
-await Deno.mkdir("posts", { recursive: true });
+await Deno.mkdir("posts/en", { recursive: true });
+await Deno.mkdir("posts/es", { recursive: true });
 
 async function writePost(post) {
   const {
@@ -46,40 +45,13 @@ async function writePost(post) {
     tags: [...post_tag, ...category],
     date: date.split(" ").join("T"),
     title,
+    slug,
   });
-  // const document = new DOMParser().parseFromString(
-  //   content.replaceAll("&nbsp;", ""),
-  //   "text/html"
-  // );
-  // document.querySelectorAll("script").forEach((node) => void node.remove());
-  // document.querySelectorAll("style").forEach((node) => void node.remove());
-  // document.querySelectorAll("noscript").forEach((node) => {
-  //   const child = document.createElement("div");
-  //   child.innerHTML = node.textContent;
-  //   node.parentElement.replaceChild(child, node);
-  // });
-  // [
-  //   ...document.querySelectorAll("p"),
-  //   ...document.querySelectorAll("span"),
-  //   ...document.querySelectorAll("blockquote"),
-  // ].forEach((node) => {
-  //   if (node.textContent.trim() === "") {
-  //     node.remove();
-  //   }
-  // });
-  // document.querySelectorAll("[style]").forEach((node) => {
-  //   node.removeAttribute("style");
-  // });
-  // document.querySelectorAll("[data-html]").forEach((node) => {
-  //   node.innerHTML = node.getAttribute("data-html");
-  //   node.removeAttribute("data-html");
-  // });
-  return Deno.writeTextFile(
-    `posts/${slug}.md`,
-    `---json\n${frontmatter}\n---\n\n${turndownService
-      .turndown(content)
-      .replaceAll("&nbsp;", " ")}`
-  );
+  const text = `---json\n${frontmatter}\n---\n\n${turndownService
+    .turndown(content)
+    .replaceAll("&nbsp;", " ")}`;
+  await Deno.writeTextFile(`posts/es/${slug}.md`, text);
+  await Deno.writeTextFile(`posts/en/${slug}.md`, text);
 }
 
 const machine = Machine({

@@ -1,5 +1,5 @@
 ---json
-{"layout":"layouts/default.njk","tags":["Policing","Race","Oakland"],"date":"2020-06-08T20:44:25","title":"Killings by Police, Oakland, 1968-2020"}
+{"layout":"layouts/default.njk","tags":["Policing","Race","Oakland"],"date":"2020-06-08T20:44:25","title":"Killings by Police, Oakland, 1968-2020","slug":"killings-by-police-oakland-1968-2020"}
 ---
 
 Killings by Police, Oakland, 1968-2020

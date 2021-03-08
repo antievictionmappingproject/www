@@ -1,5 +1,5 @@
 ---json
-{"layout":"layouts/default.njk","tags":["Tool","Rent Control","California","Berkeley","Bay Area","Oakland","San Mateo","San Francisco","Los Angeles"],"date":"2019-05-07T16:50:36","title":"California Tenant Protections by City"}
+{"layout":"layouts/default.njk","tags":["Tool","Rent Control","California","Berkeley","Bay Area","Oakland","San Mateo","San Francisco","Los Angeles"],"date":"2019-05-07T16:50:36","title":"California Tenant Protections by City","slug":"california-tenant-protections-by-city"}
 ---
 
 California Tenant Protections by City

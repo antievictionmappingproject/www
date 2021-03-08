@@ -1,5 +1,5 @@
 ---json
-{"layout":"layouts/default.njk","tags":["Houseless","Policing","Los Angeles"],"date":"2019-11-17T13:03:00","title":"Services Not Sweeps"}
+{"layout":"layouts/default.njk","tags":["Houseless","Policing","Los Angeles"],"date":"2019-11-17T13:03:00","title":"Services Not Sweeps","slug":"services-not-sweeps"}
 ---
 
 We visualized where the city council’s recent proposed amendments would prohibit someone from sitting, sleeping, or lying in Los Angeles

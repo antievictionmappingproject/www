@@ -1,5 +1,5 @@
 ---json
-{"layout":"layouts/default.njk","tags":["Ownership","Banks","Bay Area","Oakland","San Francisco"],"date":"2019-11-02T10:20:29","title":"Mosser Properties Map, San Francisco and Oakland"}
+{"layout":"layouts/default.njk","tags":["Ownership","Banks","Bay Area","Oakland","San Francisco"],"date":"2019-11-02T10:20:29","title":"Mosser Properties Map, San Francisco and Oakland","slug":"mosser-properties-map-san-francisco-and-oakland"}
 ---
 
  Mosser Properties, 2020

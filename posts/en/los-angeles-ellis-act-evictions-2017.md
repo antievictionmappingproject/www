@@ -1,5 +1,5 @@
 ---json
-{"layout":"layouts/default.njk","tags":["Evictions","Speculation","Los Angeles"],"date":"2020-10-15T17:23:00","title":"Los Angeles Ellis Act Evictions"}
+{"layout":"layouts/default.njk","tags":["Evictions","Speculation","Los Angeles"],"date":"2020-10-15T17:23:00","title":"Los Angeles Ellis Act Evictions","slug":"los-angeles-ellis-act-evictions-2017"}
 ---
 
 _Mapping Ellis Act Evictions in Los Angeles, 2001-2020_

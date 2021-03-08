@@ -1,5 +1,5 @@
 ---json
-{"layout":"layouts/default.njk","tags":["Rent Control","Affordability","Bay Area","Berkeley","City of Alameda","Oakland","Fremont"],"date":"2017-04-02T00:27:00","title":"Alameda County Rental Changes"}
+{"layout":"layouts/default.njk","tags":["Rent Control","Affordability","Bay Area","Berkeley","City of Alameda","Oakland","Fremont"],"date":"2017-04-02T00:27:00","title":"Alameda County Rental Changes","slug":"alameda-county-rental-changes"}
 ---
 
 Alameda County Rental Changes

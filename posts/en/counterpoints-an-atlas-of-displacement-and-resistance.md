@@ -1,5 +1,5 @@
 ---json
-{"layout":"layouts/default.njk","tags":["Evictors","Evictions","Resistance","Tech","Speculation","Indigenous","Policing","Transportation","Rent Control","Relocation","Privatization","Ownership","Narratives","Affordability","Race","Foreclosure","Bay Area","Berkeley","City of Alameda","Fremont","Oakland","Sacramento","San Francisco","San Jose","San Mateo","Santa Cruz"],"date":"2020-10-28T18:56:00","title":"Counterpoints: An Atlas of Displacement and Resistance"}
+{"layout":"layouts/default.njk","tags":["Evictors","Evictions","Resistance","Tech","Speculation","Indigenous","Policing","Transportation","Rent Control","Relocation","Privatization","Ownership","Narratives","Affordability","Race","Foreclosure","Bay Area","Berkeley","City of Alameda","Fremont","Oakland","Sacramento","San Francisco","San Jose","San Mateo","Santa Cruz"],"date":"2020-10-28T18:56:00","title":"Counterpoints: An Atlas of Displacement and Resistance","slug":"counterpoints-an-atlas-of-displacement-and-resistance"}
 ---
 
 **Counterpoints: An Atlas of Displacement and Resistance**

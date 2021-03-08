@@ -1,5 +1,5 @@
 ---json
-{"layout":"layouts/default.njk","tags":["Indigenous","Development","Speculation","Race","Resistance","Evictions","Narratives","Relocation","Privatization","San Francisco"],"date":"2015-07-26T18:36:00","title":"Yerba Buena Island Timeline of Displacement and Development"}
+{"layout":"layouts/default.njk","tags":["Indigenous","Development","Speculation","Race","Resistance","Evictions","Narratives","Relocation","Privatization","San Francisco"],"date":"2015-07-26T18:36:00","title":"Yerba Buena Island Timeline of Displacement and Development","slug":"yerba-buena-island-timeline-of-displacement-and-development"}
 ---
 
 Interactive timeline of displacement on Yerba Buena Island, San Francisco

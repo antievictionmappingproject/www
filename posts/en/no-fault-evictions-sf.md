@@ -1,5 +1,5 @@
 ---json
-{"layout":"layouts/default.njk","tags":["Evictions","Speculation","San Francisco"],"date":"2016-09-23T17:45:00","title":"No-Fault Evictions, San Franicsco"}
+{"layout":"layouts/default.njk","tags":["Evictions","Speculation","San Francisco"],"date":"2016-09-23T17:45:00","title":"No-Fault Evictions, San Franicsco","slug":"no-fault-evictions-sf"}
 ---
 
 Map of No-Fault Evictions in San Francisco

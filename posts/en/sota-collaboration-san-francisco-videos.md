@@ -1,5 +1,5 @@
 ---json
-{"layout":"layouts/default.njk","tags":["Narratives","San Francisco"],"date":"2017-08-20T21:42:00","title":"SOTA Collaboration - San Francisco Videos"}
+{"layout":"layouts/default.njk","tags":["Narratives","San Francisco"],"date":"2017-08-20T21:42:00","title":"SOTA Collaboration - San Francisco Videos","slug":"sota-collaboration-san-francisco-videos"}
 ---
 
 Videos with tenants fighting eviction in San Francisco, made in collaboration with SOTA

@@ -1,5 +1,5 @@
 ---json
-{"layout":"layouts/default.njk","tags":["Evictions","Speculation"],"date":"2016-03-26T17:56:00","title":"Santa Monica Ellis Act Evictions, 2013-2015"}
+{"layout":"layouts/default.njk","tags":["Evictions","Speculation"],"date":"2016-03-26T17:56:00","title":"Santa Monica Ellis Act Evictions, 2013-2015","slug":"santa-monica-ellis-act-evictions-2013-2015"}
 ---
 
 Map of Ellis Act Evictions in Santa Monica

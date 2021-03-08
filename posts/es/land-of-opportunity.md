@@ -1,5 +1,5 @@
 ---json
-{"layout":"layouts/default.njk","tags":["Narratives","Evictions","Resistance","Tool","Speculation","Ownership","Race","San Francisco"],"date":"2015-05-07T21:52:00","title":"Land of Opportunity"}
+{"layout":"layouts/default.njk","tags":["Narratives","Evictions","Resistance","Tool","Speculation","Ownership","Race","San Francisco"],"date":"2015-05-07T21:52:00","title":"Land of Opportunity","slug":"land-of-opportunity"}
 ---
 
 Interactive video made with the Land of Opportunity, featuring Benito Santiago

@@ -1,5 +1,5 @@
 ---json
-{"layout":"layouts/default.njk","tags":["Banks","Speculation","Evictors","Resistance","Oakland"],"date":"2019-03-31T03:45:54","title":"Disrupting Displacement: Financing of Evictions in Oakland and Beyond"}
+{"layout":"layouts/default.njk","tags":["Banks","Speculation","Evictors","Resistance","Oakland"],"date":"2019-03-31T03:45:54","title":"Disrupting Displacement: Financing of Evictions in Oakland and Beyond","slug":"disrupting-displacement-financing-of-evictions-in-oakland-and-beyond"}
 ---
 
 Report with the California Reinvestment Coalition on the banks financing displacement in Oakland, 2018

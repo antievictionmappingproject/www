@@ -1,5 +1,5 @@
 ---json
-{"layout":"layouts/default.njk","tags":["Evictions","San Francisco"],"date":"2018-05-16T16:13:01","title":"San Francisco Eviction Data"}
+{"layout":"layouts/default.njk","tags":["Evictions","San Francisco"],"date":"2018-05-16T16:13:01","title":"San Francisco Eviction Data","slug":"san-francisco-eviction-data"}
 ---
 
 Analyze 20 years of San Francisco Eviction data here, with Nic Jay and the SF Rent Board

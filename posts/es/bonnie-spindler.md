@@ -1,5 +1,5 @@
 ---json
-{"layout":"layouts/default.njk","tags":["Evictors","Evictions","Speculation","Ownership","San Francisco"],"date":"2019-02-17T02:18:52","title":"Bay Area Evictor: Bonnie Spindler"}
+{"layout":"layouts/default.njk","tags":["Evictors","Evictions","Speculation","Ownership","San Francisco"],"date":"2019-02-17T02:18:52","title":"Bay Area Evictor: Bonnie Spindler","slug":"bonnie-spindler"}
 ---
 
 [![Screen Shot 2019-07-12 at 5.46.42 PM.png](https://images.squarespace-cdn.com/content/v1/52b7d7a6e4b0b3e376ac8ea2/1562978836525-ZIUEMVD7UEEMCPV3M9PS/ke17ZwdGBToddI8pDm48kM8OtLQjEqyBEalgNDUccnBZw-zPPgdn4jUwVcJE1ZvWEtT5uBSRWt4vQZAgTJucoTqqXjS3CfNDSuuf31e0tVFL404u7tNFgZeUKASYf6wEmZtjgAPPY7tJQ363isPau-87Nsj43NRAr6WuWZv5DKs/Screen+Shot+2019-07-12+at+5.46.42+PM.png)](https://images.squarespace-cdn.com/content/v1/52b7d7a6e4b0b3e376ac8ea2/1562978836525-ZIUEMVD7UEEMCPV3M9PS/ke17ZwdGBToddI8pDm48kM8OtLQjEqyBEalgNDUccnBZw-zPPgdn4jUwVcJE1ZvWEtT5uBSRWt4vQZAgTJucoTqqXjS3CfNDSuuf31e0tVFL404u7tNFgZeUKASYf6wEmZtjgAPPY7tJQ363isPau-87Nsj43NRAr6WuWZv5DKs/Screen+Shot+2019-07-12+at+5.46.42+PM.png) 

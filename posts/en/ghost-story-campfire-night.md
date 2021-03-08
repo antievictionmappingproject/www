@@ -1,5 +1,5 @@
 ---json
-{"layout":"layouts/default.njk","tags":["Narratives","Evictions","Events","Resistance","Indigenous","Race","San Francisco"],"date":"2016-06-30T22:03:00","title":"Ghost Story Campfire Night"}
+{"layout":"layouts/default.njk","tags":["Narratives","Evictions","Events","Resistance","Indigenous","Race","San Francisco"],"date":"2016-06-30T22:03:00","title":"Ghost Story Campfire Night","slug":"ghost-story-campfire-night"}
 ---
 
 Sharing horror stories of eviction, with Adriana Camarena and the Unsettlers Project

@@ -1,5 +1,5 @@
 ---json
-{"layout":"layouts/default.njk","tags":["Tech","Race","Yimby","Oakland","San Francisco"],"date":"2018-03-28T10:49:17","title":"The Racial Contours of YIMBY/NIMBY Bay Area Gentrification"}
+{"layout":"layouts/default.njk","tags":["Tech","Race","Yimby","Oakland","San Francisco"],"date":"2018-03-28T10:49:17","title":"The Racial Contours of YIMBY/NIMBY Bay Area Gentrification","slug":"the-racial-contours-of-yimbynimby-bay-area-gentrification"}
 ---
 
 In this article, Erin McElroy and Andrew Szeto trace the emergence of the false YIMBY/NIMBY dialectic now dominant in Bay Area housing justice discourse, studying its constitution and material effects.

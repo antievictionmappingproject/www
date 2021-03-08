@@ -1,5 +1,5 @@
 ---json
-{"layout":"layouts/default.njk","tags":["Evictors","Evictions","Race","Speculation","Ownership","San Francisco"],"date":"2019-02-17T02:09:59","title":"Bay Area Evictor: Matthew Miller"}
+{"layout":"layouts/default.njk","tags":["Evictors","Evictions","Race","Speculation","Ownership","San Francisco"],"date":"2019-02-17T02:09:59","title":"Bay Area Evictor: Matthew Miller","slug":"matthew-miller"}
 ---
 
 ![](https://images.squarespace-cdn.com/content/v1/52b7d7a6e4b0b3e376ac8ea2/1388680631784-AF78VGAA0PYKVRVPWXOJ/ke17ZwdGBToddI8pDm48kCA3OIBvOtoDVJVQedHsX1JZw-zPPgdn4jUwVcJE1ZvWEtT5uBSRWt4vQZAgTJucoTqqXjS3CfNDSuuf31e0tVGyt7caTAHM__qfIT6TS63kc4afZR8DQAVKsbl2Oy7Lm91lH3P2bFZvTItROhWrBJ0/Screen+Shot+2014-01-02+at+8.38.10+AM.png)

@@ -1,5 +1,5 @@
 ---json
-{"layout":"layouts/default.njk","tags":["Evictors","Evictions","Speculation","Ownership","Tech","San Francisco"],"date":"2019-02-17T00:14:32","title":"Bay Area Evictor: Ted Hulbush and Ron Jankov"}
+{"layout":"layouts/default.njk","tags":["Evictors","Evictions","Speculation","Ownership","Tech","San Francisco"],"date":"2019-02-17T00:14:32","title":"Bay Area Evictor: Ted Hulbush and Ron Jankov","slug":"ted-hulbush-ron-jankov"}
 ---
 
 [![ShakeDownJankov.jpeg](https://images.squarespace-cdn.com/content/v1/52b7d7a6e4b0b3e376ac8ea2/1403804424636-WL6FR5EAU9712UP9ME7T/ke17ZwdGBToddI8pDm48kNnTBge4Cqbf0CHeyOlbDEBZw-zPPgdn4jUwVcJE1ZvWhcwhEtWJXoshNdA9f1qD7Xj1nVWs2aaTtWBneO2WM-t68JmFTiKHPvT-Un8KXAALmW_5Z8CKpZukhjUYF2S_Aw/ShakeDownJankov.jpeg)](https://images.squarespace-cdn.com/content/v1/52b7d7a6e4b0b3e376ac8ea2/1403804424636-WL6FR5EAU9712UP9ME7T/ke17ZwdGBToddI8pDm48kNnTBge4Cqbf0CHeyOlbDEBZw-zPPgdn4jUwVcJE1ZvWhcwhEtWJXoshNdA9f1qD7Xj1nVWs2aaTtWBneO2WM-t68JmFTiKHPvT-Un8KXAALmW_5Z8CKpZukhjUYF2S_Aw/ShakeDownJankov.jpeg) 

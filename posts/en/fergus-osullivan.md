@@ -1,5 +1,5 @@
 ---json
-{"layout":"layouts/default.njk","tags":["Evictors","Evictions","Speculation","Ownership","Tech","Race","San Francisco"],"date":"2019-02-17T02:11:23","title":"Bay Area Evictor: Fergus O'Sullivan"}
+{"layout":"layouts/default.njk","tags":["Evictors","Evictions","Speculation","Ownership","Tech","Race","San Francisco"],"date":"2019-02-17T02:11:23","title":"Bay Area Evictor: Fergus O'Sullivan","slug":"fergus-osullivan"}
 ---
 
 [![Screen Shot 2014-07-03 at 10.51.54 AM.png](https://images.squarespace-cdn.com/content/v1/52b7d7a6e4b0b3e376ac8ea2/1404409746672-HGP855HBKSWGAH6ZP349/ke17ZwdGBToddI8pDm48kPVeySeouYd31am7kyKn0T9Zw-zPPgdn4jUwVcJE1ZvWQUxwkmyExglNqGp0IvTJZUJFbgE-7XRK3dMEBRBhUpxDnHbWfn5K-cGJdCjo9OhU6BJL2SnSp-y_cllc1iE33FetL4JAO3HPqz3m0JakoIo/Screen+Shot+2014-07-03+at+10.51.54+AM.png)](https://images.squarespace-cdn.com/content/v1/52b7d7a6e4b0b3e376ac8ea2/1404409746672-HGP855HBKSWGAH6ZP349/ke17ZwdGBToddI8pDm48kPVeySeouYd31am7kyKn0T9Zw-zPPgdn4jUwVcJE1ZvWQUxwkmyExglNqGp0IvTJZUJFbgE-7XRK3dMEBRBhUpxDnHbWfn5K-cGJdCjo9OhU6BJL2SnSp-y_cllc1iE33FetL4JAO3HPqz3m0JakoIo/Screen+Shot+2014-07-03+at+10.51.54+AM.png) 

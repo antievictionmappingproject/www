@@ -1,5 +1,5 @@
 ---json
-{"layout":"layouts/default.njk","tags":["Narratives","Evictions","Resistance","Foreclosure","Race","Evictors","Speculation","Ownership","Rent Control","Affordability","Oakland","City of Alameda","Fremont"],"date":"2016-09-23T18:09:00","title":"Counterpoints - Alameda County Report, 2016"}
+{"layout":"layouts/default.njk","tags":["Narratives","Evictions","Resistance","Foreclosure","Race","Evictors","Speculation","Ownership","Rent Control","Affordability","Oakland","City of Alameda","Fremont"],"date":"2016-09-23T18:09:00","title":"Counterpoints - Alameda County Report, 2016","slug":"counterpoints-alameda-count-report-2016"}
 ---
 
 Counterpoints: Stories and Data for Resisting Displacement in Alameda County

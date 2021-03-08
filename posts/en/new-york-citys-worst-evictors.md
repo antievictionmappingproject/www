@@ -1,5 +1,5 @@
 ---json
-{"layout":"layouts/default.njk","tags":["Evictors","Ownership","Speculation","New York City"],"date":"2020-05-07T16:42:00","title":"New York City's Worst Evictors"}
+{"layout":"layouts/default.njk","tags":["Evictors","Ownership","Speculation","New York City"],"date":"2020-05-07T16:42:00","title":"New York City's Worst Evictors","slug":"new-york-citys-worst-evictors"}
 ---
 
 AEMP NYC, in collaboration with Right to Counsel NYC Coalition and JustFixNYC, has released a Worst Evictors website that features a map of 2018 evictions in New York City, calls out NYC’s worst evictors in Right to Counsel zip codes, and includes a list of resources to help people fight evictions and learn their rights as tenants.

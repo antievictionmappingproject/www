@@ -1,5 +1,5 @@
 ---json
-{"layout":"layouts/default.njk","tags":["Evictors","Evictions","Speculation","Ownership","Bay Area","Oakland","San Jose","City of Alameda"],"date":"2019-02-17T02:21:28","title":"Bay Area Evictor: Sridhar Equities, LLC"}
+{"layout":"layouts/default.njk","tags":["Evictors","Evictions","Speculation","Ownership","Bay Area","Oakland","San Jose","City of Alameda"],"date":"2019-02-17T02:21:28","title":"Bay Area Evictor: Sridhar Equities, LLC","slug":"sridhar-equities-llc"}
 ---
 
 [![PastedGraphic-38.png](https://images.squarespace-cdn.com/content/v1/52b7d7a6e4b0b3e376ac8ea2/1473782999382-CN77R8EKEFPLJCSUH03A/ke17ZwdGBToddI8pDm48kNv69zXm_aMDOSwAXzCo9bpZw-zPPgdn4jUwVcJE1ZvWQUxwkmyExglNqGp0IvTJZUJFbgE-7XRK3dMEBRBhUpzDvSSkQk6sOm9Tt84fiNc3LVVtMYPDEA2ABRdIIW_rr6NCKJ62_wgrY0NnvYf40iI/PastedGraphic-38.png)](https://images.squarespace-cdn.com/content/v1/52b7d7a6e4b0b3e376ac8ea2/1473782999382-CN77R8EKEFPLJCSUH03A/ke17ZwdGBToddI8pDm48kNv69zXm_aMDOSwAXzCo9bpZw-zPPgdn4jUwVcJE1ZvWQUxwkmyExglNqGp0IvTJZUJFbgE-7XRK3dMEBRBhUpzDvSSkQk6sOm9Tt84fiNc3LVVtMYPDEA2ABRdIIW_rr6NCKJ62_wgrY0NnvYf40iI/PastedGraphic-38.png) 

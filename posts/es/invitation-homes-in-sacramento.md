@@ -1,5 +1,5 @@
 ---json
-{"layout":"layouts/default.njk","tags":["Speculation","Foreclosure","Banks","Ownership","Sacramento"],"date":"2019-02-18T00:36:00","title":"Invitation Homes in Sacramento"}
+{"layout":"layouts/default.njk","tags":["Speculation","Foreclosure","Banks","Ownership","Sacramento"],"date":"2019-02-18T00:36:00","title":"Invitation Homes in Sacramento","slug":"invitation-homes-in-sacramento"}
 ---
 
 Invitation Homes, Sacramento, 2018

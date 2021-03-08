@@ -1,5 +1,5 @@
 ---json
-{"layout":"layouts/default.njk","tags":["Evictors","Ownership","Tool","San Francisco"],"date":"2018-05-16T15:28:42","title":"San Francisco Corporate Owners"}
+{"layout":"layouts/default.njk","tags":["Evictors","Ownership","Tool","San Francisco"],"date":"2018-05-16T15:28:42","title":"San Francisco Corporate Owners","slug":"san-francisco-corporate-owners"}
 ---
 
 San Francisco Corporate Owners

@@ -1,5 +1,5 @@
 ---json
-{"layout":"layouts/default.njk","tags":["Evictors","Evictions","Speculation","Ownership","Race","San Francisco"],"date":"2019-02-17T01:13:33","title":"Bay Area Evictor: Robert Imhoff / Landmark Realty"}
+{"layout":"layouts/default.njk","tags":["Evictors","Evictions","Speculation","Ownership","Race","San Francisco"],"date":"2019-02-17T01:13:33","title":"Bay Area Evictor: Robert Imhoff / Landmark Realty","slug":"robert-imhoff-landmark-realty"}
 ---
 
 **Robert Arthur Imhoff and Landmark Realty**

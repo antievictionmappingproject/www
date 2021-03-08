@@ -1,5 +1,5 @@
 ---json
-{"layout":"layouts/default.njk","tags":["Yimby","Resistance","Development","Los Angeles"],"date":"2019-03-26T02:50:34","title":"Dropping the Hammer on YIMBYism"}
+{"layout":"layouts/default.njk","tags":["Yimby","Resistance","Development","Los Angeles"],"date":"2019-03-26T02:50:34","title":"Dropping the Hammer on YIMBYism","slug":"dropping-the-hammer-on-yimbyism"}
 ---
 
 _Article on the YIMBY movement_

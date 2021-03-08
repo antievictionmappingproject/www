@@ -1,5 +1,5 @@
 ---json
-{"layout":"layouts/default.njk","tags":["Evictors","Speculation","Ownership","Evictions","Tech","San Francisco"],"date":"2019-02-17T00:12:19","title":"Bay Area Evictors: The Harshawats"}
+{"layout":"layouts/default.njk","tags":["Evictors","Speculation","Ownership","Evictions","Tech","San Francisco"],"date":"2019-02-17T00:12:19","title":"Bay Area Evictors: The Harshawats","slug":"the-harshawats"}
 ---
 
 [![Paras-Harshawat-headshot.jpg](https://images.squarespace-cdn.com/content/v1/52b7d7a6e4b0b3e376ac8ea2/1441406733406-BPNAQ67I0IHW5L3OUJAD/ke17ZwdGBToddI8pDm48kDoFTwFMXpks5tt2o6Eay_ZZw-zPPgdn4jUwVcJE1ZvWEtT5uBSRWt4vQZAgTJucoTqqXjS3CfNDSuuf31e0tVF47tXfbNvZ3fQW-8k6wVE2WC46MMX4MRFN4yfr9U9Zxc_kyqp2YneDVyUqUK00EyI/Paras-Harshawat-headshot.jpg)](https://images.squarespace-cdn.com/content/v1/52b7d7a6e4b0b3e376ac8ea2/1441406733406-BPNAQ67I0IHW5L3OUJAD/ke17ZwdGBToddI8pDm48kDoFTwFMXpks5tt2o6Eay_ZZw-zPPgdn4jUwVcJE1ZvWEtT5uBSRWt4vQZAgTJucoTqqXjS3CfNDSuuf31e0tVF47tXfbNvZ3fQW-8k6wVE2WC46MMX4MRFN4yfr9U9Zxc_kyqp2YneDVyUqUK00EyI/Paras-Harshawat-headshot.jpg) 

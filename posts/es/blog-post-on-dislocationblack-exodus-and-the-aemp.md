@@ -1,5 +1,5 @@
 ---json
-{"layout":"layouts/default.njk","tags":["Race","Relocation","Evictions","Development","San Francisco"],"date":"2019-08-06T17:27:00","title":"Blog post in the Radical History Review on (Dis)location/Black Exodus and the AEMP"}
+{"layout":"layouts/default.njk","tags":["Race","Relocation","Evictions","Development","San Francisco"],"date":"2019-08-06T17:27:00","title":"Blog post in the Radical History Review on (Dis)location/Black Exodus and the AEMP","slug":"blog-post-on-dislocationblack-exodus-and-the-aemp"}
 ---
 
 By Ariana Faye Allensworth, Adrienne Hall, and Erin McElroy

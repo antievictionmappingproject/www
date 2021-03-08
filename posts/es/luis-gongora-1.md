@@ -1,5 +1,5 @@
 ---json
-{"layout":"layouts/default.njk","tags":["Policing","Narratives","Houseless","Indigenous","Health","San Francisco"],"date":"2016-04-10T18:57:00","title":"Murder of Luis Gongora Pat by the Police"}
+{"layout":"layouts/default.njk","tags":["Policing","Narratives","Houseless","Indigenous","Health","San Francisco"],"date":"2016-04-10T18:57:00","title":"Murder of Luis Gongora Pat by the Police","slug":"luis-gongora-1"}
 ---
 
 Story map detailing the murder of Luis Gongora Pat by the San Francisco Police Department

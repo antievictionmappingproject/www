@@ -1,5 +1,5 @@
 ---json
-{"layout":"layouts/default.njk","tags":["Tech","Evictors","Evictions","San Francisco"],"date":"2017-08-01T19:05:00","title":"Airbnb Actor: Daniel Leffler"}
+{"layout":"layouts/default.njk","tags":["Tech","Evictors","Evictions","San Francisco"],"date":"2017-08-01T19:05:00","title":"Airbnb Actor: Daniel Leffler","slug":"airbnb-actor-daniel-leffler"}
 ---
 
 After threatening them with eviction, Daniel from Washington DC bought out the tenants of 532-34 Shotwell Street.  According to neighbors, one family had resided in their home on Shotwell for many years.  

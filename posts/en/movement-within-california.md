@@ -1,5 +1,5 @@
 ---json
-{"layout":"layouts/default.njk","tags":["Relocation","California"],"date":"2017-01-24T18:00:00","title":"Movement within California"}
+{"layout":"layouts/default.njk","tags":["Relocation","California"],"date":"2017-01-24T18:00:00","title":"Movement within California","slug":"movement-within-california"}
 ---
 
 _Migration and relocation within California_

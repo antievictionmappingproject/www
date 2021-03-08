@@ -1,5 +1,5 @@
 ---json
-{"layout":"layouts/default.njk","tags":["Narratives","Evictions","Resistance","Evictors","Events","San Francisco"],"date":"2019-07-22T05:37:01","title":"We Are Here: Oral Histories San Francisco"}
+{"layout":"layouts/default.njk","tags":["Narratives","Evictions","Resistance","Evictors","Events","San Francisco"],"date":"2019-07-22T05:37:01","title":"We Are Here: Oral Histories San Francisco","slug":"we-are-here-oral-histories-san-francisco"}
 ---
 
 We Are Here: Oral Histories, San Francisco

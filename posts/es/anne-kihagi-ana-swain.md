@@ -1,5 +1,5 @@
 ---json
-{"layout":"layouts/default.njk","tags":["Evictors","Evictions","Speculation","Ownership","San Francisco"],"date":"2019-02-17T02:32:59","title":"Bay Area Evictor: Anne Kihagi / Ana Swain"}
+{"layout":"layouts/default.njk","tags":["Evictors","Evictions","Speculation","Ownership","San Francisco"],"date":"2019-02-17T02:32:59","title":"Bay Area Evictor: Anne Kihagi / Ana Swain","slug":"anne-kihagi-ana-swain"}
 ---
 
 [![Screen Shot 2015-05-21 at 10.48.27 AM.png](https://images.squarespace-cdn.com/content/v1/52b7d7a6e4b0b3e376ac8ea2/1432230596001-5XGASH5OKLY381T6MW33/ke17ZwdGBToddI8pDm48kGceNQcpyefk3dnhuluPptJZw-zPPgdn4jUwVcJE1ZvWhcwhEtWJXoshNdA9f1qD7R6SWOyAW0y1cpSTASaRj-xblCB_NGdxsIiNBnQacX4-OGGc2e4yAyqdUXAm4dAnNQ/Screen+Shot+2015-05-21+at+10.48.27+AM.png)](https://images.squarespace-cdn.com/content/v1/52b7d7a6e4b0b3e376ac8ea2/1432230596001-5XGASH5OKLY381T6MW33/ke17ZwdGBToddI8pDm48kGceNQcpyefk3dnhuluPptJZw-zPPgdn4jUwVcJE1ZvWhcwhEtWJXoshNdA9f1qD7R6SWOyAW0y1cpSTASaRj-xblCB_NGdxsIiNBnQacX4-OGGc2e4yAyqdUXAm4dAnNQ/Screen+Shot+2015-05-21+at+10.48.27+AM.png) 

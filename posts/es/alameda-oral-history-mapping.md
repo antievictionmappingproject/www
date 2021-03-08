@@ -1,5 +1,5 @@
 ---json
-{"layout":"layouts/default.njk","tags":["Narratives","Relocation","Health","Oakland","Fremont","City of Alameda"],"date":"2017-05-03T21:44:00","title":"Alameda Oral History Mapping"}
+{"layout":"layouts/default.njk","tags":["Narratives","Relocation","Health","Oakland","Fremont","City of Alameda"],"date":"2017-05-03T21:44:00","title":"Alameda Oral History Mapping","slug":"alameda-oral-history-mapping"}
 ---
 
 [Alameda Oral History Mapping](http://www.antievictionmappingproject.net/alamedanarratives.html)

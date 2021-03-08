@@ -1,5 +1,5 @@
 ---json
-{"layout":"layouts/default.njk","tags":["Evictions","Houseless","Relocation","San Francisco","Oakland","Bay Area"],"date":"2015-12-28T19:16:00","title":"Relocation Map"}
+{"layout":"layouts/default.njk","tags":["Evictions","Houseless","Relocation","San Francisco","Oakland","Bay Area"],"date":"2015-12-28T19:16:00","title":"Relocation Map","slug":"relocation-map"}
 ---
 
 _Map of relocation from and within San Francisco, 2016_

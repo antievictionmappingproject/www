@@ -1,5 +1,5 @@
 ---json
-{"layout":"layouts/default.njk","tags":["Evictors","Speculation","Ownership","Oakland","San Francisco"],"date":"2019-07-12T18:51:52","title":"Bay Area Evictor: The Talpins"}
+{"layout":"layouts/default.njk","tags":["Evictors","Speculation","Ownership","Oakland","San Francisco"],"date":"2019-07-12T18:51:52","title":"Bay Area Evictor: The Talpins","slug":"bay-area-evictor-the-talpins"}
 ---
 
 [![PastedGraphic-10.png](https://images.squarespace-cdn.com/content/v1/52b7d7a6e4b0b3e376ac8ea2/1472521658250-U2OOD8VDA7QLNIWKLLQC/ke17ZwdGBToddI8pDm48kNvA5MgqoW-G5xwSK-if0-1Zw-zPPgdn4jUwVcJE1ZvWhcwhEtWJXoshNdA9f1qD7esRAHmdXdveR1--lCDQNB6-cDfoOxL5dirzvxYrDudtkvKPFUoSR9FOW_49xhQZdA/PastedGraphic-10.png)](https://images.squarespace-cdn.com/content/v1/52b7d7a6e4b0b3e376ac8ea2/1472521658250-U2OOD8VDA7QLNIWKLLQC/ke17ZwdGBToddI8pDm48kNvA5MgqoW-G5xwSK-if0-1Zw-zPPgdn4jUwVcJE1ZvWhcwhEtWJXoshNdA9f1qD7esRAHmdXdveR1--lCDQNB6-cDfoOxL5dirzvxYrDudtkvKPFUoSR9FOW_49xhQZdA/PastedGraphic-10.png) 

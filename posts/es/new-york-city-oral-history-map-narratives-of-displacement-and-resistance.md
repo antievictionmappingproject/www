@@ -1,5 +1,5 @@
 ---json
-{"layout":"layouts/default.njk","tags":["Narratives","Resistance","Evictions","New York City"],"date":"2020-04-21T14:42:00","title":"New York City Narratives of Displacement and Resistance - Oral History Map"}
+{"layout":"layouts/default.njk","tags":["Narratives","Resistance","Evictions","New York City"],"date":"2020-04-21T14:42:00","title":"New York City Narratives of Displacement and Resistance - Oral History Map","slug":"new-york-city-oral-history-map-narratives-of-displacement-and-resistance"}
 ---
 
 Narratives of Displacement and Resistance, NYC

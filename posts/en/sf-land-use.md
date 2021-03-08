@@ -1,5 +1,5 @@
 ---json
-{"layout":"layouts/default.njk","tags":["Tool","San Francisco"],"date":"2016-05-09T18:41:00","title":"SF Land Use"}
+{"layout":"layouts/default.njk","tags":["Tool","San Francisco"],"date":"2016-05-09T18:41:00","title":"SF Land Use","slug":"sf-land-use"}
 ---
 
 Land use map, San Francisco

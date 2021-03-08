@@ -1,5 +1,5 @@
 ---json
-{"layout":"layouts/default.njk","tags":["Evictors","Evictions","Ownership","Speculation","Health","San Francisco"],"date":"2019-02-17T00:16:15","title":"Bay Area Evictor: The Hunts"}
+{"layout":"layouts/default.njk","tags":["Evictors","Evictions","Ownership","Speculation","Health","San Francisco"],"date":"2019-02-17T00:16:15","title":"Bay Area Evictor: The Hunts","slug":"the-hunts"}
 ---
 
 The Hunt Family:  Brian and Erica Hunt; Sam and Diana Hunt

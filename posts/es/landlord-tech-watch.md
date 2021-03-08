@@ -1,5 +1,5 @@
 ---json
-{"layout":"layouts/default.njk","tags":["Evictors","Tech","Bay Area","Berkeley","California","City of Alameda","Fremont","Los Angeles","New York City","Oakland","Sacramento","San Francisco","San Jose","Santa Cruz","San Mateo","Global"],"date":"2020-11-01T13:40:00","title":"Landlord Tech Watch"}
+{"layout":"layouts/default.njk","tags":["Evictors","Tech","Bay Area","Berkeley","California","City of Alameda","Fremont","Los Angeles","New York City","Oakland","Sacramento","San Francisco","San Jose","Santa Cruz","San Mateo","Global"],"date":"2020-11-01T13:40:00","title":"Landlord Tech Watch","slug":"landlord-tech-watch"}
 ---
 
 Landlord Tech Watch is a resource and crowdsourcing tool to fight landlord technologies in our homes and neighborhoods.

@@ -1,5 +1,5 @@
 ---json
-{"layout":"layouts/default.njk","tags":["Evictions","Tech","Transportation","San Francisco"],"date":"2015-09-25T17:44:00","title":"Tech Bus Stops and Evictions, San Francisco"}
+{"layout":"layouts/default.njk","tags":["Evictions","Tech","Transportation","San Francisco"],"date":"2015-09-25T17:44:00","title":"Tech Bus Stops and Evictions, San Francisco","slug":"tech-bus-stops-and-evictions-san-francisco"}
 ---
 
 Map showing correlation between tech bus stops and evictions in San Francisco
