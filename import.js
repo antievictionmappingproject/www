@@ -26,9 +26,6 @@ turndownService
     },
   });
 
-await Deno.mkdir("posts/en", { recursive: true });
-await Deno.mkdir("posts/es", { recursive: true });
-
 async function writePost(post) {
   const {
     "content:encoded": content,
