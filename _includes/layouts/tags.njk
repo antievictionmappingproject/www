@@ -18,3 +18,12 @@ permalink: /{{ locale }}/tags/{{ currentTag }}/
     {% endif %}
   {% endfor %}
 </ol>
+<ul>
+  {% for lang in site.languages %}
+    {% set translatedUrl = "/" + lang.code + page.internationalStem %}
+    {% set activeClass = "is-active" if lang.code == locale else "" %}
+    <li>
+      <a class="{{ activeClass }}" href="{{ translatedUrl }}">{{ lang.label }}</a>
+    </li>
+  {% endfor %}
+</ul>
