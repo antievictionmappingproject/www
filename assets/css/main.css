@@ -102,33 +102,43 @@ html {
   color: var(--dark-gray);
 }
 
+p,
+ul,
+ol {
+  margin: 0;
+}
+
 h1,
 h2,
 h3,
 h4,
 h5,
 h6 {
-  font-weight: 400;
+  font-weight: 500;
   color: var(--black);
   line-height: 1.2;
-  text-transform: uppercase;
-  letter-spacing: 0.05ch;
+  margin: 0;
 }
 
 h1 {
   font-size: var(--f5);
+  text-transform: uppercase;
+  letter-spacing: 0.02ch;
 }
 
 h2 {
   font-size: var(--f4);
+  letter-spacing: -0.02ch;
 }
 
 h3 {
   font-size: var(--f3);
+  letter-spacing: -0.02ch;
 }
 
 h4 {
   font-size: var(--f2);
+  letter-spacing: -0.01ch;
 }
 
 h5 {
@@ -137,4 +147,42 @@ h5 {
 
 h6 {
   font-size: var(--f0);
+  text-transform: uppercase;
+  letter-spacing: 0.02ch;
+}
+
+a {
+  color: var(--dark-blue);
+  text-decoration-color: var(--light-blue);
+}
+
+.unstyle {
+  font-size: inherit;
+  line-height: inherit;
+  color: inherit;
+  list-style: none;
+  border: none;
+  appearance: none;
+  margin: 0;
+  padding: 0;
+}
+
+.grid {
+  display: grid;
+}
+
+.section-wrapper {
+  max-width: 60rem;
+  margin: 0 auto;
+  padding: var(--s0);
+}
+
+.text-stack > * + * {
+  display: flex;
+  flex-direction: column;
+  margin-top: var(--s0);
+}
+
+.text-stack > p {
+  max-width: 60ch;
 }

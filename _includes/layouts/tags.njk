@@ -6,7 +6,7 @@ pagination:
   alias: currentTag
 permalink: /{{ locale }}/tags/{{ currentTag }}/
 ---
-<ul>
+<ul class="unstyle grid" style="grid-template-columns: repeat(auto-fill, minmax(8rem, 1fr));">
   {% for tag, _ in collections %}
     <li><a href="/{{locale}}/tags/{{ tag }}">{{ tag }}</a></li>
   {% endfor %}
