@@ -1,5 +1,5 @@
 ---json
-{"layout":"layouts/default.njk","tags":["Houseless","San Francisco","Bay Area"],"date":"2016-12-13T20:16:00","title":"Homelessness and Gentrification","slug":"homelessness-in-sf"}
+{"tags":["Houseless","San Francisco","Bay Area"],"date":"2016-12-13T20:16:00","title":"Homelessness and Gentrification"}
 ---
 
 Mapping Homelessness and Gentrification in San Francisco

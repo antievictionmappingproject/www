@@ -1,5 +1,5 @@
 ---json
-{"layout":"layouts/default.njk","tags":["Affordability","Tool","California"],"date":"2019-02-26T23:12:31","title":"Rent Burden, California","slug":"over-50-spent-on-rent-california"}
+{"tags":["Affordability","Tool","California"],"date":"2019-02-26T23:12:31","title":"Rent Burden, California"}
 ---
 
 _Households that have spent at least 50% on rent in California; Data from 2015_

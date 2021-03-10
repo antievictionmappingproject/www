@@ -1,5 +1,5 @@
 ---json
-{"layout":"layouts/default.njk","tags":["Speculation","Ownership","Los Angeles"],"date":"2019-02-18T22:06:00","title":"Corporate Landlords in Unincorporated Areas, Los Angeles","slug":"corporate-landlords-in-unincorporated-areas-los-angleles"}
+{"tags":["Speculation","Ownership","Los Angeles"],"date":"2019-02-18T22:06:00","title":"Corporate Landlords in Unincorporated Areas, Los Angeles"}
 ---
 
 _Corporate Landlords in Unincorporated Areas, Los Angeles, 2018_

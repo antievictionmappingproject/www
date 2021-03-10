@@ -1,5 +1,5 @@
 ---json
-{"layout":"layouts/default.njk","tags":["Ownership","Speculation","Evictions","Banks","Evictors","San Francisco"],"date":"2019-05-16T22:26:00","title":"Bay Area Evictor: Veritas / Yat-Pang Au","slug":"veritas"}
+{"tags":["Ownership","Speculation","Evictions","Banks","Evictors","San Francisco"],"date":"2019-05-16T22:26:00","title":"Bay Area Evictor: Veritas / Yat-Pang Au"}
 ---
 
 Veritas / Yat-Pang Au / GreenTree

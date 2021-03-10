@@ -1,5 +1,5 @@
 ---json
-{"layout":"layouts/default.njk","tags":["Evictors","Ownership","Speculation","Evictions","San Francisco"],"date":"2019-02-16T23:30:37","title":"Bay Area Evictor: Paul and Peter Berger","slug":"paul-and-peter-berger"}
+{"tags":["Evictors","Ownership","Speculation","Evictions","San Francisco"],"date":"2019-02-16T23:30:37","title":"Bay Area Evictor: Paul and Peter Berger"}
 ---
 
 [![Screen Shot 2014-05-08 at 1.39.33 PM.png](https://images.squarespace-cdn.com/content/v1/52b7d7a6e4b0b3e376ac8ea2/1399581296734-XGL1I1DWIZLLZE5XKK1N/ke17ZwdGBToddI8pDm48kHRltxG61U43coaVju_uYmJZw-zPPgdn4jUwVcJE1ZvWQUxwkmyExglNqGp0IvTJZUJFbgE-7XRK3dMEBRBhUpzUSJ509YX7W7F94HycUJzTY8iZ0P3LiyA1N4xnhhtDiaGN69eo_rPyxf0Bdy3eavc/Screen+Shot+2014-05-08+at+1.39.33+PM.png)](https://images.squarespace-cdn.com/content/v1/52b7d7a6e4b0b3e376ac8ea2/1399581296734-XGL1I1DWIZLLZE5XKK1N/ke17ZwdGBToddI8pDm48kHRltxG61U43coaVju_uYmJZw-zPPgdn4jUwVcJE1ZvWQUxwkmyExglNqGp0IvTJZUJFbgE-7XRK3dMEBRBhUpzUSJ509YX7W7F94HycUJzTY8iZ0P3LiyA1N4xnhhtDiaGN69eo_rPyxf0Bdy3eavc/Screen+Shot+2014-05-08+at+1.39.33+PM.png) 

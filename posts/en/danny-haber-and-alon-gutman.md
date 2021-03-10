@@ -1,5 +1,5 @@
 ---json
-{"layout":"layouts/default.njk","tags":["Evictors","Evictions","Speculation","Ownership","Tech","Oakland","San Francisco"],"date":"2019-02-17T00:01:49","title":"Bay Area Evictor: Danny Haber and Alon Gutman","slug":"danny-haber-and-alon-gutman"}
+{"tags":["Evictors","Evictions","Speculation","Ownership","Tech","Oakland","San Francisco"],"date":"2019-02-17T00:01:49","title":"Bay Area Evictor: Danny Haber and Alon Gutman"}
 ---
 
 **Danny Haber and Alon Gutman: Housing Disruptors**

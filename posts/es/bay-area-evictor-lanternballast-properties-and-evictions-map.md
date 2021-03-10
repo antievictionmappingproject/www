@@ -1,5 +1,5 @@
 ---json
-{"layout":"layouts/default.njk","tags":["Evictors","Evictions","Ownership","Banks","San Francisco"],"date":"2019-11-02T10:23:59","title":"Bay Area Evictor: Lantern/Ballast Properties and Evictions Map","slug":"bay-area-evictor-lanternballast-properties-and-evictions-map"}
+{"tags":["Evictors","Evictions","Ownership","Banks","San Francisco"],"date":"2019-11-02T10:23:59","title":"Bay Area Evictor: Lantern/Ballast Properties and Evictions Map"}
 ---
 
 Lantern/Ballast Properties and Evictions and Properties in San Francisco, 2020

@@ -1,5 +1,5 @@
 ---json
-{"layout":"layouts/default.njk","tags":["Evictors","Speculation","Ownership","Evictions","San Francisco"],"date":"2019-02-17T23:18:20","title":"Bay Area Evictor: Kwok Chung Wong and Luk Har Kwan","slug":"bay-area-evictor-kwok-chung-wong-and-luk-har-kwan"}
+{"tags":["Evictors","Speculation","Ownership","Evictions","San Francisco"],"date":"2019-02-17T23:18:20","title":"Bay Area Evictor: Kwok Chung Wong and Luk Har Kwan"}
 ---
 
 KWONG CHUNG WONG & LUK HAR KWAN

@@ -1,5 +1,5 @@
 ---json
-{"layout":"layouts/default.njk","tags":["Banks","Speculation","Ownership","Evictors","Events","Evictions","San Francisco","Oakland"],"date":"2019-04-01T05:09:35","title":"Urban Green Chain of Connections","slug":"urban-green-chain-of-connections"}
+{"tags":["Banks","Speculation","Ownership","Evictors","Events","Evictions","San Francisco","Oakland"],"date":"2019-04-01T05:09:35","title":"Urban Green Chain of Connections"}
 ---
 
 Urban Green Web of Connections 

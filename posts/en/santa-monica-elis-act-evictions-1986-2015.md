@@ -1,5 +1,5 @@
 ---json
-{"layout":"layouts/default.njk","tags":["Evictions","Speculation"],"date":"2018-12-31T18:55:00","title":"Santa Monica Elis Act Evictions","slug":"santa-monica-elis-act-evictions-1986-2015"}
+{"tags":["Evictions","Speculation"],"date":"2018-12-31T18:55:00","title":"Santa Monica Elis Act Evictions"}
 ---
 
 Mapping Ellis Act Evictions in Santa Monica, 1986-2018

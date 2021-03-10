@@ -1,5 +1,5 @@
 ---json
-{"layout":"layouts/default.njk","tags":["Evictors","Ownership","Tech","Speculation","Oakland"],"date":"2019-07-12T18:35:50","title":"Bay Area Evictor: Seth Jacobson","slug":"bay-area-evictor-seth-jacobson"}
+{"tags":["Evictors","Ownership","Tech","Speculation","Oakland"],"date":"2019-07-12T18:35:50","title":"Bay Area Evictor: Seth Jacobson"}
 ---
 
 Michael Marr / Community Fund LLC

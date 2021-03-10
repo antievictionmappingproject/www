@@ -1,5 +1,5 @@
 ---json
-{"layout":"layouts/default.njk","tags":["Evictions","San Francisco"],"date":"2017-06-07T17:43:00","title":"Owner Move-In Evictions, San Francisco","slug":"owner-move-in-evictions-san-francisco"}
+{"tags":["Evictions","San Francisco"],"date":"2017-06-07T17:43:00","title":"Owner Move-In Evictions, San Francisco"}
 ---
 
 San Francisco Owner-Move-In Evictions mapped

@@ -1,5 +1,5 @@
 ---json
-{"layout":"layouts/default.njk","tags":["Events","Race","Evictions","Resistance","Bay Area","Oakland","San Mateo","San Jose"],"date":"2020-10-08T00:21:03","title":"Tenants Rise Up! Viewing Party &amp; Panel Discussion","slug":"tenants-rise-up-viewing-party-amp-panel-discussion"}
+{"tags":["Events","Race","Evictions","Resistance","Bay Area","Oakland","San Mateo","San Jose"],"date":"2020-10-08T00:21:03","title":"Tenants Rise Up! Viewing Party &amp; Panel Discussion"}
 ---
 
 Tenants Rise Up! Viewing Party & Panel Discussion

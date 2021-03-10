@@ -1,5 +1,5 @@
 ---json
-{"layout":"layouts/default.njk","tags":["Evictions","Resistance","Race","San Francisco"],"date":"2016-09-24T17:03:00","title":"Eviction Defense Collaborative report, 2016","slug":"eviction-defense-collaborative-report-2016"}
+{"tags":["Evictions","Resistance","Race","San Francisco"],"date":"2016-09-24T17:03:00","title":"Eviction Defense Collaborative report, 2016"}
 ---
 
 City of Change: Fighting for San Francisco’s Vanishing Communities

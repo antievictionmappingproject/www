@@ -1,5 +1,5 @@
 ---json
-{"layout":"layouts/default.njk","tags":["Tool","Resistance","Speculation","San Francisco"],"date":"2021-01-03T16:32:48","title":"Evictor Structures","slug":"evictor-structures"}
+{"tags":["Tool","Resistance","Speculation","San Francisco"],"date":"2021-01-03T16:32:48","title":"Evictor Structures"}
 ---
 
 Evictor Structures: Erin McElroy and Azad Amir-Ghassemi on Fighting Displacement in Logic Magazine

@@ -1,0 +1,20 @@
+---
+layouts: layouts/default.njk
+pagination:
+  data: collections
+  size: 1
+  alias: currentTag
+permalink: /{{ locale }}/tags/{{ currentTag }}/
+---
+<ul>
+  {% for tag, _ in collections %}
+    <li><a href="/{{locale}}/tags/{{ tag }}">{{ tag }}</a></li>
+  {% endfor %}
+</ul>
+<ol>
+  {% for post in collections[ currentTag ] %}
+    {% if post.data.locale == locale %}
+      <li><a href="{{ post.url | url }}">{{ post.data.title }}</a></li>
+    {% endif %}
+  {% endfor %}
+</ol>

@@ -1,5 +1,5 @@
 ---json
-{"layout":"layouts/default.njk","tags":["Evictors","Evictions","Speculation","Ownership","San Francisco"],"date":"2019-02-16T23:59:18","title":"Bay Area Evictor: Ashok Gujral and Todd Rhodes","slug":"ashok-gujral-and-todd-rhodes"}
+{"tags":["Evictors","Evictions","Speculation","Ownership","San Francisco"],"date":"2019-02-16T23:59:18","title":"Bay Area Evictor: Ashok Gujral and Todd Rhodes"}
 ---
 
 ![](https://images.squarespace-cdn.com/content/v1/52b7d7a6e4b0b3e376ac8ea2/1388620633120-8EDF1NVF98NDEHX5U2VT/ke17ZwdGBToddI8pDm48kLl76CqolYQpYCK1tQUkpCVZw-zPPgdn4jUwVcJE1ZvWQUxwkmyExglNqGp0IvTJZUJFbgE-7XRK3dMEBRBhUpzq3NVIIp6jYqnwxy-xF8aVXRy_AJKc5toB5m-gAPM7p7ivWsEabuWKGrHqsHOeNt4/image-asset.jpeg)

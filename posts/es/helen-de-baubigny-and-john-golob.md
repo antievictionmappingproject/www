@@ -1,5 +1,5 @@
 ---json
-{"layout":"layouts/default.njk","tags":["Evictors","Speculation","Ownership","Tech","Evictions","San Francisco"],"date":"2019-02-16T23:34:31","title":"Bay Area Evictor: Helen  De Baubigny and John Golob","slug":"helen-de-baubigny-and-john-golob"}
+{"tags":["Evictors","Speculation","Ownership","Tech","Evictions","San Francisco"],"date":"2019-02-16T23:34:31","title":"Bay Area Evictor: Helen  De Baubigny and John Golob"}
 ---
 
 **HELENE  DE BAUBIGNY & JOHN  GOLOB**

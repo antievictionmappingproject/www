@@ -1,5 +1,5 @@
 ---json
-{"layout":"layouts/default.njk","tags":["Events","Resistance","San Francisco"],"date":"2016-06-22T23:14:50","title":"Making a Community Power Map with Mission Youth at 7 Teepees!","slug":"making-a-community-power-map-with-mission-youth-at-7-teepees"}
+{"tags":["Events","Resistance","San Francisco"],"date":"2016-06-22T23:14:50","title":"Making a Community Power Map with Mission Youth at 7 Teepees!"}
 ---
 
 Making a Community Power Map with Mission Youth at 7 Teepees! 

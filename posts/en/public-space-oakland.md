@@ -1,5 +1,5 @@
 ---json
-{"layout":"layouts/default.njk","tags":["Privatization","Speculation","Development","Policing","Transportation","Oakland"],"date":"2017-09-28T18:14:00","title":"Public Space, Oakland","slug":"public-space-oakland"}
+{"tags":["Privatization","Speculation","Development","Policing","Transportation","Oakland"],"date":"2017-09-28T18:14:00","title":"Public Space, Oakland"}
 ---
 
 Privatization and Loss of Public Space in Oakland

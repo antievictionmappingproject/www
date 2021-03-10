@@ -1,5 +1,5 @@
 ---json
-{"layout":"layouts/default.njk","tags":["Tech","Speculation","San Francisco"],"date":"2017-09-01T19:11:00","title":"VRBO Actor: Charles W. &amp; Sharon F. Manning","slug":"vrbo-actor-charles-w-amp-sharon-f-manning"}
+{"tags":["Tech","Speculation","San Francisco"],"date":"2017-09-01T19:11:00","title":"VRBO Actor: Charles W. &amp; Sharon F. Manning"}
 ---
 
 **CHARLES W. & SHARON F. MANNING -** **Manning Properties LLC**

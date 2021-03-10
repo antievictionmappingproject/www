@@ -1,5 +1,5 @@
 ---json
-{"layout":"layouts/default.njk","tags":["Evictors","Speculation","Ownership","Oakland"],"date":"2019-07-12T18:41:10","title":"Bay Area Evictor: Noel and Mei Ling Yi","slug":"bay-area-evictor-noel-and-mei-ling-yi"}
+{"tags":["Evictors","Speculation","Ownership","Oakland"],"date":"2019-07-12T18:41:10","title":"Bay Area Evictor: Noel and Mei Ling Yi"}
 ---
 
 Noel and Mei Ling Yi

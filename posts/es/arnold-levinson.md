@@ -1,5 +1,5 @@
 ---json
-{"layout":"layouts/default.njk","tags":["Evictors","Evictions","Speculation","Ownership","San Francisco"],"date":"2019-02-17T01:54:29","title":"Bay Area Evictor: Arnold Levinson","slug":"arnold-levinson"}
+{"tags":["Evictors","Evictions","Speculation","Ownership","San Francisco"],"date":"2019-02-17T01:54:29","title":"Bay Area Evictor: Arnold Levinson"}
 ---
 
 [![Arnold Levinson](https://images.squarespace-cdn.com/content/v1/52b7d7a6e4b0b3e376ac8ea2/1399564517773-FPGE12HFM2XQ29P69BCE/ke17ZwdGBToddI8pDm48kP6js0fFIsk36budvV4tLAVZw-zPPgdn4jUwVcJE1ZvWhcwhEtWJXoshNdA9f1qD7dso8WS9HrXe-DDzLfr_qHnD-O3FALnFjZRcAhgZ9im6_dYejufmibBlKyjm01Y85w/Screen+Shot+2014-05-08+at+8.59.54+AM.png)](https://images.squarespace-cdn.com/content/v1/52b7d7a6e4b0b3e376ac8ea2/1399564517773-FPGE12HFM2XQ29P69BCE/ke17ZwdGBToddI8pDm48kP6js0fFIsk36budvV4tLAVZw-zPPgdn4jUwVcJE1ZvWhcwhEtWJXoshNdA9f1qD7dso8WS9HrXe-DDzLfr_qHnD-O3FALnFjZRcAhgZ9im6_dYejufmibBlKyjm01Y85w/Screen+Shot+2014-05-08+at+8.59.54+AM.png) 

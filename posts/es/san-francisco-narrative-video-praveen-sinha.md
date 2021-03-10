@@ -1,5 +1,5 @@
 ---json
-{"layout":"layouts/default.njk","tags":["Narratives","Resistance","San Francisco"],"date":"2019-03-31T16:29:29","title":"San Francisco Narrative Video: Praveen Sinha","slug":"san-francisco-narrative-video-praveen-sinha"}
+{"tags":["Narratives","Resistance","San Francisco"],"date":"2019-03-31T16:29:29","title":"San Francisco Narrative Video: Praveen Sinha"}
 ---
 
 Made in collaboration with SOTA

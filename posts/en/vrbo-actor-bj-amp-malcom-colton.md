@@ -1,5 +1,5 @@
 ---json
-{"layout":"layouts/default.njk","tags":["Tech","Speculation","Ownership","San Francisco"],"date":"2017-03-01T19:54:00","title":"VRBO Actor: BJ &amp; Malcom Colton","slug":"vrbo-actor-bj-amp-malcom-colton"}
+{"tags":["Tech","Speculation","Ownership","San Francisco"],"date":"2017-03-01T19:54:00","title":"VRBO Actor: BJ &amp; Malcom Colton"}
 ---
 
 BJ & MALCOLM COLTON **& their Shar-Pei dog**

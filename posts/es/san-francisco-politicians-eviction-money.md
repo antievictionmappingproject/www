@@ -1,5 +1,5 @@
 ---json
-{"layout":"layouts/default.njk","tags":["Evictors","Banks","Speculation","Evictions","San Francisco"],"date":"2016-07-01T19:46:00","title":"San Francisco Politician's Eviction Money","slug":"san-francisco-politicians-eviction-money"}
+{"tags":["Evictors","Banks","Speculation","Evictions","San Francisco"],"date":"2016-07-01T19:46:00","title":"San Francisco Politician's Eviction Money"}
 ---
 
 Financial contributions to San Francisco politicians by evictors

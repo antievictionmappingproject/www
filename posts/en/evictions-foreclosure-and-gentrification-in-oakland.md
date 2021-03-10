@@ -1,5 +1,5 @@
 ---json
-{"layout":"layouts/default.njk","tags":["Foreclosure","Evictors","Evictions","Race","Narratives","Affordability","Oakland"],"date":"2019-04-16T02:55:09","title":"Evictions, Foreclosure, and Gentrification in Oakland","slug":"evictions-foreclosure-and-gentrification-in-oakland"}
+{"tags":["Foreclosure","Evictors","Evictions","Race","Narratives","Affordability","Oakland"],"date":"2019-04-16T02:55:09","title":"Evictions, Foreclosure, and Gentrification in Oakland"}
 ---
 
 From our interactive report, Counterpoints: Bay Area Data and Stories for Resisting Displacement

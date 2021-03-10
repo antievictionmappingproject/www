@@ -1,5 +1,5 @@
 ---json
-{"layout":"layouts/default.njk","tags":["Evictions","Narratives","City of Alameda"],"date":"2019-03-31T03:33:07","title":"Alameda County Narrative Video: Charlie","slug":"charlie-a-film-by-ethan-silverstein"}
+{"tags":["Evictions","Narratives","City of Alameda"],"date":"2019-03-31T03:33:07","title":"Alameda County Narrative Video: Charlie"}
 ---
 
 Charlie Edwards is a resident of Alameda and a volunteer with the Alameda Renter's Coalition, fighting for rent control and just cause eviction in the city of Alameda. In the past two years, despite his income remaining fixed, his rent has increased 33%.

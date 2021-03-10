@@ -1,5 +1,5 @@
 ---json
-{"layout":"layouts/default.njk","tags":["Evictors","Evictions"],"date":"2020-03-31T16:18:36","title":"Landlord Responses to COVID-19","slug":"landlord-responses-to-covid"}
+{"tags":["Evictors","Evictions"],"date":"2020-03-31T16:18:36","title":"Landlord Responses to COVID-19"}
 ---
 
 As part of our work to document tenant experiences and stories around gentrification, displacement and resistance, The Anti-Eviction Mapping Project is documenting tenant-landlord communication during this time. We believe that these communications are important to document to capture what tenants are facing as we move through a global pandemic.

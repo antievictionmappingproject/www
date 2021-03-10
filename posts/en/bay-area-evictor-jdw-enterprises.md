@@ -1,5 +1,5 @@
 ---json
-{"layout":"layouts/default.njk","tags":["Evictors","Ownership","Speculation","Oakland"],"date":"2019-07-12T18:33:12","title":"Bay Area Evictor: JDW Enterprises","slug":"bay-area-evictor-jdw-enterprises"}
+{"tags":["Evictors","Ownership","Speculation","Oakland"],"date":"2019-07-12T18:33:12","title":"Bay Area Evictor: JDW Enterprises"}
 ---
 
 JDW Enterprises

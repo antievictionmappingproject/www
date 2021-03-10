@@ -1,5 +1,5 @@
 ---json
-{"layout":"layouts/default.njk","tags":["Speculation","Development","Houseless","Affordability","San Francisco"],"date":"2015-10-26T16:43:00","title":"Vacant Units, San Francisco","slug":"vacant-units-sf-2015"}
+{"tags":["Speculation","Development","Houseless","Affordability","San Francisco"],"date":"2015-10-26T16:43:00","title":"Vacant Units, San Francisco"}
 ---
 
 Vacant Units, San Francisco, 2015

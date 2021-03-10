@@ -1,5 +1,5 @@
 ---json
-{"layout":"layouts/default.njk","tags":["Resistance","Narratives","Development","Speculation","Los Angeles"],"date":"2021-01-03T16:28:20","title":"Contra-Against the Artwashing of Boyle Heights","slug":"contra-against-the-artwashing-of-boyle-heights"}
+{"tags":["Resistance","Narratives","Development","Speculation","Los Angeles"],"date":"2021-01-03T16:28:20","title":"Contra-Against the Artwashing of Boyle Heights"}
 ---
 
 Contra-Against the Artwashing of Boyle Heights

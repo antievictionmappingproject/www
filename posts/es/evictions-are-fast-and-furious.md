@@ -1,5 +1,5 @@
 ---json
-{"layout":"layouts/default.njk","tags":["Evictions","California"],"date":"2018-10-02T20:42:00","title":"Evictions are Fast and Furious","slug":"evictions-are-fast-and-furious"}
+{"tags":["Evictions","California"],"date":"2018-10-02T20:42:00","title":"Evictions are Fast and Furious"}
 ---
 
 Report by Aimee Inglis and Dean Preston of Tenants Together, maps by the AEMP

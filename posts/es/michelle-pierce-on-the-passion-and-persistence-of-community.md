@@ -1,5 +1,5 @@
 ---json
-{"layout":"layouts/default.njk","tags":["Race","Resistance","Health","Development","San Francisco"],"date":"2019-12-18T18:15:58","title":"Michelle Pierce on the Passion and Persistence of Community","slug":"michelle-pierce-on-the-passion-and-persistence-of-community"}
+{"tags":["Race","Resistance","Health","Development","San Francisco"],"date":"2019-12-18T18:15:58","title":"Michelle Pierce on the Passion and Persistence of Community"}
 ---
 
 (Dis)location/Black Exodus

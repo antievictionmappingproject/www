@@ -1,5 +1,5 @@
 ---json
-{"layout":"layouts/default.njk","tags":["Policing","Race","San Francisco"],"date":"2020-06-08T20:39:36","title":"Killings by Police, San Francisco, 1985-2020","slug":"killings-by-police-san-francisco-1985-2020"}
+{"tags":["Policing","Race","San Francisco"],"date":"2020-06-08T20:39:36","title":"Killings by Police, San Francisco, 1985-2020"}
 ---
 
 Killings by Police, San Francisco, 1985-2020

@@ -1,5 +1,5 @@
 ---json
-{"layout":"layouts/default.njk","tags":["Tech","Houseless","Privatization","Transportation","Policing","San Francisco"],"date":"2016-04-10T18:07:00","title":"Loss of Public Space, San Francisco","slug":"lt4s7l0uldml6hyglvpt16oy9v4joz"}
+{"tags":["Tech","Houseless","Privatization","Transportation","Policing","San Francisco"],"date":"2016-04-10T18:07:00","title":"Loss of Public Space, San Francisco"}
 ---
 
 Map detailing the loss of public space in San Francisco

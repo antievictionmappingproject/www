@@ -1,5 +1,5 @@
 ---json
-{"layout":"layouts/default.njk","tags":["Narratives","Resistance","Berkeley"],"date":"2017-05-01T19:12:00","title":"UC Berkeley Story Mapping","slug":"uc-berkeley-story-mapping"}
+{"tags":["Narratives","Resistance","Berkeley"],"date":"2017-05-01T19:12:00","title":"UC Berkeley Story Mapping"}
 ---
 
 _Series of Story-maps about UC Berkeley’s leftist history_

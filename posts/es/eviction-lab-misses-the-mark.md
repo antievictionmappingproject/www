@@ -1,5 +1,5 @@
 ---json
-{"layout":"layouts/default.njk","tags":["Evictions","California","San Francisco","Oakland","Los Angeles"],"date":"2018-10-10T17:37:21","title":"Eviction Lab Misses the Mark","slug":"eviction-lab-misses-the-mark"}
+{"tags":["Evictions","California","San Francisco","Oakland","Los Angeles"],"date":"2018-10-10T17:37:21","title":"Eviction Lab Misses the Mark"}
 ---
 
 _Collaborative critique of the Eviction Lab by members of the AEMP and other great collaborators._

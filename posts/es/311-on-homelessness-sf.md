@@ -1,5 +1,5 @@
 ---json
-{"layout":"layouts/default.njk","tags":["Policing","Houseless","Health","San Francisco"],"date":"2019-03-31T05:29:28","title":"311 on Homelessness, San Francisco","slug":"311-on-homelessness-sf"}
+{"tags":["Policing","Houseless","Health","San Francisco"],"date":"2019-03-31T05:29:28","title":"311 on Homelessness, San Francisco"}
 ---
 
 Homeless Encampments reported to the City of San Francisco via 311

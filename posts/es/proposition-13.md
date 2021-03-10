@@ -1,5 +1,5 @@
 ---json
-{"layout":"layouts/default.njk","tags":["Ownership","Speculation","California"],"date":"2018-10-30T13:39:24","title":"Proposition 13","slug":"proposition-13"}
+{"tags":["Ownership","Speculation","California"],"date":"2018-10-30T13:39:24","title":"Proposition 13"}
 ---
 
 Proposition 13 Poster 

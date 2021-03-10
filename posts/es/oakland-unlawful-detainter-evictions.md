@@ -1,5 +1,5 @@
 ---json
-{"layout":"layouts/default.njk","tags":["Evictions","Affordability","Oakland"],"date":"2019-03-31T16:16:36","title":"Oakland Unlawful Detainer Evictions","slug":"oakland-unlawful-detainter-evictions"}
+{"tags":["Evictions","Affordability","Oakland"],"date":"2019-03-31T16:16:36","title":"Oakland Unlawful Detainer Evictions"}
 ---
 
 Unlawful Detainer Evictions in Oakland

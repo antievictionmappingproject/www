@@ -1,5 +1,5 @@
 ---json
-{"layout":"layouts/default.njk","tags":["Development","Speculation","Ownership","Evictors","Privatization","Evictions","Affordability","San Francisco"],"date":"2015-08-10T18:17:00","title":"YBI and Treasure Island","slug":"ybi-and-treasure-island"}
+{"tags":["Development","Speculation","Ownership","Evictors","Privatization","Evictions","Affordability","San Francisco"],"date":"2015-08-10T18:17:00","title":"YBI and Treasure Island"}
 ---
 
 Interactive Map of Financial Connections Behind Displacement on Treasure Island and Yerba Buena Island

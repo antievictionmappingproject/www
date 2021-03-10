@@ -1,5 +1,5 @@
 ---json
-{"layout":"layouts/default.njk","tags":["Tech","Speculation","San Francisco"],"date":"2017-09-01T19:08:00","title":"Short Term Vacation Rental Actor: Edward Litke &amp; Jered Kenna","slug":"short-term-vacation-rental-actor-edward-litke-amp-jered-kenna"}
+{"tags":["Tech","Speculation","San Francisco"],"date":"2017-09-01T19:08:00","title":"Short Term Vacation Rental Actor: Edward Litke &amp; Jered Kenna"}
 ---
 
 EDWARD LITKE / JERED KENNA

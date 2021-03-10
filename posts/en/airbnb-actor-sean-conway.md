@@ -1,5 +1,5 @@
 ---json
-{"layout":"layouts/default.njk","tags":["Tech","Speculation","San Francisco"],"date":"2017-11-01T18:57:00","title":"Airbnb Actor: Sean Conway","slug":"airbnb-actor-sean-conway"}
+{"tags":["Tech","Speculation","San Francisco"],"date":"2017-11-01T18:57:00","title":"Airbnb Actor: Sean Conway"}
 ---
 
 SEAN CONWAY **\- Concierge**

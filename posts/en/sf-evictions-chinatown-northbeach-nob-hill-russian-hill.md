@@ -1,5 +1,5 @@
 ---json
-{"layout":"layouts/default.njk","tags":["Evictions","Race","Tech","San Francisco"],"date":"2016-07-20T17:51:00","title":"SF Evictions: Chinatown, Northbeach, Nob Hill, Russian Hill","slug":"sf-evictions-chinatown-northbeach-nob-hill-russian-hill"}
+{"tags":["Evictions","Race","Tech","San Francisco"],"date":"2016-07-20T17:51:00","title":"SF Evictions: Chinatown, Northbeach, Nob Hill, Russian Hill"}
 ---
 
 Evictions in Chinatown, Northbeach, Nob Hill, and Russian Hill, San Francisco

@@ -1,5 +1,5 @@
 ---json
-{"layout":"layouts/default.njk","tags":["Evictors","Ownership","Speculation","Evictions","San Francisco"],"date":"2019-02-16T23:50:18","title":"Bay Area Evictor: Kaushik Dattani","slug":"kaushik-dattani"}
+{"tags":["Evictors","Ownership","Speculation","Evictions","San Francisco"],"date":"2019-02-16T23:50:18","title":"Bay Area Evictor: Kaushik Dattani"}
 ---
 
 ![](https://images.squarespace-cdn.com/content/v1/52b7d7a6e4b0b3e376ac8ea2/1393815693534-YKYE1DS0KVT5C8W96PFP/ke17ZwdGBToddI8pDm48kFTEgwhRQcX9r3XtU0e50sUUqsxRUqqbr1mOJYKfIPR7LoDQ9mXPOjoJoqy81S2I8N_N4V1vUb5AoIIIbLZhVYxCRW4BPu10St3TBAUQYVKcW7uEhC96WQdj-SwE5EpM0lAopPba9ZX3O0oeNTVSRxdHAmtcci_6bmVLoSDQq_pb/image-asset.jpeg)

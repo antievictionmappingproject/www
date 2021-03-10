@@ -1,5 +1,5 @@
 ---json
-{"layout":"layouts/default.njk","tags":["Evictors","Tech","Evictions","Speculation","San Francisco"],"date":"2019-02-16T23:38:03","title":"Bay Area Evictor: Peter Caswell","slug":"peter-caswell"}
+{"tags":["Evictors","Tech","Evictions","Speculation","San Francisco"],"date":"2019-02-16T23:38:03","title":"Bay Area Evictor: Peter Caswell"}
 ---
 
 [![Screen Shot 2014-05-13 at 12.22.54 AM.png](https://images.squarespace-cdn.com/content/v1/52b7d7a6e4b0b3e376ac8ea2/1399965476356-CEIH1E3KCOWEGSE1IY40/ke17ZwdGBToddI8pDm48kC5FEzHk3EBqvlk8QWKQ5KBZw-zPPgdn4jUwVcJE1ZvWhcwhEtWJXoshNdA9f1qD7TjHkaYfD5WE2gtMQ4su2XqkkORPwApQOynHJVsysnUcrKj2-HNfk9mWOGBFUFzVvw/Screen+Shot+2014-05-13+at+12.22.54+AM.png)](https://images.squarespace-cdn.com/content/v1/52b7d7a6e4b0b3e376ac8ea2/1399965476356-CEIH1E3KCOWEGSE1IY40/ke17ZwdGBToddI8pDm48kC5FEzHk3EBqvlk8QWKQ5KBZw-zPPgdn4jUwVcJE1ZvWhcwhEtWJXoshNdA9f1qD7TjHkaYfD5WE2gtMQ4su2XqkkORPwApQOynHJVsysnUcrKj2-HNfk9mWOGBFUFzVvw/Screen+Shot+2014-05-13+at+12.22.54+AM.png) 

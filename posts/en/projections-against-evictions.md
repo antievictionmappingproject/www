@@ -1,5 +1,5 @@
 ---json
-{"layout":"layouts/default.njk","tags":["Narratives","Events","Resistance","San Francisco"],"date":"2019-03-04T18:01:03","title":"Projections Against Evictions","slug":"projections-against-evictions"}
+{"tags":["Narratives","Events","Resistance","San Francisco"],"date":"2019-03-04T18:01:03","title":"Projections Against Evictions"}
 ---
 
 _Projecting our narrative data and crowdsourced data about evictions with Delta\_Ark_

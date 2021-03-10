@@ -1,5 +1,5 @@
 ---json
-{"layout":"layouts/default.njk","tags":["Narratives","Evictions","Relocation","Resistance","Health","Oakland","City of Alameda","Bay Area","Berkeley","San Francisco","Fremont","Los Angeles","New York City"],"date":"2020-06-01T21:38:00","title":"Narratives of Displacement and Resistance - Oral History Maps for SF Bay Area, LA, and NYC","slug":"narratives-of-displacement-oral-history-map"}
+{"tags":["Narratives","Evictions","Relocation","Resistance","Health","Oakland","City of Alameda","Bay Area","Berkeley","San Francisco","Fremont","Los Angeles","New York City"],"date":"2020-06-01T21:38:00","title":"Narratives of Displacement and Resistance - Oral History Maps for SF Bay Area, LA, and NYC"}
 ---
 
 Click to view interactive oral history maps:

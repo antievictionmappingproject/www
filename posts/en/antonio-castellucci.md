@@ -1,5 +1,5 @@
 ---json
-{"layout":"layouts/default.njk","tags":["Evictors","Ownership","Speculation","Evictions","San Francisco"],"date":"2019-02-16T23:36:31","title":"Bay Area Evictor: Antonio Castellucci","slug":"antonio-castellucci"}
+{"tags":["Evictors","Ownership","Speculation","Evictions","San Francisco"],"date":"2019-02-16T23:36:31","title":"Bay Area Evictor: Antonio Castellucci"}
 ---
 
 [![Screen Shot 2014-01-09 at 7.08.31 PM.png](https://images.squarespace-cdn.com/content/v1/52b7d7a6e4b0b3e376ac8ea2/1389323311678-U06E1UN4T6HFU7MTNNI2/ke17ZwdGBToddI8pDm48kKcrIZ1dnKXCciuDdiKmCCJZw-zPPgdn4jUwVcJE1ZvWhcwhEtWJXoshNdA9f1qD7UnCxNA8dHvmd7460Z7fbKEkUVuUTa1vVnvpG9YpGZadH8QmMypPUZDSQTryClH9nQ/Screen+Shot+2014-01-09+at+7.08.31+PM.png)](https://images.squarespace-cdn.com/content/v1/52b7d7a6e4b0b3e376ac8ea2/1389323311678-U06E1UN4T6HFU7MTNNI2/ke17ZwdGBToddI8pDm48kKcrIZ1dnKXCciuDdiKmCCJZw-zPPgdn4jUwVcJE1ZvWhcwhEtWJXoshNdA9f1qD7UnCxNA8dHvmd7460Z7fbKEkUVuUTa1vVnvpG9YpGZadH8QmMypPUZDSQTryClH9nQ/Screen+Shot+2014-01-09+at+7.08.31+PM.png) 

@@ -1,5 +1,5 @@
 ---json
-{"layout":"layouts/default.njk","tags":["Tech","Speculation","Evictions","Evictors","San Francisco"],"date":"2016-08-01T23:01:00","title":"Short Term Vacation Rental Actor: Nina Geneson Otis","slug":"short-term-vacation-rental-actor-nina-geneson-otis"}
+{"tags":["Tech","Speculation","Evictions","Evictors","San Francisco"],"date":"2016-08-01T23:01:00","title":"Short Term Vacation Rental Actor: Nina Geneson Otis"}
 ---
 
 **NINA GENESON OTIS**

@@ -1,5 +1,5 @@
 ---json
-{"layout":"layouts/default.njk","tags":["Narratives","Resistance","Race","San Francisco"],"date":"2019-03-31T16:36:37","title":"San Francisco Narrative Video: Chandra Redack","slug":"san-francisco-narrative-video-chandra-redack"}
+{"tags":["Narratives","Resistance","Race","San Francisco"],"date":"2019-03-31T16:36:37","title":"San Francisco Narrative Video: Chandra Redack"}
 ---
 
 Made in collaboration with SOTA

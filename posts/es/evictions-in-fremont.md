@@ -1,5 +1,5 @@
 ---json
-{"layout":"layouts/default.njk","tags":["Evictions","Foreclosure","Narratives","Relocation","Affordability","Fremont"],"date":"2019-04-16T02:49:30","title":"Evictions and Gentrification in Fremont","slug":"evictions-in-fremont"}
+{"tags":["Evictions","Foreclosure","Narratives","Relocation","Affordability","Fremont"],"date":"2019-04-16T02:49:30","title":"Evictions and Gentrification in Fremont"}
 ---
 
 From our report, Counterpoints: Bay Area Data and Stories for Resisting Displacement

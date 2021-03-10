@@ -1,5 +1,5 @@
 ---json
-{"layout":"layouts/default.njk","tags":["Evictors","Evictions","Ownership","Speculation","San Francisco"],"date":"2019-02-16T23:39:29","title":"Bay Area Evictor: Benny Chetcuti, Jr.","slug":"benny-chetcuti-jr"}
+{"tags":["Evictors","Evictions","Ownership","Speculation","San Francisco"],"date":"2019-02-16T23:39:29","title":"Bay Area Evictor: Benny Chetcuti, Jr."}
 ---
 
 **BENNY CHETCUTI, JR.**

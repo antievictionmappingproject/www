@@ -1,5 +1,5 @@
 ---json
-{"layout":"layouts/default.njk","tags":["Evictors","Evictions","Speculation","Ownership","Tech","San Francisco"],"date":"2019-02-17T01:46:30","title":"Bay Area Evictor: Jonathan Kibera","slug":"jonathan-kibera"}
+{"tags":["Evictors","Evictions","Speculation","Ownership","Tech","San Francisco"],"date":"2019-02-17T01:46:30","title":"Bay Area Evictor: Jonathan Kibera"}
 ---
 
 [![Screen Shot 2014-05-13 at 7.51.12 AM.png](https://images.squarespace-cdn.com/content/v1/52b7d7a6e4b0b3e376ac8ea2/1399992370403-5WR846YK1YXSOP58ST3O/ke17ZwdGBToddI8pDm48kMrrmNjA32eO66XKuTcuOc5Zw-zPPgdn4jUwVcJE1ZvWhcwhEtWJXoshNdA9f1qD7dso8WS9HrXe-DDzLfr_qHmP-D4vFJPKuV_4atkE3wFt80lwjV8sNX48ga0K0VHQMw/Screen+Shot+2014-05-13+at+7.51.12+AM.png)](https://images.squarespace-cdn.com/content/v1/52b7d7a6e4b0b3e376ac8ea2/1399992370403-5WR846YK1YXSOP58ST3O/ke17ZwdGBToddI8pDm48kMrrmNjA32eO66XKuTcuOc5Zw-zPPgdn4jUwVcJE1ZvWhcwhEtWJXoshNdA9f1qD7dso8WS9HrXe-DDzLfr_qHmP-D4vFJPKuV_4atkE3wFt80lwjV8sNX48ga0K0VHQMw/Screen+Shot+2014-05-13+at+7.51.12+AM.png) 

@@ -1,5 +1,5 @@
 ---json
-{"layout":"layouts/default.njk","tags":["Resistance","Evictions"],"date":"2020-07-31T20:17:00","title":"Luta pela Moradia Durante a Pandemia","slug":"luta-pela-moradia-durante-a-pandemia"}
+{"tags":["Resistance","Evictions"],"date":"2020-07-31T20:17:00","title":"Luta pela Moradia Durante a Pandemia"}
 ---
 
 Luta pela Moradia Durante a Pandemia

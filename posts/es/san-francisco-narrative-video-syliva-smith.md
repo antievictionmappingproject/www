@@ -1,5 +1,5 @@
 ---json
-{"layout":"layouts/default.njk","tags":["Narratives","Resistance","Health","San Francisco"],"date":"2019-03-31T16:30:54","title":"San Francisco Narrative Video: Sylvia Smith","slug":"san-francisco-narrative-video-syliva-smith"}
+{"tags":["Narratives","Resistance","Health","San Francisco"],"date":"2019-03-31T16:30:54","title":"San Francisco Narrative Video: Sylvia Smith"}
 ---
 
 Made in collaboration with SOTA

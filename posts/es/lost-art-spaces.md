@@ -1,5 +1,5 @@
 ---json
-{"layout":"layouts/default.njk","tags":["Evictions","Privatization","Resistance","Tool","Events","San Francisco","Oakland"],"date":"2016-06-14T18:44:00","title":"Lost Art Spaces","slug":"lost-art-spaces"}
+{"tags":["Evictions","Privatization","Resistance","Tool","Events","San Francisco","Oakland"],"date":"2016-06-14T18:44:00","title":"Lost Art Spaces"}
 ---
 
 Lost art spaces of the San Francisco Bay Area

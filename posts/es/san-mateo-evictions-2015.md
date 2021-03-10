@@ -1,5 +1,5 @@
 ---json
-{"layout":"layouts/default.njk","tags":["Evictions","Race","San Mateo"],"date":"2017-01-10T18:24:00","title":"San Mateo Eviction Report","slug":"san-mateo-evictions-2015"}
+{"tags":["Evictions","Race","San Mateo"],"date":"2017-01-10T18:24:00","title":"San Mateo Eviction Report"}
 ---
 
 San Mateo Eviction Report, 2015

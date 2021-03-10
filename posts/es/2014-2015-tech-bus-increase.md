@@ -1,5 +1,5 @@
 ---json
-{"layout":"layouts/default.njk","tags":["Tech","Privatization","Transportation","San Francisco"],"date":"2015-10-23T17:42:00","title":"2014-2015 Tech Bus Increase","slug":"2014-2015-tech-bus-increase"}
+{"tags":["Tech","Privatization","Transportation","San Francisco"],"date":"2015-10-23T17:42:00","title":"2014-2015 Tech Bus Increase"}
 ---
 
 Map detailing the increase in tech bus stops in San Francisco, 2016

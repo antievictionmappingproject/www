@@ -1,5 +1,5 @@
 ---json
-{"layout":"layouts/default.njk","tags":["Race","Speculation","Banks","Ownership","Evictors","San Francisco","Oakland"],"date":"2018-05-16T15:42:20","title":"First Republic Bank in San Francisco and Oakland and Reverse Redlining","slug":"first-republic-bank-in-san-francisco-and-oakland"}
+{"tags":["Race","Speculation","Banks","Ownership","Evictors","San Francisco","Oakland"],"date":"2018-05-16T15:42:20","title":"First Republic Bank in San Francisco and Oakland and Reverse Redlining"}
 ---
 
 _Mapping First Republic Bank loans to serial evictors in San Francisco and Oakland, and an investigation of their lending practices as constitutive of reverse-redlining in Oakland_

@@ -1,5 +1,5 @@
 ---json
-{"layout":"layouts/default.njk","tags":["Evictors","Evictions","Speculation","Ownership","Tech","San Francisco"],"date":"2019-02-17T02:47:26","title":"Bay Area Evictor: Sean Whelan","slug":"sean-whelan"}
+{"tags":["Evictors","Evictions","Speculation","Ownership","Tech","San Francisco"],"date":"2019-02-17T02:47:26","title":"Bay Area Evictor: Sean Whelan"}
 ---
 
  **SEAN PATRICK WHELAN**

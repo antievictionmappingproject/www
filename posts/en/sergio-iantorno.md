@@ -1,5 +1,5 @@
 ---json
-{"layout":"layouts/default.njk","tags":["Evictions","Evictors","Speculation","Ownership","San Francisco"],"date":"2019-02-17T01:08:48","title":"Bay Area Evictor: Sergio Iantorno","slug":"sergio-iantorno"}
+{"tags":["Evictions","Evictors","Speculation","Ownership","San Francisco"],"date":"2019-02-17T01:08:48","title":"Bay Area Evictor: Sergio Iantorno"}
 ---
 
 [![BigBucksIantorno.jpeg](https://images.squarespace-cdn.com/content/v1/52b7d7a6e4b0b3e376ac8ea2/1403803591889-0M6EEYHXZX520X411MIP/ke17ZwdGBToddI8pDm48kNnTBge4Cqbf0CHeyOlbDEBZw-zPPgdn4jUwVcJE1ZvWhcwhEtWJXoshNdA9f1qD7Xj1nVWs2aaTtWBneO2WM-t68JmFTiKHPvT-Un8KXAALmW_5Z8CKpZukhjUYF2S_Aw/BigBucksIantorno.jpeg)](https://images.squarespace-cdn.com/content/v1/52b7d7a6e4b0b3e376ac8ea2/1403803591889-0M6EEYHXZX520X411MIP/ke17ZwdGBToddI8pDm48kNnTBge4Cqbf0CHeyOlbDEBZw-zPPgdn4jUwVcJE1ZvWhcwhEtWJXoshNdA9f1qD7Xj1nVWs2aaTtWBneO2WM-t68JmFTiKHPvT-Un8KXAALmW_5Z8CKpZukhjUYF2S_Aw/BigBucksIantorno.jpeg) 

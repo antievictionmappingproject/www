@@ -1,5 +1,5 @@
 ---json
-{"layout":"layouts/default.njk","tags":["Narratives","Evictions","Resistance","San Francisco","Oakland","Bay Area"],"date":"2016-08-23T22:01:00","title":"Bay Area Youth Power Mapping","slug":"video-about-youth-power-mapping"}
+{"tags":["Narratives","Evictions","Resistance","San Francisco","Oakland","Bay Area"],"date":"2016-08-23T22:01:00","title":"Bay Area Youth Power Mapping"}
 ---
 
 Mapping Youth Power in the Bay Area

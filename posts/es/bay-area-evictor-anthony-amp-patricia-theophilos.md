@@ -1,5 +1,5 @@
 ---json
-{"layout":"layouts/default.njk","tags":["Evictors","Banks","Speculation","Ownership","Oakland"],"date":"2019-07-12T18:48:59","title":"Bay Area Evictor: Anthony &amp; Patricia Theophilos","slug":"bay-area-evictor-anthony-amp-patricia-theophilos"}
+{"tags":["Evictors","Banks","Speculation","Ownership","Oakland"],"date":"2019-07-12T18:48:59","title":"Bay Area Evictor: Anthony &amp; Patricia Theophilos"}
 ---
 
 [![PastedGraphic-21.png](https://images.squarespace-cdn.com/content/v1/52b7d7a6e4b0b3e376ac8ea2/1472603338853-AFKVKVVJ2JUTGULXSIPN/ke17ZwdGBToddI8pDm48kOg6la9sCVXS9nhBHa8K_VFZw-zPPgdn4jUwVcJE1ZvWEtT5uBSRWt4vQZAgTJucoTqqXjS3CfNDSuuf31e0tVGLW2_HcVqzo7hJy1v0FI3wT82t-DhX7BsvG86JBtmcvSb8BodarTVrzIWCp72ioWw/PastedGraphic-21.png)](https://images.squarespace-cdn.com/content/v1/52b7d7a6e4b0b3e376ac8ea2/1472603338853-AFKVKVVJ2JUTGULXSIPN/ke17ZwdGBToddI8pDm48kOg6la9sCVXS9nhBHa8K_VFZw-zPPgdn4jUwVcJE1ZvWEtT5uBSRWt4vQZAgTJucoTqqXjS3CfNDSuuf31e0tVGLW2_HcVqzo7hJy1v0FI3wT82t-DhX7BsvG86JBtmcvSb8BodarTVrzIWCp72ioWw/PastedGraphic-21.png) 

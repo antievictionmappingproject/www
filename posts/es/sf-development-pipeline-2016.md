@@ -1,5 +1,5 @@
 ---json
-{"layout":"layouts/default.njk","tags":["Development","Speculation","Transportation","San Francisco"],"date":"2016-05-09T16:29:00","title":"SF Development Pipeline, 2016","slug":"sf-development-pipeline-2016"}
+{"tags":["Development","Speculation","Transportation","San Francisco"],"date":"2016-05-09T16:29:00","title":"SF Development Pipeline, 2016"}
 ---
 
 New Development in San Francisco

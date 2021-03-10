@@ -1,5 +1,5 @@
 ---json
-{"layout":"layouts/default.njk","tags":["Narratives","Resistance","Events","San Francisco"],"date":"2017-07-12T00:30:00","title":"We Belong Here","slug":"we-belong-here"}
+{"tags":["Narratives","Resistance","Events","San Francisco"],"date":"2017-07-12T00:30:00","title":"We Belong Here"}
 ---
 
 We Belong Here Video, with Tilt

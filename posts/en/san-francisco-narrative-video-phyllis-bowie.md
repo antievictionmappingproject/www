@@ -1,5 +1,5 @@
 ---json
-{"layout":"layouts/default.njk","tags":["Narratives","Resistance","Race","San Francisco"],"date":"2019-03-31T16:34:58","title":"San Francisco Narrative Video: Phyllis Bowie","slug":"san-francisco-narrative-video-phyllis-bowie"}
+{"tags":["Narratives","Resistance","Race","San Francisco"],"date":"2019-03-31T16:34:58","title":"San Francisco Narrative Video: Phyllis Bowie"}
 ---
 
 Made in collaboration with SOTA

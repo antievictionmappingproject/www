@@ -1,5 +1,5 @@
 ---json
-{"layout":"layouts/default.njk","tags":["Narratives","Resistance","New York City"],"date":"2019-08-22T13:58:00","title":"Bushwick Anti-Gentrification Listening Party","slug":"bushwick-anti-gentrification-listening-party"}
+{"tags":["Narratives","Resistance","New York City"],"date":"2019-08-22T13:58:00","title":"Bushwick Anti-Gentrification Listening Party"}
 ---
 
 Bushwick Anti-Gentrification Listening Party

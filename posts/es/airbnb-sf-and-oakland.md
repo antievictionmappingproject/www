@@ -1,5 +1,5 @@
 ---json
-{"layout":"layouts/default.njk","tags":["Tech","Evictions","Oakland","San Francisco"],"date":"2016-12-29T18:18:00","title":"Airbnb and No-Fault Evictions, San Francisco and Oakland","slug":"airbnb-sf-and-oakland"}
+{"tags":["Tech","Evictions","Oakland","San Francisco"],"date":"2016-12-29T18:18:00","title":"Airbnb and No-Fault Evictions, San Francisco and Oakland"}
 ---
 
 Airbnb and Oakland Airbnb Listings, Comparing Evictions and Airbnb

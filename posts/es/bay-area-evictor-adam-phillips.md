@@ -1,5 +1,5 @@
 ---json
-{"layout":"layouts/default.njk","tags":["Evictors","Ownership","Evictions","San Francisco"],"date":"2019-04-25T20:41:06","title":"Bay Area Evictor: Adam Phillips","slug":"bay-area-evictor-adam-phillips"}
+{"tags":["Evictors","Ownership","Evictions","San Francisco"],"date":"2019-04-25T20:41:06","title":"Bay Area Evictor: Adam Phillips"}
 ---
 
 Adam Phillips is a serial evictor and investor, behind the displacement of numerous tenants in San Francisco

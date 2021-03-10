@@ -1,5 +1,5 @@
 ---json
-{"layout":"layouts/default.njk","tags":["Narratives","Resistance","San Francisco"],"date":"2019-03-31T16:32:52","title":"San Francisco Narrative Video: Diego DeLeo","slug":"san-francisco-narrative-video-diego-deleo"}
+{"tags":["Narratives","Resistance","San Francisco"],"date":"2019-03-31T16:32:52","title":"San Francisco Narrative Video: Diego DeLeo"}
 ---
 
 Made in collaboration with SOTA

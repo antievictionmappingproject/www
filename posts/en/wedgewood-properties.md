@@ -1,5 +1,5 @@
 ---json
-{"layout":"layouts/default.njk","tags":["Speculation","Banks","Evictors","Oakland","Los Angeles","California","Bay Area"],"date":"2020-01-14T19:51:21","title":"Bay Area Evictor: Wedgewood Properties","slug":"wedgewood-properties"}
+{"tags":["Speculation","Banks","Evictors","Oakland","Los Angeles","California","Bay Area"],"date":"2020-01-14T19:51:21","title":"Bay Area Evictor: Wedgewood Properties"}
 ---
 
  Wedgewood

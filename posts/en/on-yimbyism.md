@@ -1,5 +1,5 @@
 ---json
-{"layout":"layouts/default.njk","tags":["Yimby","San Francisco"],"date":"2017-07-26T16:25:00","title":"On YIMBYism","slug":"on-yimbyism"}
+{"tags":["Yimby","San Francisco"],"date":"2017-07-26T16:25:00","title":"On YIMBYism"}
 ---
 
 GIFs on Yimbyism

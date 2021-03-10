@@ -1,5 +1,5 @@
 ---json
-{"layout":"layouts/default.njk","tags":["Narratives","Events","Tool","Race","Resistance","Oakland"],"date":"2016-06-22T23:13:34","title":"Oakland Community Power Map","slug":"community-power-map-at-the-betti-ono-gallery-in-oakland"}
+{"tags":["Narratives","Events","Tool","Race","Resistance","Oakland"],"date":"2016-06-22T23:13:34","title":"Oakland Community Power Map"}
 ---
 
 Community Power Map at the Betti Ono Gallery in Oakland!

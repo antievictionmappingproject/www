@@ -1,5 +1,5 @@
 ---json
-{"layout":"layouts/default.njk","tags":["Race","Relocation","San Francisco","Oakland","City of Alameda","Bay Area","Berkeley","Fremont","San Mateo","San Jose","Santa Cruz"],"date":"2015-10-26T19:17:00","title":"Loss of Black Population, Bay Area, 1970-2015","slug":"loss-of-black-population-bay-area-1970-2015"}
+{"tags":["Race","Relocation","San Francisco","Oakland","City of Alameda","Bay Area","Berkeley","Fremont","San Mateo","San Jose","Santa Cruz"],"date":"2015-10-26T19:17:00","title":"Loss of Black Population, Bay Area, 1970-2015"}
 ---
 
 [Click to view our interactive map detailing the loss of San Francisco’s Black population, 1970-2018](http://www.antievictionmappingproject.net/black.html)

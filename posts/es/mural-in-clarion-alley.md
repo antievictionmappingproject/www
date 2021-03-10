@@ -1,5 +1,5 @@
 ---json
-{"layout":"layouts/default.njk","tags":["Narratives","Evictions","Resistance","Policing","Events","Race","San Francisco"],"date":"2015-05-23T21:59:00","title":"Mural in Clarion Alley","slug":"mural-in-clarion-alley"}
+{"tags":["Narratives","Evictions","Resistance","Policing","Events","Race","San Francisco"],"date":"2015-05-23T21:59:00","title":"Mural in Clarion Alley"}
 ---
 
 [Click to view photos of our mural in Clarion Alley](http://www.antievictionmap.com/land-of-opportunity-1/)

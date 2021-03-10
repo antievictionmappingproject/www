@@ -1,5 +1,5 @@
 ---json
-{"layout":"layouts/default.njk","tags":["Evictions","Tool","San Francisco"],"date":"2016-07-24T17:46:00","title":"Evictions Per Neighborhood Tool, San Francisco","slug":"evictions-per-neighborhood-tool"}
+{"tags":["Evictions","Tool","San Francisco"],"date":"2016-07-24T17:46:00","title":"Evictions Per Neighborhood Tool, San Francisco"}
 ---
 
 How many evictions have happened in your neighborhood in San Francisco?

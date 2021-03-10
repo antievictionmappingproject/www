@@ -1,5 +1,5 @@
 ---json
-{"layout":"layouts/default.njk","tags":["Speculation","Evictions","Resistance","Ownership","San Francisco","Los Angeles"],"date":"2019-11-01T17:08:00","title":"Housing Justice In Unequal Cities","slug":"housing-justice-in-unequal-cities"}
+{"tags":["Speculation","Evictions","Resistance","Ownership","San Francisco","Los Angeles"],"date":"2019-11-01T17:08:00","title":"Housing Justice In Unequal Cities"}
 ---
 
 New open access issue edited by edited by Ananya Roy and Hilary Malson, containing work by AEMP members Erin McElroy and Terra Graziani

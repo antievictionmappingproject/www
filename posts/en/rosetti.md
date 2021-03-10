@@ -1,5 +1,5 @@
 ---json
-{"layout":"layouts/default.njk","tags":["Evictors","Evictions","Speculation","Ownership","Oakland"],"date":"2019-02-17T02:16:54","title":"Bay Area Evictor: William Rosetti","slug":"rosetti"}
+{"tags":["Evictors","Evictions","Speculation","Ownership","Oakland"],"date":"2019-02-17T02:16:54","title":"Bay Area Evictor: William Rosetti"}
 ---
 
 [![rosetti.jpg](https://images.squarespace-cdn.com/content/v1/52b7d7a6e4b0b3e376ac8ea2/1472602241137-NHZLNZNSODKUXKD3QKR9/ke17ZwdGBToddI8pDm48kE8-sqybJ27LMqV-vuy_CmJZw-zPPgdn4jUwVcJE1ZvWhcwhEtWJXoshNdA9f1qD7a1hUo3u3Uc_wHU49CtRAafaOtD4U8fRFoYp5BhU12DvNRpF6LqhZkyILrbxZpZJPQ/rosetti.jpg)](https://images.squarespace-cdn.com/content/v1/52b7d7a6e4b0b3e376ac8ea2/1472602241137-NHZLNZNSODKUXKD3QKR9/ke17ZwdGBToddI8pDm48kE8-sqybJ27LMqV-vuy_CmJZw-zPPgdn4jUwVcJE1ZvWhcwhEtWJXoshNdA9f1qD7a1hUo3u3Uc_wHU49CtRAafaOtD4U8fRFoYp5BhU12DvNRpF6LqhZkyILrbxZpZJPQ/rosetti.jpg) 

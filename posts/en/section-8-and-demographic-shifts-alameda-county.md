@@ -1,5 +1,5 @@
 ---json
-{"layout":"layouts/default.njk","tags":["Race","Affordability","Relocation","Oakland"],"date":"2017-01-10T18:07:00","title":"Section 8 and Demographic Shifts, Alameda County","slug":"section-8-and-demographic-shifts-alameda-county"}
+{"tags":["Race","Affordability","Relocation","Oakland"],"date":"2017-01-10T18:07:00","title":"Section 8 and Demographic Shifts, Alameda County"}
 ---
 
 Black population decrease from 2010-20124, and corresponding loss of Section 8 housing

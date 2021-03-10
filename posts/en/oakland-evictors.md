@@ -1,5 +1,5 @@
 ---json
-{"layout":"layouts/default.njk","tags":["Evictors","Evictions","Oakland"],"date":"2019-07-13T00:18:42","title":"Oakland Evictors","slug":"oakland-evictors"}
+{"tags":["Evictors","Evictions","Oakland"],"date":"2019-07-13T00:18:42","title":"Oakland Evictors"}
 ---
 
 Dirty Dozen Squared:  Oakland Mega-Evictors

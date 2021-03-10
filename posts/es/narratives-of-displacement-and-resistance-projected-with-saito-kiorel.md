@@ -1,5 +1,5 @@
 ---json
-{"layout":"layouts/default.njk","tags":["Evictions","Narratives","Resistance","Events","San Francisco"],"date":"2020-09-26T08:30:00","title":"Narrative Projections with Delta_Ark","slug":"narratives-of-displacement-and-resistance-projected-with-saito-kiorel"}
+{"tags":["Evictions","Narratives","Resistance","Events","San Francisco"],"date":"2020-09-26T08:30:00","title":"Narrative Projections with Delta_Ark"}
 ---
 
 Narratives of Displacement and Resistance projected with Delta Ark

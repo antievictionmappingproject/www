@@ -1,5 +1,5 @@
 ---json
-{"layout":"layouts/default.njk","tags":["Evictions","Race","San Francisco"],"date":"2015-10-02T03:42:00","title":"Eviction Report, 2014","slug":"eviction-report-2014"}
+{"tags":["Evictions","Race","San Francisco"],"date":"2015-10-02T03:42:00","title":"Eviction Report, 2014"}
 ---
 
 Made in collaboration with the Eviction Defense Collaborative

@@ -1,5 +1,5 @@
 ---json
-{"layout":"layouts/default.njk","tags":["Evictors","Evictions","Speculation","Ownership","San Francisco"],"date":"2019-02-17T02:13:28","title":"Bay Area Evictor: Annlia Paganini","slug":"annlia-paganini"}
+{"tags":["Evictors","Evictions","Speculation","Ownership","San Francisco"],"date":"2019-02-17T02:13:28","title":"Bay Area Evictor: Annlia Paganini"}
 ---
 
 [![Screen Shot 2015-05-21 at 10.24.26 AM.png](https://images.squarespace-cdn.com/content/v1/52b7d7a6e4b0b3e376ac8ea2/1432229267075-GSO8AUNGFB0IN9H8MPGY/ke17ZwdGBToddI8pDm48kIxDPgjj0BBwkSedPL5agD9Zw-zPPgdn4jUwVcJE1ZvWhcwhEtWJXoshNdA9f1qD7a3IG1vtna7BEUjBtarIuos5FZXPTWAI3fC_Dn7e8QTDd55N0AuwcWHpjsFPk6YXAA/Screen+Shot+2015-05-21+at+10.24.26+AM.png)](https://images.squarespace-cdn.com/content/v1/52b7d7a6e4b0b3e376ac8ea2/1432229267075-GSO8AUNGFB0IN9H8MPGY/ke17ZwdGBToddI8pDm48kIxDPgjj0BBwkSedPL5agD9Zw-zPPgdn4jUwVcJE1ZvWhcwhEtWJXoshNdA9f1qD7a3IG1vtna7BEUjBtarIuos5FZXPTWAI3fC_Dn7e8QTDd55N0AuwcWHpjsFPk6YXAA/Screen+Shot+2015-05-21+at+10.24.26+AM.png) 

@@ -1,5 +1,5 @@
 ---json
-{"layout":"layouts/default.njk","tags":["Evictors","Evictions","Speculation","Ownership","Tech","San Francisco"],"date":"2019-02-16T23:56:37","title":"Bay Area Evictor: Thomas Fallows","slug":"thomas-fallows"}
+{"tags":["Evictors","Evictions","Speculation","Ownership","Tech","San Francisco"],"date":"2019-02-16T23:56:37","title":"Bay Area Evictor: Thomas Fallows"}
 ---
 
 ![Screen Shot 2014-05-13 at 7.33.57 AM.png](https://images.squarespace-cdn.com/content/v1/52b7d7a6e4b0b3e376ac8ea2/1399991376078-GX4DHO4BD31770UTEWE0/ke17ZwdGBToddI8pDm48kAEZUfBxXqydi80uInqjvPtZw-zPPgdn4jUwVcJE1ZvWEtT5uBSRWt4vQZAgTJucoTqqXjS3CfNDSuuf31e0tVH2jQ6MEd3YG1EzBc3dCPQmObx746zG_4bElEm593OrzZu3E9Ef3XsXP1C_826c-iU/Screen+Shot+2014-05-13+at+7.33.57+AM.png) 

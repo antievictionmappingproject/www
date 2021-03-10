@@ -1,5 +1,5 @@
 ---json
-{"layout":"layouts/default.njk","tags":["Speculation","Evictors","Evictions","Ownership","San Francisco"],"date":"2019-02-17T00:10:19","title":"Bay Area Evictor: Michael Harrison","slug":"michael-harrison"}
+{"tags":["Speculation","Evictors","Evictions","Ownership","San Francisco"],"date":"2019-02-17T00:10:19","title":"Bay Area Evictor: Michael Harrison"}
 ---
 
 ![](https://images.squarespace-cdn.com/content/v1/52b7d7a6e4b0b3e376ac8ea2/1400782770953-D3XLNQXTIDTCLBHOW3NQ/ke17ZwdGBToddI8pDm48kFTEgwhRQcX9r3XtU0e50sUUqsxRUqqbr1mOJYKfIPR7LoDQ9mXPOjoJoqy81S2I8N_N4V1vUb5AoIIIbLZhVYxCRW4BPu10St3TBAUQYVKcW7uEhC96WQdj-SwE5EpM0lAopPba9ZX3O0oeNTVSRxdHAmtcci_6bmVLoSDQq_pb/image-asset.jpeg)

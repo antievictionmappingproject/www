@@ -1,5 +1,5 @@
 ---json
-{"layout":"layouts/default.njk","tags":["Evictors","Evictions","Speculation","Ownership","Tech","San Francisco"],"date":"2019-02-17T02:36:39","title":"Bay Area Evictor: Andrew Swerdlow, Gianmatteo Costanza, and David Fuchs","slug":"andrew-swerdlow-gianmatteo-costanza-and-david-fuchs"}
+{"tags":["Evictors","Evictions","Speculation","Ownership","Tech","San Francisco"],"date":"2019-02-17T02:36:39","title":"Bay Area Evictor: Andrew Swerdlow, Gianmatteo Costanza, and David Fuchs"}
 ---
 
 [![Screen Shot 2014-05-13 at 12.33.38 AM.png](https://images.squarespace-cdn.com/content/v1/52b7d7a6e4b0b3e376ac8ea2/1399966157514-00V2S3IDVH7EGXDHU6IV/ke17ZwdGBToddI8pDm48kDdQbjtGuxZvySG4-cMjcntZw-zPPgdn4jUwVcJE1ZvWhcwhEtWJXoshNdA9f1qD7R6SWOyAW0y1cpSTASaRj-wILRFo2qUV6anw4Ln3aPpcuO37m9hhzYGGRr4l3uBotw/Screen+Shot+2014-05-13+at+12.33.38+AM.png)](https://images.squarespace-cdn.com/content/v1/52b7d7a6e4b0b3e376ac8ea2/1399966157514-00V2S3IDVH7EGXDHU6IV/ke17ZwdGBToddI8pDm48kDdQbjtGuxZvySG4-cMjcntZw-zPPgdn4jUwVcJE1ZvWhcwhEtWJXoshNdA9f1qD7R6SWOyAW0y1cpSTASaRj-wILRFo2qUV6anw4Ln3aPpcuO37m9hhzYGGRr4l3uBotw/Screen+Shot+2014-05-13+at+12.33.38+AM.png) 

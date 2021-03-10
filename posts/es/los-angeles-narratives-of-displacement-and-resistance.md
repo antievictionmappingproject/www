@@ -1,5 +1,5 @@
 ---json
-{"layout":"layouts/default.njk","tags":["Evictions","Narratives","Resistance","Relocation","Los Angeles"],"date":"2020-03-19T06:58:00","title":"Los Angeles Narratives of Displacement and Resistance - Oral History Map","slug":"los-angeles-narratives-of-displacement-and-resistance"}
+{"tags":["Evictions","Narratives","Resistance","Relocation","Los Angeles"],"date":"2020-03-19T06:58:00","title":"Los Angeles Narratives of Displacement and Resistance - Oral History Map"}
 ---
 
 Map of oral histories in Los Angeles County, Narratives of Displacement and Resistance

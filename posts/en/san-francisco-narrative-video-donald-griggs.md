@@ -1,5 +1,5 @@
 ---json
-{"layout":"layouts/default.njk","tags":["Race","Resistance","Narratives","San Francisco"],"date":"2019-03-31T16:37:55","title":"San Francisco Narrative Video: Donald Griggs","slug":"san-francisco-narrative-video-donald-griggs"}
+{"tags":["Race","Resistance","Narratives","San Francisco"],"date":"2019-03-31T16:37:55","title":"San Francisco Narrative Video: Donald Griggs"}
 ---
 
 Made in collaboration with SOTA

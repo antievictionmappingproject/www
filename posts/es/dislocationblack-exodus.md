@@ -1,5 +1,5 @@
 ---json
-{"layout":"layouts/default.njk","tags":["Race","Narratives","Events","Resistance","Evictions","Development","Health","Relocation","San Francisco"],"date":"2020-07-02T04:12:00","title":"(Dis)location/Black Exodus","slug":"dislocationblack-exodus"}
+{"tags":["Race","Narratives","Events","Resistance","Evictions","Development","Health","Relocation","San Francisco"],"date":"2020-07-02T04:12:00","title":"(Dis)location/Black Exodus"}
 ---
 
 (Dis)location/Black Exodus

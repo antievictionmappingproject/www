@@ -1,5 +1,5 @@
 ---json
-{"layout":"layouts/default.njk","tags":["Speculation","Development","San Francisco"],"date":"2015-10-30T16:44:00","title":"Vacant Commercial and Residential Buildings, SF, 2015","slug":"vacant-buildings-sf-2015"}
+{"tags":["Speculation","Development","San Francisco"],"date":"2015-10-30T16:44:00","title":"Vacant Commercial and Residential Buildings, SF, 2015"}
 ---
 
 Map of residential and commercial vacancies in San Francisco, 2015

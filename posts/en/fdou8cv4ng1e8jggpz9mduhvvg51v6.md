@@ -1,5 +1,5 @@
 ---json
-{"layout":"layouts/default.njk","tags":["Narratives","Resistance","Evictions","Race","Oakland"],"date":"2019-03-31T03:35:43","title":"Alameda County Narrative Video: 2044 International Blvd.","slug":"fdou8cv4ng1e8jggpz9mduhvvg51v6"}
+{"tags":["Narratives","Resistance","Evictions","Race","Oakland"],"date":"2019-03-31T03:35:43","title":"Alameda County Narrative Video: 2044 International Blvd."}
 ---
 
 A group of tenants living in an apartment building in the San Antonio district of East Oakland organize themselves to fight against the real and persistent threats of eviction from their changing landlords. Two of the lead organizers describe their building's fight, their stake in their community, and the necessity for tenants to organize, unite, and educate themselves to fight for their homes and resist displacement.

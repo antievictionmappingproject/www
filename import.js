@@ -41,11 +41,9 @@ async function writePost(post) {
   if (!title || !content) return;
   const slug = slugify(link.match(/[^\/]*$/g)[0]);
   const frontmatter = JSON.stringify({
-    layout: "layouts/default.njk",
     tags: [...post_tag, ...category],
     date: date.split(" ").join("T"),
     title,
-    slug,
   });
   const text = `---json\n${frontmatter}\n---\n\n${turndownService
     .turndown(content)

@@ -1,5 +1,5 @@
 ---json
-{"layout":"layouts/default.njk","tags":["Race","Evictions","Foreclosure","Resistance","Narratives","City of Alameda"],"date":"2019-04-16T02:51:25","title":"Evictions and Gentrification in the City of Alameda","slug":"evictions-and-gentrification-in-the-city-of-alameda"}
+{"tags":["Race","Evictions","Foreclosure","Resistance","Narratives","City of Alameda"],"date":"2019-04-16T02:51:25","title":"Evictions and Gentrification in the City of Alameda"}
 ---
 
 Evictions in the City of Alameda, from our report, Counterpoints: Bay Area Data and Stories for Resisting Displacement

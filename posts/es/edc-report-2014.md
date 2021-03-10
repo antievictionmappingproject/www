@@ -1,5 +1,5 @@
 ---json
-{"layout":"layouts/default.njk","tags":["Race","Evictions","San Francisco"],"date":"2014-09-23T18:15:00","title":"Eviction Defense Collaborative report, 2014","slug":"edc-report-2014"}
+{"tags":["Race","Evictions","San Francisco"],"date":"2014-09-23T18:15:00","title":"Eviction Defense Collaborative report, 2014"}
 ---
 
 Report written in collaboration with the Eviction Defense Collaborate

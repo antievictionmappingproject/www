@@ -1,5 +1,5 @@
 ---json
-{"layout":"layouts/default.njk","tags":["Speculation","Race","Foreclosure","Banks","San Francisco"],"date":"2016-11-20T17:35:00","title":"Foreclosures: Redlining and Race, San Francisco","slug":"sf-foreclosures-and-redlining"}
+{"tags":["Speculation","Race","Foreclosure","Banks","San Francisco"],"date":"2016-11-20T17:35:00","title":"Foreclosures: Redlining and Race, San Francisco"}
 ---
 
 Foreclosures, SF, 2006-2016, and 1939 Redlining Map

@@ -1,5 +1,5 @@
 ---json
-{"layout":"layouts/default.njk","tags":["Tech","Speculation","Ownership","San Francisco"],"date":"2016-09-01T18:48:00","title":"VRBO Actor: David Bellings","slug":"vrbo-actor-david-bellings"}
+{"tags":["Tech","Speculation","Ownership","San Francisco"],"date":"2016-09-01T18:48:00","title":"VRBO Actor: David Bellings"}
 ---
 
 **DAVID BELLINGS**

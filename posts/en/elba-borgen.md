@@ -1,5 +1,5 @@
 ---json
-{"layout":"layouts/default.njk","tags":["Evictors","Evictions","Speculation","Ownership","San Francisco"],"date":"2019-02-16T23:31:56","title":"Bay Area Evictor: Elba Borgen","slug":"elba-borgen"}
+{"tags":["Evictors","Evictions","Speculation","Ownership","San Francisco"],"date":"2019-02-16T23:31:56","title":"Bay Area Evictor: Elba Borgen"}
 ---
 
 [![ElbowYouOutBorgen.jpeg](https://images.squarespace-cdn.com/content/v1/52b7d7a6e4b0b3e376ac8ea2/1403803491448-0JCRDTO6JMVDG6TXCE00/ke17ZwdGBToddI8pDm48kNnTBge4Cqbf0CHeyOlbDEBZw-zPPgdn4jUwVcJE1ZvWhcwhEtWJXoshNdA9f1qD7Xj1nVWs2aaTtWBneO2WM-t68JmFTiKHPvT-Un8KXAALmW_5Z8CKpZukhjUYF2S_Aw/ElbowYouOutBorgen.jpeg)](https://images.squarespace-cdn.com/content/v1/52b7d7a6e4b0b3e376ac8ea2/1403803491448-0JCRDTO6JMVDG6TXCE00/ke17ZwdGBToddI8pDm48kNnTBge4Cqbf0CHeyOlbDEBZw-zPPgdn4jUwVcJE1ZvWhcwhEtWJXoshNdA9f1qD7Xj1nVWs2aaTtWBneO2WM-t68JmFTiKHPvT-Un8KXAALmW_5Z8CKpZukhjUYF2S_Aw/ElbowYouOutBorgen.jpeg) 

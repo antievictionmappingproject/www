@@ -1,5 +1,5 @@
 ---json
-{"layout":"layouts/default.njk","tags":["Evictions","Speculation","Policing","New York City"],"date":"2020-08-01T22:16:00","title":"COVID-19 Crisis Capitalism Comes to Real Estate","slug":"covid-19-crisis-capitalism-comes-to-real-estate"}
+{"tags":["Evictions","Speculation","Policing","New York City"],"date":"2020-08-01T22:16:00","title":"COVID-19 Crisis Capitalism Comes to Real Estate"}
 ---
 
 COVID-19 Crisis Capitalism Comes to Real Estate

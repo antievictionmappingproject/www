@@ -1,5 +1,5 @@
 ---json
-{"layout":"layouts/default.njk","tags":["Narratives","Evictions","San Francisco"],"date":"2017-08-04T19:08:00","title":"Unending Filipino Diaspora: A History of Double Displacement","slug":"unending-filipino-diaspora-a-history-of-double-displacement"}
+{"tags":["Narratives","Evictions","San Francisco"],"date":"2017-08-04T19:08:00","title":"Unending Filipino Diaspora: A History of Double Displacement"}
 ---
 
 [

@@ -1,5 +1,5 @@
 ---json
-{"layout":"layouts/default.njk","tags":["Evictors","Evictions","Ownership","Speculation","San Francisco"],"date":"2019-02-16T23:48:09","title":"Bay Area Evictor: Martin Coyne","slug":"martin-coyne"}
+{"tags":["Evictors","Evictions","Ownership","Speculation","San Francisco"],"date":"2019-02-16T23:48:09","title":"Bay Area Evictor: Martin Coyne"}
 ---
 
 [![diego passport 001.jpg](https://images.squarespace-cdn.com/content/v1/52b7d7a6e4b0b3e376ac8ea2/1403423388287-L0UTSGATZGNFBNIDUR2E/ke17ZwdGBToddI8pDm48kH4z98CMRxxavtxAH6f5XEV7gQa3H78H3Y0txjaiv_0fDoOvxcdMmMKkDsyUqMSsMWxHk725yiiHCCLfrh8O1z4YTzHvnKhyp6Da-NYroOW3ZGjoBKy3azqku80C789l0nQwvinDXPV4EYh2MRzm-RQHSgFEQXUDTKxvdClKh-jUEFu3ToHFOfHfjLV5qWFKcQ/diego+passport+001.jpg)](https://images.squarespace-cdn.com/content/v1/52b7d7a6e4b0b3e376ac8ea2/1403423388287-L0UTSGATZGNFBNIDUR2E/ke17ZwdGBToddI8pDm48kH4z98CMRxxavtxAH6f5XEV7gQa3H78H3Y0txjaiv_0fDoOvxcdMmMKkDsyUqMSsMWxHk725yiiHCCLfrh8O1z4YTzHvnKhyp6Da-NYroOW3ZGjoBKy3azqku80C789l0nQwvinDXPV4EYh2MRzm-RQHSgFEQXUDTKxvdClKh-jUEFu3ToHFOfHfjLV5qWFKcQ/diego+passport+001.jpg) 

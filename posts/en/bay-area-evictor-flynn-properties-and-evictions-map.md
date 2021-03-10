@@ -1,5 +1,5 @@
 ---json
-{"layout":"layouts/default.njk","tags":["Evictors","Evictions","Ownership","Banks","Bay Area","Oakland","San Francisco"],"date":"2019-07-02T10:17:00","title":"Bay Area Evictor: Flynn Properties and Evictions Map","slug":"bay-area-evictor-flynn-properties-and-evictions-map"}
+{"tags":["Evictors","Evictions","Ownership","Banks","Bay Area","Oakland","San Francisco"],"date":"2019-07-02T10:17:00","title":"Bay Area Evictor: Flynn Properties and Evictions Map"}
 ---
 
 Flynn Property and Evictions, San Francisco

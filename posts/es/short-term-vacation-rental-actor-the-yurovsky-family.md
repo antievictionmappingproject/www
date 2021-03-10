@@ -1,5 +1,5 @@
 ---json
-{"layout":"layouts/default.njk","tags":["Tech","Speculation","Evictions","San Francisco"],"date":"2016-09-01T22:57:00","title":"Short Term Vacation Rental Actor: The Yurovsky Family","slug":"short-term-vacation-rental-actor-the-yurovsky-family"}
+{"tags":["Tech","Speculation","Evictions","San Francisco"],"date":"2016-09-01T22:57:00","title":"Short Term Vacation Rental Actor: The Yurovsky Family"}
 ---
 
 THE YUROVSKY FAMILY **\-** **6 formerly rent controlled units on VRBO and AirBNB**

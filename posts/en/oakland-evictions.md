@@ -1,5 +1,5 @@
 ---json
-{"layout":"layouts/default.njk","tags":["Evictions","Affordability","Oakland"],"date":"2016-10-19T17:16:00","title":"Oakland Unlawful Detainter Evictions","slug":"oakland-evictions"}
+{"tags":["Evictions","Affordability","Oakland"],"date":"2016-10-19T17:16:00","title":"Oakland Unlawful Detainter Evictions"}
 ---
 
 Map of Unlawful Detainer Evictions in Oakland, 2005-2016

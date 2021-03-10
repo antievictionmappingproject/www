@@ -1,5 +1,5 @@
 ---json
-{"layout":"layouts/default.njk","tags":["Race","Foreclosure","Policing","Oakland"],"date":"2019-03-26T02:47:34","title":"Deracinated Dispossessions","slug":"deracinated-dispossession"}
+{"tags":["Race","Foreclosure","Policing","Oakland"],"date":"2019-03-26T02:47:34","title":"Deracinated Dispossessions"}
 ---
 
 New _Antipode_ paper by Erin McElroy and Alex Werth.

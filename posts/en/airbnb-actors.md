@@ -1,5 +1,5 @@
 ---json
-{"layout":"layouts/default.njk","tags":["Tech","Speculation","San Francisco"],"date":"2017-04-01T18:45:00","title":"Airbnb Actor: Emily Benkert","slug":"airbnb-actors"}
+{"tags":["Tech","Speculation","San Francisco"],"date":"2017-04-01T18:45:00","title":"Airbnb Actor: Emily Benkert"}
 ---
 
 **EMILY BENKERT**

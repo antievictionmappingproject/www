@@ -1,5 +1,5 @@
 ---json
-{"layout":"layouts/default.njk","tags":["Evictions","Evictors","Speculation","Ownership","San Francisco"],"date":"2019-02-17T00:08:45","title":"Bay Area Evictor: Jack Halprin","slug":"jack-halprin"}
+{"tags":["Evictions","Evictors","Speculation","Ownership","San Francisco"],"date":"2019-02-17T00:08:45","title":"Bay Area Evictor: Jack Halprin"}
 ---
 
 [![image.jpeg](https://images.squarespace-cdn.com/content/v1/52b7d7a6e4b0b3e376ac8ea2/1409635052682-JD3DK3A2KG7PYSPXGQI6/ke17ZwdGBToddI8pDm48kIweTTtm3xiRoej5hiMLvXN7gQa3H78H3Y0txjaiv_0fDoOvxcdMmMKkDsyUqMSsMWxHk725yiiHCCLfrh8O1z5QHyNOqBUUEtDDsRWrJLTmW5SZw0zY0wEgct1jJcv4nBovPz4S3WI8A3UQhUiC0bTcIBlfr2rXR7XRPOBgRtb8/image.jpeg)](https://images.squarespace-cdn.com/content/v1/52b7d7a6e4b0b3e376ac8ea2/1409635052682-JD3DK3A2KG7PYSPXGQI6/ke17ZwdGBToddI8pDm48kIweTTtm3xiRoej5hiMLvXN7gQa3H78H3Y0txjaiv_0fDoOvxcdMmMKkDsyUqMSsMWxHk725yiiHCCLfrh8O1z5QHyNOqBUUEtDDsRWrJLTmW5SZw0zY0wEgct1jJcv4nBovPz4S3WI8A3UQhUiC0bTcIBlfr2rXR7XRPOBgRtb8/image.jpeg) 
