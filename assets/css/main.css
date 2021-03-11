@@ -177,9 +177,12 @@ a {
   padding: var(--s0);
 }
 
-.text-stack > * + * {
+.text-stack {
   display: flex;
   flex-direction: column;
+}
+
+.text-stack > * + * {
   margin-top: var(--s0);
 }
 

@@ -1,4 +1,5 @@
 ---
+eleventyExcludeFromCollections: true
 layout: layouts/default.njk
 pagination:
   data: collections
@@ -6,24 +7,26 @@ pagination:
   alias: currentTag
 permalink: /{{ locale }}/tags/{{ currentTag }}/
 ---
+
+<h1>{{"posts" | i18n | capitalize}}</h1>
 <ul class="unstyle grid" style="grid-template-columns: repeat(auto-fill, minmax(8rem, 1fr));">
-  {% for tag, _ in collections %}
+  {%- for tag, _ in collections | dictsort -%}
     <li><a href="/{{locale}}/tags/{{ tag }}">{{ tag }}</a></li>
-  {% endfor %}
+  {%- endfor -%}
 </ul>
 <ol>
-  {% for post in collections[ currentTag ] %}
-    {% if post.data.locale == locale %}
+  {%- for post in collections[ currentTag ] | reverse -%}
+    {%- if post.data.locale == locale -%}
       <li><a href="{{ post.url | url }}">{{ post.data.title }}</a></li>
-    {% endif %}
-  {% endfor %}
+    {%- endif -%}
+  {%- endfor -%}
 </ol>
 <ul>
-  {% for lang in site.languages %}
-    {% set translatedUrl = "/" + lang.code + page.internationalStem %}
-    {% set activeClass = "is-active" if lang.code == locale else "" %}
+  {%- for lang in site.languages -%}
+    {%- set translatedUrl = "/" + lang.code + page.internationalStem -%}
+    {%- set activeClass = "is-active" if lang.code == locale else "" -%}
     <li>
       <a class="{{ activeClass }}" href="{{ translatedUrl }}">{{ lang.label }}</a>
     </li>
-  {% endfor %}
+  {%- endfor -%}
 </ul>
