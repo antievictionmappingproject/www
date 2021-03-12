@@ -9,7 +9,7 @@ permalink: /{{ locale }}/tags/{{ currentTag }}/
 ---
 
 <h1>{{"posts" | i18n | capitalize}}</h1>
-<ul class="unstyle grid" style="grid-template-columns: repeat(auto-fill, minmax(8rem, 1fr));">
+<ul class="unstyle grid">
   {%- for tag, _ in collections | dictsort -%}
     <li><a href="/{{locale}}/tags/{{ tag }}">{{ tag }}</a></li>
   {%- endfor -%}
