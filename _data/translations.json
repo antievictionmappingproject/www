@@ -1,6 +1,10 @@
-{
-  "posts": {
+[
+  {
     "en": "posts",
     "es": "publicaciones"
+  },
+  {
+    "en": "all",
+    "es": "todos"
   }
-}
+]

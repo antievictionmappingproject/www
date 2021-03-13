@@ -8,10 +8,10 @@ pagination:
 permalink: /{{ locale }}/tags/{{ currentTag }}/
 ---
 
-<h1>{{"posts" | i18n | capitalize}}</h1>
+<h1>{{"posts" | translate | capitalize}}</h1>
 <ul class="unstyle grid">
   {%- for tag, _ in collections | dictsort -%}
-    <li><a href="/{{locale}}/tags/{{ tag }}" class="tag" {{ "aria-current" if tag == currentTag }}>{{ tag }}</a></li>
+    <li><a href="/{{locale}}/tags/{{ tag }}" class="tag" {{ "aria-current" if tag == currentTag }}>{{ tag | translate }}</a></li>
   {%- endfor -%}
 </ul>
 <ol>
