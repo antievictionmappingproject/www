@@ -165,6 +165,19 @@ a {
   padding: 0;
 }
 
+.tag {
+  background-color: var(--lightest-blue);
+  color: var(--dark-blue);
+  padding: 0.1em 0.5em;
+  text-decoration: none;
+  border-radius: 100vw;
+}
+
+.tag[aria-current] {
+  background-color: var(--dark-blue);
+  color: var(--lightest-blue);
+}
+
 /* Stack */
 
 .stack {
