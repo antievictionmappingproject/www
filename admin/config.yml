@@ -7,6 +7,20 @@ i18n:
   default_locale: en
 media_folder: "assets/uploads"
 collections:
+  - name: "settings"
+    label: "Settings"
+    files:
+      - label: "Translations"
+        name: "translations"
+        file: "_data/translations.json"
+        fields:
+          - label: "Translations"
+            name: "translations"
+            widget: "list"
+            summary: "{{fields.en}}"
+            fields:
+              - { label: en, name: en, widget: string }
+              - { label: es, name: es, widget: string }
   - name: "posts"
     label: "Posts"
     folder: "posts"
