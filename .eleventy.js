@@ -1,6 +1,6 @@
 const CleanCSS = require("clean-css");
 
-const translations = require("./_data/translations.json");
+const { translations } = require("./_data/translations.json");
 
 module.exports = function (eleventyConfig) {
   eleventyConfig.setDataDeepMerge(true);
