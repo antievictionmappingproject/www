@@ -4,6 +4,10 @@
     <meta charset="utf-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
     <title>AEMP{% if title %} | {{ title }}{% endif %}</title>
+    {%- for lang in site.languages -%}
+    {% set translatedUrl = "/" + lang.code + page.internationalStem %}
+    <link rel="alternate" hreflang="{{ lang.code }}" href="{{ translatedUrl }}">
+    {%- endfor -%}
     <link rel="stylesheet" href="/assets/css/reset.css"/>
     <link rel="stylesheet" href="/assets/css/main.css"/>
     <script src="https://identity.netlify.com/v1/netlify-identity-widget.js"></script>
