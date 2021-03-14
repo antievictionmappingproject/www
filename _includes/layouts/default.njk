@@ -12,7 +12,10 @@
     <link rel="stylesheet" href="/assets/css/main.css"/>
     <script src="https://identity.netlify.com/v1/netlify-identity-widget.js"></script>
   </head>
-  <body class="center" style="padding: var(--f1);">
+  <body class="center stack" style="padding: var(--f1);">
+    <nav>
+      {% include "partials/search.njk" %}
+    </nav>
     <main class="stack text-block">
       {{ content | safe }}
     </main>
