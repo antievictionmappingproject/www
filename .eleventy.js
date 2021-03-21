@@ -14,6 +14,14 @@ module.exports = function (eleventyConfig) {
     return (typeof o === "object" && o[this.ctx.locale]) || value;
   });
 
+  ["en", "es"].forEach((locale) => {
+    eleventyConfig.addCollection(locale, (collectionApi) => {
+      return collectionApi.getAll().filter((item) => {
+        return item.data.locale === locale;
+      });
+    });
+  });
+
   eleventyConfig.addPassthroughCopy("admin");
   eleventyConfig.addPassthroughCopy("assets");
 };

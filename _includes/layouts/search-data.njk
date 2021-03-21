@@ -1,0 +1,15 @@
+---
+eleventyExcludeFromCollections: true
+layout: 'layouts/none.njk'
+permalink: '/{{ locale }}/search-data.json'
+---
+
+{"search" : [
+{%- for item in collections[locale] -%}
+  {
+    "url": "{{ item.url }}",
+    "title": "{{ item.data.title }}"
+  }
+{%- if not loop.last and item.data.locale == locale %},{% else %}{% endif -%}
+{%- endfor -%}
+]}
