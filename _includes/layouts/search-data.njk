@@ -4,7 +4,7 @@ layout: 'layouts/none.njk'
 permalink: '/{{ locale }}/search-data.json'
 ---
 
-{"search" : [
+{"options" : [
 {%- for item in collections[locale] -%}
   {
     "url": "{{ item.url }}",

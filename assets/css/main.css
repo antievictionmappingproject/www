@@ -154,6 +154,10 @@ a {
   text-decoration-color: var(--light-blue);
 }
 
+.debug {
+  outline: gold;
+}
+
 .unstyle {
   font-size: inherit;
   line-height: inherit;
