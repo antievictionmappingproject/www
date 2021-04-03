@@ -136,9 +136,6 @@ class SearchInput extends LitElement {
       text-overflow: ellipsis;
       font-size: var(--f00);
     }
-    .hidden {
-      display: none;
-    }
   `;
 
   render() {
@@ -156,7 +153,7 @@ class SearchInput extends LitElement {
         autocapitalize="none"
         type="text"
         id="search"
-        class="search-input"
+        class="unstyled full-width"
         placeholder="Search for an article"
       />
       <dl role="listbox" class="${this.isOpen ? "" : "hidden"}">
