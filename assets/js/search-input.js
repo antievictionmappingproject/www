@@ -5,13 +5,10 @@ import {
 } from "https://cdn.skypack.dev/lit-element@2.4.0";
 
 const keyCodes = {
-  left: 37,
   up: 38,
-  right: 39,
   down: 40,
   return: 13,
   tab: 9,
-  space: 32,
 };
 
 function clamp(min, max, value) {
@@ -37,7 +34,7 @@ function occurrences(string, subString) {
   return n;
 }
 
-class SearchOptions extends LitElement {
+class SearchInput extends LitElement {
   static get properties() {
     return {
       _value: { type: String },
@@ -80,7 +77,8 @@ class SearchOptions extends LitElement {
         ),
       ])
       .filter(([, count]) => count > 0)
-      .sort(([, a], [, b]) => a - b);
+      .sort(([, a], [, b]) => a - b)
+      .slice(0, 10);
     this.suggestedOptions =
       this.value.trim().length > 0 ? matchMap.map(([option]) => option) : [];
   }
@@ -104,30 +102,39 @@ class SearchOptions extends LitElement {
   }
 
   static styles = css`
-    div {
+    :host {
       position: relative;
     }
-    ul {
+    dl {
       list-style: none;
       margin: 0;
       padding: 0;
       position: absolute;
       top: 100%;
       left: 0;
-      max-height: 20rem;
-      overflow-y: scroll;
-      -webkit-overflow-scrolling: touch;
-      border: solid 1px var(--gray);
+      max-width: 100%;
     }
-    li {
+    dl > div {
       padding: 0.5rem;
+      border: solid 2px var(--white);
+      border-radius: 1rem;
       background: var(--white);
+      box-shadow: 0 1rem 2rem -0.5rem var(--black-5);
+      margin-top: 0.25rem;
     }
-    li + li {
-      border-top: solid 1px var(--gray);
-    }
-    li.selected {
+    dl > div.selected {
+      border-color: var(--blue);
       background: var(--lightest-blue);
+    }
+    dt {
+      font-size: var(--f0);
+      color: var(--black);
+    }
+    dd {
+      overflow: hidden;
+      white-space: nowrap;
+      text-overflow: ellipsis;
+      font-size: var(--f00);
     }
     .hidden {
       display: none;
@@ -138,38 +145,38 @@ class SearchOptions extends LitElement {
     return html`
       <link href="/assets/css/reset.css" rel="stylesheet" />
       <link href="/assets/css/main.css" rel="stylesheet" />
-      <div>
-        <input
-          @focus="${this._handleFocus}"
-          @input="${this._handleInput}"
-          @keydown="${this._handleKeydown}"
-          value="${this._value}"
-          role="combobox"
-          aria-autocomplete="list"
-          autocomplete="off"
-          autocapitalize="none"
-          type="text"
-          id="search"
-          placeholder="Search for an article"
-        />
-        <ul role="listbox" class="${this.isOpen ? "" : "hidden"}">
-          ${this.suggestedOptions.map(
-            (option, i) =>
-              html` <li
-                @click="${this.dispatchSubmit}"
-                @mouseover="${this._handleMouseover}"
-                role="option"
-                tabindex="-1"
-                data-index="${i}"
-                class="${this._selectedIndex === i ? "selected" : "none"}"
-              >
-                ${option.title}
-              </li>`
-          )}
-        </ul>
-        <div aria-live="polite" role="status" class="visually-hidden">
-          ${this.suggestedOptions.length} results available.
-        </div>
+      <input
+        @focus="${this._handleFocus}"
+        @input="${this._handleInput}"
+        @keydown="${this._handleKeydown}"
+        value="${this._value}"
+        role="combobox"
+        aria-autocomplete="list"
+        autocomplete="off"
+        autocapitalize="none"
+        type="text"
+        id="search"
+        class="search-input"
+        placeholder="Search for an article"
+      />
+      <dl role="listbox" class="${this.isOpen ? "" : "hidden"}">
+        ${this.suggestedOptions.map(
+          (option, i) =>
+            html` <div
+              @click="${this.dispatchSubmit}"
+              @mouseenter="${this._handleMouseenter}"
+              role="option"
+              tabindex="-1"
+              data-index="${i}"
+              class="${this._selectedIndex === i ? "selected" : "none"}"
+            >
+              <dt>${option.title}</dt>
+              <dd>${option.content}</dd>
+            </div>`
+        )}
+      </dl>
+      <div aria-live="polite" role="status" class="visually-hidden">
+        ${this.suggestedOptions.length} results available.
       </div>
     `;
   }
@@ -187,6 +194,7 @@ class SearchOptions extends LitElement {
 
   _handleInput(event) {
     this.isOpen = true;
+    this.selectedIndex = 0;
     this.value = event.target.value;
   }
 
@@ -204,13 +212,12 @@ class SearchOptions extends LitElement {
         this.selectedIndex -= 1;
         break;
       case keyCodes.return:
-      case keyCodes.space:
         this.dispatchSubmit();
         break;
     }
   }
 
-  _handleMouseover(event) {
+  _handleMouseenter(event) {
     this.selectedIndex = event.target.dataset.index;
   }
 
@@ -248,7 +255,7 @@ class SearchOptions extends LitElement {
   }
 }
 
-customElements.define("search-options", SearchOptions);
+customElements.define("search-input", SearchInput);
 
 class SearchForm extends HTMLFormElement {
   constructor() {
@@ -264,8 +271,8 @@ class SearchForm extends HTMLFormElement {
 
   submit() {
     console.log("submit");
-    const optionsElement = this.querySelector("search-options");
-    window.location.href = optionsElement.selectedOption.url;
+    const inputElement = this.querySelector("search-input");
+    window.location.href = inputElement.selectedOption.url;
   }
 }
 

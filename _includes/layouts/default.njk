@@ -13,13 +13,15 @@
     <script src="https://identity.netlify.com/v1/netlify-identity-widget.js"></script>
     <script type="module" src="/assets/js/search-input.js"/>
   </head>
-  <body class="center stack" style="padding: var(--f1);">
-    <nav>
+  <body>
+    <div class="center stack" style="padding: var(--f1);">
+    <nav class="header">
       {% include "partials/search.njk" %}
     </nav>
     <main class="stack text-block">
       {{ content | safe }}
     </main>
+    </div>
     <script>
       if (window.netlifyIdentity) {
         window.netlifyIdentity.on("init", user => {
