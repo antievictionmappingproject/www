@@ -129,8 +129,11 @@ class SearchOptions extends LitElement {
           ${this.suggestedOptions.map(
             (option, i) =>
               html` <li
+                @click="${this.dispatchSubmit}"
+                @mouseover="${this._handleMouseover}"
                 role="option"
                 tabindex="-1"
+                data-index="${i}"
                 class="${this._selectedIndex === i ? "selected" : "none"}"
               >
                 ${option.title}
@@ -166,6 +169,7 @@ class SearchOptions extends LitElement {
         this.isOpen = false;
         break;
       case keyCodes.down:
+        event.preventDefault();
         this.selectedIndex += 1;
         break;
       case keyCodes.up:
@@ -176,6 +180,10 @@ class SearchOptions extends LitElement {
         this.dispatchSubmit();
         break;
     }
+  }
+
+  _handleMouseover(event) {
+    this.selectedIndex = event.target.dataset.index;
   }
 
   _handleDocumentClick(event) {
