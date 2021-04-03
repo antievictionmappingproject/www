@@ -11,10 +11,30 @@ const keyCodes = {
   down: 40,
   return: 13,
   tab: 9,
+  space: 32,
 };
 
 function clamp(min, max, value) {
   return Math.max(Math.min(value, max), min);
+}
+
+function occurrences(string, subString) {
+  string += "";
+  subString += "";
+  if (subString.length <= 0) {
+    return string.length + 1;
+  }
+  let n = 0,
+    pos = 0,
+    step = subString.length;
+  while (true) {
+    pos = string.indexOf(subString, pos);
+    if (pos >= 0) {
+      ++n;
+      pos += step;
+    } else break;
+  }
+  return n;
 }
 
 class SearchOptions extends LitElement {
@@ -48,14 +68,21 @@ class SearchOptions extends LitElement {
 
   set value(value) {
     this._value = value;
-    this.suggestedOptions = this.options
-      .filter((option) => {
-        return (
-          option.title.toLowerCase().includes(this.value) &&
-          this.value.trim().length > 0
-        );
-      })
-      .sort((a, b) => (a.title > b.title ? 1 : -1));
+    const matchMap = this.options
+      .map((option) => [
+        option,
+        occurrences(
+          option.content
+            .toLowerCase()
+            .replace(/[^\w\s]/g, "")
+            .replace(/\s/g, " "),
+          value.toLowerCase()
+        ),
+      ])
+      .filter(([, count]) => count > 0)
+      .sort(([, a], [, b]) => a - b);
+    this.suggestedOptions =
+      this.value.trim().length > 0 ? matchMap.map(([option]) => option) : [];
   }
 
   get value() {
@@ -177,6 +204,7 @@ class SearchOptions extends LitElement {
         this.selectedIndex -= 1;
         break;
       case keyCodes.return:
+      case keyCodes.space:
         this.dispatchSubmit();
         break;
     }
