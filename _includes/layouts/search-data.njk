@@ -9,7 +9,7 @@ permalink: '/{{ locale }}/search-data.json'
   {
     "url": "{{ item.url }}",
     "title": "{{ item.data.title }}",
-    "content": "{{(item.data.title + " " + item.templateContent) | squash}}"
+    "content": "{{(item.data.title + ' ' + item.templateContent) | squash}}"
   }
 {%- if not loop.last and item.data.locale == locale %},{% else %}{% endif -%}
 {%- endfor -%}

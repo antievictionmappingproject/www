@@ -17,7 +17,7 @@ module.exports = function (eleventyConfig) {
       .replace(/(<([^>]+)>)/gi, "")
       .toLowerCase()
       .replace(/[^\w\s]/g, "")
-      .replace(/\s/g, " ")
+      .replace(/\s+/g, " ")
       .split(" ");
     return [...new Set(words)].join(" ");
   });

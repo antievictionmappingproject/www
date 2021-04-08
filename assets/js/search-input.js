@@ -3,6 +3,7 @@ import {
   html,
   css,
 } from "https://cdn.skypack.dev/lit-element@2.4.0";
+import { matchSorter } from "https://cdn.skypack.dev/match-sorter@6.3.0";
 
 const keyCodes = {
   up: 38,
@@ -13,25 +14,6 @@ const keyCodes = {
 
 function clamp(min, max, value) {
   return Math.max(Math.min(value, max), min);
-}
-
-function occurrences(string, subString) {
-  string += "";
-  subString += "";
-  if (subString.length <= 0) {
-    return string.length + 1;
-  }
-  let n = 0,
-    pos = 0,
-    step = subString.length;
-  while (true) {
-    pos = string.indexOf(subString, pos);
-    if (pos >= 0) {
-      ++n;
-      pos += step;
-    } else break;
-  }
-  return n;
 }
 
 class SearchInput extends LitElement {
@@ -65,22 +47,18 @@ class SearchInput extends LitElement {
 
   set value(value) {
     this._value = value;
-    const matchMap = this.options
-      .map((option) => [
-        option,
-        occurrences(
-          option.content
-            .toLowerCase()
-            .replace(/[^\w\s]/g, "")
-            .replace(/\s/g, " "),
-          value.toLowerCase()
-        ),
-      ])
-      .filter(([, count]) => count > 0)
-      .sort(([, a], [, b]) => a - b)
-      .slice(0, 10);
     this.suggestedOptions =
-      this.value.trim().length > 0 ? matchMap.map(([option]) => option) : [];
+      this.value.trim().length > 0
+        ? matchSorter(this.options, value, {
+            keys: ["title", "content"],
+          })
+            .slice(0, 10)
+            .map(({ content, ...rest }) => ({
+              matches: matchSorter(content, value),
+              content,
+              ...rest,
+            }))
+        : [];
   }
 
   get value() {
@@ -168,7 +146,7 @@ class SearchInput extends LitElement {
               class="${this._selectedIndex === i ? "selected" : "none"}"
             >
               <dt>${option.title}</dt>
-              <dd>${option.content}</dd>
+              <dd>Contains: ${option.matches.join(", ")}</dd>
             </div>`
         )}
       </dl>
@@ -228,16 +206,19 @@ class SearchInput extends LitElement {
     if (typeof this.dataset.src === "string") {
       const response = await fetch(this.dataset.src);
       const result = await response.json();
-      this.options = result.options;
+      this.options = result.options.map(({ content, ...rest }) => ({
+        content: content.split(" "),
+        ...rest,
+      }));
     }
   }
 
   async getSuggestedOptions() {
+    const value = this.value.toLowerCase().replace(/[^\w\s]/g, "");
     this.suggestedOptions = this.options
       .filter((option) => {
         return (
-          option.title.toLowerCase().includes(this.value) &&
-          this.value.trim().length > 0
+          option.title.toLowerCase().includes(value) && value.trim().length > 0
         );
       })
       .sort((a, b) => (a.title > b.title ? 1 : -1));
@@ -267,7 +248,6 @@ class SearchForm extends HTMLFormElement {
   }
 
   submit() {
-    console.log("submit");
     const inputElement = this.querySelector("search-input");
     window.location.href = inputElement.selectedOption.url;
   }
