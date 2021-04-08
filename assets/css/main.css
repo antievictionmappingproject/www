@@ -349,7 +349,7 @@ input::placeholder {
   object-fit: cover;
 }
 
-/* header */
+/* Header */
 
 .header {
   background: var(--light-green);
@@ -357,7 +357,13 @@ input::placeholder {
   border-radius: 2rem;
 }
 
-/* search-form */
+/* Search Form */
+
+[is="search-form"] {
+  flex-grow: 1;
+  flex-basis: 50%;
+  flex-shrink: 0;
+}
 
 [is="search-form"] > div {
   max-width: 30rem;
