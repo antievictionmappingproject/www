@@ -8,15 +8,15 @@ const component = {
       widget: "string",
     },
   ],
-  pattern: /^post-gallery( \S+)*$/,
+  pattern: /\n^!post-gallery (\S+)$/gm,
   fromBlock: function ([, tag]) {
     return { tag };
   },
   toBlock: function ({ tag }) {
-    return `post-gallery ${tag}`;
+    return `!post-gallery ${tag}`;
   },
   toPreview: function ({ tag }) {
-    return `!!! post-gallery <${tag}> !!!`;
+    return `!!! post-gallery ${tag} !!!`;
   },
 };
 

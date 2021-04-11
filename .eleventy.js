@@ -4,18 +4,18 @@ const markdownItRegexp = require("markdown-it-regexp");
 
 const { translations } = require("./_data/translations.json");
 const { languages } = require("./_data/site.js");
-const postGalleryComponent = require("./admin/js/post-gallery.js");
 
-const markdownLib = markdownIt({ html: true }).use(
-  markdownItRegexp(postGalleryComponent.pattern, function (match) {
-    return toPreview(fromBlock(match));
-  })
-);
+const editorComponents = [require("./admin/js/post-gallery.js")];
+
+const md = markdownIt({ html: true });
+editorComponents.forEach(({ pattern, toPreview, fromBlock }) => {
+  md.use(markdownItRegexp(pattern, (match) => toPreview(fromBlock(match))));
+});
 
 module.exports = function (eleventyConfig) {
   eleventyConfig.setDataDeepMerge(true);
 
-  eleventyConfig.setLibrary("md", markdownLib);
+  eleventyConfig.setLibrary("md", md);
 
   eleventyConfig.addFilter("translate", function (value) {
     const o = translations.find(({ en }) => en === value);
