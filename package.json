@@ -4,17 +4,24 @@
   "description": "",
   "main": "import.js",
   "scripts": {
-    "start": "npx eleventy --serve --quiet",
-    "build": "npx eleventy"
+    "start": "npm run build:eleventy && npm run watch",
+    "watch": "npm run watch:eleventy & npm run watch:components",
+    "build": "npm run build:eleventy && npm run build:components",
+    "build:eleventy": "npx eleventy",
+    "build:components": "npx browserify components/index.js -o _site/admin/components.js",
+    "watch:eleventy": "npx eleventy --serve --quiet",
+    "watch:components": "npx watchify components/index.js -o _site/admin/components.js"
   },
   "keywords": [],
   "author": "",
   "license": "ISC",
   "devDependencies": {
     "@11ty/eleventy": "^0.12.1",
+    "browserify": "^17.0.0",
     "he": "^1.2.0",
-    "turndown": "^7.0.0",
     "markdown-it": "^10.0.0",
-    "markdown-it-regexp": "^0.4.0"
+    "markdown-it-regexp": "^0.4.0",
+    "turndown": "^7.0.0",
+    "watchify": "^4.0.0"
   }
 }

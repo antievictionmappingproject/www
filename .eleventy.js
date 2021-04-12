@@ -4,12 +4,40 @@ const markdownItRegexp = require("markdown-it-regexp");
 
 const { translations } = require("./_data/translations.json");
 const { languages } = require("./_data/site.js");
+const components = require("./components/index.js");
 
-const editorComponents = [require("./admin/js/post-gallery.js")];
+function componentPlugin(md, { id, pattern, toPreview, fromBlock }) {
+  const name = "component_" + id;
+  md.block.ruler.before(
+    "paragraph",
+    name,
+    function replace(state, startLine, endLine, silent) {
+      const start = state.bMarks[startLine] + state.tShift[startLine];
+      const max = state.eMarks[startLine];
+      if (state.src.charCodeAt(start) !== "!".charCodeAt(0)) {
+        return false;
+      }
+      const match = pattern.exec(state.src.slice(start, max));
+      if (!match) {
+        return false;
+      }
+      if (silent) {
+        return true;
+      }
+      const token = state.push(name, "", 0);
+      token.meta = match;
+      state.line = endLine;
+      return true;
+    }
+  );
+  md.renderer.rules[name] = function (tokens, id) {
+    return toPreview(fromBlock(tokens[id].meta));
+  };
+}
 
 const md = markdownIt({ html: true });
-editorComponents.forEach(({ pattern, toPreview, fromBlock }) => {
-  md.use(markdownItRegexp(pattern, (match) => toPreview(fromBlock(match))));
+components.forEach((component) => {
+  md.use(componentPlugin, component);
 });
 
 module.exports = function (eleventyConfig) {
