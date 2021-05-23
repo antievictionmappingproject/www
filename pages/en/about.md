@@ -1,5 +1,4 @@
 ---
 slug: about
 ---
-
-{% postGallery "Evictors", collections %}
+{% postGallery "New York City", collections %}
