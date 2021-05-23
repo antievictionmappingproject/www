@@ -1,5 +1,5 @@
 module.exports = {
-  id: "post-gallery",
+  id: "postGallery",
   label: "Post Gallery",
   fields: [
     {
@@ -8,14 +8,19 @@ module.exports = {
       widget: "string",
     },
   ],
-  pattern: /^!post-gallery (\S+)$/,
+  pattern: /^{% postGallery "(\S+)", collections %}$/,
   fromBlock([, tag]) {
     return { tag };
   },
   toBlock({ tag }) {
-    return `!post-gallery ${tag}`;
+    return `{% postGallery "${tag}", collections %}`;
   },
   toPreview({ tag }) {
-    return `<div style="color: red">${tag}<div>`;
+    return `<div class="component">Post Gallery: ${tag}<div>`;
+  },
+  render(tag, collections) {
+    return collections[tag]
+      .map((item) => `<div>${item.data.title}</div>`)
+      .join("");
   },
 };

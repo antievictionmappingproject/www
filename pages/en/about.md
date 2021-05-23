@@ -2,4 +2,4 @@
 slug: about
 ---
 
-!post-gallery Evictors
+{% postGallery "Evictors", collections %}

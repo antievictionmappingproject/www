@@ -74,4 +74,12 @@ module.exports = function (eleventyConfig) {
 
   eleventyConfig.addPassthroughCopy("admin");
   eleventyConfig.addPassthroughCopy("assets");
+
+  components.forEach((component) => {
+    eleventyConfig.addShortcode(component.id, component.render);
+  });
+
+  return {
+    markdownTemplateEngine: "njk",
+  };
 };
