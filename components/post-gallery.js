@@ -8,7 +8,7 @@ module.exports = {
       widget: "string",
     },
   ],
-  pattern: /^{% postGallery "(\S+)", collections %}$/,
+  pattern: /^{% postGallery "(.+)", collections %}$/,
   fromBlock([, tag]) {
     return { tag };
   },
