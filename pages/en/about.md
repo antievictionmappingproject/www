@@ -1,4 +1,5 @@
 ---
 slug: about
 ---
-{% postGallery "New York City", collections %}
+
+{% postGallery "New York City", collections, locale %}

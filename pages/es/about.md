@@ -2,4 +2,4 @@
 slug: about
 ---
 
-{% postGallery "Evictors", collections %}
+{% postGallery "Evictors", collections, locale %}

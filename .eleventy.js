@@ -1,6 +1,6 @@
 const he = require("he");
 const markdownIt = require("markdown-it");
-const markdownItRegexp = require("markdown-it-regexp");
+const outdent = require("outdent");
 
 const { translations } = require("./_data/translations.json");
 const { languages } = require("./_data/site.js");
@@ -76,7 +76,9 @@ module.exports = function (eleventyConfig) {
   eleventyConfig.addPassthroughCopy("assets");
 
   components.forEach((component) => {
-    eleventyConfig.addShortcode(component.id, component.render);
+    eleventyConfig.addShortcode(component.id, function (...args) {
+      return outdent.string(component.render.apply(this, args));
+    });
   });
 
   return {

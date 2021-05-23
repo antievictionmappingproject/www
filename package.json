@@ -23,5 +23,8 @@
     "markdown-it-regexp": "^0.4.0",
     "turndown": "^7.0.0",
     "watchify": "^4.0.0"
+  },
+  "dependencies": {
+    "outdent": "^0.8.0"
   }
 }

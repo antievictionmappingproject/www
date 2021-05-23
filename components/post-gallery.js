@@ -8,19 +8,31 @@ module.exports = {
       widget: "string",
     },
   ],
-  pattern: /^{% postGallery "(.+)", collections %}$/,
+  pattern: /^{% postGallery "(.+)", collections, locale %}$/,
   fromBlock([, tag]) {
     return { tag };
   },
   toBlock({ tag }) {
-    return `{% postGallery "${tag}", collections %}`;
+    return `{% postGallery "${tag}", collections, locale %}`;
   },
   toPreview({ tag }) {
     return `<div class="component">Post Gallery: ${tag}<div>`;
   },
-  render(tag, collections) {
-    return collections[tag]
-      .map((item) => `<div>${item.data.title}</div>`)
-      .join("");
+  render(tag, collections, locale) {
+    console.log(locale);
+    return `
+      <div>
+        <h2>${tag}</h2>
+        <ol>
+        ${collections[tag]
+          .map((item) =>
+            item.data.locale === locale
+              ? `<li><a href="${item.url}">${item.data.title}</a></li>`
+              : ""
+          )
+          .join("")}
+        </ol>
+      </div>
+      `;
   },
 };
