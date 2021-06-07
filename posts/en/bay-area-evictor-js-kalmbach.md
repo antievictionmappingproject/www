@@ -30,7 +30,7 @@ Steve Kalmbach was involved with  Rebuilding Together Oakland
 Member at [1931 San Pablo Partners, LLC](https://www.corporationwiki.com/California/Oakland/1931-san-pablo-partners-llc/46399639.aspx)   
 Member at [200 Brown Partners, LLC](https://www.corporationwiki.com/California/Berkeley/200-brown-partners-llc/46846231.aspx)
 
-![John Steven Kalmbach](https://images.squarespace-cdn.com/content/v1/52b7d7a6e4b0b3e376ac8ea2/1506715647645-BO5311NWZC14YT136UIL/ke17ZwdGBToddI8pDm48kIPsPwE23jy96WA3dbFAOshZw-zPPgdn4jUwVcJE1ZvWhcwhEtWJXoshNdA9f1qD7Rb66VC8y5UmDKESC3gpGyVzvO7Nio1kZj6dvAycnHOsAcyVCE7L1rfabBZjTpeDHg/PastedGraphic-42.png)
+![John Steven Kalmbach](/assets/uploads/PastedGraphic-42.png)
 
 **John Steven Kalmbach**
 
@@ -54,8 +54,8 @@ Member at [200 Brown Partners, LLC](https://www.corporationwiki.com/California/B
 *   79 Hazel Lane
 *   2531 78th Avenue
 
-![PastedGraphic-45.png](https://images.squarespace-cdn.com/content/v1/52b7d7a6e4b0b3e376ac8ea2/1506720664850-4DLS6J354PFP3CWRZ0FG/ke17ZwdGBToddI8pDm48kAxZci_x7dT7ME6of1T4u2VZw-zPPgdn4jUwVcJE1ZvWEtT5uBSRWt4vQZAgTJucoTqqXjS3CfNDSuuf31e0tVFgKaFB65wWLI44hPrSe9cbnPhWwHZGTNbugTWuAu1iSTqWIIaSPh2v08GbKqpiV54/PastedGraphic-45.png) 
+![PastedGraphic-43.png](/assets/uploads/PastedGraphic-43.png) 
 
-![PastedGraphic-43.png](https://images.squarespace-cdn.com/content/v1/52b7d7a6e4b0b3e376ac8ea2/1506720676728-IUNB9J8XBEUZS940FV6B/ke17ZwdGBToddI8pDm48kPTpqb0WRNC2FiUvdJLCGjNZw-zPPgdn4jUwVcJE1ZvWQUxwkmyExglNqGp0IvTJZamWLI2zvYWH8K3-s_4yszcp2ryTI0HqTOaaUohrI8PInE39QRaYLoIxhmb5QTwiZEa70bKUhQ69uz1D_Bq-fm0/PastedGraphic-43.png) 
+![PastedGraphic-45.png](/assets/uploads/PastedGraphic-45.png) 
 
-![PastedGraphic-44.png](https://images.squarespace-cdn.com/content/v1/52b7d7a6e4b0b3e376ac8ea2/1506720689985-B9Y1Q7UOYILWOTBRMJO8/ke17ZwdGBToddI8pDm48kBC2eD4dBcHhIj5fsbQi8R1Zw-zPPgdn4jUwVcJE1ZvWQUxwkmyExglNqGp0IvTJZamWLI2zvYWH8K3-s_4yszcp2ryTI0HqTOaaUohrI8PIocP1rP2tBwl8R3z49SRJA54rRAvAAu9WVJx_JoZm1nI/PastedGraphic-44.png)
+![PastedGraphic-44.png](/assets/uploads/PastedGraphic-44.png)

@@ -10,7 +10,7 @@ Neill Sullivan / REO Homes
 
 [http://www.reohomesoakland.com/](http://www.reohomesoakland.com/)
 
-![](https://images.squarespace-cdn.com/content/v1/52b7d7a6e4b0b3e376ac8ea2/1481129381745-0XJ1Q6SBYCPEYNKAPZWA/ke17ZwdGBToddI8pDm48kKmJJwTX8rvB0UEAcouAs95Zw-zPPgdn4jUwVcJE1ZvWQUxwkmyExglNqGp0IvTJZamWLI2zvYWH8K3-s_4yszcp2ryTI0HqTOaaUohrI8PIlqfbchSZNrjyPOVrmQl7MHCwLBr_LLxLNMGgLxWTykkKMshLAGzx4R3EDFOm1kBS/image-asset.jpeg)
+![](/assets/uploads/image-asset.jpeg)
 
 According to Oakland Rent Board data, Sullivan served 357 eviction notices in five years.
 

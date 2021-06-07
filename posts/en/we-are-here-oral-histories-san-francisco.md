@@ -13,7 +13,7 @@ In 2015, the Anti-Eviction Mapping Project released its new zine project, [_We A
 
 [
 
-![We Are Here](https://images.squarespace-cdn.com/content/v1/52b7d7a6e4b0b3e376ac8ea2/1563857725096-9Y870FNW9C2T0OTNTYGQ/ke17ZwdGBToddI8pDm48kH6b2s6ZEy2wZmXIMYsgIVBZw-zPPgdn4jUwVcJE1ZvWQUxwkmyExglNqGp0IvTJZUJFbgE-7XRK3dMEBRBhUpwSZTakEcupwL81RX5noYDiNDqT9Jqb4E-fuLDTNVCWH22awG_w9oX_zOrT11GIhik/Screen+Shot+2019-07-22+at+9.32.19+PM.png)
+![We Are Here](/assets/uploads/Screen+Shot+2019-07-22+at+9.32.19+PM.png)
 
 ](https://static1.squarespace.com/static/52b7d7a6e4b0b3e376ac8ea2/t/5d3547f6de51ea0001e830be/1563772974987/aemp+zine+paginated+optimized.pdf)
 
@@ -35,7 +35,7 @@ In 2015, the Anti-Eviction Mapping Project released its new zine project, [_We A
 
 [
 
-![We Are Here](https://images.squarespace-cdn.com/content/v1/52b7d7a6e4b0b3e376ac8ea2/1563857701630-MB6G30QGGMLO56GO2OSX/ke17ZwdGBToddI8pDm48kGAcI67TzPGLxqs6PKOTVW5Zw-zPPgdn4jUwVcJE1ZvWQUxwkmyExglNqGp0IvTJZamWLI2zvYWH8K3-s_4yszcp2ryTI0HqTOaaUohrI8PIiRqld9q7amJADTYuv0DkVSd2geliJLoDjVZhneRRxU0/image-asset.png)
+![We Are Here](/assets/uploads/image-asset.png)
 
 ](https://static1.squarespace.com/static/52b7d7a6e4b0b3e376ac8ea2/t/5d3547f6de51ea0001e830be/1563772974987/aemp+zine+paginated+optimized.pdf)
 

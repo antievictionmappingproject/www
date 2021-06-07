@@ -8,6 +8,6 @@ Report with the California Reinvestment Coalition on the banks financing displac
 
 [
 
-![Screen Shot 2019-03-30 at 8.44.15 PM.png](https://images.squarespace-cdn.com/content/v1/52b7d7a6e4b0b3e376ac8ea2/1554003871680-F8PDD40IAU638ZEFSQ3G/ke17ZwdGBToddI8pDm48kFzM3kSDHLgd85ySseDNb_BZw-zPPgdn4jUwVcJE1ZvWQUxwkmyExglNqGp0IvTJZamWLI2zvYWH8K3-s_4yszcp2ryTI0HqTOaaUohrI8PIOM0KdlNRW7vTbzBr-VTBjmUmxLCavV8_Jl5Ts2rXGcI/Screen+Shot+2019-03-30+at+8.44.15+PM.png)
+![Screen Shot 2019-03-30 at 8.44.15 PM.png](/assets/uploads/Screen+Shot+2019-03-30+at+8.44.15+PM.png)
 
 ](http://static1.squarespace.com/static/52b7d7a6e4b0b3e376ac8ea2/57166f2de707eb72b4b7c77d/5b1eb1950e2e72b49f5a1679/1528738430348/Disrupting+Displacement+Financing.pdf)

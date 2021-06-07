@@ -12,6 +12,6 @@ For more on Costa Hawkins and the need to expand rent control throughout Califor
 
 [
 
-![Screen Shot 2018-11-06 at 12.35.38 PM.png](https://images.squarespace-cdn.com/content/v1/52b7d7a6e4b0b3e376ac8ea2/1541527979050-U417Z4N5S9L7IK2989OK/ke17ZwdGBToddI8pDm48kAtWNb9m780VQaGkZy21jiUUqsxRUqqbr1mOJYKfIPR7LoDQ9mXPOjoJoqy81S2I8N_N4V1vUb5AoIIIbLZhVYxCRW4BPu10St3TBAUQYVKcalHHT7yoiQXT-prgTgTdf1CS_SnWZ2yo_KjH66xyEVAF3DrAe6B5lefHY5lbMpWy/Screen+Shot+2018-11-06+at+12.35.38+PM.png)
+![Screen Shot 2018-11-06 at 12.35.38 PM.png](/assets/uploads/Screen+Shot+2018-11-06+at+12.35.38+PM.png)
 
 ](https://arcg.is/15X5bP)

@@ -17,6 +17,6 @@ As the [news release read:](http://www.sfcityattorney.org/index.aspx?page=594)
 
 My partner and I are both attorneys, so we decided to sue her in small claims court and were successful. In preparation for the hearing, I searched the public records database at the civil courthouse (400 Mcallister) for other cases in which she or her brother (Kevin Lee) had been involved. I found 14 cases in San Francisco! Most of the cases were related to her refusal to return renters' security deposits. Other cases involved their refusal to make necessary repairs, refusal to pay contractors, bad checks, fraud, and breach of fiduciary duty."
 
-![The City Attorney sues Darren and Valerie Lee](https://images.squarespace-cdn.com/content/v1/52b7d7a6e4b0b3e376ac8ea2/1412321232241-Y3C4SCZTMZ7V2HLC3XEK/ke17ZwdGBToddI8pDm48kKNWV2j1jkMO2hi7lnVXyCpZw-zPPgdn4jUwVcJE1ZvWQUxwkmyExglNqGp0IvTJZUJFbgE-7XRK3dMEBRBhUpzPsf4TH7aAzuhzoqdbKGEkyeiKLxgqH2DN23tf0kymyWHT1H4RETZEyt7zFn2JKzU/The+City+Attorney+sues+Darren+and+Valerie+Lee)
+![The City Attorney sues Darren and Valerie Lee](/assets/uploads/The+City+Attorney+sues+Darren+and+Valerie+Lee)
 
 The City Attorney sues Darren and Valerie Lee

@@ -8,6 +8,6 @@ A group of tenants living in an apartment building in the San Antonio district o
 
 [
 
-![](https://images.squarespace-cdn.com/content/v1/52b7d7a6e4b0b3e376ac8ea2/1554003316358-BDEZS11808KKHV9YM4PR/ke17ZwdGBToddI8pDm48kAi-KRo5LjqeOIgkTHGBfHUUqsxRUqqbr1mOJYKfIPR7LoDQ9mXPOjoJoqy81S2I8N_N4V1vUb5AoIIIbLZhVYxCRW4BPu10St3TBAUQYVKcsPoQKu2FxqYrSj8rMCtUbyQSqoiivIGg8Wlt3VUPWJHGOCqu9U0sN0697l6BWVhe/image-asset.png)
+![](/assets/uploads/image-asset.png)
 
 ](https://www.antievictionmap.com/alamedavideos)

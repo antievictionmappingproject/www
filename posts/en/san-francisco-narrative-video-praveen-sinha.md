@@ -10,6 +10,6 @@ Praveen Sinha, a software engineer who lives in the Mission district, fought his
 
 [
 
-![Screen Shot 2019-03-31 at 9.06.14 AM.png](https://images.squarespace-cdn.com/content/v1/52b7d7a6e4b0b3e376ac8ea2/1554049645888-OXDF4033G1GC0XBXM1TN/ke17ZwdGBToddI8pDm48kHjMJ9rKwCuWP45aJyusBtsUqsxRUqqbr1mOJYKfIPR7LoDQ9mXPOjoJoqy81S2I8N_N4V1vUb5AoIIIbLZhVYxCRW4BPu10St3TBAUQYVKcmT9VflITih-Iksi_QBbVZ30PE4V0872p_BmaORl89GIQKcTtTj2589Se8UFpxHBM/Screen+Shot+2019-03-31+at+9.06.14+AM.png)
+![Screen Shot 2019-03-31 at 9.06.14 AM.png](/assets/uploads/Screen+Shot+2019-03-31+at+9.06.14+AM.png)
 
 ](https://www.antievictionmap.com/sota-collaboration-san-francisco-videos-1/)

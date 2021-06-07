@@ -8,6 +8,6 @@ Members of the Los Angeles Tenants Union North East local teamed up with The Ant
 
 [
 
-![Screen Shot 2019-05-04 at 10.14.32 AM.png](https://images.squarespace-cdn.com/content/v1/52b7d7a6e4b0b3e376ac8ea2/1556990174537-N72Z8FGLCDA2VE1UXVZY/ke17ZwdGBToddI8pDm48kH82JHdZozp0YSQLtFhtYroUqsxRUqqbr1mOJYKfIPR7LoDQ9mXPOjoJoqy81S2I8N_N4V1vUb5AoIIIbLZhVYxCRW4BPu10St3TBAUQYVKc7R4rjzgev7ku_h-X5V3qCJDunOyEuEjEn1SEwOP8bhdlz9z-9UGyfFIRBbYNq3EO/Screen+Shot+2019-05-04+at+10.14.32+AM.png)
+![Screen Shot 2019-05-04 at 10.14.32 AM.png](/assets/uploads/Screen+Shot+2019-05-04+at+10.14.32+AM.png)
 
 ](http://www.tenantsincommon.org/)

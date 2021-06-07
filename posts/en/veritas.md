@@ -21,12 +21,12 @@ Through the RentSFNow website, Veritas markets furnished apartments to transitor
 
 [Chinese Investors Buying Up San Francisco Real Estate](http://usa.chinadaily.com.cn/epaper/2013-06/21/content_16643650.htm)
 
-![PastedGraphic-8.png](https://images.squarespace-cdn.com/content/v1/52b7d7a6e4b0b3e376ac8ea2/1505188646048-OUWEOATQBHNAGP4V77V4/ke17ZwdGBToddI8pDm48kDkcgWvr2z2YkFdJiONgbgNZw-zPPgdn4jUwVcJE1ZvWEtT5uBSRWt4vQZAgTJucoTqqXjS3CfNDSuuf31e0tVFkpNz0ld0ZOmlx1R-uCxsm0Lp8Ys3W60iJHx-QzHkSgKEcAfnVBrEqrgp1UxUHGkY/PastedGraphic-8.png)
+![PastedGraphic-8.png](/assets/uploads/PastedGraphic-8.png)
 
  Housing Stock transformed into temporary rental
 ------------------------------------------------
 
-![Professional Affiliations   Advisory Board Member, Fisher Center for Real Estate and Urban Economics, University of California, Berkeley  Board Member, Self Help for the Elderly  Director, Hong Kong Association of Northern California  Bay Area Council  Coalition for Better Housing  National Multifamily Housing Council  Pension Real Estate Association  San Francisco Apartment Association  Urban Land Institute  Young Presidents’ Organization  Board Member for Coalition for Better Housing  Board Member ChinaSF  Board Member SPUR](https://images.squarespace-cdn.com/content/v1/52b7d7a6e4b0b3e376ac8ea2/1505230167514-1GOSVR5WNRNQYRDY7JWO/ke17ZwdGBToddI8pDm48kC8yfWNEc9nts8iMvepo65NZw-zPPgdn4jUwVcJE1ZvWQUxwkmyExglNqGp0IvTJZUJFbgE-7XRK3dMEBRBhUpyhkvGtr4a6LLzoZR8U_D8zat_w8bKuHDfbo-MTJ504iwsvAJP45ATbu5tiOFuHWDA/PastedGraphic-9.png)
+![Professional Affiliations   Advisory Board Member, Fisher Center for Real Estate and Urban Economics, University of California, Berkeley  Board Member, Self Help for the Elderly  Director, Hong Kong Association of Northern California  Bay Area Council  Coalition for Better Housing  National Multifamily Housing Council  Pension Real Estate Association  San Francisco Apartment Association  Urban Land Institute  Young Presidents’ Organization  Board Member for Coalition for Better Housing  Board Member ChinaSF  Board Member SPUR](/assets/uploads/PastedGraphic-9.png)
 
 **Professional Affiliations**
 
@@ -56,7 +56,7 @@ Board Member ChinaSF
 
 Board Member SPUR
 
-![Screen Shot 2020-07-22 at 8.02.25 PM.png](https://images.squarespace-cdn.com/content/v1/52b7d7a6e4b0b3e376ac8ea2/1595462831681-213NKQU7PPEUVMRTUYHY/ke17ZwdGBToddI8pDm48kAU1rRwasIqQVx93OvpyZMhZw-zPPgdn4jUwVcJE1ZvWQUxwkmyExglNqGp0IvTJZamWLI2zvYWH8K3-s_4yszcp2ryTI0HqTOaaUohrI8PI6z2KzQlQAKEAYtFwpblCqlC_tkNgqteenJyin7Eb8vI/Screen+Shot+2020-07-22+at+8.02.25+PM.png)
+![Screen Shot 2020-07-22 at 8.02.25 PM.png](/assets/uploads/Screen+Shot+2020-07-22+at+8.02.25+PM.png)
 
  Companies associated with Veritas
 ----------------------------------

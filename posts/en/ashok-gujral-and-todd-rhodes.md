@@ -2,11 +2,11 @@
 {"tags":["Evictors","Evictions","Speculation","Ownership","San Francisco"],"date":"2019-02-16T23:59:18","title":"Bay Area Evictor: Ashok Gujral and Todd Rhodes"}
 ---
 
-![](https://images.squarespace-cdn.com/content/v1/52b7d7a6e4b0b3e376ac8ea2/1388620633120-8EDF1NVF98NDEHX5U2VT/ke17ZwdGBToddI8pDm48kLl76CqolYQpYCK1tQUkpCVZw-zPPgdn4jUwVcJE1ZvWQUxwkmyExglNqGp0IvTJZUJFbgE-7XRK3dMEBRBhUpzq3NVIIp6jYqnwxy-xF8aVXRy_AJKc5toB5m-gAPM7p7ivWsEabuWKGrHqsHOeNt4/image-asset.jpeg)
+![](/assets/uploads/image-asset.jpeg)
 
-[![Screen Shot 2014-01-04 at 2.54.10 PM.png](https://images.squarespace-cdn.com/content/v1/52b7d7a6e4b0b3e376ac8ea2/1388876055385-LAA61XG7IG12YFOTRA9E/ke17ZwdGBToddI8pDm48kFhCVrrYxKLQxxWyHnfHCGVZw-zPPgdn4jUwVcJE1ZvWQUxwkmyExglNqGp0IvTJZamWLI2zvYWH8K3-s_4yszcp2ryTI0HqTOaaUohrI8PINpUCAe04nVJjtFjE1ZrxGwt0nPiy9OrDKhKtHLCtzrQ/Screen+Shot+2014-01-04+at+2.54.10+PM.png)](https://images.squarespace-cdn.com/content/v1/52b7d7a6e4b0b3e376ac8ea2/1388876055385-LAA61XG7IG12YFOTRA9E/ke17ZwdGBToddI8pDm48kFhCVrrYxKLQxxWyHnfHCGVZw-zPPgdn4jUwVcJE1ZvWQUxwkmyExglNqGp0IvTJZamWLI2zvYWH8K3-s_4yszcp2ryTI0HqTOaaUohrI8PINpUCAe04nVJjtFjE1ZrxGwt0nPiy9OrDKhKtHLCtzrQ/Screen+Shot+2014-01-04+at+2.54.10+PM.png) 
+[![Screen Shot 2014-01-04 at 2.54.10 PM.png](/assets/uploads/Screen+Shot+2014-01-04+at+2.54.10+PM.png)](https://images.squarespace-cdn.com/content/v1/52b7d7a6e4b0b3e376ac8ea2/1388876055385-LAA61XG7IG12YFOTRA9E/ke17ZwdGBToddI8pDm48kFhCVrrYxKLQxxWyHnfHCGVZw-zPPgdn4jUwVcJE1ZvWQUxwkmyExglNqGp0IvTJZamWLI2zvYWH8K3-s_4yszcp2ryTI0HqTOaaUohrI8PINpUCAe04nVJjtFjE1ZrxGwt0nPiy9OrDKhKtHLCtzrQ/Screen+Shot+2014-01-04+at+2.54.10+PM.png) 
 
-[![Josephine, who fought her foreclosure](https://images.squarespace-cdn.com/content/v1/52b7d7a6e4b0b3e376ac8ea2/1388693215877-DQCELX0RBWAE05TMVH10/ke17ZwdGBToddI8pDm48kAyy8FioN4kIc81Cy5il6-5Zw-zPPgdn4jUwVcJE1ZvWQUxwkmyExglNqGp0IvTJZUJFbgE-7XRK3dMEBRBhUpzBqiSzxggz7d4ZcRXDOmCiV_k8b5GVwsZGeYlAxnu10AfdRRhSapW9DWRMX6EGBNo/Screen+Shot+2014-01-02+at+12.07.41+PM.png)](https://images.squarespace-cdn.com/content/v1/52b7d7a6e4b0b3e376ac8ea2/1388693215877-DQCELX0RBWAE05TMVH10/ke17ZwdGBToddI8pDm48kAyy8FioN4kIc81Cy5il6-5Zw-zPPgdn4jUwVcJE1ZvWQUxwkmyExglNqGp0IvTJZUJFbgE-7XRK3dMEBRBhUpzBqiSzxggz7d4ZcRXDOmCiV_k8b5GVwsZGeYlAxnu10AfdRRhSapW9DWRMX6EGBNo/Screen+Shot+2014-01-02+at+12.07.41+PM.png) 
+[![Josephine, who fought her foreclosure](/assets/uploads/Screen+Shot+2014-01-02+at+12.07.41+PM.png)](https://images.squarespace-cdn.com/content/v1/52b7d7a6e4b0b3e376ac8ea2/1388693215877-DQCELX0RBWAE05TMVH10/ke17ZwdGBToddI8pDm48kAyy8FioN4kIc81Cy5il6-5Zw-zPPgdn4jUwVcJE1ZvWQUxwkmyExglNqGp0IvTJZUJFbgE-7XRK3dMEBRBhUpzBqiSzxggz7d4ZcRXDOmCiV_k8b5GVwsZGeYlAxnu10AfdRRhSapW9DWRMX6EGBNo/Screen+Shot+2014-01-02+at+12.07.41+PM.png) 
 
 ASHOK K. GUJRAL and TODD W. RHODES
 ----------------------------------
@@ -45,7 +45,7 @@ Invested in 150 ANKENY ST which lender CITIBANK N A (loan owner must have been B
 
 **Evicted** 4126 Pacheco St on Aug 16 2010 by demolition
 
-![Ash Gujral network](https://images.squarespace-cdn.com/content/v1/52b7d7a6e4b0b3e376ac8ea2/1595214662635-ZZJHATLPO1W4GK4ZL8JB/ke17ZwdGBToddI8pDm48kHRFxXRgWyGbc1DYfC40sbMUqsxRUqqbr1mOJYKfIPR7LoDQ9mXPOjoJoqy81S2I8N_N4V1vUb5AoIIIbLZhVYxCRW4BPu10St3TBAUQYVKcwMjNd8Kqp5_Xa_i37m-g8327--xT1IF6W9aQQPcVg-kDokHhO4e56K-gwQ0jKOil/Screen+Shot+2020-07-19+at+11.10.39+PM.png)
+![Ash Gujral network](/assets/uploads/Screen+Shot+2020-07-19+at+11.10.39+PM.png)
 
 Ash Gujral network
 
@@ -106,6 +106,6 @@ Phone: (415) 680-8574
 Fax: (415) 520-0474  
 Email: [info@rehabitdesign.com](mailto:info@rehabitdesign.com)
 
-![Ash Gujral network](https://images.squarespace-cdn.com/content/v1/52b7d7a6e4b0b3e376ac8ea2/1595214694993-9ZSPIQNZ5NRNX9EAF50X/ke17ZwdGBToddI8pDm48kExdmxeGXGFvarRQ4YF8QLcUqsxRUqqbr1mOJYKfIPR7LoDQ9mXPOjoJoqy81S2I8N_N4V1vUb5AoIIIbLZhVYxCRW4BPu10St3TBAUQYVKcGRt714XH-fmjEw9UZCz5iHLrqsbKvwIHai0P77VMINqCgXT-9q0ac9TYVsLohZFV/Screen+Shot+2020-07-19+at+11.10.32+PM.png)
+![Ash Gujral network](/assets/uploads/Screen+Shot+2020-07-19+at+11.10.32+PM.png)
 
 Ash Gujral network

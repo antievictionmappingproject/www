@@ -8,6 +8,6 @@ Three youth leaders of Bayanihan Youth Group at Encinal High School organize the
 
 [
 
-![Screen Shot 2019-03-30 at 2.47.48 PM.png](https://images.squarespace-cdn.com/content/v1/52b7d7a6e4b0b3e376ac8ea2/1553995748473-MI0I00NT3BHOJ7CKCZRD/ke17ZwdGBToddI8pDm48kIdPoxQl_C-3PwRmcER6CLgUqsxRUqqbr1mOJYKfIPR7LoDQ9mXPOjoJoqy81S2I8N_N4V1vUb5AoIIIbLZhVYxCRW4BPu10St3TBAUQYVKcWHGrjZRJJId5Dol9wnjkQRj2kc7zuWR2auaxaikXe2vLXzNKzr3h1nN9rQ_eIT4e/Screen+Shot+2019-03-30+at+2.47.48+PM.png)
+![Screen Shot 2019-03-30 at 2.47.48 PM.png](/assets/uploads/Screen+Shot+2019-03-30+at+2.47.48+PM.png)
 
 ](https://www.antievictionmap.com/alamedavideos)

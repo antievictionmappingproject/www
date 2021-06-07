@@ -2,9 +2,9 @@
 {"tags":["Evictors","Evictions","Ownership","Speculation","Bay Area","Oakland","San Francisco"],"date":"2019-02-17T01:48:24","title":"Bay Area Evictor: Sarosh Kumana"}
 ---
 
-[![PastedGraphic-33.png](https://images.squarespace-cdn.com/content/v1/52b7d7a6e4b0b3e376ac8ea2/1472682161886-BAAWO58E1CM72CON9CJE/ke17ZwdGBToddI8pDm48kFYS3s9kC-zhUwxGXVZ3bTVZw-zPPgdn4jUwVcJE1ZvWhcwhEtWJXoshNdA9f1qD7TNdqww6z_61iXx7yO_mnkqfOorglrv07E8qyB9SNGLkedBnzPwvbyAPlU26YRLa9g/PastedGraphic-33.png)](https://images.squarespace-cdn.com/content/v1/52b7d7a6e4b0b3e376ac8ea2/1472682161886-BAAWO58E1CM72CON9CJE/ke17ZwdGBToddI8pDm48kFYS3s9kC-zhUwxGXVZ3bTVZw-zPPgdn4jUwVcJE1ZvWhcwhEtWJXoshNdA9f1qD7TNdqww6z_61iXx7yO_mnkqfOorglrv07E8qyB9SNGLkedBnzPwvbyAPlU26YRLa9g/PastedGraphic-33.png) 
+[![PastedGraphic-33.png](/assets/uploads/PastedGraphic-33.png)](https://images.squarespace-cdn.com/content/v1/52b7d7a6e4b0b3e376ac8ea2/1472682161886-BAAWO58E1CM72CON9CJE/ke17ZwdGBToddI8pDm48kFYS3s9kC-zhUwxGXVZ3bTVZw-zPPgdn4jUwVcJE1ZvWhcwhEtWJXoshNdA9f1qD7TNdqww6z_61iXx7yO_mnkqfOorglrv07E8qyB9SNGLkedBnzPwvbyAPlU26YRLa9g/PastedGraphic-33.png) 
 
-[![PastedGraphic-34.png](https://images.squarespace-cdn.com/content/v1/52b7d7a6e4b0b3e376ac8ea2/1472682810561-X02VA5OFCJ0AV06T2ALB/ke17ZwdGBToddI8pDm48kH6xdya6e6aMoHwPTiZTHaFZw-zPPgdn4jUwVcJE1ZvWQUxwkmyExglNqGp0IvTJZUJFbgE-7XRK3dMEBRBhUpxHt3VElemOfZ_weOv2w5sauHmiG4OC6hU5j_RWQL2g2yFTr0rvef-Qk8lQx7F6GhA/PastedGraphic-34.png)](https://images.squarespace-cdn.com/content/v1/52b7d7a6e4b0b3e376ac8ea2/1472682810561-X02VA5OFCJ0AV06T2ALB/ke17ZwdGBToddI8pDm48kH6xdya6e6aMoHwPTiZTHaFZw-zPPgdn4jUwVcJE1ZvWQUxwkmyExglNqGp0IvTJZUJFbgE-7XRK3dMEBRBhUpxHt3VElemOfZ_weOv2w5sauHmiG4OC6hU5j_RWQL2g2yFTr0rvef-Qk8lQx7F6GhA/PastedGraphic-34.png) 
+[![PastedGraphic-34.png](/assets/uploads/PastedGraphic-34.png)](https://images.squarespace-cdn.com/content/v1/52b7d7a6e4b0b3e376ac8ea2/1472682810561-X02VA5OFCJ0AV06T2ALB/ke17ZwdGBToddI8pDm48kH6xdya6e6aMoHwPTiZTHaFZw-zPPgdn4jUwVcJE1ZvWQUxwkmyExglNqGp0IvTJZUJFbgE-7XRK3dMEBRBhUpxHt3VElemOfZ_weOv2w5sauHmiG4OC6hU5j_RWQL2g2yFTr0rvef-Qk8lQx7F6GhA/PastedGraphic-34.png) 
 
 Sarosh Kumana
 =============

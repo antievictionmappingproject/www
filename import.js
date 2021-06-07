@@ -3,8 +3,13 @@ import { Machine, interpret, assign } from "https://cdn.pika.dev/xstate";
 import { slugify } from "https://deno.land/x/slugify/mod.ts";
 import { createRequire } from "https://deno.land/std/node/module.ts";
 import * as path from "https://deno.land/x/std/path/mod.ts";
+import { download } from "https://deno.land/x/download/mod.ts";
 
-const [inputFile, outputDir] = Deno.args;
+const shouldDownload = false;
+const imageDir = "/assets/uploads";
+const outputDir = "posts/en";
+
+const [inputFile] = Deno.args;
 
 function cleanAttribute(attribute) {
   return attribute ? attribute.replace(/(\n+\s*)+/g, "\n") : "";
@@ -19,13 +24,15 @@ turndownService
   .remove("noscript")
   .remove((node) => node.classList.contains("v6-visually-hidden"))
   .addRule("imageLoader", {
-    filter: (node) => node.nodeName === "IMG" && node.getAttribute("data-src"),
+    filter: "img",
     replacement: (_, node) => {
-      var alt = cleanAttribute(node.getAttribute("alt"));
-      var src = node.getAttribute("data-src") || "";
-      var title = cleanAttribute(node.getAttribute("title"));
-      var titlePart = title ? ' "' + title + '"' : "";
-      return src ? "![" + alt + "]" + "(" + src + titlePart + ")" : "";
+      const alt = cleanAttribute(node.getAttribute("alt"));
+      const url = node.getAttribute("data-src") || node.getAttribute("src");
+      const file = url.match(/[^\/]*$/gm)[0];
+      if (shouldDownload) {
+        download(url, { file, dir: imageDir });
+      }
+      return `![${alt}](${path.join(imageDir, file)})`;
     },
   });
 
@@ -70,7 +77,10 @@ const machine = Machine({
             );
             for (let post of posts) {
               if (post.passthrough_url) {
-                const url = new URL(post.passthrough_url);
+                const url = new URL(
+                  post.passthrough_url,
+                  "https://www.antievictionmap.com"
+                );
                 if (
                   url.hostname === "www.antievictionmap.com" ||
                   url.hostname === "antievictionmap.com"

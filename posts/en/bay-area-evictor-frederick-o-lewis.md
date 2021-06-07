@@ -5,7 +5,7 @@
 Frederick O. Lewis / California Affordable Housing Group, LLC
 =============================================================
 
-![PastedGraphic-22.png](https://images.squarespace-cdn.com/content/v1/52b7d7a6e4b0b3e376ac8ea2/1508354874781-WDPRDDYKXAN39CC7G6UI/ke17ZwdGBToddI8pDm48kNkf9B1Vkni55V9UHmeyekZZw-zPPgdn4jUwVcJE1ZvWhcwhEtWJXoshNdA9f1qD7aP-VOPYnKXVfGNi7anTLYFpUw0pfU568NVXRIUy34EOwF2VzxMZqRuMa8qrpbbpuA/PastedGraphic-22.png)
+![PastedGraphic-22.png](/assets/uploads/PastedGraphic-22.png)
 
 [https://www.linkedin.com/in/frederick-o-lewis-iii-48b08414](https://www.linkedin.com/in/frederick-o-lewis-iii-48b08414)
 

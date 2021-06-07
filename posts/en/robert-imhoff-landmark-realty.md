@@ -40,7 +40,7 @@ Hotels
 
 [250 Taylor, 641 O’Farrell, 2911 16th Street. These are now renting for $2000+.](http://www.landmarksf.com/furnished-listings.html)
 
-![Homes Not Jail action, 1997](https://images.squarespace-cdn.com/content/v1/52b7d7a6e4b0b3e376ac8ea2/1433258895249-JCFNLHNIH0VV3S5SCMIU/ke17ZwdGBToddI8pDm48kCUquhkgPR6E9-6t0uG_NbFZw-zPPgdn4jUwVcJE1ZvWQUxwkmyExglNqGp0IvTJZUJFbgE-7XRK3dMEBRBhUpzQB8gAypZi-4dde63s1TQ1HagspHx8gqzXz3BGvn5eLnpxJgM_LEuGtwvww5ZzbxU/Imhoff)
+![Homes Not Jail action, 1997](/assets/uploads/Imhoff)
 
 Homes Not Jail action, 1997
 
@@ -54,7 +54,7 @@ Homes Not Jail action, 1997
 Sonoma, CA 95476   
 _(5000 sq foot home with 4 bathrooms)_
 
-![Landmark Realty](https://images.squarespace-cdn.com/content/v1/52b7d7a6e4b0b3e376ac8ea2/1433259046263-AWZG85CHQ2HD16C2ZMHS/ke17ZwdGBToddI8pDm48kCpl_LZYxsN85EAQEkHqw2pZw-zPPgdn4jUwVcJE1ZvWQUxwkmyExglNqGp0IvTJZUJFbgE-7XRK3dMEBRBhUpyzwBsu78FeXRGG3YVO65vcJoTEQxUKDlMjcl7Qgc3xgrEVhZSCdjjsBU5_-pLf2CU/image-asset.png)
+![Landmark Realty](/assets/uploads/image-asset.png)
 
 Landmark Realty
 

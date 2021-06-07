@@ -90,8 +90,8 @@ San Francisco Evictions
 
 645 Bush St, 1 eviction filed by Angelus Apartments
 
-![Russel Flynn’s corporate connections](https://images.squarespace-cdn.com/content/v1/52b7d7a6e4b0b3e376ac8ea2/1595212241006-5FBOF3EQI80MKGWS6X5P/ke17ZwdGBToddI8pDm48kF7mVIGBgzhKSmkH_TX9z0EUqsxRUqqbr1mOJYKfIPR7LoDQ9mXPOjoJoqy81S2I8N_N4V1vUb5AoIIIbLZhVYxCRW4BPu10St3TBAUQYVKcj2neMIfEz1_vq0TtJQ4hT8j3R0piwiNmuw_uD0znhu1dBlJGPvUgJmNko7oH1tHf/Screen+Shot+2020-07-19+at+10.16.23+PM.png)
+![Russel Flynn’s corporate connections](/assets/uploads/Screen+Shot+2020-07-19+at+10.16.23+PM.png)
 
 Russel Flynn’s corporate connections
 
-![Screen Shot 2020-07-19 at 10.16.40 PM.png](https://images.squarespace-cdn.com/content/v1/52b7d7a6e4b0b3e376ac8ea2/1595212264739-2M1TBY3EW0X4NXBKPU4I/ke17ZwdGBToddI8pDm48kCCORcSU83otXj1hHZomi0VZw-zPPgdn4jUwVcJE1ZvWQUxwkmyExglNqGp0IvTJZUJFbgE-7XRK3dMEBRBhUpy2cjCsoY3bHA_71Lx88MaC2pvR0jMwQuGHbwJxm4NgML7-7ZbFDs5SRhgdX3eVg7c/Screen+Shot+2020-07-19+at+10.16.40+PM.png)
+![Screen Shot 2020-07-19 at 10.16.40 PM.png](/assets/uploads/Screen+Shot+2020-07-19+at+10.16.40+PM.png)

@@ -72,16 +72,16 @@ Over the last 12 years, Benny was the CEO/CFO of a Real Estate Investment Firm m
 1204 Alpine Rd, Walnut Creek, CA 94596  
 Phone: (925) 933-6575
 
-![PastedGraphic-1.png](https://images.squarespace-cdn.com/content/v1/52b7d7a6e4b0b3e376ac8ea2/1398753699932-386LH0HDDD4NQB2WLAKC/ke17ZwdGBToddI8pDm48kMmRXPW-1PP_WFMF_R-J0kHlfiSMXz2YNBs8ylwAJx2qr7dJalY1eltJq26FYyRd7g2_Kr1guNN69bUMEr2zO6JHoPtuSyc8t7jVEpK8mHd1I5gtmInWMRkBQp2DaOD2Yg/PastedGraphic-1.png)
+![PastedGraphic-1.png](/assets/uploads/PastedGraphic-1.png)
 
-[![DESIST AND REFRAIN ORDER](https://images.squarespace-cdn.com/content/v1/52b7d7a6e4b0b3e376ac8ea2/1388652534985-CQQ7GS6BNH1M355ZDB0U/ke17ZwdGBToddI8pDm48kHqP7Y1zzn7SODA8n27TMMJZw-zPPgdn4jUwVcJE1ZvWQUxwkmyExglNqGp0IvTJZUJFbgE-7XRK3dMEBRBhUpwXFVQfovbK-tIhMzH-NxLilDTQ4OBXHSwRrWKom7b9JJhAr4UhXpOUajjcxZcxjfI/Screen+Shot+2014-01-02+at+12.49.41+AM.png)](http://www.dbo.ca.gov/ENF/pdf/2011/Chetcuti_DR.pdf) 
+[![DESIST AND REFRAIN ORDER](/assets/uploads/Screen+Shot+2014-01-02+at+12.49.41+AM.png)](http://www.dbo.ca.gov/ENF/pdf/2011/Chetcuti_DR.pdf) 
 
 ### DESIST AND REFRAIN ORDER
 
-[![IN THE COURT OF APPEAL OF THE STATE OF CALIFORNIA](https://images.squarespace-cdn.com/content/v1/52b7d7a6e4b0b3e376ac8ea2/1388652664710-S4CM641F7WMARN5R2BES/ke17ZwdGBToddI8pDm48kMYbT0FxjlNLDiYMmGkePRpZw-zPPgdn4jUwVcJE1ZvWQUxwkmyExglNqGp0IvTJZUJFbgE-7XRK3dMEBRBhUpyCELmP_bRfOm9TIeOlUftpOevhVExjb1TYnq50wJhx7FRX-xZp4GP0UASu5EPjHx8/Screen+Shot+2014-01-02+at+12.52.00+AM.png)](http://www.courts.ca.gov/opinions/nonpub/A137174.DOC) 
+[![IN THE COURT OF APPEAL OF THE STATE OF CALIFORNIA](/assets/uploads/Screen+Shot+2014-01-02+at+12.52.00+AM.png)](http://www.courts.ca.gov/opinions/nonpub/A137174.DOC) 
 
 ### IN THE COURT OF APPEAL OF THE STATE OF CALIFORNIA
 
-[![Currently selling 27 properties](https://images.squarespace-cdn.com/content/v1/52b7d7a6e4b0b3e376ac8ea2/1388653733509-TP2MK7LH0JXPW60GS4UB/ke17ZwdGBToddI8pDm48kNTV1WUIty3nuX3jNsPyxsBZw-zPPgdn4jUwVcJE1ZvWQUxwkmyExglNqGp0IvTJZUJFbgE-7XRK3dMEBRBhUpxsPrk7BQXXdXmJBydSg43AmyEkh7hsASd4EoCKle7rLUno9LEmhVPN8cutA6Y7tBU/Screen+Shot+2014-01-02+at+1.06.32+AM.png)](http://sf.blockshopper.com/search?f=seller&q=Benny+Chetcuti+Jr) 
+[![Currently selling 27 properties](/assets/uploads/Screen+Shot+2014-01-02+at+1.06.32+AM.png)](http://sf.blockshopper.com/search?f=seller&q=Benny+Chetcuti+Jr) 
 
 ### Currently selling 27 properties

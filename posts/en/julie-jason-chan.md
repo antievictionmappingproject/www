@@ -2,17 +2,17 @@
 {"tags":["Evictions","Evictors","Speculation","Ownership","San Francisco"],"date":"2019-02-16T23:42:43","title":"Bay Area Evictor: Julie and Jason Chan"}
 ---
 
-![](https://images.squarespace-cdn.com/content/v1/52b7d7a6e4b0b3e376ac8ea2/1409009044595-BR3CWMY07932ATSJB96V/ke17ZwdGBToddI8pDm48kNKU_v8gJAcxDrmB-soKvj1Zw-zPPgdn4jUwVcJE1ZvWEtT5uBSRWt4vQZAgTJucoTqqXjS3CfNDSuuf31e0tVH7wdpQi_gwH_-rfgB8xc3aCDYU5QsKfHvKofLxtwAwA5XleA9PsoOHujT9UMkA80c/image-asset.jpeg)
+![](/assets/uploads/image-asset.jpeg)
 
-[![Screen Shot 2014-08-25 at 4.23.31 PM.png](https://images.squarespace-cdn.com/content/v1/52b7d7a6e4b0b3e376ac8ea2/1409008734436-SQTD64RBE9RZUXXLBOZV/ke17ZwdGBToddI8pDm48kFVaIVP92VGWt6SjiBcGwuVZw-zPPgdn4jUwVcJE1ZvWhcwhEtWJXoshNdA9f1qD7ZwM3Bqv4xiJMJiFmL59MusaGrESiEIzGJe2iHGoG9uARSLSgMEyO8UrE7MyQb-Ubg/Screen+Shot+2014-08-25+at+4.23.31+PM.png)](https://images.squarespace-cdn.com/content/v1/52b7d7a6e4b0b3e376ac8ea2/1409008734436-SQTD64RBE9RZUXXLBOZV/ke17ZwdGBToddI8pDm48kFVaIVP92VGWt6SjiBcGwuVZw-zPPgdn4jUwVcJE1ZvWhcwhEtWJXoshNdA9f1qD7ZwM3Bqv4xiJMJiFmL59MusaGrESiEIzGJe2iHGoG9uARSLSgMEyO8UrE7MyQb-Ubg/Screen+Shot+2014-08-25+at+4.23.31+PM.png) 
+[![Screen Shot 2014-08-25 at 4.23.31 PM.png](/assets/uploads/Screen+Shot+2014-08-25+at+4.23.31+PM.png)](https://images.squarespace-cdn.com/content/v1/52b7d7a6e4b0b3e376ac8ea2/1409008734436-SQTD64RBE9RZUXXLBOZV/ke17ZwdGBToddI8pDm48kFVaIVP92VGWt6SjiBcGwuVZw-zPPgdn4jUwVcJE1ZvWhcwhEtWJXoshNdA9f1qD7ZwM3Bqv4xiJMJiFmL59MusaGrESiEIzGJe2iHGoG9uARSLSgMEyO8UrE7MyQb-Ubg/Screen+Shot+2014-08-25+at+4.23.31+PM.png) 
 
-[![Screen Shot 2014-08-25 at 4.23.43 PM.png](https://images.squarespace-cdn.com/content/v1/52b7d7a6e4b0b3e376ac8ea2/1409008734460-UT8GOHJJHXSH1USV13E7/ke17ZwdGBToddI8pDm48kHjzdwZ2iYYhjA9ZmMjPHkZZw-zPPgdn4jUwVcJE1ZvWhcwhEtWJXoshNdA9f1qD7TtM594zIdQAwli_U78u76LZlnpU5-d2GxBIF2TpREkBX9AmfcM8jXHDVLGfjE-GdA/Screen+Shot+2014-08-25+at+4.23.43+PM.png)](https://images.squarespace-cdn.com/content/v1/52b7d7a6e4b0b3e376ac8ea2/1409008734460-UT8GOHJJHXSH1USV13E7/ke17ZwdGBToddI8pDm48kHjzdwZ2iYYhjA9ZmMjPHkZZw-zPPgdn4jUwVcJE1ZvWhcwhEtWJXoshNdA9f1qD7TtM594zIdQAwli_U78u76LZlnpU5-d2GxBIF2TpREkBX9AmfcM8jXHDVLGfjE-GdA/Screen+Shot+2014-08-25+at+4.23.43+PM.png) 
+[![Screen Shot 2014-08-25 at 4.23.43 PM.png](/assets/uploads/Screen+Shot+2014-08-25+at+4.23.43+PM.png)](https://images.squarespace-cdn.com/content/v1/52b7d7a6e4b0b3e376ac8ea2/1409008734460-UT8GOHJJHXSH1USV13E7/ke17ZwdGBToddI8pDm48kHjzdwZ2iYYhjA9ZmMjPHkZZw-zPPgdn4jUwVcJE1ZvWhcwhEtWJXoshNdA9f1qD7TtM594zIdQAwli_U78u76LZlnpU5-d2GxBIF2TpREkBX9AmfcM8jXHDVLGfjE-GdA/Screen+Shot+2014-08-25+at+4.23.43+PM.png) 
 
-[![Image-1.jpg](https://images.squarespace-cdn.com/content/v1/52b7d7a6e4b0b3e376ac8ea2/1409008860925-N4VL35CDIK18PVG3E346/ke17ZwdGBToddI8pDm48kBelsVAev15nrlBAFMzKsdEUqsxRUqqbr1mOJYKfIPR7LoDQ9mXPOjoJoqy81S2I8PaoYXhp6HxIwZIk7-Mi3Tsic-L2IOPH3Dwrhl-Ne3Z2tU2ReFwpVgSm7x-SgOFtAmJMoyi-Ta5HHhO2BVXHKKXdZR9z9mxWb0yLUToVqwSd/Image-1.jpg)](https://images.squarespace-cdn.com/content/v1/52b7d7a6e4b0b3e376ac8ea2/1409008860925-N4VL35CDIK18PVG3E346/ke17ZwdGBToddI8pDm48kBelsVAev15nrlBAFMzKsdEUqsxRUqqbr1mOJYKfIPR7LoDQ9mXPOjoJoqy81S2I8PaoYXhp6HxIwZIk7-Mi3Tsic-L2IOPH3Dwrhl-Ne3Z2tU2ReFwpVgSm7x-SgOFtAmJMoyi-Ta5HHhO2BVXHKKXdZR9z9mxWb0yLUToVqwSd/Image-1.jpg) 
+[![Image-1.jpg](/assets/uploads/Image-1.jpg)](https://images.squarespace-cdn.com/content/v1/52b7d7a6e4b0b3e376ac8ea2/1409008860925-N4VL35CDIK18PVG3E346/ke17ZwdGBToddI8pDm48kBelsVAev15nrlBAFMzKsdEUqsxRUqqbr1mOJYKfIPR7LoDQ9mXPOjoJoqy81S2I8PaoYXhp6HxIwZIk7-Mi3Tsic-L2IOPH3Dwrhl-Ne3Z2tU2ReFwpVgSm7x-SgOFtAmJMoyi-Ta5HHhO2BVXHKKXdZR9z9mxWb0yLUToVqwSd/Image-1.jpg) 
 
-[![Screen Shot 2014-08-25 at 4.30.54 PM.png](https://images.squarespace-cdn.com/content/v1/52b7d7a6e4b0b3e376ac8ea2/1409008927835-L98G5CFKHC95UB2SE36J/ke17ZwdGBToddI8pDm48kNbEXRHtu-VOR1wJRHERZf5Zw-zPPgdn4jUwVcJE1ZvWhcwhEtWJXoshNdA9f1qD7XxG-9FZQiNMT_ZdcQnlMXbLaTBSKfpuyJ0Mjifv1iZd2pRTjiMatmd_O3kc0H5WVA/Screen+Shot+2014-08-25+at+4.30.54+PM.png)](https://images.squarespace-cdn.com/content/v1/52b7d7a6e4b0b3e376ac8ea2/1409008927835-L98G5CFKHC95UB2SE36J/ke17ZwdGBToddI8pDm48kNbEXRHtu-VOR1wJRHERZf5Zw-zPPgdn4jUwVcJE1ZvWhcwhEtWJXoshNdA9f1qD7XxG-9FZQiNMT_ZdcQnlMXbLaTBSKfpuyJ0Mjifv1iZd2pRTjiMatmd_O3kc0H5WVA/Screen+Shot+2014-08-25+at+4.30.54+PM.png) 
+[![Screen Shot 2014-08-25 at 4.30.54 PM.png](/assets/uploads/Screen+Shot+2014-08-25+at+4.30.54+PM.png)](https://images.squarespace-cdn.com/content/v1/52b7d7a6e4b0b3e376ac8ea2/1409008927835-L98G5CFKHC95UB2SE36J/ke17ZwdGBToddI8pDm48kNbEXRHtu-VOR1wJRHERZf5Zw-zPPgdn4jUwVcJE1ZvWhcwhEtWJXoshNdA9f1qD7XxG-9FZQiNMT_ZdcQnlMXbLaTBSKfpuyJ0Mjifv1iZd2pRTjiMatmd_O3kc0H5WVA/Screen+Shot+2014-08-25+at+4.30.54+PM.png) 
 
-[![Screen Shot 2014-08-25 at 4.46.03 PM.png](https://images.squarespace-cdn.com/content/v1/52b7d7a6e4b0b3e376ac8ea2/1409009846944-BDS5NJWA4FLWER7SXJ7V/ke17ZwdGBToddI8pDm48kO4NXMSWVUJctm8It4GEXzJZw-zPPgdn4jUwVcJE1ZvWQUxwkmyExglNqGp0IvTJZUJFbgE-7XRK3dMEBRBhUpzq1Ii6M9YoxeGEC-GfMFA663ecQJszRk28pTmXCIrQmh2wm4_t2O5g2jBPAJlKlRE/Screen+Shot+2014-08-25+at+4.46.03+PM.png)](https://images.squarespace-cdn.com/content/v1/52b7d7a6e4b0b3e376ac8ea2/1409009846944-BDS5NJWA4FLWER7SXJ7V/ke17ZwdGBToddI8pDm48kO4NXMSWVUJctm8It4GEXzJZw-zPPgdn4jUwVcJE1ZvWQUxwkmyExglNqGp0IvTJZUJFbgE-7XRK3dMEBRBhUpzq1Ii6M9YoxeGEC-GfMFA663ecQJszRk28pTmXCIrQmh2wm4_t2O5g2jBPAJlKlRE/Screen+Shot+2014-08-25+at+4.46.03+PM.png) 
+[![Screen Shot 2014-08-25 at 4.46.03 PM.png](/assets/uploads/Screen+Shot+2014-08-25+at+4.46.03+PM.png)](https://images.squarespace-cdn.com/content/v1/52b7d7a6e4b0b3e376ac8ea2/1409009846944-BDS5NJWA4FLWER7SXJ7V/ke17ZwdGBToddI8pDm48kO4NXMSWVUJctm8It4GEXzJZw-zPPgdn4jUwVcJE1ZvWQUxwkmyExglNqGp0IvTJZUJFbgE-7XRK3dMEBRBhUpzq1Ii6M9YoxeGEC-GfMFA663ecQJszRk28pTmXCIrQmh2wm4_t2O5g2jBPAJlKlRE/Screen+Shot+2014-08-25+at+4.46.03+PM.png) 
 
 Julie Chan & Jason Chan
 -----------------------
@@ -46,21 +46,21 @@ Jason is fluent in English & Chinese (Cantonese & ToiSunese). He enjoys working 
 #stopsfevictions  
 @antievictionmap
 
-*    [![](https://pbs.twimg.com/profile_images/609858964554039296/u2YJ3jBQ_normal.jpg)](http://www.twitter.com/antievictionmap/) 
+*    [![](/assets/uploads/u2YJ3jBQ_normal.jpg)](http://www.twitter.com/antievictionmap/) 
     
     [antievictionmap](http://www.twitter.com/antievictionmap/)
     
-    RT @[JIMBO\_TIMES](https://twitter.com/JIMBO_TIMES): @[antievictionmap](https://twitter.com/antievictionmap) @[Samanta\_Helou](https://twitter.com/Samanta_Helou) This thread can be read here: [https://t.co/hAABDYcNJN](https://t.co/hAABDYcNJN)
+    RT @[sahrasulaiman](https://twitter.com/sahrasulaiman): The thing to understand is that Black folks stopped for this tell me they are often stopped during the day. The cla… [https://t.co/9XP4LmtgNP](https://t.co/9XP4LmtgNP)
     
-    [Feb 19, 2021, 1:28 PM](https://twitter.com/antievictionmap/status/1362876704268648448)
+    [Jun 6, 2021, 11:01 AM](https://twitter.com/antievictionmap/status/1401600215069593600)
     
-*    [![](https://pbs.twimg.com/profile_images/609858964554039296/u2YJ3jBQ_normal.jpg)](http://www.twitter.com/antievictionmap/) 
+*    [![](/assets/uploads/u2YJ3jBQ_normal.jpg)](http://www.twitter.com/antievictionmap/) 
     
     [antievictionmap](http://www.twitter.com/antievictionmap/)
     
-    RT @[JIMBO\_TIMES](https://twitter.com/JIMBO_TIMES): …([https://t.co/YqnuySuBZB](https://t.co/YqnuySuBZB)), the Anti Eviction Mapping Project ([https://t.co/rimAf3PH1A](https://t.co/rimAf3PH1A)) @[antievictionmap](https://twitter.com/antievictionmap), This Side… [https://t.co/cU5vRJewNu](https://t.co/cU5vRJewNu)
+    RT @[sahrasulaiman](https://twitter.com/sahrasulaiman): Policing, I was regularly told, was not a transportation issue unless it was about officers' poor grasp of vehicle… [https://t.co/3C5iNL1u83](https://t.co/3C5iNL1u83)
     
-    [Feb 19, 2021, 1:28 PM](https://twitter.com/antievictionmap/status/1362876695536099330)
+    [Jun 6, 2021, 10:35 AM](https://twitter.com/antievictionmap/status/1401593703009902602)
     
 
 Julie Chan & Jason Chan

@@ -12,6 +12,6 @@ Starr Bar, 214 Starr Street, Brooklyn**
 
 [
 
-![Screen Shot 2021-01-15 at 9.54.06 AM.png](https://images.squarespace-cdn.com/content/v1/52b7d7a6e4b0b3e376ac8ea2/1610722565243-HIEEEA7QW8YHVK7UXEUX/ke17ZwdGBToddI8pDm48kNI-nz3orxo3qmc6Gfuxgt1Zw-zPPgdn4jUwVcJE1ZvWQUxwkmyExglNqGp0IvTJZamWLI2zvYWH8K3-s_4yszcp2ryTI0HqTOaaUohrI8PIJxJetIJYKBeutt0vvdrK3zW7LeooTWD7IbmxhDOUL9I/Screen+Shot+2021-01-15+at+9.54.06+AM.png)
+![Screen Shot 2021-01-15 at 9.54.06 AM.png](/assets/uploads/Screen+Shot+2021-01-15+at+9.54.06+AM.png)
 
 ](http://www.fiveborostoryproject.org/bushwick-anti-gentrification-listening-party/)

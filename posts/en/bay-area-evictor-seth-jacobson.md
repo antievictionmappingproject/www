@@ -15,13 +15,13 @@ Because most of the properties that Marr acquired are single family homes, they 
 
 [
 
-![PastedGraphic-30.png](https://images.squarespace-cdn.com/content/v1/52b7d7a6e4b0b3e376ac8ea2/1506579840845-KMEREEVK485BSUL59QY7/ke17ZwdGBToddI8pDm48kLsAVutBbh4NeOJ_tpTEa91Zw-zPPgdn4jUwVcJE1ZvWQUxwkmyExglNqGp0IvTJZamWLI2zvYWH8K3-s_4yszcp2ryTI0HqTOaaUohrI8PIz6isZg9ukQL214AcHeED2vJFMY52U_msTnVWRlvXbiU/PastedGraphic-30.png)
+![PastedGraphic-30.png](/assets/uploads/PastedGraphic-30.png)
 
 ](http://www.eastbaytimes.com/2017/05/15/oakland-landlord-faces-charges-in-court-protests-from-angry-tenants/)
 
  **LLCs**
 
-![Jessica Marr is managing Community Find rentals while her father awaits sentencing.](https://images.squarespace-cdn.com/content/v1/52b7d7a6e4b0b3e376ac8ea2/1506714406070-PNCZP0JDYFDO13QUZWS1/ke17ZwdGBToddI8pDm48kP4Hnt-uKNy0QX7ufRed5YtZw-zPPgdn4jUwVcJE1ZvWhcwhEtWJXoshNdA9f1qD7StoHnpD1WDiyvmtYliKB65Wr9F_ESmQiyqG5hziMeG8zN6lVPemhTIk4m5LVurAyQ/PastedGraphic-41.png)
+![Jessica Marr is managing Community Find rentals while her father awaits sentencing.](/assets/uploads/PastedGraphic-41.png)
 
 Jessica Marr is managing Community Find rentals while her father awaits sentencing.
 

@@ -11,15 +11,15 @@ A pioneer in the growing practice of eviction through construction, many of the 
 
 By 2011, [the vast Lembi empire was in default](http://www.sfgate.com/business/article/Walter-Lembi-s-empire-sets-off-investor-frenzy-2367788.php).   LNR, a subsidiary of the Lennar Company, [acquired](http://www.bizjournals.com/sanfrancisco/blog/2011/09/area-lands-lembi-portfolio-for-596.html) and resold the Lembi properties to investment groups such as Prado Group, Area Property Partners, Woodmont Company, and CIM Group. [Many of the former Lembi properties](https://www.cmalert.com/search.pl?ARTICLE=164965) are now controlled by Veritas LLC, a company founded by investor Yat-Pang Au, [considered](http://usa.chinadaily.com.cn/epaper/2013-06/21/content_16643650.htm) [one of the largest owners and operators of apartments in San Francisco.](http://usa.chinadaily.com.cn/epaper/2013-06/21/content_16643650.htm)   Through Russian Hill Associates, Mr. Au displaced tenants with Ellis evictions at 1725 Hyde St and 1355 Lombard.
 
-![](https://images.squarespace-cdn.com/content/v1/52b7d7a6e4b0b3e376ac8ea2/1412358405975-JWQBQR54DWF5DTPUAG4E/ke17ZwdGBToddI8pDm48kNJHOVXQsNVt9Mq2nW5JVE9Zw-zPPgdn4jUwVcJE1ZvWQUxwkmyExglNqGp0IvTJZUJFbgE-7XRK3dMEBRBhUpyit0LFfvc9Af_MWk6RxZ-DVekFkzHJ65RL8-cSERlPwoK0CBcH6iOwKMPeFe87BEU/image-asset.png)
+![](/assets/uploads/image-asset.png)
 
-![yatpang.jpg](https://images.squarespace-cdn.com/content/v1/52b7d7a6e4b0b3e376ac8ea2/1455128511771-G6DKAP2DENSFWKQDQNHZ/ke17ZwdGBToddI8pDm48kNsbV3umwA6Z2MLnJgeWA0tZw-zPPgdn4jUwVcJE1ZvWQUxwkmyExglNqGp0IvTJZamWLI2zvYWH8K3-s_4yszcp2ryTI0HqTOaaUohrI8PIKQRnthqxmbER4w8YRJfgM--yfgh5X10WuPvu7AseDgwKMshLAGzx4R3EDFOm1kBS/yatpang.jpg)
+![yatpang.jpg](/assets/uploads/yatpang.jpg)
 
   
 
 ### Formerly CitiApartments and Lembi Properties
 
-![The Lembi Family](https://images.squarespace-cdn.com/content/v1/52b7d7a6e4b0b3e376ac8ea2/1412358357477-KCBQVVIEOIZ1B771U37H/ke17ZwdGBToddI8pDm48kDm7iYdgNFL6jxmPZqmeW-9Zw-zPPgdn4jUwVcJE1ZvWEtT5uBSRWt4vQZAgTJucoTqqXjS3CfNDSuuf31e0tVF-uHfWN9QkaKWScnUwfO8b1KoHQUbu9_MSUaEpFjRxgh926scO3xePJoa6uVJa9B4/image-asset.png)
+![The Lembi Family](/assets/uploads/image-asset.png)
 
 The Lembi Family
 

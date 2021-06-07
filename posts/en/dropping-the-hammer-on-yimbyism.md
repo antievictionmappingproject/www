@@ -10,6 +10,6 @@ _By the Los Angeles Tenants Union, in collaboration with the AEMP and the DSA-LA
 
 [
 
-![Screen Shot 2019-03-25 at 7.48.27 PM.png](https://images.squarespace-cdn.com/content/v1/52b7d7a6e4b0b3e376ac8ea2/1553568519720-AY92QLVS1ZKMFXSZVS2S/ke17ZwdGBToddI8pDm48kFvhnx3cIKKeaGmN4TlFLcFZw-zPPgdn4jUwVcJE1ZvWQUxwkmyExglNqGp0IvTJZUJFbgE-7XRK3dMEBRBhUpwumYYvPovYa2GIqPTb4TfKGLnm1ZX1aEJw3GtFHZKA6e3R7Qd8Y8ABVQLH4snuqf4/Screen+Shot+2019-03-25+at+7.48.27+PM.png)
+![Screen Shot 2019-03-25 at 7.48.27 PM.png](/assets/uploads/Screen+Shot+2019-03-25+at+7.48.27+PM.png)
 
 ](https://medium.com/@LATenantsUnion/dropping-the-hammer-on-yimbyism-97724dfdb6a9)

@@ -17,7 +17,7 @@ Justin Douglas Wallwayand Wendi Lelke-Wallway      Residential Remodelers   
 
 [Click here to enlarge the map](https://ampitup.carto.com/builder/befea9ec-a27a-11e7-937f-0ea7a2e498dc/embed)
 
-![close the loopholes.jpg](https://images.squarespace-cdn.com/content/v1/52b7d7a6e4b0b3e376ac8ea2/1506581229282-VO9MRYHCNFR4PX5EQGQU/ke17ZwdGBToddI8pDm48kDHPSfPanjkWqhH6pl6g5ph7gQa3H78H3Y0txjaiv_0fDoOvxcdMmMKkDsyUqMSsMWxHk725yiiHCCLfrh8O1z4YTzHvnKhyp6Da-NYroOW3ZGjoBKy3azqku80C789l0mwONMR1ELp49Lyc52iWr5dNb1QJw9casjKdtTg1_-y4jz4ptJBmI9gQmbjSQnNGng/close+the+loopholes.jpg)
+![close the loopholes.jpg](/assets/uploads/close+the+loopholes.jpg)
 
 24  Oakland Evictions before 2016/Rent board data:
 --------------------------------------------------

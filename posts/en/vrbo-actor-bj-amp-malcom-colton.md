@@ -36,7 +36,7 @@ In 2005, BJ was t[he target of protesters because she did not disclose the Ellis
 
 The Colton’s listed 8 vacation units on VRBO between San Francisco and Sonoma.
 
-![BJ's listing](https://images.squarespace-cdn.com/content/v1/52b7d7a6e4b0b3e376ac8ea2/1412364115987-3LHBYTU74AMBT28DFIDS/ke17ZwdGBToddI8pDm48kG02UTyunk9ZCtjmNhoXQJ9Zw-zPPgdn4jUwVcJE1ZvWQUxwkmyExglNqGp0IvTJZUJFbgE-7XRK3dMEBRBhUpwlpoxWhuljTFiN1xzI07MRixn74-28dJQQBN9m7Kj3b3zaVxho1t0tqUvLcG4WutQ/bj)
+![BJ's listing](/assets/uploads/bj)
 
 BJ's listing
 
@@ -44,7 +44,7 @@ BJ's listing
 
 --------------------------
 
-![BJ Colton](https://images.squarespace-cdn.com/content/v1/52b7d7a6e4b0b3e376ac8ea2/1412319084446-GL0BGQD1JL0T00KMXCEW/ke17ZwdGBToddI8pDm48kB3ev6n3TjvhRjRWgFW2YuFZw-zPPgdn4jUwVcJE1ZvWhcwhEtWJXoshNdA9f1qD7StoHnpD1WDiyvmtYliKB64hicse0acxSx-dno-taVhVFlyTO4S_xttQyhNVwiHHMg/BJ+Colton)
+![BJ Colton](/assets/uploads/BJ+Colton)
 
 BJ Colton
 
@@ -54,6 +54,6 @@ You can find BJ on VRBO, [www.24thStreetApartments.com](http://www.24thstreetapa
 
 [http://www.droubiteam.com/our\_team.php](http://www.droubiteam.com/our_team.php)
 
-![BJ's listings](https://images.squarespace-cdn.com/content/v1/52b7d7a6e4b0b3e376ac8ea2/1412319475569-CZXAQVCUNTYVOUUJKSAJ/ke17ZwdGBToddI8pDm48kMqwwqlVpFg0dD-Ip7N73P5Zw-zPPgdn4jUwVcJE1ZvWEtT5uBSRWt4vQZAgTJucoTqqXjS3CfNDSuuf31e0tVH-_s9sM5YGR_eGFzg83FEphh-8jx6hHOvdpePACDAZaTqWIIaSPh2v08GbKqpiV54/BJ%27s+listings)
+![BJ's listings](/assets/uploads/BJ%27s+listings)
 
 BJ's listings

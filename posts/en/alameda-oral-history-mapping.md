@@ -9,6 +9,6 @@ Geolocating oral histories based in Alameda County, studying one life movement t
 
 [
 
-![](https://images.squarespace-cdn.com/content/v1/52b7d7a6e4b0b3e376ac8ea2/1493856364605-M5H3C4RW67XRZ58501OL/ke17ZwdGBToddI8pDm48kDZL6-YofkOaQN_KQQk4TxMUqsxRUqqbr1mOJYKfIPR7LoDQ9mXPOjoJoqy81S2I8N_N4V1vUb5AoIIIbLZhVYxCRW4BPu10St3TBAUQYVKcEv3lClJNf7SYDKz6nmRWUtRJPHM29Mqslg28I7EzmmPyGmjPsfyS_kaC0yPnAKlU/image-asset.png)
+![](/assets/uploads/image-asset.png)
 
 ](http://www.antievictionmappingproject.net/alamedanarratives.html)

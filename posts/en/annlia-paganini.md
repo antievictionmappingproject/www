@@ -2,13 +2,13 @@
 {"tags":["Evictors","Evictions","Speculation","Ownership","San Francisco"],"date":"2019-02-17T02:13:28","title":"Bay Area Evictor: Annlia Paganini"}
 ---
 
-[![Screen Shot 2015-05-21 at 10.24.26 AM.png](https://images.squarespace-cdn.com/content/v1/52b7d7a6e4b0b3e376ac8ea2/1432229267075-GSO8AUNGFB0IN9H8MPGY/ke17ZwdGBToddI8pDm48kIxDPgjj0BBwkSedPL5agD9Zw-zPPgdn4jUwVcJE1ZvWhcwhEtWJXoshNdA9f1qD7a3IG1vtna7BEUjBtarIuos5FZXPTWAI3fC_Dn7e8QTDd55N0AuwcWHpjsFPk6YXAA/Screen+Shot+2015-05-21+at+10.24.26+AM.png)](https://images.squarespace-cdn.com/content/v1/52b7d7a6e4b0b3e376ac8ea2/1432229267075-GSO8AUNGFB0IN9H8MPGY/ke17ZwdGBToddI8pDm48kIxDPgjj0BBwkSedPL5agD9Zw-zPPgdn4jUwVcJE1ZvWhcwhEtWJXoshNdA9f1qD7a3IG1vtna7BEUjBtarIuos5FZXPTWAI3fC_Dn7e8QTDd55N0AuwcWHpjsFPk6YXAA/Screen+Shot+2015-05-21+at+10.24.26+AM.png) 
+[![Screen Shot 2015-05-21 at 10.24.26 AM.png](/assets/uploads/Screen+Shot+2015-05-21+at+10.24.26+AM.png)](https://images.squarespace-cdn.com/content/v1/52b7d7a6e4b0b3e376ac8ea2/1432229267075-GSO8AUNGFB0IN9H8MPGY/ke17ZwdGBToddI8pDm48kIxDPgjj0BBwkSedPL5agD9Zw-zPPgdn4jUwVcJE1ZvWhcwhEtWJXoshNdA9f1qD7a3IG1vtna7BEUjBtarIuos5FZXPTWAI3fC_Dn7e8QTDd55N0AuwcWHpjsFPk6YXAA/Screen+Shot+2015-05-21+at+10.24.26+AM.png) 
 
-[![Screen Shot 2015-05-21 at 10.33.09 AM.png](https://images.squarespace-cdn.com/content/v1/52b7d7a6e4b0b3e376ac8ea2/1432229614413-LOEB7RWBVNF5BFW9KIOB/ke17ZwdGBToddI8pDm48kJJOK0KA0RqD6XeusvmDgSxZw-zPPgdn4jUwVcJE1ZvWQUxwkmyExglNqGp0IvTJZUJFbgE-7XRK3dMEBRBhUpx84bBr0NkPhsU9zG4_47q-cvHL7ZTZpzkklix2JOdxYxXXaFOTjrcTDgxpzcd-tpQ/Screen+Shot+2015-05-21+at+10.33.09+AM.png)](https://images.squarespace-cdn.com/content/v1/52b7d7a6e4b0b3e376ac8ea2/1432229614413-LOEB7RWBVNF5BFW9KIOB/ke17ZwdGBToddI8pDm48kJJOK0KA0RqD6XeusvmDgSxZw-zPPgdn4jUwVcJE1ZvWQUxwkmyExglNqGp0IvTJZUJFbgE-7XRK3dMEBRBhUpx84bBr0NkPhsU9zG4_47q-cvHL7ZTZpzkklix2JOdxYxXXaFOTjrcTDgxpzcd-tpQ/Screen+Shot+2015-05-21+at+10.33.09+AM.png) 
+[![Screen Shot 2015-05-21 at 10.33.09 AM.png](/assets/uploads/Screen+Shot+2015-05-21+at+10.33.09+AM.png)](https://images.squarespace-cdn.com/content/v1/52b7d7a6e4b0b3e376ac8ea2/1432229614413-LOEB7RWBVNF5BFW9KIOB/ke17ZwdGBToddI8pDm48kJJOK0KA0RqD6XeusvmDgSxZw-zPPgdn4jUwVcJE1ZvWQUxwkmyExglNqGp0IvTJZUJFbgE-7XRK3dMEBRBhUpx84bBr0NkPhsU9zG4_47q-cvHL7ZTZpzkklix2JOdxYxXXaFOTjrcTDgxpzcd-tpQ/Screen+Shot+2015-05-21+at+10.33.09+AM.png) 
 
-[![Screen Shot 2015-05-21 at 10.24.39 AM.png](https://images.squarespace-cdn.com/content/v1/52b7d7a6e4b0b3e376ac8ea2/1432229267002-T34EY681WUDBYUZU14YI/ke17ZwdGBToddI8pDm48kGakC9i2fAfK9DfTTaTjvxlZw-zPPgdn4jUwVcJE1ZvWhcwhEtWJXoshNdA9f1qD7aWTft8W2mJ3MMBYfzdTZ2xSgriiIn1QqErPaTxzHcvgmS7ExQNTY8T7EhsnDVYt5w/Screen+Shot+2015-05-21+at+10.24.39+AM.png)](https://images.squarespace-cdn.com/content/v1/52b7d7a6e4b0b3e376ac8ea2/1432229267002-T34EY681WUDBYUZU14YI/ke17ZwdGBToddI8pDm48kGakC9i2fAfK9DfTTaTjvxlZw-zPPgdn4jUwVcJE1ZvWhcwhEtWJXoshNdA9f1qD7aWTft8W2mJ3MMBYfzdTZ2xSgriiIn1QqErPaTxzHcvgmS7ExQNTY8T7EhsnDVYt5w/Screen+Shot+2015-05-21+at+10.24.39+AM.png) 
+[![Screen Shot 2015-05-21 at 10.24.39 AM.png](/assets/uploads/Screen+Shot+2015-05-21+at+10.24.39+AM.png)](https://images.squarespace-cdn.com/content/v1/52b7d7a6e4b0b3e376ac8ea2/1432229267002-T34EY681WUDBYUZU14YI/ke17ZwdGBToddI8pDm48kGakC9i2fAfK9DfTTaTjvxlZw-zPPgdn4jUwVcJE1ZvWhcwhEtWJXoshNdA9f1qD7aWTft8W2mJ3MMBYfzdTZ2xSgriiIn1QqErPaTxzHcvgmS7ExQNTY8T7EhsnDVYt5w/Screen+Shot+2015-05-21+at+10.24.39+AM.png) 
 
-[![Screen Shot 2015-05-21 at 10.33.16 AM.png](https://images.squarespace-cdn.com/content/v1/52b7d7a6e4b0b3e376ac8ea2/1432229614347-MBD2XTUI7NIDPY1RPSSI/ke17ZwdGBToddI8pDm48kKFTDLoMKjHnoRZUW_0iipdZw-zPPgdn4jUwVcJE1ZvWQUxwkmyExglNqGp0IvTJZUJFbgE-7XRK3dMEBRBhUpzEFDnB8zFySXto_2Q5VUBIoGVE7qBc_RfEd6LJzYu05d1Ri4aVFcm_t3x8emYd3VY/Screen+Shot+2015-05-21+at+10.33.16+AM.png)](https://images.squarespace-cdn.com/content/v1/52b7d7a6e4b0b3e376ac8ea2/1432229614347-MBD2XTUI7NIDPY1RPSSI/ke17ZwdGBToddI8pDm48kKFTDLoMKjHnoRZUW_0iipdZw-zPPgdn4jUwVcJE1ZvWQUxwkmyExglNqGp0IvTJZUJFbgE-7XRK3dMEBRBhUpzEFDnB8zFySXto_2Q5VUBIoGVE7qBc_RfEd6LJzYu05d1Ri4aVFcm_t3x8emYd3VY/Screen+Shot+2015-05-21+at+10.33.16+AM.png) 
+[![Screen Shot 2015-05-21 at 10.33.16 AM.png](/assets/uploads/Screen+Shot+2015-05-21+at+10.33.16+AM.png)](https://images.squarespace-cdn.com/content/v1/52b7d7a6e4b0b3e376ac8ea2/1432229614347-MBD2XTUI7NIDPY1RPSSI/ke17ZwdGBToddI8pDm48kKFTDLoMKjHnoRZUW_0iipdZw-zPPgdn4jUwVcJE1ZvWQUxwkmyExglNqGp0IvTJZUJFbgE-7XRK3dMEBRBhUpzEFDnB8zFySXto_2Q5VUBIoGVE7qBc_RfEd6LJzYu05d1Ri4aVFcm_t3x8emYd3VY/Screen+Shot+2015-05-21+at+10.33.16+AM.png) 
 
 **Annlia Paganini**
 -------------------
@@ -31,7 +31,7 @@ Court info in 2013: J767826-00     10/08/2013        K998 0651
 
 ### Leisure World Cohort Study led to the [90+ study](http://www.mind.uci.edu/research/90plus-study/). Too bad that the North Beach seniors Paganini is evicting won’t be making it into this study!
 
-![90 plus study](https://images.squarespace-cdn.com/content/v1/52b7d7a6e4b0b3e376ac8ea2/1432230190547-5NX3XRKHSTRYL4GEAV7B/ke17ZwdGBToddI8pDm48kNCc_7uiaiYdS1Tjz5VDcUVZw-zPPgdn4jUwVcJE1ZvWEtT5uBSRWt4vQZAgTJucoTqqXjS3CfNDSuuf31e0tVFyLq6bZi0gfi1QN6_0mWuSfcb3dT1y5n8xtzgU-tfsiltO8nJtk629tZGIWiyY3XQ/90+plus+study)
+![90 plus study](/assets/uploads/90+plus+study)
 
   
 
@@ -41,21 +41,21 @@ Twitter Block
 
 To display items in this block, you'll need a connected account. Edit this block and select an account from the drop-down menu. You can also connect a new account. [Learn more](https://support.squarespace.com/hc/articles/205814418)
 
-*    [![](https://assets.squarespace.com/universal/images-v6/configuration/placeholder/1x1-image-1-half-color.jpg)](http://www.twitter.com/#/) 
+*    [![](/assets/uploads/1x1-image-1-half-color.jpg)](http://www.twitter.com/#/) 
     
     [Twitter Username](http://www.twitter.com/#/)
     
     Quisque iaculis facilisis lacinia. Mauris euismod pellentesque tellus sit amet mollis.
     
-    Feb 22, 2021, 11:26 AM
+    Jun 6, 2021, 5:58 PM
     
-*    [![](https://assets.squarespace.com/universal/images-v6/configuration/placeholder/1x1-image-1-half-color.jpg)](http://www.twitter.com/#/) 
+*    [![](/assets/uploads/1x1-image-1-half-color.jpg)](http://www.twitter.com/#/) 
     
     [Twitter Username](http://www.twitter.com/#/)
     
     Sed purus sem, scelerisque ac rhoncus eget, porttitor nec odio. Lorem ipsum dolor sit amet.
     
-    Feb 15, 2021, 11:26 AM
+    May 30, 2021, 5:58 PM
     
 
 **Annlia Paganini**

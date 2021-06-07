@@ -7,13 +7,13 @@ The Hunt Family:  Brian and Erica Hunt; Sam and Diana Hunt
 
 _Brothers Brian and Sam Hunt and their respective wives, Erica and Diana have made a fortune flipping San Francisco properties, converting multi-unit buildings into single unit luxury homes, and lately evicting tenants. After buying a massive home in Ross, they turned to the notorious eviction attorney Andrew Zacks, to help them heighten their profiteering.  With evictions at 306-308b Bartlett and 1964 Larkin Street, they add human suffering to their portfolio toolbox._
 
-[![ehunt2.jpg](https://images.squarespace-cdn.com/content/v1/52b7d7a6e4b0b3e376ac8ea2/1453484040971-HSHL94H7U21LQAGNPLV5/ke17ZwdGBToddI8pDm48kAGRLFl8kg5bfzJ2OJGH78dZw-zPPgdn4jUwVcJE1ZvWhcwhEtWJXoshNdA9f1qD7Xj1nVWs2aaTtWBneO2WM-tGe5VEY_id4yOlnHlhrUOHpNrkoBNOAeZ4Xg7B7nH7ZQ/ehunt2.jpg)](https://images.squarespace-cdn.com/content/v1/52b7d7a6e4b0b3e376ac8ea2/1453484040971-HSHL94H7U21LQAGNPLV5/ke17ZwdGBToddI8pDm48kAGRLFl8kg5bfzJ2OJGH78dZw-zPPgdn4jUwVcJE1ZvWhcwhEtWJXoshNdA9f1qD7Xj1nVWs2aaTtWBneO2WM-tGe5VEY_id4yOlnHlhrUOHpNrkoBNOAeZ4Xg7B7nH7ZQ/ehunt2.jpg) 
+[![ehunt2.jpg](/assets/uploads/ehunt2.jpg)](https://images.squarespace-cdn.com/content/v1/52b7d7a6e4b0b3e376ac8ea2/1453484040971-HSHL94H7U21LQAGNPLV5/ke17ZwdGBToddI8pDm48kAGRLFl8kg5bfzJ2OJGH78dZw-zPPgdn4jUwVcJE1ZvWhcwhEtWJXoshNdA9f1qD7Xj1nVWs2aaTtWBneO2WM-tGe5VEY_id4yOlnHlhrUOHpNrkoBNOAeZ4Xg7B7nH7ZQ/ehunt2.jpg) 
 
-[![Screen Shot 2015-07-01 at 12.36.56 PM.png](https://images.squarespace-cdn.com/content/v1/52b7d7a6e4b0b3e376ac8ea2/1435779481624-978VFVU080VYHITJLNWZ/ke17ZwdGBToddI8pDm48kA4CfsL8w2EDoJHndXZXRuBZw-zPPgdn4jUwVcJE1ZvWhcwhEtWJXoshNdA9f1qD7SRUeo5q1QCP5W3CVI481cwFIsSzYkmv8-9HbAzL-3Mq6FtNmm6Hjqw0rSYF3MxGsw/Screen+Shot+2015-07-01+at+12.36.56+PM.png)](https://images.squarespace-cdn.com/content/v1/52b7d7a6e4b0b3e376ac8ea2/1435779481624-978VFVU080VYHITJLNWZ/ke17ZwdGBToddI8pDm48kA4CfsL8w2EDoJHndXZXRuBZw-zPPgdn4jUwVcJE1ZvWhcwhEtWJXoshNdA9f1qD7SRUeo5q1QCP5W3CVI481cwFIsSzYkmv8-9HbAzL-3Mq6FtNmm6Hjqw0rSYF3MxGsw/Screen+Shot+2015-07-01+at+12.36.56+PM.png) 
+[![Screen Shot 2015-07-01 at 12.36.56 PM.png](/assets/uploads/Screen+Shot+2015-07-01+at+12.36.56+PM.png)](https://images.squarespace-cdn.com/content/v1/52b7d7a6e4b0b3e376ac8ea2/1435779481624-978VFVU080VYHITJLNWZ/ke17ZwdGBToddI8pDm48kA4CfsL8w2EDoJHndXZXRuBZw-zPPgdn4jUwVcJE1ZvWhcwhEtWJXoshNdA9f1qD7SRUeo5q1QCP5W3CVI481cwFIsSzYkmv8-9HbAzL-3Mq6FtNmm6Hjqw0rSYF3MxGsw/Screen+Shot+2015-07-01+at+12.36.56+PM.png) 
 
-[![Screen Shot 2015-07-01 at 12.37.03 PM.png](https://images.squarespace-cdn.com/content/v1/52b7d7a6e4b0b3e376ac8ea2/1435779481627-9PAP3O3Y0LYSWYUT4ZPF/ke17ZwdGBToddI8pDm48kHtEQvb0k2XQQ83x8EHjHOxZw-zPPgdn4jUwVcJE1ZvWhcwhEtWJXoshNdA9f1qD7dVqjJOA2bbs_Tozk7Nfgn4qdi-joarJkP8PgkmZ5CBWlQAI1259COjb3On2vPbBVg/Screen+Shot+2015-07-01+at+12.37.03+PM.png)](https://images.squarespace-cdn.com/content/v1/52b7d7a6e4b0b3e376ac8ea2/1435779481627-9PAP3O3Y0LYSWYUT4ZPF/ke17ZwdGBToddI8pDm48kHtEQvb0k2XQQ83x8EHjHOxZw-zPPgdn4jUwVcJE1ZvWhcwhEtWJXoshNdA9f1qD7dVqjJOA2bbs_Tozk7Nfgn4qdi-joarJkP8PgkmZ5CBWlQAI1259COjb3On2vPbBVg/Screen+Shot+2015-07-01+at+12.37.03+PM.png) 
+[![Screen Shot 2015-07-01 at 12.37.03 PM.png](/assets/uploads/Screen+Shot+2015-07-01+at+12.37.03+PM.png)](https://images.squarespace-cdn.com/content/v1/52b7d7a6e4b0b3e376ac8ea2/1435779481627-9PAP3O3Y0LYSWYUT4ZPF/ke17ZwdGBToddI8pDm48kHtEQvb0k2XQQ83x8EHjHOxZw-zPPgdn4jUwVcJE1ZvWhcwhEtWJXoshNdA9f1qD7dVqjJOA2bbs_Tozk7Nfgn4qdi-joarJkP8PgkmZ5CBWlQAI1259COjb3On2vPbBVg/Screen+Shot+2015-07-01+at+12.37.03+PM.png) 
 
-[![dhunt.jpg](https://images.squarespace-cdn.com/content/v1/52b7d7a6e4b0b3e376ac8ea2/1453483236084-7LNVYO3DX9LLA7ZVL7FW/ke17ZwdGBToddI8pDm48kLey211c059KQXzCvFwyN8tZw-zPPgdn4jUwVcJE1ZvWhcwhEtWJXoshNdA9f1qD7Xj1nVWs2aaTtWBneO2WM-tihhtodGwIfhDFrq-XhzHNKXReOw9EyLTLSgd4espdfQ/dhunt.jpg)](https://images.squarespace-cdn.com/content/v1/52b7d7a6e4b0b3e376ac8ea2/1453483236084-7LNVYO3DX9LLA7ZVL7FW/ke17ZwdGBToddI8pDm48kLey211c059KQXzCvFwyN8tZw-zPPgdn4jUwVcJE1ZvWhcwhEtWJXoshNdA9f1qD7Xj1nVWs2aaTtWBneO2WM-tihhtodGwIfhDFrq-XhzHNKXReOw9EyLTLSgd4espdfQ/dhunt.jpg) 
+[![dhunt.jpg](/assets/uploads/dhunt.jpg)](https://images.squarespace-cdn.com/content/v1/52b7d7a6e4b0b3e376ac8ea2/1453483236084-7LNVYO3DX9LLA7ZVL7FW/ke17ZwdGBToddI8pDm48kLey211c059KQXzCvFwyN8tZw-zPPgdn4jUwVcJE1ZvWhcwhEtWJXoshNdA9f1qD7Xj1nVWs2aaTtWBneO2WM-tihhtodGwIfhDFrq-XhzHNKXReOw9EyLTLSgd4espdfQ/dhunt.jpg) 
 
 Evictions
 ---------
@@ -26,7 +26,7 @@ Evictions
 
 [Tenants on Bartlett fought their eviction.](http://www.beyondchron.org/court-stops-another-mission-district-ellis-eviction/)
 
-![](https://images.squarespace-cdn.com/content/v1/52b7d7a6e4b0b3e376ac8ea2/1482179703783-7L1E3N2WUEGJ6R9ZWXYV/ke17ZwdGBToddI8pDm48kPvMRLK2RE0Zo_IP5DQGGgNZw-zPPgdn4jUwVcJE1ZvWEtT5uBSRWt4vQZAgTJucoTqqXjS3CfNDSuuf31e0tVEb7QybHekld4Ct9TW8DGiB6gseqAfrAiawvXkC4Q38nWbSd6kfRtgWHgNMDgGnmDY/image-asset.png)
+![](/assets/uploads/image-asset.png)
 
 * * *
 
@@ -47,11 +47,11 @@ Removal of multi-unit rental housing units for luxury homes
 
 [Brian and Erica Hunt purchased the historic Coddington House in Ross for 2.2 million in 2012](http://www.marinscope.com/ross_valley_reporter/news/article_5d982132-ac40-564d-aad0-ced1b8d65f82.html).
 
-![hunt2.jpg](https://images.squarespace-cdn.com/content/v1/52b7d7a6e4b0b3e376ac8ea2/1453336370331-CO90EF1TWM4U1O34RLW0/ke17ZwdGBToddI8pDm48kP8OC5VFF-BU0TNx4ZQgHMZZw-zPPgdn4jUwVcJE1ZvWQUxwkmyExglNqGp0IvTJZUJFbgE-7XRK3dMEBRBhUpxEwU3fgUVbfj7SlMw0j50H2ysFWLKdfaKHDRRAp0POtfwo-GP1p3WzK78cth9BznE/hunt2.jpg) 
+![hunt2.jpg](/assets/uploads/hunt2.jpg) 
 
-![hunt1.jpg](https://images.squarespace-cdn.com/content/v1/52b7d7a6e4b0b3e376ac8ea2/1453336370785-Z1MNCT9VTQ4AYSUFP3N0/ke17ZwdGBToddI8pDm48kD9FtguGEUOJG32s8Spza_pZw-zPPgdn4jUwVcJE1ZvWQUxwkmyExglNqGp0IvTJZUJFbgE-7XRK3dMEBRBhUpwFh6OfN_gNGWZ31gnXj7blUgoDaezilW9GUgHgR74xfCxsTNVQjB6llZCzQyj2I4E/hunt1.jpg) 
+![hunt1.jpg](/assets/uploads/hunt1.jpg) 
 
-![hunt3.jpg](https://images.squarespace-cdn.com/content/v1/52b7d7a6e4b0b3e376ac8ea2/1453336816192-4FSIZY2UO2C12GNDOG4D/ke17ZwdGBToddI8pDm48kKPOa0GUVr0C-xPwKzjX4DxZw-zPPgdn4jUwVcJE1ZvWEtT5uBSRWt4vQZAgTJucoTqqXjS3CfNDSuuf31e0tVHvQaAnlhMQB7JjpXzTX1RrXi-ERl4lMsOHNuOkRVfbs1mV1Wurd5TgdvKKGDaz2kk/hunt3.jpg) 
+![hunt3.jpg](/assets/uploads/hunt3.jpg) 
 
 The Hunt Family:  Brian and Erica Hunt; Sam and Diana Hunt
 ----------------------------------------------------------

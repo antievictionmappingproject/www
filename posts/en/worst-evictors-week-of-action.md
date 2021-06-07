@@ -8,6 +8,6 @@ Join us at the Worst Evictors Week of Action, a series of actions across New Yor
 
 [
 
-![Screen Shot 2019-05-04 at 10.15.26 AM.png](https://images.squarespace-cdn.com/content/v1/52b7d7a6e4b0b3e376ac8ea2/1556990768191-60F2JNIUNATD4KJSVLS4/ke17ZwdGBToddI8pDm48kKPw8PUjscX5ocLsQ-eVO0pZw-zPPgdn4jUwVcJE1ZvWQUxwkmyExglNqGp0IvTJZUJFbgE-7XRK3dMEBRBhUpxyBcDT1HPCcVOme0Lwsr6Tn-qyKv7ikLiUJVTIQYEXRqO7VbJSYyfQvrfWzmskp8k/Screen+Shot+2019-05-04+at+10.15.26+AM.png)
+![Screen Shot 2019-05-04 at 10.15.26 AM.png](/assets/uploads/Screen+Shot+2019-05-04+at+10.15.26+AM.png)
 
 ](http://bit.ly/worstevictors)

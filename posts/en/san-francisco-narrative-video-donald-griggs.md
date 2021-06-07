@@ -10,6 +10,6 @@ Donald Griggs is facing displacement and currently part of a Rent Strike, along 
 
 [
 
-![Screen Shot 2019-03-31 at 9.05.42 AM.png](https://images.squarespace-cdn.com/content/v1/52b7d7a6e4b0b3e376ac8ea2/1554050256783-TAAVCNW3HPZPSPM670IB/ke17ZwdGBToddI8pDm48kOHmJhqErhGtl6c70YyKyJMUqsxRUqqbr1mOJYKfIPR7LoDQ9mXPOjoJoqy81S2I8N_N4V1vUb5AoIIIbLZhVYxCRW4BPu10St3TBAUQYVKciQhsRD7NvzMSFBd3rwMhYOAR-OgFniWR2gvUPmc4zyC-wMhNeTCe7V0V1BVX23mH/Screen+Shot+2019-03-31+at+9.05.42+AM.png)
+![Screen Shot 2019-03-31 at 9.05.42 AM.png](/assets/uploads/Screen+Shot+2019-03-31+at+9.05.42+AM.png)
 
 ](https://www.antievictionmap.com/sota-collaboration-san-francisco-videos-1/)

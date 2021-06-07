@@ -2,11 +2,11 @@
 {"tags":["Evictors","Evictions","Speculation","Ownership","Tech","San Francisco"],"date":"2019-02-16T23:56:37","title":"Bay Area Evictor: Thomas Fallows"}
 ---
 
-![Screen Shot 2014-05-13 at 7.33.57 AM.png](https://images.squarespace-cdn.com/content/v1/52b7d7a6e4b0b3e376ac8ea2/1399991376078-GX4DHO4BD31770UTEWE0/ke17ZwdGBToddI8pDm48kAEZUfBxXqydi80uInqjvPtZw-zPPgdn4jUwVcJE1ZvWEtT5uBSRWt4vQZAgTJucoTqqXjS3CfNDSuuf31e0tVH2jQ6MEd3YG1EzBc3dCPQmObx746zG_4bElEm593OrzZu3E9Ef3XsXP1C_826c-iU/Screen+Shot+2014-05-13+at+7.33.57+AM.png) 
+![Screen Shot 2014-05-13 at 7.33.57 AM.png](/assets/uploads/Screen+Shot+2014-05-13+at+7.33.57+AM.png) 
 
-![Screen Shot 2014-05-13 at 7.34.05 AM.png](https://images.squarespace-cdn.com/content/v1/52b7d7a6e4b0b3e376ac8ea2/1399991376464-R3WHL1BLT3XQ50FWMII6/ke17ZwdGBToddI8pDm48kBcX14ityOCFX4g3kVr-2uFZw-zPPgdn4jUwVcJE1ZvWhcwhEtWJXoshNdA9f1qD7bceXY-R5S3UfGyvt5PpxWCRxoBaGATQPzp2kgG9DKmqjj_Pu8nUOXoInOdzbCFu_Q/Screen+Shot+2014-05-13+at+7.34.05+AM.png) 
+![Screen Shot 2014-05-13 at 7.34.05 AM.png](/assets/uploads/Screen+Shot+2014-05-13+at+7.34.05+AM.png) 
 
-![Screen Shot 2014-05-13 at 7.34.10 AM.png](https://images.squarespace-cdn.com/content/v1/52b7d7a6e4b0b3e376ac8ea2/1399991377195-K70NV4KKW5H4IR43T36G/ke17ZwdGBToddI8pDm48kJfP9Jfm5ekgTpMkk5J7JSpZw-zPPgdn4jUwVcJE1ZvWhcwhEtWJXoshNdA9f1qD7UDKTAfuj5KyBvNP72t28aI5xYEUSJOWcPFwl05wCtY_dMZc9T-dVeCpyMrCrzUC3g/Screen+Shot+2014-05-13+at+7.34.10+AM.png) 
+![Screen Shot 2014-05-13 at 7.34.10 AM.png](/assets/uploads/Screen+Shot+2014-05-13+at+7.34.10+AM.png) 
 
 THOMAS FALLOWS
 --------------

@@ -2,49 +2,49 @@
 {"tags":["Evictors","Ownership","Speculation","Evictions","San Francisco"],"date":"2019-02-16T23:50:18","title":"Bay Area Evictor: Kaushik Dattani"}
 ---
 
-![](https://images.squarespace-cdn.com/content/v1/52b7d7a6e4b0b3e376ac8ea2/1393815693534-YKYE1DS0KVT5C8W96PFP/ke17ZwdGBToddI8pDm48kFTEgwhRQcX9r3XtU0e50sUUqsxRUqqbr1mOJYKfIPR7LoDQ9mXPOjoJoqy81S2I8N_N4V1vUb5AoIIIbLZhVYxCRW4BPu10St3TBAUQYVKcW7uEhC96WQdj-SwE5EpM0lAopPba9ZX3O0oeNTVSRxdHAmtcci_6bmVLoSDQq_pb/image-asset.jpeg)
+![](/assets/uploads/image-asset.jpeg)
 
 March On Greed: Housing is a Human Right! 26 Feb 2014
 
-![DarthDattaniV2.jpg](https://images.squarespace-cdn.com/content/v1/52b7d7a6e4b0b3e376ac8ea2/1402354810507-2DOFMKJ3R52P0Y0UJ6D2/ke17ZwdGBToddI8pDm48kJanlAjKydPZDDRBEy8QTGN7gQa3H78H3Y0txjaiv_0fDoOvxcdMmMKkDsyUqMSsMWxHk725yiiHCCLfrh8O1z4YTzHvnKhyp6Da-NYroOW3ZGjoBKy3azqku80C789l0hveExjbswnAj1UrRPScjfAi-WHBb3R4axoAEB7lfybbrcBqLQ3Qt4YGS4XJxXD2Ag/DarthDattaniV2.jpg)
+![DarthDattaniV2.jpg](/assets/uploads/DarthDattaniV2.jpg)
 
-![](https://images.squarespace-cdn.com/content/v1/52b7d7a6e4b0b3e376ac8ea2/1402207556369-M8FRVCXRVI7J7CYKKATG/ke17ZwdGBToddI8pDm48kFTEgwhRQcX9r3XtU0e50sUUqsxRUqqbr1mOJYKfIPR7LoDQ9mXPOjoJoqy81S2I8N_N4V1vUb5AoIIIbLZhVYxCRW4BPu10St3TBAUQYVKcW7uEhC96WQdj-SwE5EpM0lAopPba9ZX3O0oeNTVSRxdHAmtcci_6bmVLoSDQq_pb/image-asset.jpeg)
+![](/assets/uploads/image-asset.jpeg)
 
 Housing Justice Brings it Home: Taking it to the Speculator's Home 19 Apr 2014
 
-![](https://images.squarespace-cdn.com/content/v1/52b7d7a6e4b0b3e376ac8ea2/1389370923986-V4RW3V6YH8ZQGHOGDUTE/ke17ZwdGBToddI8pDm48kGkBCPbyeNMWUgfq9nNSFwgUqsxRUqqbr1mOJYKfIPR7LoDQ9mXPOjoJoqy81S2I8N_N4V1vUb5AoIIIbLZhVYxCRW4BPu10St3TBAUQYVKcQyOY3pls1gER1qzdc54-0EDFtVbGc2tXmZJXDZFk-Z2WeSatSjjwPeAF-ZMntjqT/Screen+Shot+2014-01-10+at+8.22.45+AM.png)
+![](/assets/uploads/Screen+Shot+2014-01-10+at+8.22.45+AM.png)
 
 Roberto Hernandez and David Campos during the Kaushik Dattani Protest in San Francisco
 
-![](https://images.squarespace-cdn.com/content/v1/52b7d7a6e4b0b3e376ac8ea2/1388637589461-5FFK98U1RU9Y116MZSSW/ke17ZwdGBToddI8pDm48kNKU_v8gJAcxDrmB-soKvj1Zw-zPPgdn4jUwVcJE1ZvWEtT5uBSRWt4vQZAgTJucoTqqXjS3CfNDSuuf31e0tVH7wdpQi_gwH_-rfgB8xc3aCDYU5QsKfHvKofLxtwAwA5XleA9PsoOHujT9UMkA80c/image-asset.jpeg)
+![](/assets/uploads/image-asset.jpeg)
 
 Apple bus detained by Mission District Eviction Protest
 
-[![Tom and Patricia at the Protest outside of Dattani's Office](https://images.squarespace-cdn.com/content/v1/52b7d7a6e4b0b3e376ac8ea2/1388651356155-QMLU7T5QMF2XRG9ZLM0P/ke17ZwdGBToddI8pDm48kN1xSfu0WuixkicnQoaGlX5Zw-zPPgdn4jUwVcJE1ZvWQUxwkmyExglNqGp0IvTJZamWLI2zvYWH8K3-s_4yszcp2ryTI0HqTOaaUohrI8PIrywGwb4358XquJqaHCULGwe5t9at0oWcVMVH5tyX0hI/Screen+Shot+2014-01-02+at+12.29.58+AM.png)](http://keepthemissionbrown.org/news-updates/mission-eviction-protest-ends-in-dattani-website-blackout/) 
+[![Tom and Patricia at the Protest outside of Dattani's Office](/assets/uploads/Screen+Shot+2014-01-02+at+12.29.58+AM.png)](http://keepthemissionbrown.org/news-updates/mission-eviction-protest-ends-in-dattani-website-blackout/) 
 
 Tom and Patricia at the Protest outside of Dattani's Office
 
 [Click to view photographs of the event taken by Harvey Castro.](http://keepthemissionbrown.org/news-updates/mission-eviction-protest-ends-in-dattani-website-blackout/) 
 
-[![Tom Rapp and roommate Patricia Kerman speaking in front of Dattani & Co.](https://images.squarespace-cdn.com/content/v1/52b7d7a6e4b0b3e376ac8ea2/1388640048601-PEKZS26B6COTBYTGLD0F/ke17ZwdGBToddI8pDm48kAnIadR91RhlIN9pYIQqVBBZw-zPPgdn4jUwVcJE1ZvWQUxwkmyExglNqGp0IvTJZUJFbgE-7XRK3dMEBRBhUpyTNlkZxj9jvBBO0iLB-0SL_f8HgjuVWNPAiGGrUiU6YrAMJtKymh_tqIVf4Sgxwgc/Screen+Shot+2014-01-01+at+9.21.18+PM.png)](http://www.demotix.com/news/3532706/protestors-fight-against-evictions-kaushik-dattani-san-francisco#media-3532569) 
+[![Tom Rapp and roommate Patricia Kerman speaking in front of Dattani & Co.](/assets/uploads/Screen+Shot+2014-01-01+at+9.21.18+PM.png)](http://www.demotix.com/news/3532706/protestors-fight-against-evictions-kaushik-dattani-san-francisco#media-3532569) 
 
 Tom Rapp and roommate Patricia Kerman speaking in front of Dattani & Co.
 
 [Click to view photographs.](http://www.demotix.com/news/3532706/protestors-fight-against-evictions-kaushik-dattani-san-francisco#media-3532569)
 
-![Screen Shot 2014-03-05 at 7.43.18 AM.png](https://images.squarespace-cdn.com/content/v1/52b7d7a6e4b0b3e376ac8ea2/1400858326906-1WZ0WIN5ZMEEF3ZFZB6U/ke17ZwdGBToddI8pDm48kG-6lIejR0FKwSV78WYrM6dZw-zPPgdn4jUwVcJE1ZvWQUxwkmyExglNqGp0IvTJZUJFbgE-7XRK3dMEBRBhUpzQnq-A2jghTx6AQEkqstCOa03kihotjx2HeBGYM0QM3YjRXJRIcI9uGhjx35Gt9_U/Screen+Shot+2014-03-05+at+7.43.18+AM.png)
+![Screen Shot 2014-03-05 at 7.43.18 AM.png](/assets/uploads/Screen+Shot+2014-03-05+at+7.43.18+AM.png)
 
-![March On Greed: Housing is a Human Right! 26 Feb 2014](https://images.squarespace-cdn.com/content/v1/52b7d7a6e4b0b3e376ac8ea2/1393815693534-YKYE1DS0KVT5C8W96PFP/ke17ZwdGBToddI8pDm48kFTEgwhRQcX9r3XtU0e50sUUqsxRUqqbr1mOJYKfIPR7LoDQ9mXPOjoJoqy81S2I8N_N4V1vUb5AoIIIbLZhVYxCRW4BPu10St3TBAUQYVKcW7uEhC96WQdj-SwE5EpM0lAopPba9ZX3O0oeNTVSRxdHAmtcci_6bmVLoSDQq_pb/image-asset.jpeg)
+![March On Greed: Housing is a Human Right! 26 Feb 2014](/assets/uploads/image-asset.jpeg)
 
-![DarthDattaniV2.jpg](https://images.squarespace-cdn.com/content/v1/52b7d7a6e4b0b3e376ac8ea2/1402354810507-2DOFMKJ3R52P0Y0UJ6D2/ke17ZwdGBToddI8pDm48kJanlAjKydPZDDRBEy8QTGN7gQa3H78H3Y0txjaiv_0fDoOvxcdMmMKkDsyUqMSsMWxHk725yiiHCCLfrh8O1z4YTzHvnKhyp6Da-NYroOW3ZGjoBKy3azqku80C789l0hveExjbswnAj1UrRPScjfAi-WHBb3R4axoAEB7lfybbrcBqLQ3Qt4YGS4XJxXD2Ag/DarthDattaniV2.jpg)
+![DarthDattaniV2.jpg](/assets/uploads/DarthDattaniV2.jpg)
 
-![Housing Justice Brings it Home: Taking it to the Speculator's Home 19 Apr 2014](https://images.squarespace-cdn.com/content/v1/52b7d7a6e4b0b3e376ac8ea2/1402207556369-M8FRVCXRVI7J7CYKKATG/ke17ZwdGBToddI8pDm48kFTEgwhRQcX9r3XtU0e50sUUqsxRUqqbr1mOJYKfIPR7LoDQ9mXPOjoJoqy81S2I8N_N4V1vUb5AoIIIbLZhVYxCRW4BPu10St3TBAUQYVKcW7uEhC96WQdj-SwE5EpM0lAopPba9ZX3O0oeNTVSRxdHAmtcci_6bmVLoSDQq_pb/image-asset.jpeg)
+![Housing Justice Brings it Home: Taking it to the Speculator's Home 19 Apr 2014](/assets/uploads/image-asset.jpeg)
 
-![Roberto Hernandez and David Campos during the Kaushik Dattani Protest in San Francisco](https://images.squarespace-cdn.com/content/v1/52b7d7a6e4b0b3e376ac8ea2/1389370923986-V4RW3V6YH8ZQGHOGDUTE/ke17ZwdGBToddI8pDm48kGkBCPbyeNMWUgfq9nNSFwgUqsxRUqqbr1mOJYKfIPR7LoDQ9mXPOjoJoqy81S2I8N_N4V1vUb5AoIIIbLZhVYxCRW4BPu10St3TBAUQYVKcQyOY3pls1gER1qzdc54-0EDFtVbGc2tXmZJXDZFk-Z2WeSatSjjwPeAF-ZMntjqT/Screen+Shot+2014-01-10+at+8.22.45+AM.png)
+![Roberto Hernandez and David Campos during the Kaushik Dattani Protest in San Francisco](/assets/uploads/Screen+Shot+2014-01-10+at+8.22.45+AM.png)
 
-![Apple bus detained by Mission District Eviction Protest](https://images.squarespace-cdn.com/content/v1/52b7d7a6e4b0b3e376ac8ea2/1388637589461-5FFK98U1RU9Y116MZSSW/ke17ZwdGBToddI8pDm48kNKU_v8gJAcxDrmB-soKvj1Zw-zPPgdn4jUwVcJE1ZvWEtT5uBSRWt4vQZAgTJucoTqqXjS3CfNDSuuf31e0tVH7wdpQi_gwH_-rfgB8xc3aCDYU5QsKfHvKofLxtwAwA5XleA9PsoOHujT9UMkA80c/image-asset.jpeg)
+![Apple bus detained by Mission District Eviction Protest](/assets/uploads/image-asset.jpeg)
 
-![Tom and Patricia at the Protest outside of Dattani's Office](https://images.squarespace-cdn.com/content/v1/52b7d7a6e4b0b3e376ac8ea2/1388651356155-QMLU7T5QMF2XRG9ZLM0P/ke17ZwdGBToddI8pDm48kN1xSfu0WuixkicnQoaGlX5Zw-zPPgdn4jUwVcJE1ZvWQUxwkmyExglNqGp0IvTJZamWLI2zvYWH8K3-s_4yszcp2ryTI0HqTOaaUohrI8PIrywGwb4358XquJqaHCULGwe5t9at0oWcVMVH5tyX0hI/Screen+Shot+2014-01-02+at+12.29.58+AM.png) ![Tom Rapp and roommate Patricia Kerman speaking in front of Dattani & Co.](https://images.squarespace-cdn.com/content/v1/52b7d7a6e4b0b3e376ac8ea2/1388640048601-PEKZS26B6COTBYTGLD0F/ke17ZwdGBToddI8pDm48kAnIadR91RhlIN9pYIQqVBBZw-zPPgdn4jUwVcJE1ZvWQUxwkmyExglNqGp0IvTJZUJFbgE-7XRK3dMEBRBhUpyTNlkZxj9jvBBO0iLB-0SL_f8HgjuVWNPAiGGrUiU6YrAMJtKymh_tqIVf4Sgxwgc/Screen+Shot+2014-01-01+at+9.21.18+PM.png) ![Screen Shot 2014-03-05 at 7.43.18 AM.png](https://images.squarespace-cdn.com/content/v1/52b7d7a6e4b0b3e376ac8ea2/1400858326906-1WZ0WIN5ZMEEF3ZFZB6U/ke17ZwdGBToddI8pDm48kG-6lIejR0FKwSV78WYrM6dZw-zPPgdn4jUwVcJE1ZvWQUxwkmyExglNqGp0IvTJZUJFbgE-7XRK3dMEBRBhUpzQnq-A2jghTx6AQEkqstCOa03kihotjx2HeBGYM0QM3YjRXJRIcI9uGhjx35Gt9_U/Screen+Shot+2014-03-05+at+7.43.18+AM.png)
+![Tom and Patricia at the Protest outside of Dattani's Office](/assets/uploads/Screen+Shot+2014-01-02+at+12.29.58+AM.png) ![Tom Rapp and roommate Patricia Kerman speaking in front of Dattani & Co.](/assets/uploads/Screen+Shot+2014-01-01+at+9.21.18+PM.png) ![Screen Shot 2014-03-05 at 7.43.18 AM.png](/assets/uploads/Screen+Shot+2014-03-05+at+7.43.18+AM.png)
 
 **KAUSHIK M. DATTANI**
 ----------------------
@@ -163,6 +163,6 @@ Cell: (415) 724-0888
 
 Home: (415) 388-7833
 
-![How Dattani abuses the Ellis Act](https://images.squarespace-cdn.com/content/v1/52b7d7a6e4b0b3e376ac8ea2/1538646209045-AQIRPUS4RGU2FZ7RJU8Q/ke17ZwdGBToddI8pDm48kLf7NXSn9BaX6i2j3u1B84J7gQa3H78H3Y0txjaiv_0fDoOvxcdMmMKkDsyUqMSsMWxHk725yiiHCCLfrh8O1z5QHyNOqBUUEtDDsRWrJLTmmzJBBHkqvGAibxByi2-xi5GTjMS4AQgc24o_XqA0BRVGEP7zvvmeFLOONABzbLQg/dattani.jpg)
+![How Dattani abuses the Ellis Act](/assets/uploads/dattani.jpg)
 
 How Dattani abuses the Ellis Act

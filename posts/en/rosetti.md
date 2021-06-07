@@ -2,15 +2,15 @@
 {"tags":["Evictors","Evictions","Speculation","Ownership","Oakland"],"date":"2019-02-17T02:16:54","title":"Bay Area Evictor: William Rosetti"}
 ---
 
-[![rosetti.jpg](https://images.squarespace-cdn.com/content/v1/52b7d7a6e4b0b3e376ac8ea2/1472602241137-NHZLNZNSODKUXKD3QKR9/ke17ZwdGBToddI8pDm48kE8-sqybJ27LMqV-vuy_CmJZw-zPPgdn4jUwVcJE1ZvWhcwhEtWJXoshNdA9f1qD7a1hUo3u3Uc_wHU49CtRAafaOtD4U8fRFoYp5BhU12DvNRpF6LqhZkyILrbxZpZJPQ/rosetti.jpg)](https://images.squarespace-cdn.com/content/v1/52b7d7a6e4b0b3e376ac8ea2/1472602241137-NHZLNZNSODKUXKD3QKR9/ke17ZwdGBToddI8pDm48kE8-sqybJ27LMqV-vuy_CmJZw-zPPgdn4jUwVcJE1ZvWhcwhEtWJXoshNdA9f1qD7a1hUo3u3Uc_wHU49CtRAafaOtD4U8fRFoYp5BhU12DvNRpF6LqhZkyILrbxZpZJPQ/rosetti.jpg) 
+[![rosetti.jpg](/assets/uploads/rosetti.jpg)](https://images.squarespace-cdn.com/content/v1/52b7d7a6e4b0b3e376ac8ea2/1472602241137-NHZLNZNSODKUXKD3QKR9/ke17ZwdGBToddI8pDm48kE8-sqybJ27LMqV-vuy_CmJZw-zPPgdn4jUwVcJE1ZvWhcwhEtWJXoshNdA9f1qD7a1hUo3u3Uc_wHU49CtRAafaOtD4U8fRFoYp5BhU12DvNRpF6LqhZkyILrbxZpZJPQ/rosetti.jpg) 
 
-[![PastedGraphic-6.png](https://images.squarespace-cdn.com/content/v1/52b7d7a6e4b0b3e376ac8ea2/1472602131384-ENG200I01LUFOSBO2EZ3/ke17ZwdGBToddI8pDm48kJEtH6_TgKlSS-sBfa6e6VRZw-zPPgdn4jUwVcJE1ZvWEtT5uBSRWt4vQZAgTJucoTqqXjS3CfNDSuuf31e0tVEDnzoq77MN4bM4ZaHUlNMYmPB6RmTjSqCRJIbZ7tzSQyb8BodarTVrzIWCp72ioWw/PastedGraphic-6.png)](https://images.squarespace-cdn.com/content/v1/52b7d7a6e4b0b3e376ac8ea2/1472602131384-ENG200I01LUFOSBO2EZ3/ke17ZwdGBToddI8pDm48kJEtH6_TgKlSS-sBfa6e6VRZw-zPPgdn4jUwVcJE1ZvWEtT5uBSRWt4vQZAgTJucoTqqXjS3CfNDSuuf31e0tVEDnzoq77MN4bM4ZaHUlNMYmPB6RmTjSqCRJIbZ7tzSQyb8BodarTVrzIWCp72ioWw/PastedGraphic-6.png) 
+[![PastedGraphic-6.png](/assets/uploads/PastedGraphic-6.png)](https://images.squarespace-cdn.com/content/v1/52b7d7a6e4b0b3e376ac8ea2/1472602131384-ENG200I01LUFOSBO2EZ3/ke17ZwdGBToddI8pDm48kJEtH6_TgKlSS-sBfa6e6VRZw-zPPgdn4jUwVcJE1ZvWEtT5uBSRWt4vQZAgTJucoTqqXjS3CfNDSuuf31e0tVEDnzoq77MN4bM4ZaHUlNMYmPB6RmTjSqCRJIbZ7tzSQyb8BodarTVrzIWCp72ioWw/PastedGraphic-6.png) 
 
-[![PastedGraphic-20.png](https://images.squarespace-cdn.com/content/v1/52b7d7a6e4b0b3e376ac8ea2/1472602213251-M9Q91EN1VO1UF7WBXC08/ke17ZwdGBToddI8pDm48kKvPl7ZJMwzc5UEZzq5cHwpZw-zPPgdn4jUwVcJE1ZvWhcwhEtWJXoshNdA9f1qD7RyFOMTxaKexDScLPdXmhUAwv9wVQwgGDdbzO1eJDqTLOkL_ZsMV3kLFiG_ikARHiw/PastedGraphic-20.png)](https://images.squarespace-cdn.com/content/v1/52b7d7a6e4b0b3e376ac8ea2/1472602213251-M9Q91EN1VO1UF7WBXC08/ke17ZwdGBToddI8pDm48kKvPl7ZJMwzc5UEZzq5cHwpZw-zPPgdn4jUwVcJE1ZvWhcwhEtWJXoshNdA9f1qD7RyFOMTxaKexDScLPdXmhUAwv9wVQwgGDdbzO1eJDqTLOkL_ZsMV3kLFiG_ikARHiw/PastedGraphic-20.png) 
+[![PastedGraphic-20.png](/assets/uploads/PastedGraphic-20.png)](https://images.squarespace-cdn.com/content/v1/52b7d7a6e4b0b3e376ac8ea2/1472602213251-M9Q91EN1VO1UF7WBXC08/ke17ZwdGBToddI8pDm48kKvPl7ZJMwzc5UEZzq5cHwpZw-zPPgdn4jUwVcJE1ZvWhcwhEtWJXoshNdA9f1qD7RyFOMTxaKexDScLPdXmhUAwv9wVQwgGDdbzO1eJDqTLOkL_ZsMV3kLFiG_ikARHiw/PastedGraphic-20.png) 
 
-[![rosettibldg.jpg](https://images.squarespace-cdn.com/content/v1/52b7d7a6e4b0b3e376ac8ea2/1472602263669-Y5PKYL66IN6WFG53GKIB/ke17ZwdGBToddI8pDm48kMhNLWN1zR1yj61dOFulcCRZw-zPPgdn4jUwVcJE1ZvWhcwhEtWJXoshNdA9f1qD7eg6BzVRF8_ZudcZJp7vvzW_ueIwFA_OdB9p2yPMnLvtT0DIXi29Bd_TKri0XrxT1A/rosettibldg.jpg)](https://images.squarespace-cdn.com/content/v1/52b7d7a6e4b0b3e376ac8ea2/1472602263669-Y5PKYL66IN6WFG53GKIB/ke17ZwdGBToddI8pDm48kMhNLWN1zR1yj61dOFulcCRZw-zPPgdn4jUwVcJE1ZvWhcwhEtWJXoshNdA9f1qD7eg6BzVRF8_ZudcZJp7vvzW_ueIwFA_OdB9p2yPMnLvtT0DIXi29Bd_TKri0XrxT1A/rosettibldg.jpg) 
+[![rosettibldg.jpg](/assets/uploads/rosettibldg.jpg)](https://images.squarespace-cdn.com/content/v1/52b7d7a6e4b0b3e376ac8ea2/1472602263669-Y5PKYL66IN6WFG53GKIB/ke17ZwdGBToddI8pDm48kMhNLWN1zR1yj61dOFulcCRZw-zPPgdn4jUwVcJE1ZvWhcwhEtWJXoshNdA9f1qD7eg6BzVRF8_ZudcZJp7vvzW_ueIwFA_OdB9p2yPMnLvtT0DIXi29Bd_TKri0XrxT1A/rosettibldg.jpg) 
 
-[![Screen Shot 2017-07-27 at 11.28.55 AM.png](https://images.squarespace-cdn.com/content/v1/52b7d7a6e4b0b3e376ac8ea2/1501466192521-8CJP0D2HI5QCG1IEE00B/ke17ZwdGBToddI8pDm48kKFsmYwEEeRjC-RVccdaetNZw-zPPgdn4jUwVcJE1ZvWQUxwkmyExglNqGp0IvTJZUJFbgE-7XRK3dMEBRBhUpynq4FAAM4_3ZNFsbbLZ_jh_P9u2canzw0C3zhAra1RU5Mkd__NjY0gSBU0oQLWeiY/Screen+Shot+2017-07-27+at+11.28.55+AM.png)](https://images.squarespace-cdn.com/content/v1/52b7d7a6e4b0b3e376ac8ea2/1501466192521-8CJP0D2HI5QCG1IEE00B/ke17ZwdGBToddI8pDm48kKFsmYwEEeRjC-RVccdaetNZw-zPPgdn4jUwVcJE1ZvWQUxwkmyExglNqGp0IvTJZUJFbgE-7XRK3dMEBRBhUpynq4FAAM4_3ZNFsbbLZ_jh_P9u2canzw0C3zhAra1RU5Mkd__NjY0gSBU0oQLWeiY/Screen+Shot+2017-07-27+at+11.28.55+AM.png) 
+[![Screen Shot 2017-07-27 at 11.28.55 AM.png](/assets/uploads/Screen+Shot+2017-07-27+at+11.28.55+AM.png)](https://images.squarespace-cdn.com/content/v1/52b7d7a6e4b0b3e376ac8ea2/1501466192521-8CJP0D2HI5QCG1IEE00B/ke17ZwdGBToddI8pDm48kKFsmYwEEeRjC-RVccdaetNZw-zPPgdn4jUwVcJE1ZvWQUxwkmyExglNqGp0IvTJZUJFbgE-7XRK3dMEBRBhUpynq4FAAM4_3ZNFsbbLZ_jh_P9u2canzw0C3zhAra1RU5Mkd__NjY0gSBU0oQLWeiY/Screen+Shot+2017-07-27+at+11.28.55+AM.png) 
 
 William J. Rosetti
 ------------------
@@ -63,7 +63,7 @@ _numbers based on Oakland Rent Board Data (2008, 2011-2016)_
 *   Co-Founder, CRC Development
 *   Founder, TRI Realtors
 
-![](https://images.squarespace-cdn.com/content/v1/52b7d7a6e4b0b3e376ac8ea2/1472510800810-3QWTPYLT30WWFFLWT2W3/ke17ZwdGBToddI8pDm48kG4llwAFQOf9IVRIV1RhyZBZw-zPPgdn4jUwVcJE1ZvWQUxwkmyExglNqGp0IvTJZUJFbgE-7XRK3dMEBRBhUpzP42dWB96ivIS2SwHfHFY-_Tqpnr-0-FMCVuzSRFUGVxAZbx8p9gKpYnkAK2SeDjk/image-asset.jpeg)
+![](/assets/uploads/image-asset.jpeg)
 
 ### PROPERTY:
 

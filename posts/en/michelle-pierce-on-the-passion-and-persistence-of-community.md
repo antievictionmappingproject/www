@@ -7,7 +7,7 @@
 
 [
 
-![Click to download our Black Exodus zine    Click here to access our interactive version](https://images.squarespace-cdn.com/content/v1/52b7d7a6e4b0b3e376ac8ea2/1565881304747-1X0RIC3QZADBLNMLOZ2R/ke17ZwdGBToddI8pDm48kLClvqBQzoxFpMKnAwLVSht7gQa3H78H3Y0txjaiv_0fDoOvxcdMmMKkDsyUqMSsMWxHk725yiiHCCLfrh8O1z4YTzHvnKhyp6Da-NYroOW3ZGjoBKy3azqku80C789l0nQwvinDXPV4EYh2MRzm-RTRPcCVZpxbQHDYjLt73zWsGFOx8WNN_3833FE_kuT6Bg/CoverCollage_Adrienne_crop.jpg)
+![Click to download our Black Exodus zine    Click here to access our interactive version](/assets/uploads/CoverCollage_Adrienne_crop.jpg)
 
 ](https://archive.org/details/dislocationblackexodus)
 
@@ -29,15 +29,15 @@ Also, check out:
 
 [For more on the Harlem of the West project, read here.](https://www.harlemofthewestsf.com)
 
-![](https://images.squarespace-cdn.com/content/v1/52b7d7a6e4b0b3e376ac8ea2/1576694857522-NV4IHM7ZNIH36L10AYDJ/ke17ZwdGBToddI8pDm48kDvw4LrxXmePEqRG_EzSEidZw-zPPgdn4jUwVcJE1ZvWhcwhEtWJXoshNdA9f1qD7Xj1nVWs2aaTtWBneO2WM-vFe0U4vJiekHwqyxVpirD6CHroswJuDn7U2D-yOCCC6g/image-asset.jpeg)
+![](/assets/uploads/Screen+Shot+2021-03-21+at+3.50.25+PM.png)
 
 Michelle Pierce
 
-![](https://images.squarespace-cdn.com/content/v1/52b7d7a6e4b0b3e376ac8ea2/1576694885725-TEHT3G9562S6FCR576PA/ke17ZwdGBToddI8pDm48kDvw4LrxXmePEqRG_EzSEidZw-zPPgdn4jUwVcJE1ZvWhcwhEtWJXoshNdA9f1qD7Xj1nVWs2aaTtWBneO2WM-vFe0U4vJiekHwqyxVpirD6CHroswJuDn7U2D-yOCCC6g/image-asset.jpeg)
+![](/assets/uploads/Screen+Shot+2021-03-21+at+3.51.41+PM.png)
 
 Marie Harrison
 
-![](https://images.squarespace-cdn.com/content/v1/52b7d7a6e4b0b3e376ac8ea2/1576694976323-EK35B19BBKYGBRR5IELA/ke17ZwdGBToddI8pDm48kLl76CqolYQpYCK1tQUkpCVZw-zPPgdn4jUwVcJE1ZvWQUxwkmyExglNqGp0IvTJZUJFbgE-7XRK3dMEBRBhUpzq3NVIIp6jYqnwxy-xF8aVXRy_AJKc5toB5m-gAPM7p7ivWsEabuWKGrHqsHOeNt4/image-asset.jpeg)
+![](/assets/uploads/image-asset.jpeg)
 
 Phyllis Bowie
 
@@ -46,4 +46,4 @@ DONATE HERE! - Please indicate that your donation is going towards (Dis)location
 
 If you can donate, donations will go towards printing another print run of zines, so that they can be made available to the public.
 
-   ![](https://www.paypal.com/en_US/i/scr/pixel.gif)
+   ![](/assets/uploads/pixel.gif)

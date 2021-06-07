@@ -8,6 +8,6 @@ _Mapping First Republic Bank loans to serial evictors in San Francisco and Oakla
 
 [
 
-![Screen Shot 2019-03-26 at 8.15.23 AM.png](https://images.squarespace-cdn.com/content/v1/52b7d7a6e4b0b3e376ac8ea2/1553613416881-Q8WYH6EBCPG4WRLD1MRN/ke17ZwdGBToddI8pDm48kISSBiQQpqdlR_UYlTvXE_tZw-zPPgdn4jUwVcJE1ZvWQUxwkmyExglNqGp0IvTJZUJFbgE-7XRK3dMEBRBhUpy2b-NIum09DMNQLI8WrIjCF7yMyQslUFc87bj62UzlYU9BrZ9Vb97h3YzSrsknuTo/Screen+Shot+2019-03-26+at+8.15.23+AM.png)
+![Screen Shot 2019-03-26 at 8.15.23 AM.png](/assets/uploads/Screen+Shot+2019-03-26+at+8.15.23+AM.png)
 
 ](https://www.antievictionmap.com/first-republic)

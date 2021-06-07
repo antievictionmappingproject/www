@@ -8,6 +8,6 @@ In a time of turmoil and uncertainty for many tenants, knowledge about rights an
 
 [
 
-![covid map.png](https://images.squarespace-cdn.com/content/v1/52b7d7a6e4b0b3e376ac8ea2/1596556150290-EX66KTNJD9MQFM9LD8OS/ke17ZwdGBToddI8pDm48kHbi_bUMNwsOvus9YXED42F7gQa3H78H3Y0txjaiv_0fDoOvxcdMmMKkDsyUqMSsMWxHk725yiiHCCLfrh8O1z5QPOohDIaIeljMHgDF5CVlOqpeNLcJ80NK65_fV7S1UboO3H2-C8pCtXa9sqjJ9qDUlYkSlCM9WrAKmiwevSZmm7cT0R_dexc_UL_zbpz6JQ/covid+map.png)
+![covid map.png](/assets/uploads/covid+map.png)
 
 ](https://covid19.antievictionmap.com)

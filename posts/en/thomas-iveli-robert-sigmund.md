@@ -64,18 +64,18 @@ Phone: **(415) 863-6128**
 Thomas Iveli / Rental Solutions  
 PO BOX 424129 San Francisco, CA
 
-![Screen Shot 2014-01-03 at 9.24.44 AM.png](https://images.squarespace-cdn.com/content/v1/52b7d7a6e4b0b3e376ac8ea2/1388863132100-MN4S0HD2LXULDYMXD7LJ/ke17ZwdGBToddI8pDm48kHGpz5bJtY5dG9mwqJ10WqxZw-zPPgdn4jUwVcJE1ZvWQUxwkmyExglNqGp0IvTJZUJFbgE-7XRK3dMEBRBhUpw9-JjT2yWhavHnfFbC0Xkwkg-6kiW2bo1KGxfwCtpQresaU5A8YxgPsuajadPy0u0/Screen+Shot+2014-01-03+at+9.24.44+AM.png)
+![Screen Shot 2014-01-03 at 9.24.44 AM.png](/assets/uploads/Screen+Shot+2014-01-03+at+9.24.44+AM.png)
 
-![Screen Shot 2014-01-03 at 9.25.16 AM.png](https://images.squarespace-cdn.com/content/v1/52b7d7a6e4b0b3e376ac8ea2/1388863141648-QNI4V3H39FEESO4GK1NY/ke17ZwdGBToddI8pDm48kH6MQRg0ab3MTIEWA44m1PBZw-zPPgdn4jUwVcJE1ZvWQUxwkmyExglNqGp0IvTJZUJFbgE-7XRK3dMEBRBhUpzyR1BCw6wWR-gZrSPtLe12VdEUUUuN6_0r3v35v1V87eHV4Fd3ZSe8HaKS-uMmstY/Screen+Shot+2014-01-03+at+9.25.16+AM.png)
+![Screen Shot 2014-01-03 at 9.25.16 AM.png](/assets/uploads/Screen+Shot+2014-01-03+at+9.25.16+AM.png)
 
-![Screen Shot 2014-01-03 at 9.25.28 AM.png](https://images.squarespace-cdn.com/content/v1/52b7d7a6e4b0b3e376ac8ea2/1388863150198-YWM93WY197IL5N3WOW3Y/ke17ZwdGBToddI8pDm48kI6JF7lHNIf3g0uLXbEH4CVZw-zPPgdn4jUwVcJE1ZvWQUxwkmyExglNqGp0IvTJZUJFbgE-7XRK3dMEBRBhUpwP6VybMiqd2f7wedFC1Jp3yMKZkFV3WJQoccBmb8CFaxeq3EVK0G3IizTunEAqmXs/Screen+Shot+2014-01-03+at+9.25.28+AM.png)
+![Screen Shot 2014-01-03 at 9.25.28 AM.png](/assets/uploads/Screen+Shot+2014-01-03+at+9.25.28+AM.png)
 
-![Screen Shot 2014-01-03 at 9.25.46 AM.png](https://images.squarespace-cdn.com/content/v1/52b7d7a6e4b0b3e376ac8ea2/1388863172235-SHP7JCNR2ZX02N77XY24/ke17ZwdGBToddI8pDm48kAoAFI45iWAoIHg2mdP8uDFZw-zPPgdn4jUwVcJE1ZvWQUxwkmyExglNqGp0IvTJZUJFbgE-7XRK3dMEBRBhUpxwfvVTpRXXIiEeM4wnG7k2tf9vqs-X5IF9ou75jJkQFgInZglY46_RWlv-NCLR55s/Screen+Shot+2014-01-03+at+9.25.46+AM.png)
+![Screen Shot 2014-01-03 at 9.25.46 AM.png](/assets/uploads/Screen+Shot+2014-01-03+at+9.25.46+AM.png)
 
-![Screen Shot 2014-01-03 at 9.25.55 AM.png](https://images.squarespace-cdn.com/content/v1/52b7d7a6e4b0b3e376ac8ea2/1388863177502-IFFZNAFZWIVLGFTPFEIM/ke17ZwdGBToddI8pDm48kKU8YEEHu6nMtvSvMk4-Wx1Zw-zPPgdn4jUwVcJE1ZvWQUxwkmyExglNqGp0IvTJZUJFbgE-7XRK3dMEBRBhUpwv1ucG4qAfwnKM8R4mF_toTRm92CRN_RXk2U387yLPR_3dPKu7VwfgWB15HpM95WQ/Screen+Shot+2014-01-03+at+9.25.55+AM.png)
+![Screen Shot 2014-01-03 at 9.25.55 AM.png](/assets/uploads/Screen+Shot+2014-01-03+at+9.25.55+AM.png)
 
-![Screen Shot 2014-01-03 at 9.26.11 AM.png](https://images.squarespace-cdn.com/content/v1/52b7d7a6e4b0b3e376ac8ea2/1388863184811-ZEHVLNVI12112H0ND1NP/ke17ZwdGBToddI8pDm48kFTjm1OpoTD4eL__znjEkFJZw-zPPgdn4jUwVcJE1ZvWQUxwkmyExglNqGp0IvTJZUJFbgE-7XRK3dMEBRBhUpypzvekmJQL5T0uySYicixPJ3SD9bYBLfe5_Ts6tKMPyzuuJEPplDVR74mWm8691-w/Screen+Shot+2014-01-03+at+9.26.11+AM.png)
+![Screen Shot 2014-01-03 at 9.26.11 AM.png](/assets/uploads/Screen+Shot+2014-01-03+at+9.26.11+AM.png)
 
-![Screen Shot 2014-01-04 at 12.16.45 PM.png](https://images.squarespace-cdn.com/content/v1/52b7d7a6e4b0b3e376ac8ea2/1388866593143-E1NC7AI6G6A6LCU39YJP/ke17ZwdGBToddI8pDm48kAj7TDSbhMLHHEr8KVuV9ydZw-zPPgdn4jUwVcJE1ZvWQUxwkmyExglNqGp0IvTJZUJFbgE-7XRK3dMEBRBhUpwPVEEXOPK5Ko8bNjgcA-dc9S8tv6FdeZgY7bc6MkMpZRVc-iq9cwO6IgTMhPsGNJI/Screen+Shot+2014-01-04+at+12.16.45+PM.png)
+![Screen Shot 2014-01-04 at 12.16.45 PM.png](/assets/uploads/Screen+Shot+2014-01-04+at+12.16.45+PM.png)
 
-![Screen Shot 2014-01-04 at 12.16.56 PM.png](https://images.squarespace-cdn.com/content/v1/52b7d7a6e4b0b3e376ac8ea2/1388866597265-E5KTA11FAXYEXKH0HNHG/ke17ZwdGBToddI8pDm48kPopUtW2sSjaQK4zJYyBENFZw-zPPgdn4jUwVcJE1ZvWQUxwkmyExglNqGp0IvTJZUJFbgE-7XRK3dMEBRBhUpy8x4kXptGpaGxV1erVlo8dgz2chG8d6yuZDRA63-EEYL-Qyp-l-ADE2ZM0xal0GfU/Screen+Shot+2014-01-04+at+12.16.56+PM.png)
+![Screen Shot 2014-01-04 at 12.16.56 PM.png](/assets/uploads/Screen+Shot+2014-01-04+at+12.16.56+PM.png)

@@ -10,6 +10,6 @@ As part of the AEMP’s [(Dis)location/Black Exodus](https://www.antievictionmap
 
 [
 
-![Screen Shot 2019-12-18 at 1.25.47 PM.png](https://images.squarespace-cdn.com/content/v1/52b7d7a6e4b0b3e376ac8ea2/1576693617545-7H6PF1STQH6TM8LDAUDU/ke17ZwdGBToddI8pDm48kAC0NxsK8d7y3S_dejC_R6YUqsxRUqqbr1mOJYKfIPR7LoDQ9mXPOjoJoqy81S2I8N_N4V1vUb5AoIIIbLZhVYxCRW4BPu10St3TBAUQYVKcwo8cUoPVrNtwO4JIGVGsZarl4Vg2NGTSpzSCJN0MpEbY4gFboEC8zRFBUtHmJQXF/Screen+Shot+2019-12-18+at+1.25.47+PM.png)
+![Screen Shot 2019-12-18 at 1.25.47 PM.png](/assets/uploads/Screen+Shot+2019-12-18+at+1.25.47+PM.png)
 
 ](https://www.radicalhistoryreview.org/abusablepast/?p=3191)

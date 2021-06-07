@@ -13,6 +13,6 @@ Click to view interactive oral history maps:
 
 [
 
-![Screen Shot 2019-03-03 at 2.53.22 PM.png](https://images.squarespace-cdn.com/content/v1/52b7d7a6e4b0b3e376ac8ea2/1551653624571-A73I9XAO8UR1PPDHQ2BA/ke17ZwdGBToddI8pDm48kHGKjjJuk_LH8e05f2Oy-qcUqsxRUqqbr1mOJYKfIPR7LoDQ9mXPOjoJoqy81S2I8N_N4V1vUb5AoIIIbLZhVYxCRW4BPu10St3TBAUQYVKcO7L03Q-f9j4zGqtWiGU7L8dn5PWUqYcezBL2X_1bH_ux5UlrxT9J8HUyL-b4iecS/Screen+Shot+2019-03-03+at+2.53.22+PM.png)
+![Screen Shot 2019-03-03 at 2.53.22 PM.png](/assets/uploads/Screen+Shot+2019-03-03+at+2.53.22+PM.png)
 
 ](https://www.antievictionmap.com/narratives-of-displacement-oral-history-map/)

@@ -2,11 +2,11 @@
 {"tags":["Evictors","Evictions","Speculation","Ownership","Bay Area","Oakland","San Jose","City of Alameda"],"date":"2019-02-17T02:21:28","title":"Bay Area Evictor: Sridhar Equities, LLC"}
 ---
 
-[![PastedGraphic-38.png](https://images.squarespace-cdn.com/content/v1/52b7d7a6e4b0b3e376ac8ea2/1473782999382-CN77R8EKEFPLJCSUH03A/ke17ZwdGBToddI8pDm48kNv69zXm_aMDOSwAXzCo9bpZw-zPPgdn4jUwVcJE1ZvWQUxwkmyExglNqGp0IvTJZUJFbgE-7XRK3dMEBRBhUpzDvSSkQk6sOm9Tt84fiNc3LVVtMYPDEA2ABRdIIW_rr6NCKJ62_wgrY0NnvYf40iI/PastedGraphic-38.png)](https://images.squarespace-cdn.com/content/v1/52b7d7a6e4b0b3e376ac8ea2/1473782999382-CN77R8EKEFPLJCSUH03A/ke17ZwdGBToddI8pDm48kNv69zXm_aMDOSwAXzCo9bpZw-zPPgdn4jUwVcJE1ZvWQUxwkmyExglNqGp0IvTJZUJFbgE-7XRK3dMEBRBhUpzDvSSkQk6sOm9Tt84fiNc3LVVtMYPDEA2ABRdIIW_rr6NCKJ62_wgrY0NnvYf40iI/PastedGraphic-38.png) 
+[![PastedGraphic-38.png](/assets/uploads/PastedGraphic-38.png)](https://images.squarespace-cdn.com/content/v1/52b7d7a6e4b0b3e376ac8ea2/1473782999382-CN77R8EKEFPLJCSUH03A/ke17ZwdGBToddI8pDm48kNv69zXm_aMDOSwAXzCo9bpZw-zPPgdn4jUwVcJE1ZvWQUxwkmyExglNqGp0IvTJZUJFbgE-7XRK3dMEBRBhUpzDvSSkQk6sOm9Tt84fiNc3LVVtMYPDEA2ABRdIIW_rr6NCKJ62_wgrY0NnvYf40iI/PastedGraphic-38.png) 
 
-[![PastedGraphic-40.png](https://images.squarespace-cdn.com/content/v1/52b7d7a6e4b0b3e376ac8ea2/1473785538955-YPKQ2X4QRFC4QPDZI6MH/ke17ZwdGBToddI8pDm48kOzU04uM1WYjXJEZckOZLJxZw-zPPgdn4jUwVcJE1ZvWQUxwkmyExglNqGp0IvTJZamWLI2zvYWH8K3-s_4yszcp2ryTI0HqTOaaUohrI8PIM2-tbtqVwuX0qOnJpJnZkOsIj25zoOMMwWZzl1GAcvE/PastedGraphic-40.png)](https://images.squarespace-cdn.com/content/v1/52b7d7a6e4b0b3e376ac8ea2/1473785538955-YPKQ2X4QRFC4QPDZI6MH/ke17ZwdGBToddI8pDm48kOzU04uM1WYjXJEZckOZLJxZw-zPPgdn4jUwVcJE1ZvWQUxwkmyExglNqGp0IvTJZamWLI2zvYWH8K3-s_4yszcp2ryTI0HqTOaaUohrI8PIM2-tbtqVwuX0qOnJpJnZkOsIj25zoOMMwWZzl1GAcvE/PastedGraphic-40.png) 
+[![PastedGraphic-40.png](/assets/uploads/PastedGraphic-40.png)](https://images.squarespace-cdn.com/content/v1/52b7d7a6e4b0b3e376ac8ea2/1473785538955-YPKQ2X4QRFC4QPDZI6MH/ke17ZwdGBToddI8pDm48kOzU04uM1WYjXJEZckOZLJxZw-zPPgdn4jUwVcJE1ZvWQUxwkmyExglNqGp0IvTJZamWLI2zvYWH8K3-s_4yszcp2ryTI0HqTOaaUohrI8PIM2-tbtqVwuX0qOnJpJnZkOsIj25zoOMMwWZzl1GAcvE/PastedGraphic-40.png) 
 
-[![PastedGraphic-39.png](https://images.squarespace-cdn.com/content/v1/52b7d7a6e4b0b3e376ac8ea2/1473785545058-ZL0MSR7K3TVEIKLEI2L4/ke17ZwdGBToddI8pDm48kBpwCFpLnV7OZHcfvmhp8WRZw-zPPgdn4jUwVcJE1ZvWQUxwkmyExglNqGp0IvTJZUJFbgE-7XRK3dMEBRBhUpxrSL7-wBGdZKxnFB37LyGosYICsxk_eZ6soDPEUB3EiPL7o7iTUOkV027VfVlZ9zs/PastedGraphic-39.png)](https://images.squarespace-cdn.com/content/v1/52b7d7a6e4b0b3e376ac8ea2/1473785545058-ZL0MSR7K3TVEIKLEI2L4/ke17ZwdGBToddI8pDm48kBpwCFpLnV7OZHcfvmhp8WRZw-zPPgdn4jUwVcJE1ZvWQUxwkmyExglNqGp0IvTJZUJFbgE-7XRK3dMEBRBhUpxrSL7-wBGdZKxnFB37LyGosYICsxk_eZ6soDPEUB3EiPL7o7iTUOkV027VfVlZ9zs/PastedGraphic-39.png) 
+[![PastedGraphic-39.png](/assets/uploads/PastedGraphic-39.png)](https://images.squarespace-cdn.com/content/v1/52b7d7a6e4b0b3e376ac8ea2/1473785545058-ZL0MSR7K3TVEIKLEI2L4/ke17ZwdGBToddI8pDm48kBpwCFpLnV7OZHcfvmhp8WRZw-zPPgdn4jUwVcJE1ZvWQUxwkmyExglNqGp0IvTJZUJFbgE-7XRK3dMEBRBhUpxrSL7-wBGdZKxnFB37LyGosYICsxk_eZ6soDPEUB3EiPL7o7iTUOkV027VfVlZ9zs/PastedGraphic-39.png) 
 
 Matt/Madhu & Anjali Sridhar
 ===========================
@@ -64,7 +64,7 @@ Fax: (408) 725-9503
 *    SE Rm1 LLC
 *    Sridhar Real Estate Contra I, L.P.
 
-![](https://images.squarespace-cdn.com/content/v1/52b7d7a6e4b0b3e376ac8ea2/1473791982725-SWWEMILN1L4Y39RTFFBC/ke17ZwdGBToddI8pDm48kDDlN11NboHhTe8MC5uEXRBZw-zPPgdn4jUwVcJE1ZvWhcwhEtWJXoshNdA9f1qD7Rb66VC8y5UmDKESC3gpGyXSCArQnEpM-8Q7Bmd_BsNDltMWtADQ3vqt1Y1Iz2ZIXA/image-asset.png)
+![](/assets/uploads/image-asset.png)
 
 **Partial Property List**
 

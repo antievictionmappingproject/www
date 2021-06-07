@@ -125,6 +125,6 @@ for all the decisions to evict existing tenants."
 
 **Wong** was manager at [So Fung Shop Ltd.](http://www.corporationwiki.com/California/San-Francisco/so-fung-shop-ltd/41638496.aspx)
 
-![Screen Shot 2014-01-04 at 11.49.27 AM.png](https://images.squarespace-cdn.com/content/v1/52b7d7a6e4b0b3e376ac8ea2/1388864902842-OT6KW42UK54D9H2RX6K8/ke17ZwdGBToddI8pDm48kEr-pKSPffVkPFAPqlKPqnRZw-zPPgdn4jUwVcJE1ZvWQUxwkmyExglNqGp0IvTJZUJFbgE-7XRK3dMEBRBhUpxcIqLHvR8QpsiqDs0osb7qJfz06STmMG_8PzmW2kOu_-wzui4s9jzoKhnsVnAWNG4/Screen+Shot+2014-01-04+at+11.49.27+AM.png)![Screen Shot 2014-01-04 at 11.49.03 AM.png](https://images.squarespace-cdn.com/content/v1/52b7d7a6e4b0b3e376ac8ea2/1388864908037-LPDFLX7NDSW96FRFIXTN/ke17ZwdGBToddI8pDm48kL5Oqzz01z0fYWcfZs3VbTVZw-zPPgdn4jUwVcJE1ZvWQUxwkmyExglNqGp0IvTJZUJFbgE-7XRK3dMEBRBhUpyqI2lD2K59GanDnn-mYJ3xWC7_kKxzKR_iEh_X0REuFKL5bCd-ETJU5b7tGOgXStg/Screen+Shot+2014-01-04+at+11.49.03+AM.png)
+![Screen Shot 2014-01-04 at 11.49.27 AM.png](/assets/uploads/Screen+Shot+2014-01-04+at+11.49.27+AM.png)![Screen Shot 2014-01-04 at 11.49.03 AM.png](/assets/uploads/Screen+Shot+2014-01-04+at+11.49.03+AM.png)
 
-![](https://images.squarespace-cdn.com/content/v1/52b7d7a6e4b0b3e376ac8ea2/1400991930121-9P86748WM84RU414JVE4/ke17ZwdGBToddI8pDm48kJC6ii3n2pZruSW5UV7IKdJZw-zPPgdn4jUwVcJE1ZvWQUxwkmyExglNqGp0IvTJZUJFbgE-7XRK3dMEBRBhUpwD1bE6fKTqRYxmK7uxaYaaljEhGEIjTU25DvRwBeLU5kDczTBEEvdV65a_bWmmHq4/Screen+Shot+2014-05-24+at+9.24.20+PM.png)
+![](/assets/uploads/Screen+Shot+2014-05-24+at+9.24.20+PM.png)

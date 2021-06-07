@@ -10,6 +10,6 @@ Sylvia Smith, a grandmother and long time Mission resident, faced eviction. This
 
 [
 
-![Screen Shot 2019-03-31 at 9.06.23 AM.png](https://images.squarespace-cdn.com/content/v1/52b7d7a6e4b0b3e376ac8ea2/1554049827820-O3GI8UBYE88NJ75CW65V/ke17ZwdGBToddI8pDm48kC1leDNqtK-xGkGMiA9r_IsUqsxRUqqbr1mOJYKfIPR7LoDQ9mXPOjoJoqy81S2I8N_N4V1vUb5AoIIIbLZhVYxCRW4BPu10St3TBAUQYVKc6T3KzeUJ1BZhqE7OEIoyTfyfnhFA0xH0O8konw23P9XwD2_tsvSzFwrpGl9dBTQb/Screen+Shot+2019-03-31+at+9.06.23+AM.png)
+![Screen Shot 2019-03-31 at 9.06.23 AM.png](/assets/uploads/Screen+Shot+2019-03-31+at+9.06.23+AM.png)
 
 ](https://www.antievictionmap.com/sota-collaboration-san-francisco-videos-1/)

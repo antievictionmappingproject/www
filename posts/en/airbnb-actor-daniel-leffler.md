@@ -10,6 +10,6 @@ After renovating the building, he now offers two units on AirBnb
 
 [
 
-![Screen Shot 2019-08-06 at 12.02.58 PM.png](https://images.squarespace-cdn.com/content/v1/52b7d7a6e4b0b3e376ac8ea2/1565118221536-P1TYCM6G7F64OGJ0CSWI/ke17ZwdGBToddI8pDm48kLksKSwNZt0GqaOXONq6khFZw-zPPgdn4jUwVcJE1ZvWQUxwkmyExglNqGp0IvTJZamWLI2zvYWH8K3-s_4yszcp2ryTI0HqTOaaUohrI8PI2uFi8mN9zZZz6JEmqmOWbAuESbltMHRTAyfyBiJBEKo/Screen+Shot+2019-08-06+at+12.02.58+PM.png)
+![Screen Shot 2019-08-06 at 12.02.58 PM.png](/assets/uploads/Screen+Shot+2019-08-06+at+12.02.58+PM.png)
 
 ](https://www.antievictionmap.com/daniel-leffler/)

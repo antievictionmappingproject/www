@@ -8,6 +8,6 @@ _Corporate Landlords in Unincorporated Areas, Los Angeles, 2018_
 
 [
 
-![corp landlords](https://images.squarespace-cdn.com/content/v1/52b7d7a6e4b0b3e376ac8ea2/1533848712006-K96DNS9PBTZIRX0KSMXO/ke17ZwdGBToddI8pDm48kJDL8EGHSjGNZDC0LktctK0UqsxRUqqbr1mOJYKfIPR7LoDQ9mXPOjoJoqy81S2I8N_N4V1vUb5AoIIIbLZhVYxCRW4BPu10St3TBAUQYVKcY_tV0QWSdkYGXPl-TXwnKt4Bs63o1In9diOcRCusgUKJHB49WhJbAy0OWrTxDOFn/corp+landlords)
+![corp landlords](/assets/uploads/corp+landlords)
 
 ](http://arcg.is/0zPj15)

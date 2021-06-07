@@ -9,7 +9,7 @@ Emily Benkert is one of the many “hosts” who offer “their” many “homes
 
 She used to flip homes.   She earned $240,00 by owning 466 Sanchez for less than one year in 2007.
 
-![“Property manager, real estate agent, and property owner having seen the need for managing our AirBnBs, I launched Guesthop!! We are a fast growing start-up here in San Francisco, helping hosts manage their rentals and take care of their guests when they can't. We provide concierge services for guests and help manage bookings and optimize rental capacity for hosts.”   Guest Hop on FaceBook:    https://www.facebook.com/guesthop](https://images.squarespace-cdn.com/content/v1/52b7d7a6e4b0b3e376ac8ea2/1412346674305-ABAH906DD3VGJ4KRG0J4/ke17ZwdGBToddI8pDm48kA5rDXHM08uGkTZm0Kj90sFZw-zPPgdn4jUwVcJE1ZvWQUxwkmyExglNqGp0IvTJZUJFbgE-7XRK3dMEBRBhUpxLsDBpuQJKJG-7RpzfvSN43_iTWjTzN8jInRzS8pHUflM_3Cisbh7A6Apgyc9qUKw/guesthop)
+![“Property manager, real estate agent, and property owner having seen the need for managing our AirBnBs, I launched Guesthop!! We are a fast growing start-up here in San Francisco, helping hosts manage their rentals and take care of their guests when they can't. We provide concierge services for guests and help manage bookings and optimize rental capacity for hosts.”   Guest Hop on FaceBook:    https://www.facebook.com/guesthop](/assets/uploads/guesthop)
 
 “Property manager, real estate agent, and property owner having seen the need for managing our AirBnBs, I launched Guesthop!! We are a fast growing start-up here in San Francisco, helping hosts manage their rentals and take care of their guests when they can't. We provide concierge services for guests and help manage bookings and optimize rental capacity for hosts.”
 
@@ -21,7 +21,7 @@ Guest Hop on FaceBook:
 
 [https://www.linkedin.com/pub/emily-benkert/9/956/755](https://www.linkedin.com/pub/emily-benkert/9/956/755)
 
-![Emily's profile on AirBNB.](https://images.squarespace-cdn.com/content/v1/52b7d7a6e4b0b3e376ac8ea2/1412346613101-49WFY4WW35MUV51OHPTX/ke17ZwdGBToddI8pDm48kEUn7m72EVQZGAIYAVsq2dpZw-zPPgdn4jUwVcJE1ZvWhcwhEtWJXoshNdA9f1qD7Xjs1RQ2trjUGUXrwm_8lmgwb-TOkenv2mEp8Cggd5cMUy1Q5u3VgHTkru-OcAovYg/Emily%27s+profile)
+![Emily's profile on AirBNB.](/assets/uploads/Emily%27s+profile)
 
 Emily's profile on AirBNB.
 

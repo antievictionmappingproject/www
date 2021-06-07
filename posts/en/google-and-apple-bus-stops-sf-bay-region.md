@@ -8,6 +8,6 @@ Map of Google Bus Stops, Bay Area
 
 [
 
-![Screen+Shot+2015-11-20+at+12.33.39+AM.png](https://images.squarespace-cdn.com/content/v1/52b7d7a6e4b0b3e376ac8ea2/1514054773531-88EP1I785YW315DR84TX/ke17ZwdGBToddI8pDm48kK4UaNhybJ58VgfafJAvBNBZw-zPPgdn4jUwVcJE1ZvWQUxwkmyExglNqGp0IvTJZUJFbgE-7XRK3dMEBRBhUpwIzQzvDRPABQUH_yvmSAUVl3LuYpblqTbgJ5Z8rlWNdzVO7bGO92H0-isCWZsCJck/Screen%2BShot%2B2015-11-20%2Bat%2B12.33.39%2BAM.png)
+![Screen+Shot+2015-11-20+at+12.33.39+AM.png](/assets/uploads/Screen%2BShot%2B2015-11-20%2Bat%2B12.33.39%2BAM.png)
 
 ](https://www.antievictionmap.com/google-bus-stops-sf-bay-region/)

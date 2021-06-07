@@ -10,6 +10,6 @@ Diego DeLeo, a poet and long time North Beach resident, faces eviction. Diego is
 
 [
 
-![Screen Shot 2019-03-31 at 9.06.05 AM.png](https://images.squarespace-cdn.com/content/v1/52b7d7a6e4b0b3e376ac8ea2/1554049918404-BQ3WA6MXE1Z05AW2ZXDZ/ke17ZwdGBToddI8pDm48kB4ELJw3BpOhNVSYrd9MLjsUqsxRUqqbr1mOJYKfIPR7LoDQ9mXPOjoJoqy81S2I8N_N4V1vUb5AoIIIbLZhVYxCRW4BPu10St3TBAUQYVKcm-9mWbNwsmulLTtuiYaaGXcYTPn8m85Ea2-ixqTe6Hg0DM2aTsNl0sOMdF6vB1Bk/Screen+Shot+2019-03-31+at+9.06.05+AM.png)
+![Screen Shot 2019-03-31 at 9.06.05 AM.png](/assets/uploads/Screen+Shot+2019-03-31+at+9.06.05+AM.png)
 
 ](https://www.antievictionmap.com/sota-collaboration-san-francisco-videos-1/)

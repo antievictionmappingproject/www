@@ -8,6 +8,6 @@ Learn about your rights as tenants, based out of our New York City Chapter
 
 [
 
-![Screen Shot 2019-05-07 at 9.45.05 AM.png](https://images.squarespace-cdn.com/content/v1/52b7d7a6e4b0b3e376ac8ea2/1557247560718-2BQKBCESWH0KI0IAFVOR/ke17ZwdGBToddI8pDm48kCc3cLYg_SlpcIJhvxFrnQUUqsxRUqqbr1mOJYKfIPR7LoDQ9mXPOjoJoqy81S2I8N_N4V1vUb5AoIIIbLZhVYxCRW4BPu10St3TBAUQYVKcAadiqxH9k52HsRgqrIRMefTI15wXd3KXFjRtrlNdFoJjZSEXIA6i5ZahHLqFjJG9/Screen+Shot+2019-05-07+at+9.45.05+AM.png)
+![Screen Shot 2019-05-07 at 9.45.05 AM.png](/assets/uploads/Screen+Shot+2019-05-07+at+9.45.05+AM.png)
 
 ](https://www.worstevictorsnyc.org/rights)

@@ -46,7 +46,7 @@ FLIPPING
 
 **2425--2425 Franklin Street** was Ellised by Russian Hill Partners LLC (registered agent Sean Whelan / partial owner.) It was then condoized in 2013.
 
-![Condoized](https://images.squarespace-cdn.com/content/v1/52b7d7a6e4b0b3e376ac8ea2/1433515894291-FLCMGCH9BN8SCFFY30OO/ke17ZwdGBToddI8pDm48kBRqqSNoGqwL1btnU_K0mspZw-zPPgdn4jUwVcJE1ZvWQUxwkmyExglNqGp0IvTJZUJFbgE-7XRK3dMEBRBhUpzLSJ5yWj2VZHx2uadaCrIBg8OzGz2nEei15HjC3NQNFzkXNCGj9euCHxbNlS2ISyc/condoizedwhelan)
+![Condoized](/assets/uploads/condoizedwhelan)
 
 Condoized
 
@@ -114,7 +114,7 @@ Litigation:
 
 There is also a [restraining order placed for  illegal entry.](http://badwhelan.tribe.net/thread/e41574ef-db5d-45c2-9cd5-e4c058fac839#8251562d-d6c3-4c6d-8574-88b22c58f259) As one person write, "_Sean Whelan has entered my house illigally. I am going to court on Friday July 6th to have the court sanction him and stop him from this annoying practice."_
 
-![Litigation](https://images.squarespace-cdn.com/content/v1/52b7d7a6e4b0b3e376ac8ea2/1433514715848-SZE04PG3YCXK0FZZ1R5V/ke17ZwdGBToddI8pDm48kCx6zBaC9qxbHf1e5rzLzlZZw-zPPgdn4jUwVcJE1ZvWQUxwkmyExglNqGp0IvTJZUJFbgE-7XRK3dMEBRBhUpw_cOUs887UMbUS6JbRjCfqR3bEZppk1nhL2bfz29FMs3MEoFbKugFyIOKJWw4Se9s/image-asset.png)
+![Litigation](/assets/uploads/image-asset.png)
 
 Litigation
 

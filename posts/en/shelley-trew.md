@@ -2,11 +2,11 @@
 {"tags":["Speculation","Ownership","Evictors","Evictions","San Francisco"],"date":"2019-02-17T02:45:03","title":"Bay Area Evictor: Shelley Trew"}
 ---
 
-![PastedGraphic-26.png](https://images.squarespace-cdn.com/content/v1/52b7d7a6e4b0b3e376ac8ea2/1472627363232-NM0R01O0KV65DSFO1LQA/ke17ZwdGBToddI8pDm48kCFulhhFv-wVCg7j8aN6I4ZZw-zPPgdn4jUwVcJE1ZvWQUxwkmyExglNqGp0IvTJZUJFbgE-7XRK3dMEBRBhUpzS0WO5kI999uyJFlI818ReYqwwRiYMCV_jpRwUWYkWibZZkcDDBbdZgPrxmt9Bm6k/PastedGraphic-26.png) 
+![PastedGraphic-26.png](/assets/uploads/PastedGraphic-26.png) 
 
-![PastedGraphic-25.png](https://images.squarespace-cdn.com/content/v1/52b7d7a6e4b0b3e376ac8ea2/1472626650815-YQMDRYKXWDN7RQXIF5I2/ke17ZwdGBToddI8pDm48kJWjpOp34UhnGOZbysXzjr9Zw-zPPgdn4jUwVcJE1ZvWEtT5uBSRWt4vQZAgTJucoTqqXjS3CfNDSuuf31e0tVGxpr5qHRRCt_sTWsosZjqnCRY9eT2TONZZJHxJ085vvaQvevUbj177dmcMs1F0H-0/PastedGraphic-25.png) 
+![PastedGraphic-25.png](/assets/uploads/PastedGraphic-25.png) 
 
-![PastedGraphic-27.png](https://images.squarespace-cdn.com/content/v1/52b7d7a6e4b0b3e376ac8ea2/1472627769912-KEBUJIZMXPFO9H0UWMI1/ke17ZwdGBToddI8pDm48kEZBaRU228E805XM9hErNQBZw-zPPgdn4jUwVcJE1ZvWQUxwkmyExglNqGp0IvTJZUJFbgE-7XRK3dMEBRBhUpw0skgL52rHGhiMLCxyy5q7Xmt1AXFZOUX2LpNeUY08wvyhdC-fFvJQwbZeSmmTbzI/PastedGraphic-27.png) 
+![PastedGraphic-27.png](/assets/uploads/PastedGraphic-27.png) 
 
 Shelley Trew
 ============

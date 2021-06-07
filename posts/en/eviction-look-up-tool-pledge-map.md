@@ -8,6 +8,6 @@ _Look up tool to determine in an address has had an eviction, Pledge to not rent
 
 [
 
-![Screen+Shot+2014-05-07+at+11.39.13+PM.png](https://images.squarespace-cdn.com/content/v1/52b7d7a6e4b0b3e376ac8ea2/1551723097268-5DX3EMX7H0ZKQP5EUNSD/ke17ZwdGBToddI8pDm48kDbRjhoK6JUe351MW0V8URNZw-zPPgdn4jUwVcJE1ZvWQUxwkmyExglNqGp0IvTJZUJFbgE-7XRK3dMEBRBhUpy3GrIp6WhTMIz8-qmcGglwaJcCxCvXiksHSbEXxC0l08IOw-W__WmK3UrzqwUIdP0/Screen%2BShot%2B2014-05-07%2Bat%2B11.39.13%2BPM.png)
+![Screen+Shot+2014-05-07+at+11.39.13+PM.png](/assets/uploads/Screen%2BShot%2B2014-05-07%2Bat%2B11.39.13%2BPM.png)
 
 ](http://www.antievictionmappingproject.net/pledge/)

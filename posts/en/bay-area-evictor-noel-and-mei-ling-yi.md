@@ -9,17 +9,17 @@ Noel Yi and Mei Ling have owned and flipped about 100 properties in the Bay Area
 
 October 31, 2017 is the next court date.  
 
-![Noel Yi's Castro Valley home](https://images.squarespace-cdn.com/content/v1/52b7d7a6e4b0b3e376ac8ea2/1507525050157-G2VP09SWQ2GNRX8NQB27/ke17ZwdGBToddI8pDm48kFwIsf2b9zuEuyOV6M4T5YtZw-zPPgdn4jUwVcJE1ZvWQUxwkmyExglNqGp0IvTJZamWLI2zvYWH8K3-s_4yszcp2ryTI0HqTOaaUohrI8PIhBck0r2spRa9z6Xb2dQFMBPtzFhgGOCPfAqWF2IHOLU/PastedGraphic-59.png)
+![Noel Yi's Castro Valley home](/assets/uploads/PastedGraphic-59.png)
 
 Noel Yi's Castro Valley home
 
-![Noel Yi is selling 44 acres for $3 million, but can't let the Community in West Oakland grow food on their small lot.     https://www.facebook.com/afrikatowncommunitygarden/](https://images.squarespace-cdn.com/content/v1/52b7d7a6e4b0b3e376ac8ea2/1507525172769-P4B4PMZUEZR3B10LTJ0C/ke17ZwdGBToddI8pDm48kLAEQVB1lIa6Q4meHjZcAAFZw-zPPgdn4jUwVcJE1ZvWQUxwkmyExglNqGp0IvTJZUJFbgE-7XRK3dMEBRBhUpyjVBNzMSF2H76JqpB3f-fb84sZlOI6aFglLnElVtUjGwz-KV4eHQJwOn7pG39Al1A/PastedGraphic-60.png)
+![Noel Yi is selling 44 acres for $3 million, but can't let the Community in West Oakland grow food on their small lot.     https://www.facebook.com/afrikatowncommunitygarden/](/assets/uploads/PastedGraphic-60.png)
 
 Noel Yi is selling 44 acres for $3 million, but can't let the Community in West Oakland grow food on their small lot.
 
 [https://www.facebook.com/afrikatowncommunitygarden/](https://www.facebook.com/afrikatowncommunitygarden/)
 
-![PastedGraphic-61.png](https://images.squarespace-cdn.com/content/v1/52b7d7a6e4b0b3e376ac8ea2/1507526216143-CFMXW44YL1JSPQ2YRVBV/ke17ZwdGBToddI8pDm48kBV0XCaVLtAQFuYv5VC89upZw-zPPgdn4jUwVcJE1ZvWEtT5uBSRWt4vQZAgTJucoTqqXjS3CfNDSuuf31e0tVGww1ZueC-vEGPg4X6Q6ISaX4oE2wIcVAAvhIgpJLtJrW0nsU3dfn6w--du8-EjPUE/PastedGraphic-61.png)
+![PastedGraphic-61.png](/assets/uploads/PastedGraphic-61.png)
 
 LLCs
 ----

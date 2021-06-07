@@ -5,7 +5,7 @@
 **NINA GENESON OTIS**
 ---------------------
 
-![Nina Geneson and fiance John Pollard in 2006-Geneson married Jordan M Otis in 2011.    Photo from  Fog City Journal.](https://images.squarespace-cdn.com/content/v1/52b7d7a6e4b0b3e376ac8ea2/1412316740655-JIC5S91H57THHRJYPRNX/ke17ZwdGBToddI8pDm48kJvfScO5w5rdKYfuFpauqxJZw-zPPgdn4jUwVcJE1ZvWEtT5uBSRWt4vQZAgTJucoTqqXjS3CfNDSuuf31e0tVH9mxdQHeDqypTTQ_CY9YoFXbD3fDvXzaw3KOgG0s1BczFvbuqF0GUInBxxtVhBOn4/Nina+Geneson+Otis)
+![Nina Geneson and fiance John Pollard in 2006-Geneson married Jordan M Otis in 2011.    Photo from  Fog City Journal.](/assets/uploads/Nina+Geneson+Otis)
 
 Nina Geneson and fiance John Pollard in 2006-Geneson married Jordan M Otis in 2011.
 
@@ -21,7 +21,7 @@ The four apartments were soon afterward furnished and available full time on VRB
 
 Pons also lists properties for short term rental which he owns himself, including a building purchased in a foreclosure sale--one family’s pain is Bernat Pons’ gain.
 
-![4BR on Tehema Street where tenants were previously removed.](https://images.squarespace-cdn.com/content/v1/52b7d7a6e4b0b3e376ac8ea2/1412317151065-MW5NYEWCRUIQIT1OTUP0/ke17ZwdGBToddI8pDm48kA5_yCqIIbMK4ioikjY8Hu1Zw-zPPgdn4jUwVcJE1ZvWQUxwkmyExglNqGp0IvTJZUJFbgE-7XRK3dMEBRBhUpyNF_APa_CqKll4WMTXuLEZz4aVDjJq2jBygXk9gIePDRAQK-pQ_i2ytbMjRI_ji3M/Geneson++Otis+apartment)
+![4BR on Tehema Street where tenants were previously removed.](/assets/uploads/Geneson++Otis+apartment)
 
 4BR on Tehema Street where tenants were previously removed.
 

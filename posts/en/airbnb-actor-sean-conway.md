@@ -9,7 +9,7 @@ SEAN CONWAY **\- Concierge**
 
 [
 
-![AirEnvy, concierge service.](https://images.squarespace-cdn.com/content/v1/52b7d7a6e4b0b3e376ac8ea2/1412348479587-H8ZNO2I3DYFTZZSQN9RH/ke17ZwdGBToddI8pDm48kPRKwvH3X8v2ohM5ZNkyAIlZw-zPPgdn4jUwVcJE1ZvWQUxwkmyExglNqGp0IvTJZUJFbgE-7XRK3dMEBRBhUpwoPOjwuOEQVvJI3aUQjvr8HgI-9FHMDGeEw9FtVrs1VhyD4B-N7uooFxYcuo3_uhw/Airenvy)
+![AirEnvy, concierge service.](/assets/uploads/Airenvy)
 
 ](https://www.airenvy.com/)
 
@@ -19,19 +19,19 @@ AirEnvy, concierge service.
 
 [
 
-![AirEvny to manage your AirBNB for you.](https://images.squarespace-cdn.com/content/v1/52b7d7a6e4b0b3e376ac8ea2/1412348684186-8VGWMTDFHR26IT6TBOZE/ke17ZwdGBToddI8pDm48kKyiaDqysyY7ZwakJwOlMIFZw-zPPgdn4jUwVcJE1ZvWQUxwkmyExglNqGp0IvTJZamWLI2zvYWH8K3-s_4yszcp2ryTI0HqTOaaUohrI8PIQA4yzgqRiKPxxpvgYFC1bXFymgIppyt7OjczRZcbnOo/airevny)
+![AirEvny to manage your AirBNB for you.](/assets/uploads/airevny)
 
 ](https://www.airenvy.com/)
 
 AirEvny to manage your AirBNB for you.
 
-![Sean's profile on AirBNB.](https://images.squarespace-cdn.com/content/v1/52b7d7a6e4b0b3e376ac8ea2/1412348030673-ZGCWQCF248JBJQKQLY8L/ke17ZwdGBToddI8pDm48kHU59TpMPEEm0zSbjbUp1z8UqsxRUqqbr1mOJYKfIPR7LoDQ9mXPOjoJoqy81S2I8N_N4V1vUb5AoIIIbLZhVYxCRW4BPu10St3TBAUQYVKci62VrldUkvQlbyXQTbOBkWJKk3Veqq7bfp1KLhx27LUnC54gyxsmWMrSNLqd25f7/sean+conway)
+![Sean's profile on AirBNB.](/assets/uploads/sean+conway)
 
 Sean's profile on AirBNB.
 
   
 
-![Sean's AirBNB profile.](https://images.squarespace-cdn.com/content/v1/52b7d7a6e4b0b3e376ac8ea2/1412347969380-JGTBVWH62ML6I8UGJ0U1/ke17ZwdGBToddI8pDm48kH9-b2nTOX9A-gq4fZRdMhBZw-zPPgdn4jUwVcJE1ZvWhcwhEtWJXoshNdA9f1qD7SRUeo5q1QCP5W3CVI481cyd-ODSVc9sz86zyQfUkRoz6A80ESpgbeEj2YADgvLaKQ/Sean%27s+profile)
+![Sean's AirBNB profile.](/assets/uploads/Sean%27s+profile)
 
 Sean's AirBNB profile.
 

@@ -23,7 +23,7 @@ In Cupertino: [https://www.airbnb.com/rooms/2159609](https://www.airbnb.com/room
 
 “I've know Vic for almost 10 years now. He was my previous landlord in the US and always very attentive and helpful. I look forward to hanging out with him in Taiwan soon. He's quite versatile. You can chew the fat with him or be laconic. Either way, you'll have a good time with Big Vic.”
 
-![Vic's AirBNB profile.](https://images.squarespace-cdn.com/content/v1/52b7d7a6e4b0b3e376ac8ea2/1412323150505-X1EB3URLQ808J05IECZY/ke17ZwdGBToddI8pDm48kDr5BGBu53ID_d_N1WY6CsJZw-zPPgdn4jUwVcJE1ZvWQUxwkmyExglNqGp0IvTJZUJFbgE-7XRK3dMEBRBhUpy74VfIf2cE1CQmbywti6nEkgxJT8B1xTZ9_qyGzQTH4uzSBs1mMCpW5Nz_koEyXBw/Vic+Yang)
+![Vic's AirBNB profile.](/assets/uploads/Vic+Yang)
 
 Vic's AirBNB profile.
 

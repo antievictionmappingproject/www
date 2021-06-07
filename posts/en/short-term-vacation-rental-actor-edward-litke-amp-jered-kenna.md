@@ -32,6 +32,6 @@ While Court records are full of Litke’s unlawful detainers, [the eviction of t
   
  
 
-![Conversion of an SRO to a Live/Work Techie Dorm](https://images.squarespace-cdn.com/content/v1/52b7d7a6e4b0b3e376ac8ea2/1412321960605-GC21361EU8I23N3ZV4RD/ke17ZwdGBToddI8pDm48kIdDhCxCmcQcFGtDRj0waCpZw-zPPgdn4jUwVcJE1ZvWEtT5uBSRWt4vQZAgTJucoTqqXjS3CfNDSuuf31e0tVGqquoOEhDB40SgvOv4oMDBR5tOE9LV9V0VQYFFNNqhpKEcAfnVBrEqrgp1UxUHGkY/JEFFREY+EDWARD+LITKE)
+![Conversion of an SRO to a Live/Work Techie Dorm](/assets/uploads/JEFFREY+EDWARD+LITKE)
 
 Conversion of an SRO to a Live/Work Techie Dorm

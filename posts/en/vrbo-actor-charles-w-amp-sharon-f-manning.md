@@ -16,7 +16,7 @@ So after enacting those tough austerity cuts on the students, Sharon “whisk(s)
 
 They also own 3124 Washington Street and two more properties in Tennessee and Maryland.
 
-![Kelly Manning, Sharon "Sherry" Manning, and Charles W. Manning   (left to right)](https://images.squarespace-cdn.com/content/v1/52b7d7a6e4b0b3e376ac8ea2/1412320824173-XGGWNXBX01P76B4WRP2E/ke17ZwdGBToddI8pDm48kGy9K3bQKl5TrxEkm2jWeENZw-zPPgdn4jUwVcJE1ZvWEtT5uBSRWt4vQZAgTJucoTqqXjS3CfNDSuuf31e0tVFyHMUbB6nXGAgva53zKoF4YRcWuU9K6d25gh_zZLUYkCb8BodarTVrzIWCp72ioWw/Kelly+Manning%2C+Sharon+%E2%80%9CSherry%E2%80%9D+Manning+and+Charles+W+Manning)
+![Kelly Manning, Sharon "Sherry" Manning, and Charles W. Manning   (left to right)](/assets/uploads/Kelly+Manning%2C+Sharon+%E2%80%9CSherry%E2%80%9D+Manning+and+Charles+W+Manning)
 
 Kelly Manning, Sharon "Sherry" Manning, and Charles W. Manning
 

@@ -18,67 +18,67 @@ San Francisco Evictions
 
 After Eviction-Free San Francisco held a protest at the office of Urban Green on July 8, the case received much media attention. [McCloskey announced to the press that Mary could stay in her home, but not Sarah. As Mary's lawyer says:](http://www.sfexaminer.com/sanfrancisco/urban-green-says-evicted-sf-tenant-can-stay-but-attorney-cries-foul/Content?oid=2847773) 
 
-![Protest at Urban Green Headquarters](https://images.squarespace-cdn.com/content/v1/52b7d7a6e4b0b3e376ac8ea2/1388614941122-2C4GGOPV5F23LQVLOW15/ke17ZwdGBToddI8pDm48kBrGvFlov5PlW3x39CaGhnVZw-zPPgdn4jUwVcJE1ZvWQUxwkmyExglNqGp0IvTJZamWLI2zvYWH8K3-s_4yszcp2ryTI0HqTOaaUohrI8PIsIMwCONl-flxDgwwFChaZVktRuCtHaHj4cyaUWb0HVI/Screen+Shot+2014-01-01+at+1.29.44+PM.png)
+![Protest at Urban Green Headquarters](/assets/uploads/Screen+Shot+2014-01-01+at+1.29.44+PM.png)
 
 Protest at Urban Green Headquarters
 
 Second [Eviction Free San Francisco](http://evictionfreesf.org/) [protest](https://www.facebook.com/events/1376529385932192/?ref_newsfeed_story_type=regular) [against Urban Green](https://www.facebook.com/events/1376529385932192/?ref_newsfeed_story_type=regular).
 
-![Screen Shot 2014-06-09 at 11.49.18 AM.png](https://images.squarespace-cdn.com/content/v1/52b7d7a6e4b0b3e376ac8ea2/1402341310593-PTLIJBJGV1EK9X8DJWK4/ke17ZwdGBToddI8pDm48kERY2qArLpHST2bv5qoJf4NZw-zPPgdn4jUwVcJE1ZvWQUxwkmyExglNqGp0IvTJZUJFbgE-7XRK3dMEBRBhUpx4wFM5IBhkbKveRjUUgSSpzgCnBkkzSeluStWlekvEctm0-VCO6IXQx8Fwg_LUkjg/Screen+Shot+2014-06-09+at+11.49.18+AM.png)
+![Screen Shot 2014-06-09 at 11.49.18 AM.png](/assets/uploads/Screen+Shot+2014-06-09+at+11.49.18+AM.png)
 
-![](https://images.squarespace-cdn.com/content/v1/52b7d7a6e4b0b3e376ac8ea2/1405130856369-72Z86PDJ3IIDKQ0ED8IT/ke17ZwdGBToddI8pDm48kNKU_v8gJAcxDrmB-soKvj1Zw-zPPgdn4jUwVcJE1ZvWEtT5uBSRWt4vQZAgTJucoTqqXjS3CfNDSuuf31e0tVH7wdpQi_gwH_-rfgB8xc3aCDYU5QsKfHvKofLxtwAwA5XleA9PsoOHujT9UMkA80c/image-asset.jpeg)
+![](/assets/uploads/image-asset.jpeg)
 
 Woman, 98, Evicted From San Francisco Apartment After 50 Years
 
-![Screen Shot 2014-07-11 at 7.11.26 PM.png](https://images.squarespace-cdn.com/content/v1/52b7d7a6e4b0b3e376ac8ea2/1405130772359-7EK1I1IUC0J4CLF9RM9Q/ke17ZwdGBToddI8pDm48kGElectXTQnhtuuXPvoc35xZw-zPPgdn4jUwVcJE1ZvWEtT5uBSRWt4vQZAgTJucoTqqXjS3CfNDSuuf31e0tVFLKv3xNss2L8jKRilSyY_aeUU249A2k-k5gvwKi1Tx_zFvbuqF0GUInBxxtVhBOn4/Screen+Shot+2014-07-11+at+7.11.26+PM.png)
+![Screen Shot 2014-07-11 at 7.11.26 PM.png](/assets/uploads/Screen+Shot+2014-07-11+at+7.11.26+PM.png)
 
-![](https://images.squarespace-cdn.com/content/v1/52b7d7a6e4b0b3e376ac8ea2/1405130913117-370ODYK4DYNGI8USOD9H/ke17ZwdGBToddI8pDm48kNKU_v8gJAcxDrmB-soKvj1Zw-zPPgdn4jUwVcJE1ZvWEtT5uBSRWt4vQZAgTJucoTqqXjS3CfNDSuuf31e0tVH7wdpQi_gwH_-rfgB8xc3aCDYU5QsKfHvKofLxtwAwA5XleA9PsoOHujT9UMkA80c/image-asset.jpeg)
+![](/assets/uploads/image-asset.jpeg)
 
 Company Evicting 98 Year Old Woman Still Not Talking
 
-![](https://images.squarespace-cdn.com/content/v1/52b7d7a6e4b0b3e376ac8ea2/1391729919140-XYIEQKA7PR42F2NL2NTA/ke17ZwdGBToddI8pDm48kNKU_v8gJAcxDrmB-soKvj1Zw-zPPgdn4jUwVcJE1ZvWEtT5uBSRWt4vQZAgTJucoTqqXjS3CfNDSuuf31e0tVH7wdpQi_gwH_-rfgB8xc3aCDYU5QsKfHvKofLxtwAwA5XleA9PsoOHujT9UMkA80c/image-asset.jpeg)
+![](/assets/uploads/image-asset.jpeg)
 
 Elder Abuse Charges Filed Against SF Landlords
 
-[![Mary Elizabeth Phillips](https://images.squarespace-cdn.com/content/v1/52b7d7a6e4b0b3e376ac8ea2/1388614900370-GXJN39MVDD17DH0B4XJC/ke17ZwdGBToddI8pDm48kL4F9XdqSyezJHw3QgyQWOFZw-zPPgdn4jUwVcJE1ZvWQUxwkmyExglNqGp0IvTJZamWLI2zvYWH8K3-s_4yszcp2ryTI0HqTOaaUohrI8PISKpGtNBy-NzwpStQVsP7YUg1mu6aZIyOGNFJipxVb9sKMshLAGzx4R3EDFOm1kBS/mary.jpg)](http://www.nbcbayarea.com/news/local/Experts-Claim-Property-Owners-Abusing-Ellis-Act-Evictions-229987461.html) 
+[![Mary Elizabeth Phillips](/assets/uploads/mary.jpg)](http://www.nbcbayarea.com/news/local/Experts-Claim-Property-Owners-Abusing-Ellis-Act-Evictions-229987461.html) 
 
 Mary Elizabeth Phillips
 
 NBC clip about Mary Phillips will be Ellised by Urban Green Investments through  the 55 Dolores Street LLC on April 8, 2014, the month that she will be turning 98. She has nowhere else to go. As Mary says, “This has been my home for over 40 years and I don’t want to leave…I am just too old."
 
-![UGI LLCs](https://images.squarespace-cdn.com/content/v1/52b7d7a6e4b0b3e376ac8ea2/1389027251738-OMUH1IG36B4BR6IBBGG9/ke17ZwdGBToddI8pDm48kP-cNWD9FzAE7zIa9YxRD21Zw-zPPgdn4jUwVcJE1ZvWQUxwkmyExglNqGp0IvTJZUJFbgE-7XRK3dMEBRBhUpzfeqYrkD4VmOqEINpRgfg80KUeSbB_dVUiuoNaX2xNg8yrqe6t-rg9LMO8sBI5O9o/Screen+Shot+2014-01-06+at+8.55.05+AM.png)
+![UGI LLCs](/assets/uploads/Screen+Shot+2014-01-06+at+8.55.05+AM.png)
 
 UGI LLCs
 
-![Screen Shot 2014-06-09 at 12.37.09 PM.png](https://images.squarespace-cdn.com/content/v1/52b7d7a6e4b0b3e376ac8ea2/1402342314644-3RDGGVSPDRQXH7JKUK4P/ke17ZwdGBToddI8pDm48kFycnIE6JtD8k0z0dn03bzlZw-zPPgdn4jUwVcJE1ZvWQUxwkmyExglNqGp0IvTJZUJFbgE-7XRK3dMEBRBhUpz5duGhgJVKslJ7MV8LtRTZdPtqeHJLZRDp0hyDAq3VCdrEAetOY1FeRSUfr59PGfQ/Screen+Shot+2014-06-09+at+12.37.09+PM.png)
+![Screen Shot 2014-06-09 at 12.37.09 PM.png](/assets/uploads/Screen+Shot+2014-06-09+at+12.37.09+PM.png)
 
-![Screen Shot 2014-07-11 at 7.30.39 PM.png](https://images.squarespace-cdn.com/content/v1/52b7d7a6e4b0b3e376ac8ea2/1405131809941-CPI05O8UADUK7V7K19NA/ke17ZwdGBToddI8pDm48kKESLjwactJ9vdwRly4FTHNZw-zPPgdn4jUwVcJE1ZvWEtT5uBSRWt4vQZAgTJucoTqqXjS3CfNDSuuf31e0tVEuRUqxgrVe31M6Sy7N4P8SJxWnfTPQgX80GZkDU3ArsZuG45vQwBxdpDrCGUSSl5w/Screen+Shot+2014-07-11+at+7.30.39+PM.png)
+![Screen Shot 2014-07-11 at 7.30.39 PM.png](/assets/uploads/Screen+Shot+2014-07-11+at+7.30.39+PM.png)
 
-![Screen Shot 2014-01-08 at 1.57.04 PM.png](https://images.squarespace-cdn.com/content/v1/52b7d7a6e4b0b3e376ac8ea2/1389220509507-JMA2CBQ0P06MU3LW5QC2/ke17ZwdGBToddI8pDm48kNBsdXUpqaQMp_w-w_lx0jflfiSMXz2YNBs8ylwAJx2qr7dJalY1eltJq26FYyRd7vhkSOwjhIRuDghuSXrBFuWzH6NNNkJ1eVNuYg_A4jPjlsSjJaw1qJkZELz6io4RwQ/Screen+Shot+2014-01-08+at+1.57.04+PM.png)
+![Screen Shot 2014-01-08 at 1.57.04 PM.png](/assets/uploads/Screen+Shot+2014-01-08+at+1.57.04+PM.png)
 
-![Screen Shot 2014-01-08 at 1.52.15 PM.png](https://images.squarespace-cdn.com/content/v1/52b7d7a6e4b0b3e376ac8ea2/1389220560660-378YQGZBC4SWLNUOY9T4/ke17ZwdGBToddI8pDm48kMfildoZlMTx_YNHP5V5TQtZw-zPPgdn4jUwVcJE1ZvWEtT5uBSRWt4vQZAgTJucoTqqXjS3CfNDSuuf31e0tVETePZ9-W6ZX9B6C1hJz4CSOYo2bpiqMCxJ2a3GyjYPKJuG45vQwBxdpDrCGUSSl5w/Screen+Shot+2014-01-08+at+1.52.15+PM.png)
+![Screen Shot 2014-01-08 at 1.52.15 PM.png](/assets/uploads/Screen+Shot+2014-01-08+at+1.52.15+PM.png)
 
-![Screen Shot 2014-07-11 at 7.23.09 PM.png](https://images.squarespace-cdn.com/content/v1/52b7d7a6e4b0b3e376ac8ea2/1405131531272-09XOZG9ICKYZ96MLZ28X/ke17ZwdGBToddI8pDm48kDP-AhHYMXKNpfDR9DlByOpZw-zPPgdn4jUwVcJE1ZvWEtT5uBSRWt4vQZAgTJucoTqqXjS3CfNDSuuf31e0tVH9YWOWBBF454b_V_mhUsGI566e9S85YCbbGBMwEgmtkd1lH3P2bFZvTItROhWrBJ0/Screen+Shot+2014-07-11+at+7.23.09+PM.png)
+![Screen Shot 2014-07-11 at 7.23.09 PM.png](/assets/uploads/Screen+Shot+2014-07-11+at+7.23.09+PM.png)
 
-![realmccloskeypussmaller.jpg](https://images.squarespace-cdn.com/content/v1/52b7d7a6e4b0b3e376ac8ea2/1404921711955-PRWRHULO5JVV1AS3CJR5/ke17ZwdGBToddI8pDm48kFQ_-XOp7Lejx4setGZWT217gQa3H78H3Y0txjaiv_0fDoOvxcdMmMKkDsyUqMSsMWxHk725yiiHCCLfrh8O1z5QHyNOqBUUEtDDsRWrJLTmCZdxe8RUVMtthf0J1VwZ7ttjOjaY5xyr0k3on3C4Lg3UQA_DrRRQwLDO3PR95Rgo/realmccloskeypussmaller.jpg)
+![realmccloskeypussmaller.jpg](/assets/uploads/realmccloskeypussmaller.jpg)
 
-![Screen Shot 2014-07-11 at 7.11.45 PM.png](https://images.squarespace-cdn.com/content/v1/52b7d7a6e4b0b3e376ac8ea2/1405130772295-GU5A286UQG48YJ1JVUUX/ke17ZwdGBToddI8pDm48kAOqN4POanLqRhDIA7BYoaFZw-zPPgdn4jUwVcJE1ZvWhcwhEtWJXoshNdA9f1qD7aWTft8W2mJ3MMBYfzdTZ2weJANEZLTX2oafEid0fTufDXPIAwGq0ek0FvpxorNV5w/Screen+Shot+2014-07-11+at+7.11.45+PM.png)
+![Screen Shot 2014-07-11 at 7.11.45 PM.png](/assets/uploads/Screen+Shot+2014-07-11+at+7.11.45+PM.png)
 
-![Screen Shot 2014-07-11 at 7.33.26 PM.png](https://images.squarespace-cdn.com/content/v1/52b7d7a6e4b0b3e376ac8ea2/1405132044567-5Q1GVHIPRTDFZG8ZKTNX/ke17ZwdGBToddI8pDm48kJajAnrXWyx0X5tvqRwAMrhZw-zPPgdn4jUwVcJE1ZvWQUxwkmyExglNqGp0IvTJZUJFbgE-7XRK3dMEBRBhUpwDeqBEZ9hliXYfLTn26IvSGsK4ObSMvRSfrVOIlv9UhdgpDJvXdb6KYC6FsJdnVHc/Screen+Shot+2014-07-11+at+7.33.26+PM.png)
+![Screen Shot 2014-07-11 at 7.33.26 PM.png](/assets/uploads/Screen+Shot+2014-07-11+at+7.33.26+PM.png)
 
-![Urban Green's Urban Greed: Evict a 97-Year Old Woman? 28 September 2013](https://images.squarespace-cdn.com/content/v1/52b7d7a6e4b0b3e376ac8ea2/1389370576441-YSW1KJT4BFHRVRJFLW2N/ke17ZwdGBToddI8pDm48kNKU_v8gJAcxDrmB-soKvj1Zw-zPPgdn4jUwVcJE1ZvWEtT5uBSRWt4vQZAgTJucoTqqXjS3CfNDSuuf31e0tVH7wdpQi_gwH_-rfgB8xc3aCDYU5QsKfHvKofLxtwAwA5XleA9PsoOHujT9UMkA80c/image-asset.jpeg)
+![Urban Green's Urban Greed: Evict a 97-Year Old Woman? 28 September 2013](/assets/uploads/image-asset.jpeg)
 
-![Protest at Urban Green Headquarters](https://images.squarespace-cdn.com/content/v1/52b7d7a6e4b0b3e376ac8ea2/1388614941122-2C4GGOPV5F23LQVLOW15/ke17ZwdGBToddI8pDm48kBrGvFlov5PlW3x39CaGhnVZw-zPPgdn4jUwVcJE1ZvWQUxwkmyExglNqGp0IvTJZamWLI2zvYWH8K3-s_4yszcp2ryTI0HqTOaaUohrI8PIsIMwCONl-flxDgwwFChaZVktRuCtHaHj4cyaUWb0HVI/Screen+Shot+2014-01-01+at+1.29.44+PM.png) ![Screen Shot 2014-06-09 at 11.49.18 AM.png](https://images.squarespace-cdn.com/content/v1/52b7d7a6e4b0b3e376ac8ea2/1402341310593-PTLIJBJGV1EK9X8DJWK4/ke17ZwdGBToddI8pDm48kERY2qArLpHST2bv5qoJf4NZw-zPPgdn4jUwVcJE1ZvWQUxwkmyExglNqGp0IvTJZUJFbgE-7XRK3dMEBRBhUpx4wFM5IBhkbKveRjUUgSSpzgCnBkkzSeluStWlekvEctm0-VCO6IXQx8Fwg_LUkjg/Screen+Shot+2014-06-09+at+11.49.18+AM.png)
+![Protest at Urban Green Headquarters](/assets/uploads/Screen+Shot+2014-01-01+at+1.29.44+PM.png) ![Screen Shot 2014-06-09 at 11.49.18 AM.png](/assets/uploads/Screen+Shot+2014-06-09+at+11.49.18+AM.png)
 
-![Woman, 98, Evicted From San Francisco Apartment After 50 Years](https://images.squarespace-cdn.com/content/v1/52b7d7a6e4b0b3e376ac8ea2/1405130856369-72Z86PDJ3IIDKQ0ED8IT/ke17ZwdGBToddI8pDm48kNKU_v8gJAcxDrmB-soKvj1Zw-zPPgdn4jUwVcJE1ZvWEtT5uBSRWt4vQZAgTJucoTqqXjS3CfNDSuuf31e0tVH7wdpQi_gwH_-rfgB8xc3aCDYU5QsKfHvKofLxtwAwA5XleA9PsoOHujT9UMkA80c/image-asset.jpeg)
+![Woman, 98, Evicted From San Francisco Apartment After 50 Years](/assets/uploads/image-asset.jpeg)
 
-![Screen Shot 2014-07-11 at 7.11.26 PM.png](https://images.squarespace-cdn.com/content/v1/52b7d7a6e4b0b3e376ac8ea2/1405130772359-7EK1I1IUC0J4CLF9RM9Q/ke17ZwdGBToddI8pDm48kGElectXTQnhtuuXPvoc35xZw-zPPgdn4jUwVcJE1ZvWEtT5uBSRWt4vQZAgTJucoTqqXjS3CfNDSuuf31e0tVFLKv3xNss2L8jKRilSyY_aeUU249A2k-k5gvwKi1Tx_zFvbuqF0GUInBxxtVhBOn4/Screen+Shot+2014-07-11+at+7.11.26+PM.png)
+![Screen Shot 2014-07-11 at 7.11.26 PM.png](/assets/uploads/Screen+Shot+2014-07-11+at+7.11.26+PM.png)
 
-![Company Evicting 98 Year Old Woman Still Not Talking](https://images.squarespace-cdn.com/content/v1/52b7d7a6e4b0b3e376ac8ea2/1405130913117-370ODYK4DYNGI8USOD9H/ke17ZwdGBToddI8pDm48kNKU_v8gJAcxDrmB-soKvj1Zw-zPPgdn4jUwVcJE1ZvWEtT5uBSRWt4vQZAgTJucoTqqXjS3CfNDSuuf31e0tVH7wdpQi_gwH_-rfgB8xc3aCDYU5QsKfHvKofLxtwAwA5XleA9PsoOHujT9UMkA80c/image-asset.jpeg)
+![Company Evicting 98 Year Old Woman Still Not Talking](/assets/uploads/image-asset.jpeg)
 
-![Elder Abuse Charges Filed Against SF Landlords](https://images.squarespace-cdn.com/content/v1/52b7d7a6e4b0b3e376ac8ea2/1391729919140-XYIEQKA7PR42F2NL2NTA/ke17ZwdGBToddI8pDm48kNKU_v8gJAcxDrmB-soKvj1Zw-zPPgdn4jUwVcJE1ZvWEtT5uBSRWt4vQZAgTJucoTqqXjS3CfNDSuuf31e0tVH7wdpQi_gwH_-rfgB8xc3aCDYU5QsKfHvKofLxtwAwA5XleA9PsoOHujT9UMkA80c/image-asset.jpeg)
+![Elder Abuse Charges Filed Against SF Landlords](/assets/uploads/image-asset.jpeg)
 
-![Mary Elizabeth Phillips](https://images.squarespace-cdn.com/content/v1/52b7d7a6e4b0b3e376ac8ea2/1388614900370-GXJN39MVDD17DH0B4XJC/ke17ZwdGBToddI8pDm48kL4F9XdqSyezJHw3QgyQWOFZw-zPPgdn4jUwVcJE1ZvWQUxwkmyExglNqGp0IvTJZamWLI2zvYWH8K3-s_4yszcp2ryTI0HqTOaaUohrI8PISKpGtNBy-NzwpStQVsP7YUg1mu6aZIyOGNFJipxVb9sKMshLAGzx4R3EDFOm1kBS/mary.jpg) ![UGI LLCs](https://images.squarespace-cdn.com/content/v1/52b7d7a6e4b0b3e376ac8ea2/1389027251738-OMUH1IG36B4BR6IBBGG9/ke17ZwdGBToddI8pDm48kP-cNWD9FzAE7zIa9YxRD21Zw-zPPgdn4jUwVcJE1ZvWQUxwkmyExglNqGp0IvTJZUJFbgE-7XRK3dMEBRBhUpzfeqYrkD4VmOqEINpRgfg80KUeSbB_dVUiuoNaX2xNg8yrqe6t-rg9LMO8sBI5O9o/Screen+Shot+2014-01-06+at+8.55.05+AM.png) ![Screen Shot 2014-06-09 at 12.37.09 PM.png](https://images.squarespace-cdn.com/content/v1/52b7d7a6e4b0b3e376ac8ea2/1402342314644-3RDGGVSPDRQXH7JKUK4P/ke17ZwdGBToddI8pDm48kFycnIE6JtD8k0z0dn03bzlZw-zPPgdn4jUwVcJE1ZvWQUxwkmyExglNqGp0IvTJZUJFbgE-7XRK3dMEBRBhUpz5duGhgJVKslJ7MV8LtRTZdPtqeHJLZRDp0hyDAq3VCdrEAetOY1FeRSUfr59PGfQ/Screen+Shot+2014-06-09+at+12.37.09+PM.png) ![Screen Shot 2014-07-11 at 7.30.39 PM.png](https://images.squarespace-cdn.com/content/v1/52b7d7a6e4b0b3e376ac8ea2/1405131809941-CPI05O8UADUK7V7K19NA/ke17ZwdGBToddI8pDm48kKESLjwactJ9vdwRly4FTHNZw-zPPgdn4jUwVcJE1ZvWEtT5uBSRWt4vQZAgTJucoTqqXjS3CfNDSuuf31e0tVEuRUqxgrVe31M6Sy7N4P8SJxWnfTPQgX80GZkDU3ArsZuG45vQwBxdpDrCGUSSl5w/Screen+Shot+2014-07-11+at+7.30.39+PM.png) ![Screen Shot 2014-01-08 at 1.57.04 PM.png](https://images.squarespace-cdn.com/content/v1/52b7d7a6e4b0b3e376ac8ea2/1389220509507-JMA2CBQ0P06MU3LW5QC2/ke17ZwdGBToddI8pDm48kNBsdXUpqaQMp_w-w_lx0jflfiSMXz2YNBs8ylwAJx2qr7dJalY1eltJq26FYyRd7vhkSOwjhIRuDghuSXrBFuWzH6NNNkJ1eVNuYg_A4jPjlsSjJaw1qJkZELz6io4RwQ/Screen+Shot+2014-01-08+at+1.57.04+PM.png) ![Screen Shot 2014-01-08 at 1.52.15 PM.png](https://images.squarespace-cdn.com/content/v1/52b7d7a6e4b0b3e376ac8ea2/1389220560660-378YQGZBC4SWLNUOY9T4/ke17ZwdGBToddI8pDm48kMfildoZlMTx_YNHP5V5TQtZw-zPPgdn4jUwVcJE1ZvWEtT5uBSRWt4vQZAgTJucoTqqXjS3CfNDSuuf31e0tVETePZ9-W6ZX9B6C1hJz4CSOYo2bpiqMCxJ2a3GyjYPKJuG45vQwBxdpDrCGUSSl5w/Screen+Shot+2014-01-08+at+1.52.15+PM.png) ![Screen Shot 2014-07-11 at 7.23.09 PM.png](https://images.squarespace-cdn.com/content/v1/52b7d7a6e4b0b3e376ac8ea2/1405131531272-09XOZG9ICKYZ96MLZ28X/ke17ZwdGBToddI8pDm48kDP-AhHYMXKNpfDR9DlByOpZw-zPPgdn4jUwVcJE1ZvWEtT5uBSRWt4vQZAgTJucoTqqXjS3CfNDSuuf31e0tVH9YWOWBBF454b_V_mhUsGI566e9S85YCbbGBMwEgmtkd1lH3P2bFZvTItROhWrBJ0/Screen+Shot+2014-07-11+at+7.23.09+PM.png) ![realmccloskeypussmaller.jpg](https://images.squarespace-cdn.com/content/v1/52b7d7a6e4b0b3e376ac8ea2/1404921711955-PRWRHULO5JVV1AS3CJR5/ke17ZwdGBToddI8pDm48kFQ_-XOp7Lejx4setGZWT217gQa3H78H3Y0txjaiv_0fDoOvxcdMmMKkDsyUqMSsMWxHk725yiiHCCLfrh8O1z5QHyNOqBUUEtDDsRWrJLTmCZdxe8RUVMtthf0J1VwZ7ttjOjaY5xyr0k3on3C4Lg3UQA_DrRRQwLDO3PR95Rgo/realmccloskeypussmaller.jpg) ![Screen Shot 2014-07-11 at 7.11.45 PM.png](https://images.squarespace-cdn.com/content/v1/52b7d7a6e4b0b3e376ac8ea2/1405130772295-GU5A286UQG48YJ1JVUUX/ke17ZwdGBToddI8pDm48kAOqN4POanLqRhDIA7BYoaFZw-zPPgdn4jUwVcJE1ZvWhcwhEtWJXoshNdA9f1qD7aWTft8W2mJ3MMBYfzdTZ2weJANEZLTX2oafEid0fTufDXPIAwGq0ek0FvpxorNV5w/Screen+Shot+2014-07-11+at+7.11.45+PM.png) ![Screen Shot 2014-07-11 at 7.33.26 PM.png](https://images.squarespace-cdn.com/content/v1/52b7d7a6e4b0b3e376ac8ea2/1405132044567-5Q1GVHIPRTDFZG8ZKTNX/ke17ZwdGBToddI8pDm48kJajAnrXWyx0X5tvqRwAMrhZw-zPPgdn4jUwVcJE1ZvWQUxwkmyExglNqGp0IvTJZUJFbgE-7XRK3dMEBRBhUpwDeqBEZ9hliXYfLTn26IvSGsK4ObSMvRSfrVOIlv9UhdgpDJvXdb6KYC6FsJdnVHc/Screen+Shot+2014-07-11+at+7.33.26+PM.png)
+![Mary Elizabeth Phillips](/assets/uploads/mary.jpg) ![UGI LLCs](/assets/uploads/Screen+Shot+2014-01-06+at+8.55.05+AM.png) ![Screen Shot 2014-06-09 at 12.37.09 PM.png](/assets/uploads/Screen+Shot+2014-06-09+at+12.37.09+PM.png) ![Screen Shot 2014-07-11 at 7.30.39 PM.png](/assets/uploads/Screen+Shot+2014-07-11+at+7.30.39+PM.png) ![Screen Shot 2014-01-08 at 1.57.04 PM.png](/assets/uploads/Screen+Shot+2014-01-08+at+1.57.04+PM.png) ![Screen Shot 2014-01-08 at 1.52.15 PM.png](/assets/uploads/Screen+Shot+2014-01-08+at+1.52.15+PM.png) ![Screen Shot 2014-07-11 at 7.23.09 PM.png](/assets/uploads/Screen+Shot+2014-07-11+at+7.23.09+PM.png) ![realmccloskeypussmaller.jpg](/assets/uploads/realmccloskeypussmaller.jpg) ![Screen Shot 2014-07-11 at 7.11.45 PM.png](/assets/uploads/Screen+Shot+2014-07-11+at+7.11.45+PM.png) ![Screen Shot 2014-07-11 at 7.33.26 PM.png](/assets/uploads/Screen+Shot+2014-07-11+at+7.33.26+PM.png)
 
 "Urban Green Investments (UGI) has filed a lawsuit to evict Mary Phillips, although they have not served it yet. Instead, they are proceeding with litigation against her close friend and caregiver Sarah Brant, who also lives in the building, understanding that if they evict Sarah, then Mary cannot remain as the sole occupant of a building that is being turned into a construction zone. The reality is that offering the 98 year old Mary Phillips the opportunity to live alone in a construction zone without her close friend and caregiver being able to stay in the building is an illusory offer, and UGI knows that. If they were truly concerned about Mary's welfare, they never would have served eviction notices in March of 2013, or would at the very least have told her then that she would not have to move at any time. UGI always intended to evict Mary, but the media attention to Mary's plight has changed UGI's attitude, not any concern for her wellbeing. Contrary to the statement, UGI's attorneys have commented extensively on Ms. Phillips' situation, including providing testimony at the California Assembly Housing Committee hearing where Mary testified on Ellis Act reform. A statement made on behalf of UGI's attorneys insinuated that Ms. Phillips's attorneys were preventing her from agreeing to UGI's proposals. UGI's efforts in publicizing settlement discussions is an attempt to deflect media attention away from their speculative evictions of seniors and disabled long-term tenants at this and other properties that they have purchased." -  Steve Collier Attorney at Law / Tenderloin Housing Clinic
 
@@ -348,10 +348,10 @@ Board of Trustees Aspen Institute
 info@aspenbsp.org  
 justice@aspeninstitute.org
 
-![Urban Green Investments](https://images.squarespace-cdn.com/content/v1/52b7d7a6e4b0b3e376ac8ea2/1404701574966-L5TSZGOCP28W3Y7UB6PP/ke17ZwdGBToddI8pDm48kDy97AVgNXhmUAeBAFLZWCBZw-zPPgdn4jUwVcJE1ZvWQUxwkmyExglNqGp0IvTJZUJFbgE-7XRK3dMEBRBhUpzILJfjuAc8JW-nYSTbO12T6XXjStEpaQuNo8NfmloFBm3kB77f1J-2HjyCcGEwxvc/Urban+Green+Investments)
+![Urban Green Investments](/assets/uploads/Urban+Green+Investments)
 
 Urban Green Investments
 
-![Urban Green Investments II](https://images.squarespace-cdn.com/content/v1/52b7d7a6e4b0b3e376ac8ea2/1404701496023-RUYUYMI75AIKM7ZFMGWE/ke17ZwdGBToddI8pDm48kCFMbwe5ce32Zr4Zu3nir_NZw-zPPgdn4jUwVcJE1ZvWEtT5uBSRWt4vQZAgTJucoTqqXjS3CfNDSuuf31e0tVEs7H7bylTLDrL0VQZzsuS_xNbPosNnmuygssw3dXDUVTFvbuqF0GUInBxxtVhBOn4/Urban+Green+II)
+![Urban Green Investments II](/assets/uploads/Urban+Green+II)
 
 Urban Green Investments II

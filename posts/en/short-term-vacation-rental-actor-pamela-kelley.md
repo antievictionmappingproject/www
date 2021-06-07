@@ -49,6 +49,6 @@ She spoke about her business to the [New York Times in 2011](http://www.nytimes.
 
 **301 Humboldt Rd, Brisbane - owner Lauren Bingham, Alfred Ramos**
 
-![Pamela Kelley](https://images.squarespace-cdn.com/content/v1/52b7d7a6e4b0b3e376ac8ea2/1412320426866-PMIMOFEQM1BJPH4ZBP9J/ke17ZwdGBToddI8pDm48kJhqempt5rlDWAIO-j-l8ORZw-zPPgdn4jUwVcJE1ZvWhcwhEtWJXoshNdA9f1qD7coMdWJheMWZGj8ZBPnfUaOaL55G-Ru-epx9vRms052aZt2c30CZ8FHF6q2xnPs1oQ/Pamela+Kelley)
+![Pamela Kelley](/assets/uploads/Pamela+Kelley)
 
 Pamela Kelley

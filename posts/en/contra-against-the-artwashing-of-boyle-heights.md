@@ -14,6 +14,6 @@ This project is a compilation of maps, artifacts and narratives on galleries det
 
 [
 
-![Screen Shot 2021-01-03 at 11.19.37 AM.png](https://images.squarespace-cdn.com/content/v1/52b7d7a6e4b0b3e376ac8ea2/1609691234941-BI7RX68MRYD1IS3K3RO6/ke17ZwdGBToddI8pDm48kAmYcYsLPp25n8M29Zi6-cIUqsxRUqqbr1mOJYKfIPR7LoDQ9mXPOjoJoqy81S2I8N_N4V1vUb5AoIIIbLZhVYxCRW4BPu10St3TBAUQYVKcvaaaJrmils-Kz1_GPrsp2npHd2C3z-QLqxK6CDWt81H03hK8Corfvn_5uaGy2NPD/Screen+Shot+2021-01-03+at+11.19.37+AM.png)
+![Screen Shot 2021-01-03 at 11.19.37 AM.png](/assets/uploads/Screen+Shot+2021-01-03+at+11.19.37+AM.png)
 
 ](https://artwashing.antievictionmap.com/)

@@ -12,6 +12,6 @@ Written in collaboration with Tenants Together and numerous community partners
 
 [
 
-![ALAMEDA-Report_FINALDRAFT-1.jpg](https://images.squarespace-cdn.com/content/v1/52b7d7a6e4b0b3e376ac8ea2/1514056158083-KD8WSQO1U4NOBDKFZD2L/ke17ZwdGBToddI8pDm48kCBWugf9-GJmMf3EL2BWKTV7gQa3H78H3Y0txjaiv_0fDoOvxcdMmMKkDsyUqMSsMWxHk725yiiHCCLfrh8O1z5QHyNOqBUUEtDDsRWrJLTmUJhYbF90H-5_X8RF95sdnlvNbl8uJR5usce9QMO7oyvNibQvkB-MycocIB2l3Ukg/ALAMEDA-Report_FINALDRAFT-1.jpg)
+![ALAMEDA-Report_FINALDRAFT-1.jpg](/assets/uploads/ALAMEDA-Report_FINALDRAFT-1.jpg)
 
 ](https://www.antievictionmap.com/counter-points/)

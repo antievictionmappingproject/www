@@ -21,6 +21,6 @@ The listings on VRBO, Airbnb and [greatsfvacation.com](http://www.greatsfvacatio
 
 --------------------------
 
-![The Yurovskys](https://images.squarespace-cdn.com/content/v1/52b7d7a6e4b0b3e376ac8ea2/1412318348679-7SZYP5E3L1X6QQ5YD8RB/ke17ZwdGBToddI8pDm48kD4auqHEAd2pSB97AAY5Y5pZw-zPPgdn4jUwVcJE1ZvWhcwhEtWJXoshNdA9f1qD7XaGPskfQtVutuSA2B-JW6wUN224HL6PpWdIlQqb4pqtVgxs_hGqbIBOdKw1Q8FdtQ/The+Yurovsky+Family)
+![The Yurovskys](/assets/uploads/The+Yurovsky+Family)
 
 The Yurovskys
