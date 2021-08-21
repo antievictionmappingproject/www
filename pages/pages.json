@@ -1,4 +1,0 @@
-{
-  "layout": "layouts/default.njk",
-  "permalink": "/{{locale}}/pages/{{page.fileSlug}}/index.html"
-}
