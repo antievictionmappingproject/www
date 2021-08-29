@@ -11,15 +11,6 @@
   "keywords": [],
   "author": "",
   "license": "ISC",
-  "devDependencies": {
-    "@11ty/eleventy": "^0.12.1",
-    "browserify": "^17.0.0",
-    "he": "^1.2.0",
-    "markdown-it": "^10.0.0",
-    "markdown-it-regexp": "^0.4.0",
-    "turndown": "^7.0.0",
-    "watchify": "^4.0.0"
-  },
   "dependencies": {
     "next": "^11.1.0",
     "outdent": "^0.8.0",

@@ -23,9 +23,13 @@
     "@sanity/vision": "^2.15.0",
     "prop-types": "^15.7",
     "react": "^17.0",
-    "react-dom": "^17.0"
+    "react-dom": "^17.0",
+    "slugify": "^1.6.0"
   },
-  "devDependencies": {},
+  "devDependencies": {
+    "sax": "^1.2.4",
+    "xstate": "^4.23.1"
+  },
   "repository": {
     "type": "git",
     "url": "https://github.com/antievictionmappingproject/www.git"
