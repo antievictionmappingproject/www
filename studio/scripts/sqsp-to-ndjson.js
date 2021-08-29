@@ -6,8 +6,15 @@ const { createMachine, interpret, assign } = require("xstate");
 const inputStream = fs.createReadStream("./export.xml");
 const outputStream = fs.createWriteStream("./dataset.ndjson");
 
-const writeLine = (data) => {
-  outputStream.write(data + "\n");
+const writeItem = (item) => {
+  const data = {
+    _type: item["wp:post_type"],
+    title: item.title,
+    passthroughUrl: item.passthrough_url,
+    categories: item.category,
+    tags: item.post_tag,
+  };
+  outputStream.write(JSON.stringify(data) + "\n");
 };
 
 function openCondition(_, event) {
@@ -36,6 +43,10 @@ const machine = createMachine(
       item: {
         on: {
           "open:wp:postmeta": "meta",
+          "open:category": {
+            target: "category",
+            actions: "openAndCloseCategory",
+          },
           "close:item": {
             target: "inactive",
             actions: "closeItem",
@@ -46,6 +57,11 @@ const machine = createMachine(
               cond: openCondition,
             },
           ],
+        },
+      },
+      category: {
+        on: {
+          "close:category": "item",
         },
       },
       itemChild: {
@@ -80,6 +96,7 @@ const machine = createMachine(
           "*": [
             {
               target: "meta",
+              actions: "closeMetaChild",
               cond: closeCondition,
             },
           ],
@@ -89,33 +106,28 @@ const machine = createMachine(
   },
   {
     actions: {
+      openAndCloseCategory: assign({
+        currentItem: (context, event) => {
+          const { domain, nicename } = event.node.attributes;
+          return {
+            ...context.currentItem,
+            [domain]: [...(context.currentItem[domain] ?? []), nicename],
+          };
+        },
+      }),
       closeItemChild: assign({
         currentText: "",
         currentItem: (context, event) => {
-          // if (event.node.name === "category") {
-          //   const key = event.node.attributes.find(
-          //     ({ name }) => name === "domain"
-          //   )?.value;
-          //   if (key) {
-          //     return {
-          //       ...context.currentItem,
-          //       [key]: [...(context.currentItem[key] ?? []), context.currentText],
-          //     };
-          //   } else {
-          //     return context.currentItem;
-          //   }
-          // } else {
           return {
             ...context.currentItem,
             [event.nodeName]: context.currentText,
           };
-          // };
         },
       }),
       closeItem: assign({
         currentText: "",
         currentItem: (context) => {
-          writeLine(JSON.stringify(context.currentItem));
+          writeItem(context.currentItem);
           return {};
         },
       }),
