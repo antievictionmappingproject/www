@@ -16,36 +16,8 @@ export default {
       type: "slug",
       options: {
         source: "title",
+        maxLength: 96,
       },
-    },
-    {
-      name: "author",
-      title: "Author",
-      type: "reference",
-      to: { type: "author" },
-    },
-    {
-      name: "mainImage",
-      title: "Main image",
-      type: "image",
-      options: {
-        hotspot: true,
-      },
-    },
-    {
-      name: "locations",
-      type: "array",
-      of: [{ type: "reference", to: { type: "location" } }],
-    },
-    {
-      name: "tags",
-      type: "array",
-      of: [{ type: "reference", to: { type: "tag" } }],
-    },
-    {
-      name: "publishedAt",
-      title: "Published at",
-      type: "datetime",
     },
     {
       name: "body",
@@ -96,14 +68,8 @@ export default {
   preview: {
     select: {
       title: "title",
-      author: "author.name",
+      subtitle: "slug.current",
       media: "mainImage",
-    },
-    prepare(selection) {
-      const { author } = selection;
-      return Object.assign({}, selection, {
-        subtitle: author && `by ${author}`,
-      });
     },
   },
 };
