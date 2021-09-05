@@ -1,8 +1,8 @@
 import { defaultLocale } from "../lib/locales";
 
 export default {
-  name: "page",
-  title: "Page",
+  name: "tag",
+  title: "Tag",
   type: "document",
   fields: [
     {
@@ -14,20 +14,7 @@ export default {
       type: "slug",
       options: {
         source: `title.${defaultLocale}`,
-        maxLength: 96,
       },
     },
-    {
-      name: "sections",
-      type: "array",
-      of: [{ type: "textSection" }],
-    },
   ],
-
-  preview: {
-    select: {
-      title: `title.${defaultLocale}`,
-      subtitle: "slug.current",
-    },
-  },
 };

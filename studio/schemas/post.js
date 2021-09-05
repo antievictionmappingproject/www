@@ -1,22 +1,24 @@
+import { defaultLocale, createLocaleSchema } from "../lib/locales";
+
 export default {
   name: "post",
   title: "Post",
   type: "document",
   fields: [
     {
-      name: "language",
-      type: "string",
-    },
-    {
       name: "title",
-      type: "string",
+      type: "localeString",
     },
     {
       name: "slug",
       type: "slug",
       options: {
-        source: "title",
+        source: `title.${defaultLocale}`,
       },
+    },
+    {
+      name: "description",
+      type: "localeText",
     },
     {
       name: "author",
@@ -43,17 +45,21 @@ export default {
       of: [{ type: "reference", to: { type: "tag" } }],
     },
     {
-      name: "publishedAt",
-      title: "Published at",
+      name: "datePublished",
+      title: "Date published",
       type: "datetime",
     },
     {
+      name: "dateUpdated",
+      title: "Date updated",
+      type: "datetime",
+    },
+    createLocaleSchema({
       name: "body",
-      title: "Body",
       type: "array",
       of: [
+        { type: "image" },
         {
-          title: "Block",
           type: "block",
           styles: [
             { title: "Normal", value: "normal" },
@@ -85,17 +91,13 @@ export default {
             ],
           },
         },
-        {
-          type: "image",
-          options: { hotspot: true },
-        },
       ],
-    },
+    }),
   ],
 
   preview: {
     select: {
-      title: "title",
+      title: `title.${defaultLocale}`,
       author: "author.name",
       media: "mainImage",
     },
