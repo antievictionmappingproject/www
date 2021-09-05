@@ -1,21 +1,87 @@
-const fs = require("fs");
-const sax = require("sax");
-const { createMachine, interpret, assign } = require("xstate");
-// const slugify = require("slugify");
+import fs from "fs";
+import sax from "sax";
+import { createMachine, interpret, assign } from "xstate";
+import slugify from "slugify";
+import Schema from "@sanity/schema";
+import blockTools from "@sanity/block-tools";
+import postSchema from "../schemas/post";
+import { JSDOM } from "jsdom";
+
+const compiledSchema = Schema.compile({
+  name: "default",
+  types: [postSchema],
+});
 
 const inputStream = fs.createReadStream("./export.xml");
 const outputStream = fs.createWriteStream("./dataset.ndjson");
 
-const writeItem = (item) => {
-  const data = {
-    _type: item["wp:post_type"],
-    title: item.title,
-    passthroughUrl: item.passthrough_url,
-    categories: item.category,
-    tags: item.post_tag,
-  };
+function writeLine(data) {
   outputStream.write(JSON.stringify(data) + "\n");
-};
+}
+
+function writeItem(item) {
+  const _type = item["wp:post_type"];
+  if (_type === "post") {
+    const tags = item.post_tag ?? [];
+    const locations = item.category ?? [];
+    const author = item["dc:creator"]?.split("@")[0];
+    writeLine({
+      _type,
+      title: {
+        en: item.title,
+      },
+      slug: slugify(item.title),
+      excerpt: {
+        en: item["excerpt:encoded"],
+      },
+      passthroughUrl: item.passthrough_url,
+      locations: locations.map((location) => ({
+        _type: "reference",
+        _ref: `location-${location}`,
+      })),
+      tags: tags.map((tag) => ({
+        _type: "reference",
+        _ref: `tag-${tag}`,
+      })),
+      author: {
+        _type: "reference",
+        _ref: author,
+      },
+      datePublished: new Date(item["wp:post_date"]).toISOString(),
+      dateUpdated: new Date(item["wp:post_date"]).toISOString(),
+      body: blockTools.htmlToBlocks(
+        item["content:encoded"],
+        compiledSchema
+          .get("post")
+          .fields.find((field) => field.name === "body")
+          .type.fields.find((field) => field.name === "en").type,
+        { parseHtml: (html) => new JSDOM(html).window.document }
+      ),
+    });
+    writeLine({
+      _type: "author",
+      _id: author,
+    });
+    for (let tag of tags) {
+      writeLine({
+        _type: "tag",
+        _id: `tag-${tag}`,
+        title: {
+          en: tag,
+        },
+        slug: tag,
+      });
+    }
+    for (let location of locations) {
+      writeLine({
+        _type: "location",
+        _id: `location-${location}`,
+        title: location,
+        slug: location,
+      });
+    }
+  }
+}
 
 function openCondition(_, event) {
   return event.type.startsWith("open:");

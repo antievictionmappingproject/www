@@ -17,7 +17,7 @@ export default {
       },
     },
     {
-      name: "description",
+      name: "excerpt",
       type: "localeText",
     },
     {
