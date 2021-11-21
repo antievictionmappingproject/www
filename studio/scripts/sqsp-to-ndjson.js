@@ -15,41 +15,95 @@ const compiledSchema = Schema.compile({
 const inputStream = fs.createReadStream("./export.xml");
 const outputStream = fs.createWriteStream("./dataset.ndjson");
 
+let tags = [];
+let locations = [];
+let authors = [];
+
+function union(setA, setB) {
+  let result = new Set(setA);
+  for (let elem of setB) {
+    result.add(elem);
+  }
+  return [...result];
+}
+
 function writeLine(data) {
   outputStream.write(JSON.stringify(data) + "\n");
 }
 
-function writeItem(item) {
-  const _type = item["wp:post_type"];
-  if (_type === "post") {
-    const tags = item.post_tag ?? [];
-    const locations = item.category ?? [];
-    const author = item["dc:creator"]?.split("@")[0];
+function writeAuthors() {
+  for (let author of authors) {
     writeLine({
-      _type,
+      _type: "author",
+      _id: `author-${author}`,
+      slug: {
+        current: author,
+      },
+    });
+  }
+}
+
+function writeTags() {
+  for (let tag of tags) {
+    writeLine({
+      _type: "tag",
+      _id: `tag-${tag}`,
       title: {
-        en: item.title,
+        en: tag,
       },
-      slug: slugify(item.title),
-      excerpt: {
-        en: item["excerpt:encoded"],
+      slug: {
+        current: tag,
       },
-      passthroughUrl: item.passthrough_url,
-      locations: locations.map((location) => ({
-        _type: "reference",
-        _ref: `location-${location}`,
-      })),
-      tags: tags.map((tag) => ({
-        _type: "reference",
-        _ref: `tag-${tag}`,
-      })),
-      author: {
-        _type: "reference",
-        _ref: author,
+    });
+  }
+}
+
+function writeLocations() {
+  for (let location of locations) {
+    writeLine({
+      _type: "location",
+      _id: `location-${location}`,
+      title: location,
+      slug: {
+        current: location,
       },
-      datePublished: new Date(item["wp:post_date"]).toISOString(),
-      dateUpdated: new Date(item["wp:post_date"]).toISOString(),
-      body: blockTools.htmlToBlocks(
+    });
+  }
+}
+
+function writePost(item) {
+  writeLine({
+    _type: "post",
+    title: {
+      en: item.title,
+    },
+    slug: {
+      current: slugify(item.title),
+    },
+    excerpt: {
+      en: item["excerpt:encoded"],
+    },
+    mainImage: {
+      _type: "image",
+      _sanityAsset: `${item.imageUrl}`,
+    },
+    // passthroughUrl: item.passthrough_url,
+    locations: item.locations.map((location) => ({
+      _type: "reference",
+      _ref: `location-${location}`,
+    })),
+    tags: item.tags.map((tag) => ({
+      _type: "reference",
+      _ref: `tag-${tag}`,
+    })),
+    author: {
+      _type: "reference",
+      _ref: `author-${item.author}`,
+    },
+    datePublished: new Date(item["wp:post_date"]).toISOString(),
+    dateUpdated: new Date(item["wp:post_date"]).toISOString(),
+    body: {
+      en: blockTools.htmlToBlocks(
         item["content:encoded"],
         compiledSchema
           .get("post")
@@ -57,29 +111,21 @@ function writeItem(item) {
           .type.fields.find((field) => field.name === "en").type,
         { parseHtml: (html) => new JSDOM(html).window.document }
       ),
-    });
-    writeLine({
-      _type: "author",
-      _id: author,
-    });
-    for (let tag of tags) {
-      writeLine({
-        _type: "tag",
-        _id: `tag-${tag}`,
-        title: {
-          en: tag,
-        },
-        slug: tag,
-      });
-    }
-    for (let location of locations) {
-      writeLine({
-        _type: "location",
-        _id: `location-${location}`,
-        title: location,
-        slug: location,
-      });
-    }
+    },
+  });
+}
+
+function writeItem(item) {
+  item.tags = item.post_tag ?? [];
+  item.locations = item.category ?? [];
+  item.author = item["dc:creator"]?.split("@")[0];
+  item.imageUrl = item["wp:postmeta"]._thumbnail_id;
+  tags = union(tags, itemTags);
+  locations = union(locations, itemLocations);
+  authors = union(authors, [itemAuthor]);
+  const _type = item["wp:post_type"];
+  if (_type === "post") {
+    writePost(item);
   }
 }
 
@@ -242,6 +288,12 @@ saxStream.on("text", (text) => {
 
 saxStream.on("cdata", (text) => {
   machineService.send({ type: "text", text });
+});
+
+saxStream.on("end", () => {
+  writeTags();
+  writeLocations();
+  writeAuthors();
 });
 
 inputStream.pipe(saxStream);
