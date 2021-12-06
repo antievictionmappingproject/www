@@ -1,5 +1,6 @@
 <script>
   import { page } from "$app/stores";
+  import Header from "$lib/components/Header.svelte";
   import { replaceLocale } from "$lib/url";
 
   const locales = [
@@ -18,7 +19,10 @@
   {/each}
 </svelte:head>
 
-<slot />
+<Header />
+<main>
+  <slot />
+</main>
 
 <ul>
   {#each locales as { code, label }}
