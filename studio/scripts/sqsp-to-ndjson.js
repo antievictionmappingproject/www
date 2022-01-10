@@ -1,13 +1,41 @@
 import fs from "fs";
+import path from "path";
 import sax from "sax";
 import { createMachine, interpret, assign } from "xstate";
 import slugify from "slugify";
 import Schema from "@sanity/schema";
+import sanityClient from "@sanity/client";
 import blockTools from "@sanity/block-tools";
-import postSchema from "../schemas/post";
+import postSchema from "../schemas/post.js";
 import { JSDOM } from "jsdom";
+import got from "got";
+import PQueue from "p-queue";
 
-const compiledSchema = Schema.compile({
+const queue = new PQueue({
+  concurrency: 10,
+  interval: 1000 / 25,
+});
+
+let count = 0;
+
+queue.on("active", () => {
+  console.log(
+    `Working on item #${++count}.  Size: ${queue.size}  Pending: ${
+      queue.pending
+    }`
+  );
+});
+
+const client = sanityClient({
+  projectId: "x8jn2l2i",
+  dataset: "production",
+  apiVersion: "2022-01-01",
+  token:
+    "skdZqX7xz6VLYl8ioLti1ej51GB7Y9g4QkP3HAy1xkzIWfD9LEARwDBH4ioOJMmTJiEzlUiXtHpZKbCXEA9AoRgryW1p3tRdLG1Vi9NdBEdVJjV4ObVbcZ86Y7HKVPGKNMkw601qVTdRwVoc5KYDWbOj4m6SAZ5eP9p9To7MKVYU3le9p3mA",
+  useCdn: false,
+});
+
+const compiledSchema = Schema.default.compile({
   name: "default",
   types: [postSchema],
 });
@@ -15,60 +43,13 @@ const compiledSchema = Schema.compile({
 const inputStream = fs.createReadStream("./export.xml");
 const outputStream = fs.createWriteStream("./dataset.ndjson");
 
-let tags = [];
-let locations = [];
-let authors = [];
-
-function union(setA, setB) {
-  let result = new Set(setA);
-  for (let elem of setB) {
-    result.add(elem);
-  }
-  return [...result];
+function getAuthorId(item) {
+  const name = item["dc:creator"]?.split("@")[0];
+  return `author-${name}`;
 }
 
 function writeLine(data) {
   outputStream.write(JSON.stringify(data) + "\n");
-}
-
-function writeAuthors() {
-  for (let author of authors) {
-    writeLine({
-      _type: "author",
-      _id: `author-${author}`,
-      slug: {
-        current: author,
-      },
-    });
-  }
-}
-
-function writeTags() {
-  for (let tag of tags) {
-    writeLine({
-      _type: "tag",
-      _id: `tag-${tag}`,
-      title: {
-        en: tag,
-      },
-      slug: {
-        current: tag,
-      },
-    });
-  }
-}
-
-function writeLocations() {
-  for (let location of locations) {
-    writeLine({
-      _type: "location",
-      _id: `location-${location}`,
-      title: location,
-      slug: {
-        current: location,
-      },
-    });
-  }
 }
 
 function writePost(item) {
@@ -85,20 +66,18 @@ function writePost(item) {
     },
     mainImage: {
       _type: "image",
-      _sanityAsset: `${item.imageUrl}`,
     },
-    // passthroughUrl: item.passthrough_url,
-    locations: item.locations.map((location) => ({
+    locations: item.category?.map((location) => ({
       _type: "reference",
       _ref: `location-${location}`,
     })),
-    tags: item.tags.map((tag) => ({
+    tags: item.post_tag?.map((tag) => ({
       _type: "reference",
       _ref: `tag-${tag}`,
     })),
     author: {
       _type: "reference",
-      _ref: `author-${item.author}`,
+      _ref: getAuthorId(item),
     },
     datePublished: new Date(item["wp:post_date"]).toISOString(),
     dateUpdated: new Date(item["wp:post_date"]).toISOString(),
@@ -115,19 +94,23 @@ function writePost(item) {
   });
 }
 
-function writeItem(item) {
-  item.tags = item.post_tag ?? [];
-  item.locations = item.category ?? [];
-  item.author = item["dc:creator"]?.split("@")[0];
-  item.imageUrl = item["wp:postmeta"]._thumbnail_id;
-  tags = union(tags, itemTags);
-  locations = union(locations, itemLocations);
-  authors = union(authors, [itemAuthor]);
-  const _type = item["wp:post_type"];
-  if (_type === "post") {
-    writePost(item);
+async function writeAttachment(item) {
+  console.log(item["wp:post_id"]);
+  const url = item["wp:attachment_url"];
+  if (url) {
+    queue.add(async () => {
+      try {
+        await client.assets.upload("image", got.stream(url), {
+          filename: path.basename(url),
+        });
+      } catch (error) {
+        console.log(`Attachment ${item["wp:post_id"]}: ${error.message}`);
+      }
+    });
   }
 }
+
+function writePage() {}
 
 function openCondition(_, event) {
   return event.type.startsWith("open:");
@@ -239,7 +222,15 @@ const machine = createMachine(
       closeItem: assign({
         currentText: "",
         currentItem: (context) => {
-          writeItem(context.currentItem);
+          const item = context.currentItem;
+          const _type = item["wp:post_type"];
+          if (_type === "post") {
+            writePost(item);
+          } else if (_type === "attachment") {
+            writeAttachment(item);
+          } else if (_type === "page") {
+            writePage(item);
+          }
           return {};
         },
       }),
@@ -291,9 +282,7 @@ saxStream.on("cdata", (text) => {
 });
 
 saxStream.on("end", () => {
-  writeTags();
-  writeLocations();
-  writeAuthors();
+  console.log("Done");
 });
 
 inputStream.pipe(saxStream);

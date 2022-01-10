@@ -1,3 +1,5 @@
+import { createLocaleSchema } from "../lib/locales.js";
+
 export default {
   name: "author",
   title: "Author",
@@ -21,11 +23,11 @@ export default {
         hotspot: true,
       },
     },
-    {
+    createLocaleSchema({
       name: "bio",
       title: "Bio",
-      type: "localeText",
-    },
+      type: "text",
+    }),
   ],
   preview: {
     select: {

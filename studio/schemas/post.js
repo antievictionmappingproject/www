@@ -1,14 +1,14 @@
-import { defaultLocale, createLocaleSchema } from "../lib/locales";
+import { defaultLocale, createLocaleSchema } from "../lib/locales.js";
 
 export default {
   name: "post",
   title: "Post",
   type: "document",
   fields: [
-    {
+    createLocaleSchema({
       name: "title",
-      type: "localeString",
-    },
+      type: "string",
+    }),
     {
       name: "slug",
       type: "slug",
@@ -16,10 +16,10 @@ export default {
         source: `title.${defaultLocale}`,
       },
     },
-    {
+    createLocaleSchema({
       name: "excerpt",
-      type: "localeText",
-    },
+      type: "text",
+    }),
     {
       name: "author",
       title: "Author",

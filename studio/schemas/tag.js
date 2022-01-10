@@ -1,14 +1,14 @@
-import { defaultLocale } from "../lib/locales";
+import { createLocaleSchema, defaultLocale } from "../lib/locales";
 
 export default {
   name: "tag",
   title: "Tag",
   type: "document",
   fields: [
-    {
+    createLocaleSchema({
       name: "title",
-      type: "localeString",
-    },
+      type: "string",
+    }),
     {
       name: "slug",
       type: "slug",
