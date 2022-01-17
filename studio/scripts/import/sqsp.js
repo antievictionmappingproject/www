@@ -145,29 +145,35 @@ export function eachItem(fn, input) {
   const machineService = interpret(machine);
   machineService.start();
 
-  const saxStream = sax.createStream(true);
+  return new Promise((resolve, reject) => {
+    const saxStream = sax.createStream(true);
 
-  saxStream.on("opentag", (node) => {
-    machineService.send({ type: "open:" + node.name, node });
+    saxStream.on("opentag", (node) => {
+      machineService.send({ type: "open:" + node.name, node });
+    });
+
+    saxStream.on("closetag", (nodeName) => {
+      machineService.send({ type: "close:" + nodeName, nodeName });
+    });
+
+    saxStream.on("text", (text) => {
+      machineService.send({ type: "text", text });
+    });
+
+    saxStream.on("cdata", (text) => {
+      machineService.send({ type: "text", text });
+    });
+
+    saxStream.on("error", (error) => {
+      reject(error);
+    });
+
+    saxStream.on("end", () => {
+      resolve();
+    });
+
+    input.pipe(saxStream);
   });
-
-  saxStream.on("closetag", (nodeName) => {
-    machineService.send({ type: "close:" + nodeName, nodeName });
-  });
-
-  saxStream.on("text", (text) => {
-    machineService.send({ type: "text", text });
-  });
-
-  saxStream.on("cdata", (text) => {
-    machineService.send({ type: "text", text });
-  });
-
-  saxStream.on("end", () => {
-    // Done
-  });
-
-  input.pipe(saxStream);
 }
 
 export function getAuthorId(item) {
