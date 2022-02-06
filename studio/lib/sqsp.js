@@ -9,7 +9,7 @@ function closeCondition(_, event) {
   return event.type.startsWith("close:");
 }
 
-export function eachItem(fn, input) {
+export function eachItem(input, fn) {
   const machine = createMachine(
     {
       id: "xml",
@@ -172,7 +172,9 @@ export function eachItem(fn, input) {
       resolve();
     });
 
-    input.pipe(saxStream);
+    input.on("open", () => {
+      input.pipe(saxStream);
+    });
   });
 }
 
