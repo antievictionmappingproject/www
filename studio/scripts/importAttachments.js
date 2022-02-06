@@ -1,6 +1,5 @@
-import fs, { read } from "fs";
+import fs from "fs";
 import fsp from "fs/promises";
-import stream from "node:stream";
 import got from "got";
 import { getClient } from "../lib/sanity.js";
 import { eachItem } from "../lib/sqsp.js";
