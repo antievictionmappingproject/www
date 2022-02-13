@@ -19,6 +19,7 @@
   },
   "type": "module",
   "dependencies": {
+    "@nonphoto/css": "1.0.1",
     "@portabletext/svelte": "^0.2.0",
     "groq": "^2.15.0",
     "picosanity": "^3.0.2"

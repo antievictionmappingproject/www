@@ -14,7 +14,7 @@
     <link
       rel="alternate"
       hreflang={code}
-      href={replaceLocale($page.path, code)}
+      href={replaceLocale($page.url.pathname, code)}
     />
   {/each}
 </svelte:head>
@@ -29,7 +29,7 @@
     <li>
       <a
         disabled={code === $page.params.locale}
-        href={replaceLocale($page.path, code)}>{label}</a
+        href={replaceLocale($page.url.pathname, code)}>{label}</a
       >
     </li>
   {/each}

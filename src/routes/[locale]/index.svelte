@@ -2,7 +2,7 @@
   import groq from "groq";
   import { getClient } from "$lib/sanity";
 
-  export async function load({ page, fetch }) {
+  export async function load({ params, fetch }) {
     const postStubs = await getClient(fetch).fetch(
       groq`
         *[_type == "post"] {
@@ -11,7 +11,7 @@
           "slug": slug.current
         }
       `,
-      { locale: page.params.locale }
+      { locale: params.locale }
     );
     return {
       props: {
