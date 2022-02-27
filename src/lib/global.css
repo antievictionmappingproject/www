@@ -10,3 +10,7 @@
   --color-gray-8: #2c2c2c;
   --color-gray-9: #000000;
 }
+
+body {
+  background-color: var(--color-gray-2);
+}
