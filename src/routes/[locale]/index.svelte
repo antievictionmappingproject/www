@@ -7,6 +7,7 @@
       groq`
         *[_type == "post"] {
 					_id,
+          "author": author->name,
           "title": title[$locale],
           "slug": slug.current
         }
@@ -22,14 +23,14 @@
 </script>
 
 <script>
-  import { page } from "$app/stores";
+  import PostTable from "$lib/components/PostTable.svelte";
   export let postStubs;
 </script>
 
-<ol>
-  {#each postStubs as { _id, title, slug } (_id)}
-    <li>
-      <a href="/{$page.params.locale}/post/{slug}">{title}</a>
-    </li>
-  {/each}
-</ol>
+<PostTable
+  columns={[
+    { key: "title", title: "Title" },
+    { key: "author", title: "Author" },
+  ]}
+  rows={postStubs}
+/>
