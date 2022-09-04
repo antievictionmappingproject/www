@@ -4,7 +4,7 @@ import preprocess from 'svelte-preprocess'
 const config = {
   preprocess: preprocess(),
   kit: {
-    adapter: adapter()
+    adapter: adapter({edge: true})
   }
 }
 
