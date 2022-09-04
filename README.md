@@ -21,8 +21,8 @@ the bottom of this document for questions regarding this site.
 - [Wireframes](https://www.figma.com/file/vtGLMNb9KS1ETCeKdyxHjW/AEMP-guidelines-%2B-website?node-id=246%3A91)
 - [Meeting notes](https://docs.google.com/document/d/1C8AvojK6xQElfFkO5u5cMS4ZKwRNeIKp4z94uoYA4zQ/edit#heading=h.tzm6i68shypk)
 - [Slack channel](https://antievictionmap.slack.com/archives/C9ZHW3TPZ)
-- [Staging site](https://fancy-banoffee-ea966a.netlify.app)
-- [Production site](https://antievictionmap.com)
+- [Staging site](https://aemp-www.netlify.app)
+- [Production site (not yet updated)](https://antievictionmap.com)
 
 ## Quickstart
 
