@@ -1,5 +1,0 @@
-[[redirects]]
-  from = "/search"
-  query = { q = ":q" }
-  to="https://duckduckgo.com/?q=:q+site%3Aantievictionmap.com"
-  status = 301
