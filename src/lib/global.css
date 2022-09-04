@@ -1,0 +1,35 @@
+:root {
+  --color-gray-0: #ffffff;
+  --color-gray-1: #f9f9f9;
+  --color-gray-2: #efefef;
+  --color-gray-3: #e0e0e0;
+  --color-gray-4: #cbcbcb;
+  --color-gray-5: #aeaeae;
+  --color-gray-6: #888888;
+  --color-gray-7: #5b5b5b;
+  --color-gray-8: #282828;
+  --color-gray-9: #000000;
+  --font: 'Noto Sans', Arial, Helvetica, sans-serif;
+  font-family: var(--font);
+  font-size: 14pt;
+}
+
+.dark-theme {
+  --background: var(--color-gray-9);
+  --faded-background: var(--color-gray-8);
+  --text: var(--color-gray-0);
+  --faded-text: var(--color-gray-1);
+}
+
+.light-theme {
+  --faded-text: var(--color-gray-7);
+  --text: var(--color-gray-9);
+}
+
+#svelte {
+  height: 100%;
+}
+
+body {
+  background-color: var(--color-gray-2);
+}

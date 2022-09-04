@@ -1,0 +1,10 @@
+{
+  "singleQuote": true,
+  "quoteProps": "preserve",
+  "bracketSpacing": false,
+  "trailingComma": "none",
+  "semi": false,
+  "proseWrap": "always",
+  "printWidth": 63,
+  "plugins": ["prettier-plugin-svelte"]
+}
