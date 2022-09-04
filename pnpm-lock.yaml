@@ -27,7 +27,7 @@ dependencies:
 devDependencies:
   '@portabletext/svelte': 1.0.1_svelte@3.50.0
   '@sveltejs/adapter-netlify': 1.0.0-next.71
-  '@sveltejs/kit': 1.0.0-next.465_qevq5tvhizyxp44gfhkn6m3ljq
+  '@sveltejs/kit': 1.0.0-next.468_qevq5tvhizyxp44gfhkn6m3ljq
   '@tsconfig/svelte': 3.0.0
   '@typescript-eslint/eslint-plugin': 5.36.1_63vopyug6kysxmfy7ziyf6hwue
   '@typescript-eslint/parser': 5.36.1_4rv7y5c6xz3vfxwhbrcxxi73bq
@@ -166,8 +166,8 @@ packages:
       tiny-glob: 0.2.9
     dev: true
 
-  /@sveltejs/kit/1.0.0-next.465_qevq5tvhizyxp44gfhkn6m3ljq:
-    resolution: {integrity: sha512-eOQEV13d0uQVUiZoB4tLX0Hp/7EddjDynfXSOI6QN0CENNCA6FySH+jq5b3tIjWP9GRNa729adldXev49Yf9kA==}
+  /@sveltejs/kit/1.0.0-next.468_qevq5tvhizyxp44gfhkn6m3ljq:
+    resolution: {integrity: sha512-IH1lQfSbY4efDtV8/gtVTv1cBbp8IPTeW25BN0e/ImT6xeThiODWMKHlr+zxLDHbI3jQ70uTJMZ+pFWpk5ZOtg==}
     engines: {node: '>=16.14'}
     hasBin: true
     requiresBuild: true
