@@ -43,7 +43,7 @@ npm install --global pnpm # if you don't have pnpm already
 cd <directory of your choice>
 git clone https://github.com/antievictionmappingproject/www
 cd www
-pnpm install
+pnpm install --frozen-lockfile
 pnpm dev # to see a local preview of the site
 ```
 
