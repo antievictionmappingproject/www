@@ -16,6 +16,5 @@ export const match: ParamMatcher = (param) => {
     .map((str) => `(${str})`)
     .join('|')
   const match = param.match(`^${locales}`)
-  console.log(match)
   return !!match
 }

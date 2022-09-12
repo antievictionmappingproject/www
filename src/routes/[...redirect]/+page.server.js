@@ -10,6 +10,5 @@ export function load({params}) {
     throw error(404, 'page not found')
   }
   const locale = 'en'
-  console.log({locale, params})
   throw redirect(302, `/${locale}/${params.redirect}`)
 }

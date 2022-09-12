@@ -5,7 +5,6 @@
 
   export let data
   $: ({post} = data)
-  $: console.log(post)
 </script>
 
 <div class="container">
