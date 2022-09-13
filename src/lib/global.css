@@ -1,35 +1,46 @@
 :root {
-  --color-gray-0: #ffffff;
-  --color-gray-1: #f9f9f9;
-  --color-gray-2: #efefef;
-  --color-gray-3: #e0e0e0;
-  --color-gray-4: #cbcbcb;
-  --color-gray-5: #aeaeae;
-  --color-gray-6: #888888;
-  --color-gray-7: #5b5b5b;
-  --color-gray-8: #282828;
-  --color-gray-9: #000000;
-  --font: 'Noto Sans', Arial, Helvetica, sans-serif;
-  font-family: var(--font);
-  font-size: 14pt;
+  --color-white: #ffffff;
+  --color-lighter-gray: #eeeeee;
+  --color-light-gray: #dddddd;
+  --color-dark-gray: #525252;
+  --color-darker-gray: #282828;
+  --color-black: #000000;
+  --font-family-sans: 'Helvetica Neue', Helvetica, Arial,
+    sans-serif;
+  --font-family-serif: 'Times New Roman', Times, serif;
+  --font-size-minus-2: 0.75rem;
+  --font-size-minus-1: 0.875rem;
+  --font-size-0: 1rem;
+  --font-size-1: 1.125rem;
+  --font-size-2: 1.375rem;
+  --font-size-3: 1.875rem;
+  --font-size-4: 2.875rem;
+  --font-size-5: 3.5rem;
+
+  --color-background: var(--color-lighter-gray);
+  --color-text: var(--color-black);
+  --color-faded-text: var(--color-dark-gray);
 }
 
-.dark-theme {
-  --background: var(--color-gray-9);
-  --faded-background: var(--color-gray-8);
-  --text: var(--color-gray-0);
-  --faded-text: var(--color-gray-1);
+html {
+  font-family: var(--font-family-sans);
+  font-size: var(--font-size-0);
+  line-height: 1.5;
+  background-color: var(--color-background);
+  color: var(--color-text);
+  color-scheme: light;
 }
 
-.light-theme {
-  --faded-text: var(--color-gray-7);
-  --text: var(--color-gray-9);
+html.dark-theme {
+  --color-background: var(--color-darker-gray);
+  --color-text: var(--color-white);
+  --color-faded-text: var(--color-light-gray);
+  color-scheme: dark;
 }
 
+body,
 #svelte {
-  height: 100%;
-}
-
-body {
-  background-color: var(--color-gray-2);
+  flex-grow: 1;
+  display: flex;
+  flex-direction: column;
 }
