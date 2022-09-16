@@ -6,14 +6,12 @@
 
   $: {
     if (isMounted) {
-      console.log('update')
       localStorage.setItem('theme', value)
       document.documentElement.dataset.theme = value
     }
   }
 
   onMount(() => {
-    console.log('mount')
     const theme = window.localStorage.getItem('theme')
     value = theme === 'string' ? theme : 'system'
     isMounted = true
