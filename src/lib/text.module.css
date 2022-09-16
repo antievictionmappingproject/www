@@ -11,4 +11,17 @@
   font-style: italic;
   line-height: 1.2;
   letter-spacing: -0.01em;
+  max-width: 40ch;
+}
+
+.body {
+  font-size: var(--font-size-1);
+  font-family: var(--font-family-serif);
+  line-height: 1.4;
+  max-width: 75ch;
+}
+
+.body a {
+  text-decoration-line: underline;
+  text-decoration-thickness: 1px;
 }
