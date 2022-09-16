@@ -40,14 +40,29 @@ html {
   line-height: 1.5;
   background-color: var(--color-background);
   color: var(--color-text);
+  color-scheme: light dark;
+}
+
+html.light-theme {
   color-scheme: light;
 }
 
 html.dark-theme {
+  --color-background: var(--color-darker-gray);
   --color-faded-text: var(--color-light-gray);
   --color-text: var(--color-lighter-gray);
   --color-opaque-text: var(--color-white);
   color-scheme: dark;
+}
+
+@media (prefers-color-scheme: dark) {
+  html:not(.light-theme) {
+    --color-background: var(--color-darker-gray);
+    --color-faded-text: var(--color-light-gray);
+    --color-text: var(--color-lighter-gray);
+    --color-opaque-text: var(--color-white);
+    color-scheme: dark;
+  }
 }
 
 body,
