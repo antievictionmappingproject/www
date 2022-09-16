@@ -40,14 +40,10 @@ html {
   line-height: 1.5;
   background-color: var(--color-background);
   color: var(--color-text);
-  color-scheme: light dark;
-}
-
-html.light-theme {
   color-scheme: light;
 }
 
-html.dark-theme {
+html[data-theme='dark'] {
   --color-background: var(--color-darker-gray);
   --color-faded-text: var(--color-light-gray);
   --color-text: var(--color-lighter-gray);
@@ -56,7 +52,7 @@ html.dark-theme {
 }
 
 @media (prefers-color-scheme: dark) {
-  html:not(.light-theme) {
+  html:not([data-theme='light']) {
     --color-background: var(--color-darker-gray);
     --color-faded-text: var(--color-light-gray);
     --color-text: var(--color-lighter-gray);
