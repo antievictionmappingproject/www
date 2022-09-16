@@ -1,6 +1,7 @@
 <script>
   import {page} from '$app/stores'
   import {replaceLocale} from '$lib/url'
+  import ThemeSelect from './ThemeSelect.svelte'
 
   export let locales
 </script>
@@ -22,6 +23,7 @@
       {/each}
     </ul>
   </div>
+  <ThemeSelect />
   <div class="contact">
     <a
       href="https://twitter.com/antievictionmap"

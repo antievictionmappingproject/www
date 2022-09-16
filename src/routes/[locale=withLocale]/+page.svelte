@@ -1,4 +1,5 @@
 <script lang="ts">
+  import classes from '$lib/text.module.css'
   import {page} from '$app/stores'
   import type {Data} from './+page.server'
   /* this page should be filled in with
@@ -23,28 +24,13 @@
     </div>
   </div>
   <div class="blurbs">
-    <p class="highlight">
-      The Anti-Eviction Mapping Project is a
-      data-visualization, critical cartography, and multimedia
-      storytelling collective documenting dispossession and
-      resistance upon gentrifying landscapes.
+    <p class={classes.title}>
+      The Anti-Eviction Mapping Project
     </p>
-    <p class="info">
-      Primarily working in the San Francisco Bay Area, Los
-      Angeles, and New York City, we are all volunteers
-      producing digital maps, software and tools, narrative
-      multimedia work, murals, reports, and community events.
-      Working with a number of community partners and in
-      solidarity with housing movements globally, we study and
-      visualize entanglements of racial capitalism,
-      technocapitalism, and political economy, while providing
-      tools for resistance. Our narrative oral history and
-      video work centers the displacement of people and complex
-      social worlds, but also modes of resistance. Maintaining
-      antiracist and feminist analyses as well as decolonial
-      methodology, the project creates tools and disseminates
-      data contributing to collective resistance and movement
-      building.
+    <p class={classes.subtitle}>
+      AEMP is a data-visualization, critical cartography, and
+      multimedia storytelling collective documenting
+      dispossession and resistance upon gentrifying landscapes.
     </p>
   </div>
 {/if}

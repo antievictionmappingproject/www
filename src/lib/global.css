@@ -1,35 +1,69 @@
 :root {
-  --color-gray-0: #ffffff;
-  --color-gray-1: #f9f9f9;
-  --color-gray-2: #efefef;
-  --color-gray-3: #e0e0e0;
-  --color-gray-4: #cbcbcb;
-  --color-gray-5: #aeaeae;
-  --color-gray-6: #888888;
-  --color-gray-7: #5b5b5b;
-  --color-gray-8: #282828;
-  --color-gray-9: #000000;
-  --font: 'Noto Sans', Arial, Helvetica, sans-serif;
-  font-family: var(--font);
-  font-size: 14pt;
+  --color-white: #ffffff;
+  --color-lighter-gray: #eeeeee;
+  --color-light-gray: #dddddd;
+  --color-dark-gray: #5c5c5c;
+  --color-darker-gray: #4b4b4b;
+  --color-black: #000000;
+
+  --color-background: var(--color-lighter-gray);
+  --color-faded-text: var(--color-dark-gray);
+  --color-text: var(--color-darker-gray);
+  --color-opaque-text: var(--color-black);
+
+  --font-family-sans: 'Helvetica Neue', Helvetica, Arial,
+    sans-serif;
+  --font-family-serif: 'Times New Roman', Times, serif;
+
+  --font-size-minus-1: 0.875rem;
+  --font-size-0: 1rem;
+  --font-size-1: 1.25rem;
+  --font-size-2: 1.5rem;
+  --font-size-3: 2rem;
+  --font-size-4: 2.5rem;
+  --font-size-5: 3.25rem;
+
+  --spacing-minus-2: 0.375;
+  --spacing-minus-1: 0.625;
+  --spacing-0: 1rem;
+  --spacing-1: 1.5rem;
+  --spacing-2: 2.25rem;
+  --spacing-3: 3.375rem;
+  --spacing-4: 5rem;
+  --spacing-5: 7.5rem;
+  --spacing-6: 11.25rem;
 }
 
-.dark-theme {
-  --background: var(--color-gray-9);
-  --faded-background: var(--color-gray-8);
-  --text: var(--color-gray-0);
-  --faded-text: var(--color-gray-1);
+html {
+  font-family: var(--font-family-sans);
+  font-size: var(--font-size-0);
+  line-height: 1.5;
+  background-color: var(--color-background);
+  color: var(--color-text);
+  color-scheme: light;
 }
 
-.light-theme {
-  --faded-text: var(--color-gray-7);
-  --text: var(--color-gray-9);
+html[data-theme='dark'] {
+  --color-background: var(--color-darker-gray);
+  --color-faded-text: var(--color-light-gray);
+  --color-text: var(--color-lighter-gray);
+  --color-opaque-text: var(--color-white);
+  color-scheme: dark;
 }
 
+@media (prefers-color-scheme: dark) {
+  html:not([data-theme='light']) {
+    --color-background: var(--color-darker-gray);
+    --color-faded-text: var(--color-light-gray);
+    --color-text: var(--color-lighter-gray);
+    --color-opaque-text: var(--color-white);
+    color-scheme: dark;
+  }
+}
+
+body,
 #svelte {
-  height: 100%;
-}
-
-body {
-  background-color: var(--color-gray-2);
+  flex-grow: 1;
+  display: flex;
+  flex-direction: column;
 }

@@ -6,6 +6,7 @@ export async function load({params}) {
     groq`
         *[_type == "post" && slug.current == $postSlug][0] {
           "title": title[$locale],
+          "subtitle": excerpt[$locale],
           "body": body[$locale],
           "author": author->name,
           "tags": tags[]->title,
