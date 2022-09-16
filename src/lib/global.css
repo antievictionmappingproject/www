@@ -2,12 +2,19 @@
   --color-white: #ffffff;
   --color-lighter-gray: #eeeeee;
   --color-light-gray: #dddddd;
-  --color-dark-gray: #525252;
-  --color-darker-gray: #282828;
+  --color-dark-gray: #5c5c5c;
+  --color-darker-gray: #4b4b4b;
   --color-black: #000000;
+
+  --color-background: var(--color-lighter-gray);
+  --color-faded-text: var(--color-dark-gray);
+  --color-text: var(--color-darker-gray);
+  --color-opaque-text: var(--color-black);
+
   --font-family-sans: 'Helvetica Neue', Helvetica, Arial,
     sans-serif;
   --font-family-serif: 'Times New Roman', Times, serif;
+
   --font-size-minus-2: 0.75rem;
   --font-size-minus-1: 0.875rem;
   --font-size-0: 1rem;
@@ -17,9 +24,15 @@
   --font-size-4: 2.875rem;
   --font-size-5: 3.5rem;
 
-  --color-background: var(--color-lighter-gray);
-  --color-text: var(--color-black);
-  --color-faded-text: var(--color-dark-gray);
+  --spacing-minus-2: 0.375;
+  --spacing-minus-1: 0.625;
+  --spacing-0: 1rem;
+  --spacing-1: 1.5rem;
+  --spacing-2: 2.25rem;
+  --spacing-3: 3.375rem;
+  --spacing-4: 5rem;
+  --spacing-5: 7.5rem;
+  --spacing-6: 11.25rem;
 }
 
 html {
@@ -32,9 +45,9 @@ html {
 }
 
 html.dark-theme {
-  --color-background: var(--color-darker-gray);
-  --color-text: var(--color-white);
   --color-faded-text: var(--color-light-gray);
+  --color-text: var(--color-lighter-gray);
+  --color-opaque-text: var(--color-white);
   color-scheme: dark;
 }
 
