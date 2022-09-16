@@ -42,12 +42,4 @@
     border-top: solid 1px var(--text);
     border-bottom: solid 1px var(--text);
   }
-
-  .footen ul {
-    height: fit-content;
-    display: flex;
-    flex-direction: row;
-    flex-wrap: wrap;
-    gap: 1rem;
-  }
 </style>
