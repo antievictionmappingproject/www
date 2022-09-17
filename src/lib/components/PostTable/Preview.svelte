@@ -9,7 +9,7 @@
   const locale = $page.params.locale
 </script>
 
-<div class="container">
+<div class="root">
   {#key post}
     <div
       in:fade={{delay: 200}}
@@ -48,25 +48,21 @@
             </div>
           </div>
         {/if}
+      {:else}
+        Select a post to see more.
       {/if}
     </div>
   {/key}
 </div>
 
 <style>
-  .container {
-    /* so that the fade transition can happen without 
+  .root {
+    /* so that the fade transition can happen without
        a layout shift
      */
     display: grid;
     grid-template-columns: 1 / 2;
     grid-template-rows: 1 / 2;
-  }
-
-  .preview {
-    /* not really sure how to handle sizing? */
-    width: 100%;
-    margin: 1rem;
   }
 
   h1 {

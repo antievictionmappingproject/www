@@ -5,8 +5,7 @@
   import Preview from './Preview.svelte'
   import Tag from './Tag.svelte'
 
-  export let posts: Post[] = [],
-    caption = undefined
+  export let posts: Post[] = []
 
   const locale = $page.params.locale
 
@@ -14,17 +13,16 @@
   let filteredPosts = [...posts]
 </script>
 
-<div class="post-table">
-  <div class="container">
-    <Filter {posts} bind:filteredPosts />
-  </div>
-  <div class="container">
+<div class="root">
+  <caption id="caption">Posts</caption>
+  <Filter {posts} bind:filteredPosts />
+  <div
+    class="tableContainer"
+    role="region"
+    aria-labelledby="caption"
+    tabindex="0"
+  >
     <table>
-      {#if caption}
-        <caption>
-          {caption}
-        </caption>
-      {/if}
       <thead>
         <tr>
           <th>Title</th>
@@ -43,7 +41,7 @@
             }}
           >
             <td>
-              <a class="post-link" href="/post/{post.slug}"
+              <a class="postLink" href="/post/{post.slug}"
                 >{post.title}</a
               >
             </td>
@@ -62,42 +60,62 @@
       </tbody>
     </table>
   </div>
-  <div class="container">
-    <Preview post={posts[selectedIndex]} />
-  </div>
+  <Preview post={posts[selectedIndex]} />
 </div>
 
 <style>
-  .post-table {
-    max-width: 100%;
-    min-height: 0;
-    max-height: 100%;
+  .root {
     display: grid;
-    grid-template-columns: 20% auto 20%;
-    position: relative;
+    gap: 1rem;
+    grid-template-columns: repeat(4, 1fr);
   }
 
-  .container {
-    height: 100%;
-    overflow-y: auto;
-    scrollbar-width: thin;
-    scroll-behavior: smooth;
+  .tableContainer {
+    grid-column-end: span 2;
   }
 
-  /* all this for a simple scrollbar...*/
-  .container::-webkit-scrollbar {
-    width: 0.3rem;
-    height: 0.3rem;
+  /*
+    Tables that may scroll need to be focusable: https://adrianroselli.com/2020/11/under-engineered-responsive-tables.html
+  */
+  [role='region'][aria-labelledby][tabindex]:focus {
+    outline: 1px solid cornflowerblue;
   }
-  .container::-webkit-scrollbar-track {
-    background: none;
-  }
-  .container::-webkit-scrollbar-thumb {
-    background: var(--color-gray-4);
+  [role='region'][aria-labelledby][tabindex] {
+    border-left: 1px solid rgba(0, 0, 0, 0.1);
+    border-right: 1px solid rgba(0, 0, 0, 0.1);
+    overflow: auto;
+    max-width: 100%;
+    background: linear-gradient(
+        to right,
+        var(--color-background) 20%,
+        rgba(255, 255, 255, 0)
+      ),
+      linear-gradient(
+          to right,
+          rgba(255, 255, 255, 0),
+          var(--color-background) 80%
+        )
+        0 100%,
+      linear-gradient(
+        to right,
+        rgba(0, 0, 0, 0.1),
+        rgba(0, 0, 0, 0)
+      ),
+      linear-gradient(
+          to left,
+          rgba(0, 0, 0, 0.1),
+          rgba(0, 0, 0, 0)
+        )
+        0 100%;
+    background-repeat: no-repeat;
+    background-color: var(--color-background);
+    background-size: 40px 100%, 40px 100%, 14px 100%, 14px 100%;
+    background-position: 0 0, 100%, 0 0, 100%;
+    background-attachment: local, local, scroll, scroll;
   }
 
-  table {
-    flex: 1;
+  caption {
+    grid-column-end: span 4;
   }
 
   th {
@@ -125,7 +143,7 @@
     gap: 0.3rem;
   }
 
-  .post-link:hover {
+  .postLink:hover {
     text-decoration: underline;
   }
 </style>
