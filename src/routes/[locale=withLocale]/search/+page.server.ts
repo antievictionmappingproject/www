@@ -1,8 +1,8 @@
 import groq from 'groq'
-import {getClient} from '$lib/sanity'
+import {client} from '$lib/sanity'
 
 export async function load({params}) {
-  const postStubs = await getClient().fetch(
+  const postStubs = await client.fetch(
     groq`
         *[_type == "post"] {
 					_id,
@@ -18,7 +18,7 @@ export async function load({params}) {
       `,
     {locale: params.locale}
   )
-  const all = await getClient().fetch(groq`*[_type=="post"]`)
+  const all = await client.fetch(groq`*[_type=="post"]`)
 
   return {
     postStubs,

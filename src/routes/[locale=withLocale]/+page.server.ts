@@ -1,12 +1,12 @@
 import groq from 'groq'
-import {getClient} from '$lib/sanity'
+import {client} from '$lib/sanity'
 
 export interface Data {
   previews: {slug: string; title: string; imageUrl: string}[]
 }
 
 export async function load({params}) {
-  const previews = await getClient().fetch(
+  const previews = await client.fetch(
     groq`
         *[_type == "post"] {
           "slug": slug.current,

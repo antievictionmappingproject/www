@@ -1,13 +1,21 @@
 <script>
   import icons from 'bootstrap-icons/bootstrap-icons.svg'
   import {nextUniqueId} from '$lib/utils/uniqueId'
-  console.log(icons)
+  import {fetchPosts} from '$lib/sanity'
 
   let inputId = nextUniqueId()
   let listboxId = nextUniqueId()
+  let value = ''
   let options = []
   let selectedId = null
   let isExpanded = false
+  let response = Promise.resolve([])
+
+  $: {
+    if (value.length > 0) {
+      response = fetchPosts({locale: 'en', query: value})
+    }
+  }
 </script>
 
 <div class="root">
@@ -20,6 +28,7 @@
       aria-autocomplete="list"
       aria-expanded={isExpanded ? 'true' : 'false'}
       aria-controls={listboxId}
+      bind:value
     />
     <button
       tabindex="-1"
@@ -38,17 +47,21 @@
     </button>
   </div>
   <ul id={listboxId} role="listbox" aria-label="States">
-    {#each options as option}
-      <li
-        id={option.id}
-        role="option"
-        aria-selected={selectedId === option.id
-          ? 'true'
-          : 'false'}
-      >
-        {option.label}
-      </li>
-    {/each}
+    {#await response}
+      Loading...
+    {:then options}
+      {#each options as option}
+        <li
+          id={option.id}
+          role="option"
+          aria-selected={selectedId === option.id
+            ? 'true'
+            : 'false'}
+        >
+          {option.title}
+        </li>
+      {/each}
+    {/await}
   </ul>
 </div>
 
