@@ -8,16 +8,25 @@ export const client = new PicoSanity({
   useCdn: true
 })
 
-export async function fetchPosts(params) {
+export type PostQueryStub = {
+  title: string
+  slug: string
+  id: string
+}
+
+export async function fetchPostsWithQuery(params: {
+  locale: string
+  query: string
+}): Promise<PostQueryStub[]> {
   return client.fetch(
     groq`
     *[_type == "post"]
     {
       "title": title[$locale],
-      "body": body[$locale],
+      "slug": slug.current,
       "id": _id
     }
-    | score([title, body] match $query)
+    | score(title match $query)
     | order(_score desc)
     [0..9]
   `,
