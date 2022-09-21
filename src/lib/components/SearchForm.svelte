@@ -147,6 +147,15 @@
   function onBlur() {
     hasFocus = false
   }
+
+  function onMouseOver(event: MouseEvent) {
+    const target = event.target as HTMLElement
+    if (target && target.getAttribute('role') === 'option') {
+      selectedOption = options.find(
+        (option) => option.id === target.id
+      )
+    }
+  }
 </script>
 
 <form action={`/${locale}/search`} method="get" role="search">
@@ -180,7 +189,14 @@
     </button>
   </div>
   {#if hasFocus}
-    <ul id={listboxId} role="listbox" aria-label="States">
+    <!-- I shouldn't have to do this as we already have 'aria-controls' attribute on the input... -->
+    <!-- svelte-ignore a11y-mouse-events-have-key-events -->
+    <ul
+      id={listboxId}
+      role="listbox"
+      aria-label="States"
+      on:mouseover={onMouseOver}
+    >
       {#await response}
         Loading...
       {:then options}
@@ -192,9 +208,8 @@
               ? 'true'
               : 'false'}
           >
-            <a href={`/${locale}/post/${option.slug}`}>
-              {option.title}
-            </a>
+            <!-- No anchor here because SvelteKit blocks the main thread on anchor mouseenter events, causing jank. -->
+            {option.title}
           </li>
         {/each}
       {/await}
@@ -218,6 +233,11 @@
     top: 100%;
     position: absolute;
     z-index: 1;
+  }
+
+  [role='option'] {
+    cursor: pointer;
+    display: block;
   }
 
   [aria-selected='true'] {
