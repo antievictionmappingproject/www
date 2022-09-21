@@ -1,3 +1,4 @@
+<!--Loosely based off of the WAI ARIA Authoring Practices Guide Editable Combobox With List Autocomplete: https://www.w3.org/WAI/ARIA/apg/example-index/combobox/combobox-autocomplete-list.html -->
 <script lang="ts">
   import icons from 'bootstrap-icons/bootstrap-icons.svg'
   import {nextUniqueId} from '$lib/utils/uniqueId'
@@ -7,7 +8,8 @@
   } from '$lib/sanity'
   import {goto} from '$app/navigation'
 
-  const locale = 'en'
+  export let locale: string
+
   const inputId = nextUniqueId()
   const listboxId = nextUniqueId()
 
@@ -19,7 +21,7 @@
   let response: Promise<PostQueryStub[]> = Promise.resolve([])
 
   $: {
-    if (value.length > 0) {
+    if (locale && value.length > 0) {
       response = fetchPostsWithQuery({locale, query: value})
     }
   }
@@ -75,7 +77,7 @@
     }
     switch (event.key) {
       case 'Enter':
-        if (selectedOption) {
+        if (locale && selectedOption) {
           goto(`/${locale}/post/${selectedOption.slug}`)
         }
         event.stopPropagation()
@@ -156,9 +158,19 @@
       )
     }
   }
+
+  function onClick() {
+    if (locale && selectedOption) {
+      goto(`/${locale}/post/${selectedOption.slug}`)
+    }
+  }
 </script>
 
-<form action={`/${locale}/search`} method="get" role="search">
+<form
+  action={locale ? `/${locale}/search` : '/search'}
+  method="get"
+  role="search"
+>
   <div class="inputContainer">
     <label for={inputId}>Search</label>
     <input
@@ -189,13 +201,14 @@
     </button>
   </div>
   {#if hasFocus}
-    <!-- I shouldn't have to do this as we already have 'aria-controls' attribute on the input... -->
+    <!-- I shouldn't have to do this. We already have 'aria-controls' attribute on the input... -->
     <!-- svelte-ignore a11y-mouse-events-have-key-events -->
     <ul
       id={listboxId}
       role="listbox"
       aria-label="States"
       on:mouseover={onMouseOver}
+      on:click={onClick}
     >
       {#await response}
         Loading...

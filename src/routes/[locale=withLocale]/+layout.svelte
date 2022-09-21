@@ -3,6 +3,13 @@
   import Header from '$lib/components/Header.svelte'
   import Footer from '$lib/components/Footer.svelte'
   import {replaceLocale} from '$lib/url'
+  import {setContext} from 'svelte'
+  import {contextKey as localeContextKey} from '$lib/locale'
+
+  export let data
+
+  setContext(localeContextKey, data.locale)
+
   const locales = [
     {code: 'es', label: 'Español'},
     {code: 'en', label: 'English'}
