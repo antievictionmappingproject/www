@@ -8,10 +8,7 @@
     "resolveJsonModule": true,
     "skipLibCheck": true,
     "sourceMap": true,
-    "strict": true,
-    "paths": {
-      "$i18n/*": ["src/i18n/*"]
-    }
+    "strict": true
   },
   "include": [
     "src/**/*.d.ts",
