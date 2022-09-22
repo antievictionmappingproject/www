@@ -5,7 +5,8 @@
   import {tags, locations} from '$lib/store'
   import {genColor} from '$lib/utils/string'
   import type {Post, Category} from '$lib/types'
-  export let data: {postStubs: Post[]}
+
+  export let data: {postStubs: Post[]; query: string}
 
   function addToStore(
     map: Map<string, Category>,
@@ -21,7 +22,7 @@
   }
 
   onMount(() => {
-    data?.postStubs.forEach((posts: Post) => {
+    data.postStubs.forEach((posts: Post) => {
       posts.tags?.forEach((tag) =>
         addToStore($tags, tag[$page.params.locale])
       )
@@ -36,7 +37,7 @@
 </script>
 
 <div class="page">
-  <PostTable posts={data?.postStubs} />
+  <PostTable posts={data.postStubs} query={data.query} />
 </div>
 
 <style>
