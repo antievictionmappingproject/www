@@ -2,6 +2,8 @@
   import classes from '$lib/text.module.css'
   import {page} from '$app/stores'
   import type {Data} from './+page.server'
+
+  import LL from '$i18n/i18n-svelte'
   /* this page should be filled in with
     content from sanity, not hard-coded
 
@@ -26,6 +28,9 @@
   <div class="blurbs">
     <p class={classes.title}>
       The Anti-Eviction Mapping Project
+    </p>
+    <p>
+      {$LL.hi({name: 'User'})}
     </p>
     <p class={classes.subtitle}>
       AEMP is a data-visualization, critical cartography, and
