@@ -7,7 +7,6 @@
     title: string
     slug: string
     id: string
-    _score: number
   }
 
   async function fetchPostStubs(params: {
@@ -19,6 +18,7 @@
     *[_type == "post"]
     | score(title[$locale] match $query)
     | order(_score desc)
+    [_score > 0]
     {
       "title": title[$locale],
       "slug": slug.current,
@@ -91,13 +91,13 @@
   $: {
     if (locale && value.length > 0) {
       response = fetchPostStubs({locale, query: value})
+      response.then((resolved) => {
+        options = resolved
+      })
+    } else {
+      response = Promise.resolve([])
+      options = []
     }
-  }
-
-  $: {
-    response.then((resolved) => {
-      options = resolved
-    })
   }
 
   function onKeyDown(event: KeyboardEvent) {
@@ -107,10 +107,10 @@
     switch (event.key) {
       case 'Enter':
         if (locale && selectedOption) {
+          event.stopPropagation()
+          event.preventDefault()
           goto(`/${locale}/post/${selectedOption.slug}`)
         }
-        event.stopPropagation()
-        event.preventDefault()
         break
       case 'Down':
       case 'ArrowDown':
@@ -120,7 +120,11 @@
         break
       case 'Up':
       case 'ArrowUp':
-        selectedOption = prevOption(selectedOption, options)
+        if (selectedOption === options[0]) {
+          selectedOption = undefined
+        } else if (selectedOption) {
+          selectedOption = prevOption(selectedOption, options)
+        }
         event.stopPropagation()
         event.preventDefault()
         break
@@ -220,7 +224,7 @@
     <label for={inputId}>Search</label>
     <input
       id={inputId}
-      name="search"
+      name="query"
       type="text"
       role="combobox"
       autocomplete="off"
@@ -245,8 +249,8 @@
       </svg>
     </button>
   </div>
-  {#if hasFocus}
-    <!-- I shouldn't have to do this. We already have 'aria-controls' attribute on the input... -->
+  {#if hasFocus && value.length > 0}
+    <!-- I shouldn't have to use svelte-ignore here. We already have 'aria-controls' attribute on the input... -->
     <!-- svelte-ignore a11y-mouse-events-have-key-events -->
     <ul
       id={listboxId}
@@ -270,6 +274,8 @@
             <!-- No anchor here because SvelteKit blocks the main thread on anchor mouseenter events, causing jank. -->
             {option.title}
           </li>
+        {:else}
+          No suggestions for "{value}"
         {/each}
       {/await}
     </ul>
