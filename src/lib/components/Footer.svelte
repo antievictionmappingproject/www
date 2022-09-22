@@ -1,27 +1,12 @@
 <script>
-  import {page} from '$app/stores'
-  import {replaceLocale} from '$lib/url'
+  import LocaleSwitcher from './LocaleSwitcher.svelte'
   import ThemeSelect from './ThemeSelect.svelte'
-
-  export let locales
 </script>
 
 <div class="footer">
   <div class="locales">
     <em>See this content in:</em>
-    <ul>
-      {#each locales as { code, label }}
-        <li>
-          <a
-            class="locale"
-            class:selected={code === $page.params.locale}
-            disabled={code === $page.params.locale}
-            href={replaceLocale($page.url.pathname, code)}
-            >{label}</a
-          >
-        </li>
-      {/each}
-    </ul>
+    <LocaleSwitcher />
   </div>
   <ThemeSelect />
   <div class="contact">
@@ -79,36 +64,11 @@
   }
 
   .footer,
-  .locales,
-  .contact,
-  ul {
+  .contact {
     display: flex;
     flex-direction: row;
     justify-content: space-between;
     gap: 1em;
-  }
-
-  .locale {
-    position: relative;
-    --locale-border-width: 0;
-  }
-  .locale:hover {
-    --locale-border-width: 100%;
-  }
-
-  .locale::after {
-    position: absolute;
-    bottom: 0;
-    height: 1px;
-    background-color: var(--faded-text);
-    content: '';
-    left: 0;
-    width: var(--locale-border-width);
-    transition: all ease-in-out 0.2s;
-  }
-
-  .selected {
-    font-weight: bold;
   }
 
   .contact {
