@@ -6,6 +6,7 @@
   import Tag from './Tag.svelte'
 
   export let posts: Post[] = []
+  export let query: string | undefined
 
   const locale = $page.params.locale
 
@@ -14,7 +15,9 @@
 </script>
 
 <div class="root">
-  <caption id="caption">Posts</caption>
+  <caption id="caption"
+    >{query ? `Results for “${query}”` : 'Posts'}</caption
+  >
   <Filter {posts} bind:filteredPosts />
   <div
     class="tableContainer"
@@ -67,6 +70,8 @@
   .root {
     display: grid;
     gap: 1rem;
+    grid-template-rows: auto;
+    grid-auto-rows: 1fr;
     grid-template-columns: repeat(4, 1fr);
   }
 

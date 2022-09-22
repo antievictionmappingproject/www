@@ -1,13 +1,11 @@
 import groq from 'groq'
-import {getClient} from '$lib/sanity'
+import {client} from '$lib/sanity'
 
 export async function load({params}) {
-  const post = await getClient().fetch(
+  const post = await client.fetch(
     groq`
         *[_type == "post" && slug.current == $postSlug][0] {
-          "title": title[$locale],
           "subtitle": excerpt[$locale],
-          "body": body[$locale],
           "author": author->name,
           "tags": tags[]->title,
           "locations": locations[]->title,
