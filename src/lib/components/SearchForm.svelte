@@ -15,17 +15,17 @@
   }): Promise<PostStub[]> {
     return client.fetch(
       groq`
-    *[_type == "post"]
-    | score(title[$locale] match $query)
-    | order(_score desc)
-    [_score > 0]
-    {
-      "title": title[$locale],
-      "slug": slug.current,
-      "id": _id
-    }
-    [0..9]
-  `,
+      *[_type == "post"]
+      | score(title[$locale] match $query)
+      | order(_score desc)
+      [_score > 0]
+      {
+        "title": title[$locale],
+        "slug": slug.current,
+        "id": _id
+      }
+      [0..9]
+    `,
       params
     )
   }
@@ -74,8 +74,7 @@
   import icons from 'bootstrap-icons/bootstrap-icons.svg'
   import {nextUniqueId} from '$lib/utils/uniqueId'
   import {goto} from '$app/navigation'
-
-  export let locale: string
+  import {locale, LL} from '$i18n/i18n-svelte'
 
   const inputId = nextUniqueId()
   const listboxId = nextUniqueId()
@@ -89,8 +88,11 @@
   let response: Promise<PostStub[]> = Promise.resolve([])
 
   $: {
-    if (locale && value.length > 0) {
-      response = fetchPostStubs({locale, query: value})
+    if (value.length > 0) {
+      response = fetchPostStubs({
+        locale: $locale,
+        query: value
+      })
       response.then((resolved) => {
         options = resolved
       })
@@ -106,10 +108,10 @@
     }
     switch (event.key) {
       case 'Enter':
-        if (locale && selectedOption) {
+        if (selectedOption) {
           event.stopPropagation()
           event.preventDefault()
-          goto(`/${locale}/post/${selectedOption.slug}`)
+          goto(`/${$locale}/post/${selectedOption.slug}`)
         }
         break
       case 'Down':
@@ -209,19 +211,15 @@
   }
 
   function onClick() {
-    if (locale && selectedOption) {
-      goto(`/${locale}/post/${selectedOption.slug}`)
+    if (selectedOption) {
+      goto(`/${$locale}/post/${selectedOption.slug}`)
     }
   }
 </script>
 
-<form
-  action={locale ? `/${locale}/search` : '/search'}
-  method="get"
-  role="search"
->
+<form action={`/${$locale}/search`} method="get" role="search">
   <div class="inputContainer">
-    <label for={inputId}>Search</label>
+    <label for={inputId}>{$LL.searchForm.inputLabel()}</label>
     <input
       id={inputId}
       name="query"
@@ -238,7 +236,10 @@
       on:focus={onFocus}
       on:blur={onBlur}
     />
-    <button type="submit" aria-label="Submit Search">
+    <button
+      type="submit"
+      aria-label={$LL.searchForm.buttonLabel()}
+    >
       <svg
         fill="currentColor"
         aria-hidden="true"
@@ -255,13 +256,13 @@
     <ul
       id={listboxId}
       role="listbox"
-      aria-label="States"
+      aria-label={$LL.searchForm.suggestionsLabel()}
       on:pointerdown={onPointerDown}
       on:mouseover={onMouseOver}
       on:click={onClick}
     >
       {#await response}
-        Loading...
+        {$LL.searchForm.loading()}
       {:then options}
         {#each options as option}
           <li
@@ -275,7 +276,7 @@
             {option.title}
           </li>
         {:else}
-          No suggestions for "{value}"
+          {$LL.searchForm.empty({query: value})}
         {/each}
       {/await}
     </ul>

@@ -25,6 +25,29 @@ type RootTranslation = {
 		 */
 		description: string
 	}
+	searchForm: {
+		/**
+		 * Search
+		 */
+		inputLabel: string
+		/**
+		 * See all results
+		 */
+		buttonLabel: string
+		/**
+		 * Suggestions
+		 */
+		suggestionsLabel: string
+		/**
+		 * Waiting for suggestions...
+		 */
+		loading: string
+		/**
+		 * No suggestions for “{query}”
+		 * @param {unknown} query
+		 */
+		empty: RequiredParams<'query'>
+	}
 }
 
 export type TranslationFunctions = {
@@ -37,6 +60,28 @@ export type TranslationFunctions = {
 		 * Select language
 		 */
 		description: () => LocalizedString
+	}
+	searchForm: {
+		/**
+		 * Search
+		 */
+		inputLabel: () => LocalizedString
+		/**
+		 * See all results
+		 */
+		buttonLabel: () => LocalizedString
+		/**
+		 * Suggestions
+		 */
+		suggestionsLabel: () => LocalizedString
+		/**
+		 * Waiting for suggestions...
+		 */
+		loading: () => LocalizedString
+		/**
+		 * No suggestions for “{query}”
+		 */
+		empty: (arg: { query: unknown }) => LocalizedString
 	}
 }
 
