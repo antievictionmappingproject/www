@@ -1,7 +1,11 @@
 <script lang="ts">
   import {browser} from '$app/environment'
   import {page} from '$app/stores'
-  import {setLocale, locale} from '$i18n/i18n-svelte'
+  import {
+    LL,
+    setLocale,
+    locale as currentLocale
+  } from '$i18n/i18n-svelte'
   import type {Locales} from '$i18n/i18n-types'
   import {locales} from '$i18n/i18n-util'
   import {loadLocaleAsync} from '$i18n/i18n-util.async'
@@ -11,7 +15,7 @@
     newLocale: Locales,
     updateHistoryState = true
   ) => {
-    if (!newLocale || $locale === newLocale) return
+    if (!newLocale || $currentLocale === newLocale) return
 
     // load new dictionary from server
     await loadLocaleAsync(newLocale)
@@ -52,19 +56,22 @@
 
 <svelte:window on:popstate={handlePopStateEvent} />
 
-<ul>
-  {#each locales as l}
-    <li>
-      <button
-        type="button"
-        class:active={l === $locale}
-        on:click={() => switchLocale(l)}
-      >
-        {l}
-      </button>
-    </li>
-  {/each}
-</ul>
+<div>
+  <div>{$LL.localeSwitcher.description()}</div>
+  <ul>
+    {#each locales as locale}
+      <li>
+        <button
+          type="button"
+          class:active={locale === $currentLocale}
+          on:click={() => switchLocale(locale)}
+        >
+          {locale}
+        </button>
+      </li>
+    {/each}
+  </ul>
+</div>
 
 <style>
   button:not(.active) {

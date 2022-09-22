@@ -19,6 +19,12 @@ type RootTranslation = {
 	 * @param {unknown} name
 	 */
 	hi: RequiredParams<'name'>
+	localeSwitcher: {
+		/**
+		 * Select language
+		 */
+		description: string
+	}
 }
 
 export type TranslationFunctions = {
@@ -26,6 +32,12 @@ export type TranslationFunctions = {
 	 * Hi {name}!
 	 */
 	hi: (arg: { name: unknown }) => LocalizedString
+	localeSwitcher: {
+		/**
+		 * Select language
+		 */
+		description: () => LocalizedString
+	}
 }
 
 export type Formatters = {}

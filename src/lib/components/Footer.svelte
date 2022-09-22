@@ -4,10 +4,7 @@
 </script>
 
 <div class="footer">
-  <div class="locales">
-    <em>See this content in:</em>
-    <LocaleSwitcher />
-  </div>
+  <LocaleSwitcher />
   <ThemeSelect />
   <div class="contact">
     <a

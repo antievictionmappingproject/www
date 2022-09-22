@@ -12,8 +12,8 @@
     </a>
     <form action="/{$page.params.locale}/search">
       <div class="input-container">
-        <!-- .hidden-placeholder is needed to force a 
-        minimum width on .input-container 
+        <!-- .hidden-placeholder is needed to force a
+        minimum width on .input-container
       -->
         <div class="hidden-placeholder" aria-hidden>
           {placeholder}
