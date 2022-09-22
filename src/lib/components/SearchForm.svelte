@@ -1,36 +1,33 @@
 <!--Loosely based off of the WAI ARIA Authoring Practices Guide Editable Combobox With List Autocomplete: https://www.w3.org/WAI/ARIA/apg/example-index/combobox/combobox-autocomplete-list.html -->
-<script lang="ts">
-  import icons from 'bootstrap-icons/bootstrap-icons.svg'
-  import {nextUniqueId} from '$lib/utils/uniqueId'
-  import {
-    fetchPostsWithQuery,
-    type PostQueryStub
-  } from '$lib/sanity'
-  import {goto} from '$app/navigation'
+<script lang="ts" context="module">
+  import {client} from '$lib/sanity'
+  import groq from 'groq'
 
-  export let locale: string
-
-  const inputId = nextUniqueId()
-  const listboxId = nextUniqueId()
-
-  let inputElement: HTMLInputElement
-  let value = ''
-  let hasFocus = false
-  let blurPrevented = false
-  let selectedOption: PostQueryStub | undefined
-  let options: PostQueryStub[] = []
-  let response: Promise<PostQueryStub[]> = Promise.resolve([])
-
-  $: {
-    if (locale && value.length > 0) {
-      response = fetchPostsWithQuery({locale, query: value})
-    }
+  type PostStub = {
+    title: string
+    slug: string
+    id: string
+    _score: number
   }
 
-  $: {
-    response.then((resolved) => {
-      options = resolved
-    })
+  async function fetchPostStubs(params: {
+    locale: string
+    query: string
+  }): Promise<PostStub[]> {
+    return client.fetch(
+      groq`
+    *[_type == "post"]
+    | score(title[$locale] match $query)
+    | order(_score desc)
+    {
+      "title": title[$locale],
+      "slug": slug.current,
+      "id": _id
+    }
+    [0..9]
+  `,
+      params
+    )
   }
 
   function clamp(min: number, max: number, n: number) {
@@ -42,16 +39,16 @@
   }
 
   function nextOption(
-    current: PostQueryStub | undefined,
-    array: PostQueryStub[]
+    current: PostStub | undefined,
+    array: PostStub[]
   ) {
     const index = array.findIndex(({id}) => id === current?.id)
     return array[clamp(0, array.length - 1, index + 1)]
   }
 
   function prevOption(
-    current: PostQueryStub | undefined,
-    array: PostQueryStub[]
+    current: PostStub | undefined,
+    array: PostStub[]
   ) {
     const index = array.findIndex(({id}) => id === current?.id)
     return array[
@@ -70,6 +67,37 @@
   function setInputCaretToEnd(element: HTMLInputElement) {
     element.selectionStart = element.selectionEnd =
       element.value.length
+  }
+</script>
+
+<script lang="ts">
+  import icons from 'bootstrap-icons/bootstrap-icons.svg'
+  import {nextUniqueId} from '$lib/utils/uniqueId'
+  import {goto} from '$app/navigation'
+
+  export let locale: string
+
+  const inputId = nextUniqueId()
+  const listboxId = nextUniqueId()
+
+  let inputElement: HTMLInputElement
+  let value = ''
+  let hasFocus = false
+  let blurPrevented = false
+  let selectedOption: PostStub | undefined
+  let options: PostStub[] = []
+  let response: Promise<PostStub[]> = Promise.resolve([])
+
+  $: {
+    if (locale && value.length > 0) {
+      response = fetchPostStubs({locale, query: value})
+    }
+  }
+
+  $: {
+    response.then((resolved) => {
+      options = resolved
+    })
   }
 
   function onKeyDown(event: KeyboardEvent) {
