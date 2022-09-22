@@ -3,7 +3,7 @@
   import {client} from '$lib/sanity'
   import groq from 'groq'
 
-  type PostStub = {
+  interface PostStub {
     title: string
     slug: string
     id: string
