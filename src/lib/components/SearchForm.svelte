@@ -16,6 +16,7 @@
   let inputElement: HTMLInputElement
   let value = ''
   let hasFocus = false
+  let blurPrevented = false
   let selectedOption: PostQueryStub | undefined
   let options: PostQueryStub[] = []
   let response: Promise<PostQueryStub[]> = Promise.resolve([])
@@ -142,12 +143,28 @@
     }
   }
 
+  /*
+  We if we click on the options list, prevent blur because the options list belongs to the input.
+  */
+  function onPointerDown() {
+    if (hasFocus) {
+      blurPrevented = true
+      setTimeout(() => {
+        blurPrevented = false
+      }, 0)
+    }
+  }
+
   function onFocus() {
     hasFocus = true
   }
 
   function onBlur() {
-    hasFocus = false
+    if (blurPrevented) {
+      inputElement?.focus()
+    } else {
+      hasFocus = false
+    }
   }
 
   function onMouseOver(event: MouseEvent) {
@@ -207,6 +224,7 @@
       id={listboxId}
       role="listbox"
       aria-label="States"
+      on:pointerdown={onPointerDown}
       on:mouseover={onMouseOver}
       on:click={onClick}
     >
