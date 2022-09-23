@@ -42,12 +42,12 @@
 
   // update locale when page store changes
   $: if (browser) {
-    const lang = $page.params.lang as Locales
-    switchLocale(lang, false)
+    const locale = $page.params.locale as Locales
+    switchLocale(locale, false)
     history.replaceState(
-      {...history.state, locale: lang},
+      {...history.state, locale},
       '',
-      replaceLocale(location.pathname, lang)
+      replaceLocale(location.pathname, locale)
     )
   }
 </script>
