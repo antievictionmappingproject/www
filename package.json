@@ -1,6 +1,7 @@
 {
   "name": "aemp-www",
   "version": "0.0.1",
+  "type": "module",
   "scripts": {
     "dev": "vite dev",
     "build": "vite build",
@@ -8,7 +9,11 @@
     "check": "svelte-kit sync && svelte-check --tsconfig ./tsconfig.json",
     "check:watch": "svelte-kit sync && svelte-check --tsconfig ./tsconfig.json --watch",
     "lint": "prettier --check . && eslint .",
-    "format": "prettier --write ."
+    "format": "prettier --write .",
+    "typesafe-i18n": "typesafe-i18n"
+  },
+  "engines": {
+    "node": ">=16.9"
   },
   "devDependencies": {
     "@portabletext/svelte": "1.0.1",
@@ -28,11 +33,11 @@
     "typescript": "^4.7.4",
     "vite": "^3.1.0-beta.1"
   },
-  "type": "module",
   "dependencies": {
     "@nonphoto/css": "1.0.1",
     "bootstrap-icons": "1.9.1",
     "groq": "^2.15.0",
-    "picosanity": "^4.0.0"
+    "picosanity": "^4.0.0",
+    "typesafe-i18n": "5.13.0"
   }
 }

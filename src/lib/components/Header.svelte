@@ -1,9 +1,5 @@
 <script lang="ts">
-  import {contextKey as localeContextKey} from '$lib/locale'
-  import {getContext} from 'svelte'
   import SearchForm from './SearchForm.svelte'
-
-  const locale = getContext(localeContextKey) as string
 </script>
 
 <header>
@@ -11,7 +7,7 @@
     <a href="/" class="title">
       The Anti-Eviction Mapping Project
     </a>
-    <SearchForm {locale} />
+    <SearchForm />
   </div>
   <div class="nav-container">
     <nav>

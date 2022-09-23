@@ -2,6 +2,7 @@
   import classes from '$lib/text.module.css'
   import {page} from '$app/stores'
   import type {Data} from './+page.server'
+
   /* this page should be filled in with
     content from sanity, not hard-coded
 

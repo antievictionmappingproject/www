@@ -4,7 +4,10 @@ import preprocess from 'svelte-preprocess'
 const config = {
   preprocess: preprocess(),
   kit: {
-    adapter: adapter({split: true})
+    adapter: adapter({split: true}),
+    alias: {
+      $i18n: 'src/i18n'
+    }
   }
 }
 
