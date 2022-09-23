@@ -48,6 +48,20 @@ type RootTranslation = {
 		 */
 		empty: RequiredParams<'query'>
 	}
+	themeSelect: {
+		/**
+		 * Light
+		 */
+		light: string
+		/**
+		 * Dark
+		 */
+		dark: string
+		/**
+		 * System
+		 */
+		system: string
+	}
 }
 
 export type TranslationFunctions = {
@@ -82,6 +96,20 @@ export type TranslationFunctions = {
 		 * No suggestions for “{query}”
 		 */
 		empty: (arg: { query: unknown }) => LocalizedString
+	}
+	themeSelect: {
+		/**
+		 * Light
+		 */
+		light: () => LocalizedString
+		/**
+		 * Dark
+		 */
+		dark: () => LocalizedString
+		/**
+		 * System
+		 */
+		system: () => LocalizedString
 	}
 }
 

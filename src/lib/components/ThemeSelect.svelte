@@ -1,5 +1,6 @@
 <script>
   import {onMount} from 'svelte'
+  import {LL} from '$i18n/i18n-svelte'
 
   let value = 'system'
   let isMounted = false
@@ -19,7 +20,7 @@
 </script>
 
 <select bind:value>
-  <option value="light">Light</option>
-  <option value="dark">Dark</option>
-  <option value="system">System</option>
+  <option value="light">{$LL.themeSelect.light()}</option>
+  <option value="dark">{$LL.themeSelect.dark()}</option>
+  <option value="system">{$LL.themeSelect.system()}</option>
 </select>

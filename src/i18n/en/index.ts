@@ -11,6 +11,11 @@ const en: Translation = {
     suggestionsLabel: 'Suggestions',
     loading: 'Waiting for suggestions...',
     empty: 'No suggestions for “{query}”'
+  },
+  themeSelect: {
+    light: 'Light',
+    dark: 'Dark',
+    system: 'System'
   }
 }
 
