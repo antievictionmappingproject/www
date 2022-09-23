@@ -2,11 +2,11 @@
 <html lang="%lang%">
   <head>
     <script is:inline>
-      document.documentElement.classList[
-        localStorage?.getItem('theme') === 'dark'
-          ? 'add'
-          : 'remove'
-      ]('dark-theme')
+      const theme = localStorage?.getItem('theme')
+      console.log(theme)
+      if (theme) {
+        document.documentElement.dataset.theme = theme
+      }
     </script>
     <meta charset="utf-8" />
     <meta name="description" content="" />
