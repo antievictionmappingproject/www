@@ -14,11 +14,6 @@ export type Translation = RootTranslation
 export type Translations = RootTranslation
 
 type RootTranslation = {
-	/**
-	 * Hi {name}!
-	 * @param {unknown} name
-	 */
-	hi: RequiredParams<'name'>
 	localeSwitcher: {
 		/**
 		 * Select language
@@ -65,10 +60,6 @@ type RootTranslation = {
 }
 
 export type TranslationFunctions = {
-	/**
-	 * Hi {name}!
-	 */
-	hi: (arg: { name: unknown }) => LocalizedString
 	localeSwitcher: {
 		/**
 		 * Select language

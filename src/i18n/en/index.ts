@@ -1,7 +1,6 @@
 import type {Translation} from '../i18n-types'
 
 const en: Translation = {
-  hi: 'Hi {name}!',
   localeSwitcher: {
     description: 'Select language'
   },
