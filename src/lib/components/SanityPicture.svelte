@@ -12,7 +12,9 @@
   const widths = Object.values(breakpoints)
 </script>
 
-<Picture
-  {...imageProps({image, metadata, client, widths})}
-  {alt}
-/>
+{#key image}
+  <Picture
+    {...imageProps({image, metadata, client, widths})}
+    {alt}
+  />
+{/key}
