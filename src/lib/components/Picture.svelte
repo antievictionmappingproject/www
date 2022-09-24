@@ -3,11 +3,11 @@
 
   export let src: string
   export let alt: string
-  export let naturalWidth: number
-  export let naturalHeight: number
-  export let srcset: string | undefined
-  export let sizes: string | undefined
-  export let placeholderSrc: string | undefined
+  export let naturalWidth: number | undefined = undefined
+  export let naturalHeight: number | undefined = undefined
+  export let srcset: string | undefined = undefined
+  export let sizes: string | undefined = undefined
+  export let placeholderSrc: string | undefined = undefined
   export let loading: 'eager' | 'lazy' = 'lazy'
   export let objectFit: 'cover' | 'contain' = 'cover'
 

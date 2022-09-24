@@ -40,7 +40,9 @@ export function imageProps({
     .auto('format')
 
   return {
-    src: builder.width(sortedWidths.slice(-1)[0]).url(),
+    src: builder
+      .width(sortedWidths.slice(-1)[0])
+      .url() as string,
     srcset: sortedWidths
       .map(
         (width) => `${builder.width(width).url()} ${width}w`
