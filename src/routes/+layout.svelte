@@ -6,7 +6,6 @@
   import {locales} from '$i18n/i18n-util'
   import type {LayoutData} from './$types'
   import {replaceLocale} from '$lib/url'
-  import {each} from 'svelte/internal'
 
   export let data: LayoutData
 

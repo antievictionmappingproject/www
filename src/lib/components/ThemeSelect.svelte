@@ -7,7 +7,6 @@
 
   $: {
     if (isMounted) {
-      console.log(value)
       localStorage.setItem('theme', value)
       document.documentElement.dataset.theme = value
     }
