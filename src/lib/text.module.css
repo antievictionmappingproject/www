@@ -5,6 +5,15 @@
   text-transform: uppercase;
 }
 
+.titleSans {
+  font-size: var(--font-size-5);
+  font-family: var(--font-family-sans);
+  line-height: 1;
+  text-transform: uppercase;
+  line-height: 0.9;
+  letter-spacing: -0.02ch;
+}
+
 .subtitle {
   font-size: var(--font-size-3);
   font-family: var(--font-family-serif);

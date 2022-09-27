@@ -25,7 +25,7 @@
     </div>
   </div>
   <div class="blurbs">
-    <p class={classes.title}>
+    <p class={classes.titleSans}>
       The Anti-Eviction Mapping Project
     </p>
     <p class={classes.subtitle}>
