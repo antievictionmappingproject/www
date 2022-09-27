@@ -1,33 +1,36 @@
-import { createLocaleSchema, defaultLocale } from "../lib/locales";
+import {
+  createLocaleSchema,
+  defaultLocale
+} from '../lib/locales'
 
 export default {
-  name: "page",
-  title: "Page",
-  type: "document",
+  name: 'page',
+  title: 'Page',
+  type: 'document',
   fields: [
     createLocaleSchema({
-      name: "title",
-      type: "string",
+      name: 'title',
+      type: 'string'
     }),
     {
-      name: "slug",
-      type: "slug",
+      name: 'slug',
+      type: 'slug',
       options: {
         source: `title.${defaultLocale}`,
-        maxLength: 96,
-      },
+        maxLength: 96
+      }
     },
     {
-      name: "sections",
-      type: "array",
-      of: [{ type: "textSection" }],
-    },
+      name: 'sections',
+      type: 'array',
+      of: [{type: 'textSection'}]
+    }
   ],
 
   preview: {
     select: {
       title: `title.${defaultLocale}`,
-      subtitle: "slug.current",
-    },
-  },
-};
+      subtitle: 'slug.current'
+    }
+  }
+}

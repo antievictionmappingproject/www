@@ -6,7 +6,7 @@
   /* this page should be filled in with
     content from sanity, not hard-coded
 
-    but hard-coding right now for demo/dev purposes
+  but hard-coding right now for demo/dev purposes
   */
   export let data: Data
   $: ({previews} = data)

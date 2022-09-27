@@ -1,38 +1,38 @@
-import { createLocaleSchema } from "../lib/locales.js";
+import {createLocaleSchema} from '../lib/locales.js'
 
 export default {
-  name: "author",
-  title: "Author",
-  type: "document",
+  name: 'author',
+  title: 'Author',
+  type: 'document',
   fields: [
     {
-      name: "name",
-      type: "string",
+      name: 'name',
+      type: 'string'
     },
     {
-      name: "slug",
-      type: "slug",
+      name: 'slug',
+      type: 'slug',
       options: {
-        source: "name",
-      },
+        source: 'name'
+      }
     },
     {
-      name: "image",
-      type: "image",
+      name: 'image',
+      type: 'image',
       options: {
-        hotspot: true,
-      },
+        hotspot: true
+      }
     },
     createLocaleSchema({
-      name: "bio",
-      title: "Bio",
-      type: "text",
-    }),
+      name: 'bio',
+      title: 'Bio',
+      type: 'text'
+    })
   ],
   preview: {
     select: {
-      title: "name",
-      media: "image",
-    },
-  },
-};
+      title: 'name',
+      media: 'image'
+    }
+  }
+}

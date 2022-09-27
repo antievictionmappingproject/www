@@ -1,23 +1,23 @@
 export default {
-  name: "location",
-  title: "Location",
-  type: "document",
+  name: 'location',
+  title: 'Location',
+  type: 'document',
   fields: [
     {
-      name: "title",
-      type: "string",
+      name: 'title',
+      type: 'string'
     },
     {
-      name: "slug",
-      type: "slug",
+      name: 'slug',
+      type: 'slug',
       options: {
-        source: "title",
-      },
-    },
+        source: 'title'
+      }
+    }
   ],
   preview: {
     select: {
-      title: "title",
-    },
-  },
-};
+      title: 'title'
+    }
+  }
+}

@@ -1,43 +1,43 @@
-import { createLocaleSchema } from "../lib/locales";
+import {createLocaleSchema} from '../lib/locales'
 
 export default {
-  name: "textSection",
-  title: "Text section",
-  type: "object",
+  name: 'textSection',
+  title: 'Text section',
+  type: 'object',
   fields: [
     createLocaleSchema({
-      name: "body",
-      type: "array",
+      name: 'body',
+      type: 'array',
       of: [
         {
-          type: "block",
+          type: 'block',
           styles: [
-            { title: "Normal", value: "normal" },
-            { title: "H2", value: "h2" },
-            { title: "H3", value: "h3" },
+            {title: 'Normal', value: 'normal'},
+            {title: 'H2', value: 'h2'},
+            {title: 'H3', value: 'h3'}
           ],
           marks: {
             decorators: [
-              { title: "Strong", value: "strong" },
-              { title: "Emphasis", value: "em" },
+              {title: 'Strong', value: 'strong'},
+              {title: 'Emphasis', value: 'em'}
             ],
             annotations: [
               {
-                title: "URL",
-                name: "link",
-                type: "object",
+                title: 'URL',
+                name: 'link',
+                type: 'object',
                 fields: [
                   {
-                    title: "URL",
-                    name: "href",
-                    type: "url",
-                  },
-                ],
-              },
-            ],
-          },
-        },
-      ],
-    }),
-  ],
-};
+                    title: 'URL',
+                    name: 'href',
+                    type: 'url'
+                  }
+                ]
+              }
+            ]
+          }
+        }
+      ]
+    })
+  ]
+}
