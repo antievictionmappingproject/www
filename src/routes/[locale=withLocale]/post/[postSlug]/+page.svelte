@@ -1,17 +1,23 @@
-<script>
+<script lang="ts">
   import {PortableText} from '@portabletext/svelte'
   import {formatDate} from '$lib/utils/string'
   import classes from '$lib/text.module.css'
+  import SanityPicture from '$lib/components/SanityPicture.svelte'
+  import type {PageData} from './$types'
 
-  export let data
+  export let data: PageData
   $: ({post} = data)
 </script>
 
 <div class="container">
   <article>
     {#if post}
-      {#if post.imageUrl}
-        <img src={post.imageUrl} />
+      {#if post.mainImage}
+        <SanityPicture
+          image={post.mainImage}
+          metadata={post.mainImage.metadata}
+          alt="Picture"
+        />
       {/if}
       <h1 class={classes.title}>{post.title}</h1>
       {#if post.subtitle}
@@ -33,5 +39,10 @@
 <style>
   .metadata {
     font-size: var(--font-size-minus-1);
+  }
+
+  article {
+    display: flex;
+    flex-direction: column;
   }
 </style>
