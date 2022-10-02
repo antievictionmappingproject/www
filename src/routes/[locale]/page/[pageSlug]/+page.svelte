@@ -1,8 +1,8 @@
 <script lang="ts">
+  import TextSection from '$lib/components/TextSection.svelte'
   import ThreePostSection from '$lib/components/ThreePostSection.svelte'
   import TwoPostSection from '$lib/components/TwoPostSection.svelte'
-  import classes from '$lib/text.module.css'
-  import {PortableText} from '@portabletext/svelte'
+
   import type {PageData} from './$types'
 
   export let data: PageData
@@ -12,9 +12,7 @@
 <article>
   {#each page.sections as section}
     {#if section._type == 'textSection'}
-      <div class={classes.body}>
-        <PortableText value={section.body} />
-      </div>
+      <TextSection {...section} />
     {:else if section._type == 'twoPostSection'}
       <TwoPostSection {...section} />
     {:else if section._type == 'threePostSection'}
@@ -22,3 +20,11 @@
     {/if}
   {/each}
 </article>
+
+<style>
+  article {
+    display: flex;
+    flex-direction: column;
+    gap: var(--spacing-1);
+  }
+</style>
