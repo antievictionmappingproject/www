@@ -14,11 +14,11 @@ export type Translation = RootTranslation
 export type Translations = RootTranslation
 
 type RootTranslation = {
-	localeSwitcher: {
+	localeSelect: {
 		/**
-		 * S​e​l​e​c​t​ ​l​a​n​g​u​a​g​e
+		 * L​a​n​g​u​a​g​e
 		 */
-		description: string
+		label: string
 	}
 	searchForm: {
 		/**
@@ -67,11 +67,11 @@ type RootTranslation = {
 }
 
 export type TranslationFunctions = {
-	localeSwitcher: {
+	localeSelect: {
 		/**
-		 * Select language
+		 * Language
 		 */
-		description: () => LocalizedString
+		label: () => LocalizedString
 	}
 	searchForm: {
 		/**

@@ -1,8 +1,8 @@
 import type {Translation} from '../i18n-types'
 
 const en: Translation = {
-  localeSwitcher: {
-    description: 'Select language'
+  localeSelect: {
+    label: 'Language'
   },
   searchForm: {
     inputLabel: 'Search',
