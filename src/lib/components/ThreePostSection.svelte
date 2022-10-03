@@ -1,36 +1,21 @@
 <script lang="ts">
-  import type {SanityImageMetadata} from '$lib/sanity'
-  import type {SanityImageSource} from '@sanity/image-url/lib/types/types'
-  import SanityPicture from './SanityPicture.svelte'
+  import type {SvelteComponentProps} from '$lib/types'
+  import PostCard from './PostCard.svelte'
 
-  interface PostStub {
-    image: SanityImageSource & {metadata: SanityImageMetadata}
-    title: string
-  }
-
-  export let posts: PostStub[]
+  export let posts: SvelteComponentProps<PostCard>[]
 </script>
 
 <section>
   {#each posts as post}
-    <div class="post">
-      <SanityPicture
-        image={post.image}
-        metadata={post.image.metadata}
-        alt="Picture"
-      />
-      <div>{post.title}</div>
-    </div>
+    <PostCard {...post} />
   {/each}
 </section>
 
 <style>
   section {
-    display: flex;
-  }
-
-  .post {
-    display: flex;
-    flex-direction: column;
+    display: grid;
+    padding-inline: var(--spacing-0);
+    grid-template-columns: repeat(3, 1fr);
+    grid-gap: var(--spacing-0);
   }
 </style>

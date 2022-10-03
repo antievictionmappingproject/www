@@ -25,6 +25,6 @@
   article {
     display: flex;
     flex-direction: column;
-    gap: var(--spacing-1);
+    gap: var(--spacing-2);
   }
 </style>

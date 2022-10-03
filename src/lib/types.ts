@@ -22,3 +22,7 @@ export interface Post {
   tags: {[locale: string]: string}[]
   imageUrl: string
 }
+
+import type {SvelteComponentTyped} from 'svelte'
+export type SvelteComponentProps<T> =
+  T extends SvelteComponentTyped<infer P, any, any> ? P : never

@@ -6,6 +6,15 @@
   export let body: PortableTextBlock
 </script>
 
-<div class={classes.body}>
+<div class={classes.subtitle}>
   <PortableText value={body} />
 </div>
+
+<style>
+  div {
+    padding-inline: var(--spacing-0);
+    font-family: var(--font-family-sans);
+    margin-inline: auto;
+    text-align: center;
+  }
+</style>

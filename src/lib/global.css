@@ -23,15 +23,13 @@
   --font-size-4: 2.5rem;
   --font-size-5: 3.25rem;
 
-  --spacing-minus-2: 0.375;
-  --spacing-minus-1: 0.625;
+  --spacing-minus-2: 0.25rem;
+  --spacing-minus-1: 0.5rem;
   --spacing-0: 1rem;
-  --spacing-1: 1.5rem;
-  --spacing-2: 2.25rem;
-  --spacing-3: 3.375rem;
-  --spacing-4: 5rem;
-  --spacing-5: 7.5rem;
-  --spacing-6: 11.25rem;
+  --spacing-1: 2rem;
+  --spacing-2: 4rem;
+  --spacing-3: 8rem;
+  --spacing-4: 16rem;
 }
 
 html {
