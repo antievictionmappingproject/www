@@ -276,7 +276,6 @@
       fill="currentColor"
       aria-hidden="true"
       focusable="false"
-      style="forced-color-adjust: auto"
     >
       <use xlink:href={`${icons}#search`} />
     </svg>

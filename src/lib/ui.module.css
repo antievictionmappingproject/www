@@ -1,0 +1,15 @@
+.input,
+.iconInput {
+  background-color: field;
+  border-radius: 0.1rem;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  height: 1.5rem;
+  padding-inline: 0.5rem;
+}
+
+.iconInput {
+  padding-inline: 0;
+  width: 1.5rem;
+}

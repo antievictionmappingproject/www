@@ -24,7 +24,6 @@
 <style>
   footer {
     padding: var(--spacing-0);
-    font-size: 0.8rem;
     display: flex;
     flex-direction: column;
     justify-content: space-between;
