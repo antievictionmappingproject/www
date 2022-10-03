@@ -1,5 +1,4 @@
 <script lang="ts">
-  import classes from '$lib/text.module.css'
   import {page} from '$app/stores'
   import type {Data} from './+page.server'
 
@@ -24,16 +23,7 @@
       {/each}
     </div>
   </div>
-  <div class="blurbs">
-    <p class={classes.titleSans}>
-      The Anti-Eviction Mapping Project
-    </p>
-    <p class={classes.subtitle}>
-      AEMP is a data-visualization, critical cartography, and
-      multimedia storytelling collective documenting
-      dispossession and resistance upon gentrifying landscapes.
-    </p>
-  </div>
+  <div class="blurbs" />
 {/if}
 
 <style>
@@ -64,20 +54,5 @@
 
   .preview img {
     height: 200px;
-  }
-
-  .blurbs {
-    display: grid;
-    grid-template-columns: 1fr 1fr;
-    gap: 1rem;
-  }
-
-  .blurbs p {
-    padding: 1rem;
-  }
-
-  .highlight {
-    font-size: 2rem;
-    font-weight: bold;
   }
 </style>

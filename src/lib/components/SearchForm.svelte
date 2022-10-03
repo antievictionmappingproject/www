@@ -218,8 +218,8 @@
 </script>
 
 <form action={`/${$locale}/search`} method="get" role="search">
+  <label for={inputId}>{$LL.searchForm.inputLabel()}</label>
   <div class="inputContainer">
-    <label for={inputId}>{$LL.searchForm.inputLabel()}</label>
     <input
       id={inputId}
       name="query"
@@ -236,56 +236,76 @@
       on:focus={onFocus}
       on:blur={onBlur}
     />
-    <button
-      type="submit"
-      aria-label={$LL.searchForm.buttonLabel()}
-    >
-      <svg
-        fill="currentColor"
-        aria-hidden="true"
-        focusable="false"
-        style="forced-color-adjust: auto"
+    {#if hasFocus && value.length > 0}
+      <!-- I shouldn't have to use svelte-ignore here. We already have 'aria-controls' attribute on the input... -->
+      <!-- svelte-ignore a11y-mouse-events-have-key-events -->
+      <ul
+        id={listboxId}
+        role="listbox"
+        aria-label={$LL.searchForm.suggestionsLabel()}
+        on:pointerdown={onPointerDown}
+        on:mouseover={onMouseOver}
+        on:click={onClick}
       >
-        <use xlink:href={`${icons}#search`} />
-      </svg>
-    </button>
+        {#await response}
+          {$LL.searchForm.loading()}
+        {:then options}
+          {#each options as option}
+            <li
+              id={option.id}
+              role="option"
+              aria-selected={option.id === selectedOption?.id
+                ? 'true'
+                : 'false'}
+            >
+              <!-- No anchor here because SvelteKit blocks the main thread on anchor mouseenter events, causing jank. -->
+              {option.title}
+            </li>
+          {:else}
+            {$LL.searchForm.empty({query: value})}
+          {/each}
+        {/await}
+      </ul>
+    {/if}
   </div>
-  {#if hasFocus && value.length > 0}
-    <!-- I shouldn't have to use svelte-ignore here. We already have 'aria-controls' attribute on the input... -->
-    <!-- svelte-ignore a11y-mouse-events-have-key-events -->
-    <ul
-      id={listboxId}
-      role="listbox"
-      aria-label={$LL.searchForm.suggestionsLabel()}
-      on:pointerdown={onPointerDown}
-      on:mouseover={onMouseOver}
-      on:click={onClick}
+  <button
+    type="submit"
+    aria-label={$LL.searchForm.buttonLabel()}
+  >
+    <svg
+      fill="currentColor"
+      aria-hidden="true"
+      focusable="false"
+      style="forced-color-adjust: auto"
     >
-      {#await response}
-        {$LL.searchForm.loading()}
-      {:then options}
-        {#each options as option}
-          <li
-            id={option.id}
-            role="option"
-            aria-selected={option.id === selectedOption?.id
-              ? 'true'
-              : 'false'}
-          >
-            <!-- No anchor here because SvelteKit blocks the main thread on anchor mouseenter events, causing jank. -->
-            {option.title}
-          </li>
-        {:else}
-          {$LL.searchForm.empty({query: value})}
-        {/each}
-      {/await}
-    </ul>
-  {/if}
+      <use xlink:href={`${icons}#search`} />
+    </svg>
+  </button>
 </form>
 
 <style>
   form {
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    gap: var(--spacing-minus-1);
+  }
+
+  .inputContainer {
     position: relative;
+  }
+
+  input {
+    width: 25ch;
+  }
+
+  button {
+    background-color: field;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    width: 1.5rem;
+    height: 1.5rem;
   }
 
   svg {
