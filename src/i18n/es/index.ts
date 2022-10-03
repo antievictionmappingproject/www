@@ -15,6 +15,9 @@ const es: Translation = {
     light: 'Luz',
     dark: 'Oscuridad',
     system: 'Sistema'
+  },
+  postCard: {
+    date: '{0|shortDate}'
   }
 }
 

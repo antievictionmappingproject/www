@@ -4,7 +4,8 @@ import {client} from '$lib/sanity'
 const postStubFragment = groq`
   {
     "title": title[$locale],
-    "image": mainImage.asset->
+    "image": mainImage.asset->,
+    "date": datePublished
   }
 `
 

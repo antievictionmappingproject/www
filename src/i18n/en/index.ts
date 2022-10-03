@@ -15,6 +15,9 @@ const en: Translation = {
     light: 'Light',
     dark: 'Dark',
     system: 'System'
+  },
+  postCard: {
+    date: '{0|shortDate}'
   }
 }
 

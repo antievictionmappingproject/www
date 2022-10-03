@@ -16,46 +16,53 @@ export type Translations = RootTranslation
 type RootTranslation = {
 	localeSwitcher: {
 		/**
-		 * Select language
+		 * S​e​l​e​c​t​ ​l​a​n​g​u​a​g​e
 		 */
 		description: string
 	}
 	searchForm: {
 		/**
-		 * Search
+		 * S​e​a​r​c​h
 		 */
 		inputLabel: string
 		/**
-		 * See all results
+		 * S​e​e​ ​a​l​l​ ​r​e​s​u​l​t​s
 		 */
 		buttonLabel: string
 		/**
-		 * Suggestions
+		 * S​u​g​g​e​s​t​i​o​n​s
 		 */
 		suggestionsLabel: string
 		/**
-		 * Waiting for suggestions...
+		 * W​a​i​t​i​n​g​ ​f​o​r​ ​s​u​g​g​e​s​t​i​o​n​s​.​.​.
 		 */
 		loading: string
 		/**
-		 * No suggestions for “{query}”
+		 * N​o​ ​s​u​g​g​e​s​t​i​o​n​s​ ​f​o​r​ ​“​{​q​u​e​r​y​}​”
 		 * @param {unknown} query
 		 */
 		empty: RequiredParams<'query'>
 	}
 	themeSelect: {
 		/**
-		 * Light
+		 * L​i​g​h​t
 		 */
 		light: string
 		/**
-		 * Dark
+		 * D​a​r​k
 		 */
 		dark: string
 		/**
-		 * System
+		 * S​y​s​t​e​m
 		 */
 		system: string
+	}
+	postCard: {
+		/**
+		 * {​0​|​s​h​o​r​t​D​a​t​e​}
+		 * @param {unknown} 0
+		 */
+		date: RequiredParams<'0|shortDate'>
 	}
 }
 
@@ -102,6 +109,14 @@ export type TranslationFunctions = {
 		 */
 		system: () => LocalizedString
 	}
+	postCard: {
+		/**
+		 * {0|shortDate}
+		 */
+		date: (arg0: unknown) => LocalizedString
+	}
 }
 
-export type Formatters = {}
+export type Formatters = {
+	shortDate: (value: unknown) => unknown
+}
