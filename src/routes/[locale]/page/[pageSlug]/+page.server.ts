@@ -5,7 +5,8 @@ const postStubFragment = groq`
   {
     "title": title[$locale],
     "image": mainImage.asset->,
-    "date": datePublished
+    "date": datePublished,
+    "slug": slug.current
   }
 `
 
