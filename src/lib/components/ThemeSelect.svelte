@@ -25,4 +25,4 @@
   ]
 </script>
 
-<Select label="Theme:" bind:value {options} />
+<Select label={$LL.themeSelect.label()} bind:value {options} />

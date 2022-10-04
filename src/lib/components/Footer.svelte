@@ -1,13 +1,18 @@
 <script>
+  import {locale, LL} from '$i18n/i18n-svelte'
   import classes from '$lib/text.module.css'
   import LocaleSelect from './LocaleSelect.svelte'
   import ThemeSelect from './ThemeSelect.svelte'
+
+  $: year = new Intl.DateTimeFormat($locale, {
+    year: 'numeric'
+  }).format(new Date())
 </script>
 
 <footer>
   <div class="description">
     <p class={classes.titleSans}>
-      The Anti-Eviction Mapping Project
+      {$LL.siteTitle()}
     </p>
     <p class={classes.subtitle}>
       AEMP is a data-visualization, critical cartography, and
@@ -15,10 +20,14 @@
       dispossession and resistance upon gentrifying landscapes.
     </p>
   </div>
-  <nav>
+  <div class="bottom">
     <LocaleSelect />
     <ThemeSelect />
-  </nav>
+    <div class="copyright">
+      © {year}
+      {$LL.siteTitle()}
+    </div>
+  </div>
 </footer>
 
 <style>
@@ -27,7 +36,7 @@
     display: flex;
     flex-direction: column;
     justify-content: space-between;
-    gap: var(--spacing-0);
+    gap: var(--spacing-2);
   }
 
   .description {
@@ -36,8 +45,14 @@
     gap: var(--spacing-0);
   }
 
-  nav {
+  .bottom {
     display: flex;
-    gap: var(--spacing-2);
+    align-items: center;
+    gap: var(--spacing-1);
+  }
+
+  .copyright {
+    margin-inline-start: auto;
+    font-size: var(--font-size-minus-1);
   }
 </style>

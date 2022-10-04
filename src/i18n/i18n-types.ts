@@ -14,6 +14,10 @@ export type Translation = RootTranslation
 export type Translations = RootTranslation
 
 type RootTranslation = {
+	/**
+	 * T​h​e​ ​A​n​t​i​-​E​v​i​c​t​i​o​n​ ​M​a​p​p​i​n​g​ ​P​r​o​j​e​c​t
+	 */
+	siteTitle: string
 	localeSelect: {
 		/**
 		 * L​a​n​g​u​a​g​e
@@ -45,6 +49,10 @@ type RootTranslation = {
 	}
 	themeSelect: {
 		/**
+		 * T​h​e​m​e
+		 */
+		label: string
+		/**
 		 * L​i​g​h​t
 		 */
 		light: string
@@ -67,6 +75,10 @@ type RootTranslation = {
 }
 
 export type TranslationFunctions = {
+	/**
+	 * The Anti-Eviction Mapping Project
+	 */
+	siteTitle: () => LocalizedString
 	localeSelect: {
 		/**
 		 * Language
@@ -96,6 +108,10 @@ export type TranslationFunctions = {
 		empty: (arg: { query: unknown }) => LocalizedString
 	}
 	themeSelect: {
+		/**
+		 * Theme
+		 */
+		label: () => LocalizedString
 		/**
 		 * Light
 		 */
