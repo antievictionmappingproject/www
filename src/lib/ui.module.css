@@ -1,7 +1,7 @@
 .input,
 .iconButton {
   background-color: field;
-  border-radius: 0.1rem;
+  border-radius: var(--border-radius-small);
   display: flex;
   align-items: center;
   justify-content: center;

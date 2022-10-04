@@ -10,6 +10,7 @@
   --color-faded-text: var(--color-dark-gray);
   --color-text: var(--color-darker-gray);
   --color-opaque-text: var(--color-black);
+  --color-focus: #00ddc2;
 
   --font-family-sans: 'Helvetica Neue', Helvetica, Arial,
     sans-serif;
@@ -30,6 +31,8 @@
   --spacing-2: 4rem;
   --spacing-3: 8rem;
   --spacing-4: 16rem;
+
+  --border-radius-small: 0.2rem;
 }
 
 html {
@@ -64,4 +67,12 @@ body,
   flex-grow: 1;
   display: flex;
   flex-direction: column;
+}
+
+:focus-visible {
+  outline: solid 2px var(--color-focus);
+}
+
+a {
+  border-radius: var(--border-radius-small);
 }

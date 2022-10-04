@@ -46,6 +46,6 @@
     text-transform: uppercase;
     grid-row: 2;
     align-self: start;
-    padding-inline-end: var(--spacing-0);
+    margin-inline-end: var(--spacing-0);
   }
 </style>
