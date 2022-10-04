@@ -32,7 +32,8 @@
 
 <style>
   footer {
-    padding: var(--spacing-0);
+    padding: var(--spacing-2) var(--spacing-0) var(--spacing-0)
+      var(--spacing-0);
     display: flex;
     flex-direction: column;
     justify-content: space-between;

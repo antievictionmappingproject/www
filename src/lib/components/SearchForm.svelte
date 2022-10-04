@@ -71,6 +71,7 @@
 </script>
 
 <script lang="ts">
+  import uiClasses from '$lib/ui.module.css'
   import icons from 'bootstrap-icons/bootstrap-icons.svg'
   import {nextUniqueId} from '$lib/utils/uniqueId'
   import {goto} from '$app/navigation'
@@ -218,9 +219,10 @@
 </script>
 
 <form action={`/${$locale}/search`} method="get" role="search">
-  <label for={inputId}>{$LL.searchForm.inputLabel()}</label>
+  <label for={inputId}>{$LL.searchForm.inputLabel()}:</label>
   <div class="inputContainer">
     <input
+      class={uiClasses.input}
       id={inputId}
       name="query"
       type="text"
@@ -269,6 +271,7 @@
     {/if}
   </div>
   <button
+    class={uiClasses.iconButton}
     type="submit"
     aria-label={$LL.searchForm.buttonLabel()}
   >
@@ -305,11 +308,6 @@
     justify-content: center;
     width: 1.5rem;
     height: 1.5rem;
-  }
-
-  svg {
-    width: 1rem;
-    height: 1rem;
   }
 
   [role='listbox'] {

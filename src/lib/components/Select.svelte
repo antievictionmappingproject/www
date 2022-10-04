@@ -24,4 +24,8 @@
     align-items: center;
     gap: 0.5rem;
   }
+
+  select {
+    appearance: none;
+  }
 </style>

@@ -1,5 +1,5 @@
 .input,
-.iconInput {
+.iconButton {
   background-color: field;
   border-radius: 0.1rem;
   display: flex;
@@ -9,7 +9,12 @@
   padding-inline: 0.5rem;
 }
 
-.iconInput {
+.iconButton {
   padding-inline: 0;
   width: 1.5rem;
+}
+
+.iconButton > :global(svg) {
+  width: 0.75rem;
+  height: 0.75rem;
 }
