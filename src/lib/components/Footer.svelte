@@ -32,6 +32,7 @@
 
 <style>
   footer {
+    margin-top: auto;
     padding: var(--spacing-2) var(--spacing-0) var(--spacing-0)
       var(--spacing-0);
     display: flex;
