@@ -178,18 +178,6 @@
     }
   }
 
-  /*
-  We if we click on the options list, prevent blur because the options list belongs to the input.
-  */
-  function onPointerDown() {
-    if (hasFocus) {
-      blurPrevented = true
-      setTimeout(() => {
-        blurPrevented = false
-      }, 0)
-    }
-  }
-
   function onFocus() {
     hasFocus = true
   }
@@ -202,16 +190,30 @@
     }
   }
 
-  function onMouseOver(event: MouseEvent) {
+  function onPointerDown() {
+    selectedOption = undefined
+  }
+
+  /*
+  We if we click on the options list, prevent blur because the options list belongs to the input.
+  */
+  function onListboxPointerDown(event: MouseEvent) {
     const target = event.target as HTMLElement
     if (target && target.getAttribute('role') === 'option') {
       selectedOption = options.find(
         (option) => option.id === target.id
       )
     }
+
+    if (hasFocus) {
+      blurPrevented = true
+      setTimeout(() => {
+        blurPrevented = false
+      }, 0)
+    }
   }
 
-  function onClick() {
+  function onListboxClick() {
     if (selectedOption) {
       goto(`/${$locale}/post/${selectedOption.slug}`)
     }
@@ -223,6 +225,7 @@
   <div class="inputContainer">
     <input
       class={uiClasses.input}
+      class:hasFocus={hasFocus && !selectedOption}
       id={inputId}
       name="query"
       type="text"
@@ -233,6 +236,7 @@
       aria-controls={listboxId}
       bind:value
       bind:this={inputElement}
+      on:pointerdown={onPointerDown}
       on:keydown={onKeyDown}
       on:keyup={onKeyUp}
       on:focus={onFocus}
@@ -245,12 +249,13 @@
         id={listboxId}
         role="listbox"
         aria-label={$LL.searchForm.suggestionsLabel()}
-        on:pointerdown={onPointerDown}
-        on:mouseover={onMouseOver}
-        on:click={onClick}
+        on:pointerdown={onListboxPointerDown}
+        on:click={onListboxClick}
       >
         {#await response}
-          {$LL.searchForm.loading()}
+          <div class="message">
+            {$LL.searchForm.loading()}
+          </div>
         {:then options}
           {#each options as option}
             <li
@@ -264,7 +269,9 @@
               {option.title}
             </li>
           {:else}
-            {$LL.searchForm.empty({query: value})}
+            <div class="message">
+              {$LL.searchForm.empty({query: value})}
+            </div>
           {/each}
         {/await}
       </ul>
@@ -301,8 +308,16 @@
     width: 25ch;
   }
 
+  input:focus {
+    outline: none;
+  }
+
+  input.hasFocus {
+    outline: solid 2px var(--color-focus);
+  }
+
   button {
-    background-color: field;
+    background-color: var(--color-field);
     display: flex;
     align-items: center;
     justify-content: center;
@@ -311,19 +326,39 @@
   }
 
   [role='listbox'] {
-    background: var(--color-background);
-    left: 0;
-    top: 100%;
-    position: absolute;
+    background: var(--color-field);
+    color: var(--color-text);
+    border-radius: var(--border-radius-small);
     z-index: 1;
+    position: absolute;
+    right: 0;
+    top: calc(100% + 0.5rem);
+    min-width: 100%;
+    max-width: 50ch;
+    width: max-content;
   }
 
   [role='option'] {
     cursor: pointer;
     display: block;
+    border-radius: var(--border-radius-small);
+    max-width: 100%;
+    white-space: nowrap;
+    text-overflow: ellipsis;
+    overflow: hidden;
+  }
+
+  .message,
+  [role='option'] {
+    min-height: 1.5rem;
+    padding-inline: 0.5rem;
+  }
+
+  .message {
+    color: var(--color-faded-text);
   }
 
   [aria-selected='true'] {
-    background: cornflowerblue;
+    outline: solid 2px var(--color-focus);
   }
 </style>

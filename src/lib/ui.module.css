@@ -1,6 +1,7 @@
 .input,
 .iconButton {
-  background-color: field;
+  background-color: var(--color-field);
+  color: var(--color-text);
   border-radius: var(--border-radius-small);
   display: flex;
   align-items: center;

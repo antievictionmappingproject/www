@@ -1,16 +1,20 @@
 :root {
   --color-white: #ffffff;
-  --color-lighter-gray: #eeeeee;
-  --color-light-gray: #dddddd;
-  --color-dark-gray: #5c5c5c;
+  --color-lightest-gray: #ffffff;
+  --color-lighter-gray: #e6e6e6;
+  --color-light-gray: #b2b2b2;
+  --color-dark-gray: #6d6d6d;
   --color-darker-gray: #4b4b4b;
+  --color-darkest-gray: #2f2f2f;
   --color-black: #000000;
 
+  --color-field: var(--color-lightest-gray);
   --color-background: var(--color-lighter-gray);
   --color-faded-text: var(--color-dark-gray);
   --color-text: var(--color-darker-gray);
   --color-opaque-text: var(--color-black);
   --color-focus: #00ddc2;
+  --color-focus-translucent: #00ddc244;
 
   --font-family-sans: 'Helvetica Neue', Helvetica, Arial,
     sans-serif;
@@ -45,6 +49,7 @@ html {
 }
 
 html[data-theme='dark'] {
+  --color-field: var(--color-darkest-gray);
   --color-background: var(--color-darker-gray);
   --color-faded-text: var(--color-light-gray);
   --color-text: var(--color-lighter-gray);
@@ -54,6 +59,7 @@ html[data-theme='dark'] {
 
 @media (prefers-color-scheme: dark) {
   html:not([data-theme='light']) {
+    --color-field: var(--color-darkest-gray);
     --color-background: var(--color-darker-gray);
     --color-faded-text: var(--color-light-gray);
     --color-text: var(--color-lighter-gray);
@@ -71,6 +77,10 @@ body,
 
 :focus-visible {
   outline: solid 2px var(--color-focus);
+}
+
+::selection {
+  background-color: var(--color-focus-translucent);
 }
 
 a {
