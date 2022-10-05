@@ -11,7 +11,17 @@
 
 <div class="container">
   <article>
-    {#if post}
+    <div class="cover">
+      <div class="text">
+        <h1 class={classes.title}>{post.title}</h1>
+        {#if post.subtitle}
+          <p class={classes.subtitle}>{post.subtitle}</p>
+        {/if}
+        <div class="metadata">
+          <div>{formatDate(post.datePublished)}</div>
+          <div>{post.author}</div>
+        </div>
+      </div>
       {#if post.mainImage}
         <SanityPicture
           image={post.mainImage}
@@ -19,30 +29,32 @@
           alt="Picture"
         />
       {/if}
-      <h1 class={classes.title}>{post.title}</h1>
-      {#if post.subtitle}
-        <h2 class={classes.subtitle}>{post.subtitle}</h2>
-      {/if}
-      <div class="metadata">
-        <div>{formatDate(post.datePublished)}</div>
-        <div>{post.author}</div>
+    </div>
+    {#if post.body}
+      <div class={classes.body}>
+        <PortableText value={post.body} />
       </div>
-      {#if post.body}
-        <div class={classes.body}>
-          <PortableText value={post.body} />
-        </div>
-      {/if}
     {/if}
   </article>
 </div>
 
 <style>
-  .metadata {
-    font-size: var(--font-size-minus-1);
-  }
-
   article {
     display: flex;
+    padding: var(--spacing-0);
     flex-direction: column;
+  }
+
+  .cover {
+    display: grid;
+    grid-template-columns: repeat(2, 1fr);
+    gap: var(--spacing-0);
+  }
+
+  .text {
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    gap: var(--spacing-2);
   }
 </style>

@@ -1,7 +1,7 @@
 :root {
   --color-white: #ffffff;
-  --color-lightest-gray: #ffffff;
-  --color-lighter-gray: #e6e6e6;
+  --color-lightest-gray: #e2e2e2;
+  --color-lighter-gray: #cacaca;
   --color-light-gray: #b2b2b2;
   --color-dark-gray: #6d6d6d;
   --color-darker-gray: #4b4b4b;
@@ -15,6 +15,8 @@
   --color-opaque-text: var(--color-black);
   --color-focus: #00ddc2;
   --color-focus-translucent: #00ddc244;
+  --color-active: #fdf272;
+  --color-active-translucent: #fdf27244;
 
   --font-family-sans: 'Helvetica Neue', Helvetica, Arial,
     sans-serif;

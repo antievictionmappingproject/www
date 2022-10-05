@@ -10,6 +10,7 @@ export async function load({
   const post = await client.fetch(
     groq`
         *[_type == "post" && slug.current == $postSlug][0] {
+          "title": title[$locale],
           "subtitle": excerpt[$locale],
           "author": author->name,
           "tags": tags[]->title,
