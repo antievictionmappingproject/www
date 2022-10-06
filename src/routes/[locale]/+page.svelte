@@ -1,58 +1,8 @@
 <script lang="ts">
-  import {page} from '$app/stores'
-  import type {Data} from './+page.server'
+  import type {PageData} from './$types'
+  import Page from '$lib/components/Page.svelte'
 
-  /* this page should be filled in with
-    content from sanity, not hard-coded
-
-  but hard-coding right now for demo/dev purposes
-  */
-  export let data: Data
-  $: ({previews} = data)
+  export let data: PageData
 </script>
 
-{#if data}
-  <div class="previews-container">
-    <div class="previews">
-      {#each previews as preview}
-        <div class="preview">
-          <a href="/{$page.params.locale}/post/{preview.slug}">
-            <img alt={preview.title} src={preview.imageUrl} />
-          </a>
-        </div>
-      {/each}
-    </div>
-  </div>
-  <div class="blurbs" />
-{/if}
-
-<style>
-  .previews-container {
-    overflow-x: auto;
-    overflow-y: hidden;
-  }
-
-  .previews-container::-webkit-scrollbar {
-    height: 0.2rem;
-  }
-  .previews-container::-webkit-scrollbar-track {
-    background: none;
-  }
-  .previews-container::-webkit-scrollbar-thumb {
-    background: var(--color-gray-4);
-  }
-
-  .previews {
-    display: flex;
-    flex-direction: row;
-    min-width: max-content;
-  }
-
-  .preview {
-    position: relative;
-  }
-
-  .preview img {
-    height: 200px;
-  }
-</style>
+<Page {...data.page} />

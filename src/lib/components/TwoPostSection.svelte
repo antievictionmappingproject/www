@@ -1,13 +1,23 @@
+<script lang="ts" context="module">
+  import groq from 'groq'
+  import {query as postStubQuery} from '$lib/components/PostStub.svelte'
+
+  export const query = groq`{
+      "posts": posts[]->${postStubQuery}
+    }
+  `
+</script>
+
 <script lang="ts">
   import type {SvelteComponentProps} from '$lib/types'
-  import PostCard from './PostCard.svelte'
+  import PostStub from '$lib/components/PostStub.svelte'
 
-  export let posts: SvelteComponentProps<PostCard>[]
+  export let posts: SvelteComponentProps<PostStub>[]
 </script>
 
 <section>
   {#each posts as post}
-    <PostCard {...post} />
+    <PostStub {...post} />
   {/each}
 </section>
 

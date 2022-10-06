@@ -1,23 +1,23 @@
 import groq from 'groq'
 import {client} from '$lib/sanity'
+import {query as pageQuery} from '$lib/components/Page.svelte'
 
-export interface Data {
-  previews: {slug: string; title: string; imageUrl: string}[]
-}
-
-export async function load({params}) {
-  const previews = await client.fetch(
+/** @type {import('./$types').PageLoad} */
+export async function load({
+  params
+}: {
+  params: {locale: string}
+}) {
+  const {page} = await client.fetch(
     groq`
-        *[_type == "post"] {
-          "slug": slug.current,
-          "imageUrl": mainImage.asset->url,
-          "title": title[$locale]
-        }[0...10]
-      `,
+      *[_type == "site"][0] {
+        "page": homePage->${pageQuery}
+      }
+    `,
     params
   )
 
   return {
-    previews
+    page
   }
 }

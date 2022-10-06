@@ -5,7 +5,7 @@ import {client} from '$lib/sanity'
 export async function load({
   params
 }: {
-  params: {$postSlug: string; $locale: string}
+  params: {postSlug: string; locale: string}
 }) {
   const post = await client.fetch(
     groq`
