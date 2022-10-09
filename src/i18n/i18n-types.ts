@@ -65,7 +65,14 @@ type RootTranslation = {
 		 */
 		system: string
 	}
-	postCard: {
+	search: {
+		/**
+		 * S​e​a​r​c​h​ ​r​e​s​u​l​t​s​ ​f​o​r​ ​“​{​q​u​e​r​y​}​”
+		 * @param {unknown} query
+		 */
+		results: RequiredParams<'query'>
+	}
+	postStub: {
 		/**
 		 * {​0​|​s​h​o​r​t​D​a​t​e​}
 		 * @param {unknown} 0
@@ -125,7 +132,13 @@ export type TranslationFunctions = {
 		 */
 		system: () => LocalizedString
 	}
-	postCard: {
+	search: {
+		/**
+		 * Search results for “{query}”
+		 */
+		results: (arg: { query: unknown }) => LocalizedString
+	}
+	postStub: {
 		/**
 		 * {0|shortDate}
 		 */

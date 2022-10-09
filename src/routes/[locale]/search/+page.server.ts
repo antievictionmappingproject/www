@@ -1,5 +1,7 @@
 import groq from 'groq'
 import {client} from '$lib/sanity'
+import {postQuery as postTablePostQuery} from '$lib/components/PostTable.svelte'
+import {postQuery as postPreviewSidebarPostQuery} from '$lib/components/PostPreviewSidebar.svelte'
 
 interface SearchPageServerLoadArgs {
   params: {
@@ -8,16 +10,9 @@ interface SearchPageServerLoadArgs {
   url: URL
 }
 
-const postStubFragment = groq`{
-  _id,
-  "author": author->name,
-  "title": title[$locale],
-  "slug": slug.current,
-  "tags": tags[]->title,
-  "locations": locations[]->title,
-  "datePublished": datePublished,
-  "dateUpdated": dateUpdated,
-  "imageUrl": mainImage.asset->url
+const postQuery = groq`{
+  ...${postTablePostQuery},
+  ...${postPreviewSidebarPostQuery}
 }`
 
 export async function load({
@@ -27,18 +22,18 @@ export async function load({
   const query = url.searchParams.get('query')
   return {
     query,
-    postStubs: await client.fetch(
+    posts: await client.fetch(
       query
         ? groq`
           *[_type == "post"]
           | score([title[$locale], body[$locale]] match $query)
           | order(_score desc)
           [_score > 0]
-          ${postStubFragment}
+          ${postQuery}
         `
         : groq`
           *[_type == "post"]
-          ${postStubFragment}
+          ${postQuery}
         `,
       {
         locale: params.locale,

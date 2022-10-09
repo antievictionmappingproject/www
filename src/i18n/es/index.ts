@@ -18,7 +18,10 @@ const es: Translation = {
     dark: 'Oscuridad',
     system: 'Sistema'
   },
-  postCard: {
+  search: {
+    results: 'Resultados de búsqueda para “{query}”'
+  },
+  postStub: {
     date: '{0|shortDate}'
   }
 }

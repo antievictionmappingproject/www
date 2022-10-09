@@ -1,50 +1,41 @@
 <script lang="ts">
-  import PostTable from '$lib/components/PostTable/Table.svelte'
-  import {page} from '$app/stores'
-  import {onMount} from 'svelte'
-  import {tags, locations} from '$lib/store'
-  import {genColor} from '$lib/utils/string'
-  import type {Post, Category} from '$lib/types'
+  import {LL} from '$i18n/i18n-svelte'
+  import PostTable from '$lib/components/PostTable.svelte'
+  import type {Post as PostTablePost} from '$lib/components/PostTable.svelte'
+  import PostFilterSidebar from '$lib/components/PostFilterSidebar.svelte'
+  import PostPreviewSidebar from '$lib/components/PostPreviewSidebar.svelte'
+  import type {Post as PostPreviewSidebarPost} from '$lib/components/PostPreviewSidebar.svelte'
+  import {nextUniqueId} from '$lib/utils/uniqueId'
 
-  export let data: {postStubs: Post[]; query: string}
+  const titleId = nextUniqueId()
 
-  function addToStore(
-    map: Map<string, Category>,
-    category: string
-  ) {
-    if (!map.has(category)) {
-      const generatedColor = genColor()
-      map.set(category, {
-        name: category,
-        color: generatedColor
-      })
-    }
+  export let data: {
+    posts: Array<PostTablePost & PostPreviewSidebarPost>
+    query: string
   }
 
-  onMount(() => {
-    data.postStubs.forEach((posts: Post) => {
-      posts.tags?.forEach((tag) =>
-        addToStore($tags, tag[$page.params.locale])
-      )
-      posts.locations?.forEach((location) =>
-        addToStore($locations, location)
-      )
-      /* to trigger app-wide update */
-      tags.set($tags)
-      locations.set($locations)
-    })
-  })
+  let selectedPost: PostPreviewSidebarPost | undefined =
+    undefined
 </script>
 
-<div class="page">
-  <PostTable posts={data.postStubs} query={data.query} />
-</div>
+<section>
+  <h1 id={titleId}>
+    {data.query
+      ? $LL.search.results({query: data.query})
+      : 'Posts'}
+  </h1>
+  <PostFilterSidebar />
+  <PostTable posts={data.posts} labelledBy={titleId} />
+  <PostPreviewSidebar post={selectedPost} />
+</section>
 
 <style>
-  .page {
-    width: 100%;
-    height: 100%;
-    display: flex;
-    place-content: center;
+  section {
+    display: grid;
+    grid-template-columns: auto 1fr auto;
+  }
+
+  h1 {
+    grid-column-end: span 3;
   }
 </style>

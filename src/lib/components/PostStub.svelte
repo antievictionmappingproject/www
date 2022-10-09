@@ -35,7 +35,7 @@
     <a class="title" href={`/${$locale}/post/${slug}`}
       >{title}</a
     >
-    <div>{$LL.postCard.date(new Date(date))}</div>
+    <div>{$LL.postStub.date(new Date(date))}</div>
   </div>
 </div>
 

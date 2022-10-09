@@ -1,12 +1,36 @@
+<script lang="ts" context="module">
+  import {query as filterAnchorQuery} from '$lib/components/FilterAnchor.svelte'
+
+  export interface Post {
+    title: string
+    slug: string
+    author: string
+    datePublished: string
+    dateUpdated: string
+    tags: SvelteComponentProps<FilterAnchor>[]
+    locations: SvelteComponentProps<FilterAnchor>[]
+  }
+
+  export const postQuery = groq`{
+    "author": author->name,
+    "title": title[$locale],
+    "slug": slug.current,
+    "tags": tags[]->${filterAnchorQuery},
+    "locations": locations[]->${filterAnchorQuery},
+    "datePublished": datePublished,
+    "dateUpdated": dateUpdated,
+    "imageUrl": mainImage.asset->url
+  }`
+</script>
+
 <script lang="ts">
-  import {page} from '$app/stores'
-  import type {Post} from '$lib/types'
-  import Tag from './Tag.svelte'
   import {fade} from 'svelte/transition'
   import {formatDate} from '$lib/utils/string'
-  export let post: Post
+  import groq from 'groq'
+  import FilterAnchor from './FilterAnchor.svelte'
+  import type {SvelteComponentProps} from '$lib/types'
 
-  const locale = $page.params.locale
+  export let post: Post | undefined
 </script>
 
 <div class="root">
@@ -17,7 +41,6 @@
       class="preview"
     >
       {#if post}
-        <img src={post.imageUrl} />
         <h1>{post.title}</h1>
         <h2 class="author">by {post.author}</h2>
         <h2 class="published">
@@ -32,8 +55,11 @@
           <div class="tags">
             <h2>Tags</h2>
             <div class="items">
-              {#each post.tags as tag}
-                <Tag tag={tag[locale]} type="tag" />
+              {#each post.tags as tag, index}
+                <FilterAnchor {...tag} />
+                {#if index < post.tags.length - 1}
+                  ,
+                {/if}
               {/each}
             </div>
           </div>
@@ -42,8 +68,11 @@
           <div class="locations">
             <h2>Locations</h2>
             <div class="items">
-              {#each post.locations as location}
-                <Tag tag={location} type="location" />
+              {#each post.locations as location, index}
+                <FilterAnchor {...location} />
+                {#if index < post.locations.length - 1}
+                  ,
+                {/if}
               {/each}
             </div>
           </div>

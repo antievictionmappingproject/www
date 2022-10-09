@@ -9,9 +9,14 @@ export async function load({
   params: {pageSlug: string; locale: string}
 }) {
   const page = await client.fetch(
-    groq`*[_type == "page" && slug.current == $pageSlug][0] ${pageQuery}`,
+    groq`*[_type == "page" && slug.current == $pageSlug][0] {
+      ...${pageQuery},
+      _type
+    }`,
     params
   )
+
+  console.log(page)
   return {
     page
   }

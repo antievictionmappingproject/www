@@ -16,7 +16,7 @@ export async function load({
           "tags": tags[]->title,
           "locations": locations[]->title,
           "datePublished": datePublished,
-          "dateUpdated": dateUpdated,
+          "dateUpdated": dateUpdated
           "mainImage": mainImage.asset->
         }
       `,
