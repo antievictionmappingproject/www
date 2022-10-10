@@ -107,6 +107,7 @@
   td {
     width: fit-content;
     padding-block: var(--spacing-minus-1);
+    padding-inline-end: var(--spacing-0);
     vertical-align: top;
   }
 
