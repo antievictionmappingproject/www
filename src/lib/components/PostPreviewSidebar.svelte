@@ -84,12 +84,15 @@
 
 <style>
   .root {
-    /* so that the fade transition can happen without
-       a layout shift
-     */
     display: grid;
-    grid-template-columns: 1 / 2;
-    grid-template-rows: 1 / 2;
+    grid-template-rows: 1fr;
+    grid-template-columns: 1fr;
+    min-width: 20rem;
+  }
+
+  .root > * {
+    grid-column: 1 / -1;
+    grid-row: 1 / -1;
   }
 
   h1 {

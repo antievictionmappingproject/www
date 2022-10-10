@@ -28,6 +28,7 @@
   export let labelledBy: string
 </script>
 
+<!-- Tables that may scroll need to be focusable: https://adrianroselli.com/2020/11/under-engineered-responsive-tables.html -->
 <div role="region" aria-labelledby={labelledBy} tabindex="0">
   <table>
     <thead>
@@ -46,7 +47,10 @@
             </a>
           </td>
           <td>
-            <CommaSeparatedEach items={post.tags} let:item>
+            <CommaSeparatedEach
+              items={post.tags ?? []}
+              let:item
+            >
               <FilterAnchor {...item} />
             </CommaSeparatedEach>
           </td>
@@ -60,28 +64,19 @@
 </div>
 
 <style>
-  /*
-    Tables that may scroll need to be focusable: https://adrianroselli.com/2020/11/under-engineered-responsive-tables.html
-  */
-  [role='region'][aria-labelledby][tabindex]:focus {
-    border-radius: var(--border-radius-small);
-    outline: 2px solid var(--color-focus);
-  }
-
   [role='region'][aria-labelledby][tabindex] {
-    border-left: 1px solid rgba(0, 0, 0, 0.1);
-    border-right: 1px solid rgba(0, 0, 0, 0.1);
     overflow: auto;
     max-width: 100%;
+    border-radius: var(--border-radius-small);
     background: linear-gradient(
         to right,
-        var(--color-background) 20%,
+        var(--color-background),
         rgba(255, 255, 255, 0)
       ),
       linear-gradient(
           to right,
           rgba(255, 255, 255, 0),
-          var(--color-background) 80%
+          var(--color-background)
         )
         0 100%,
       linear-gradient(
@@ -102,11 +97,6 @@
     background-attachment: local, local, scroll, scroll;
   }
 
-  th {
-    text-transform: uppercase;
-    color: var(--faded-text);
-  }
-
   tr {
     transition: background-color ease-in-out 200ms;
     cursor: pointer;
@@ -116,8 +106,13 @@
   th,
   td {
     width: fit-content;
-    padding: 0.5rem;
-    margin: 0.5rem 0;
+    padding-block: var(--spacing-minus-1);
     vertical-align: top;
+  }
+
+  th {
+    text-transform: uppercase;
+    padding-block-start: 0;
+    border-block-end: var(--border-thin);
   }
 </style>

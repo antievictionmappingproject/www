@@ -39,6 +39,8 @@
   --spacing-4: 16rem;
 
   --border-radius-small: 0.2rem;
+
+  --border-thin: solid 1px var(--color-light-gray);
 }
 
 html {
@@ -56,6 +58,7 @@ html[data-theme='dark'] {
   --color-faded-text: var(--color-light-gray);
   --color-text: var(--color-lighter-gray);
   --color-opaque-text: var(--color-white);
+  --border-thin: solid 1px var(--color-dark-gray);
   color-scheme: dark;
 }
 
@@ -66,6 +69,7 @@ html[data-theme='dark'] {
     --color-faded-text: var(--color-light-gray);
     --color-text: var(--color-lighter-gray);
     --color-opaque-text: var(--color-white);
+    --border-thin: solid 1px var(--color-dark-gray);
     color-scheme: dark;
   }
 }

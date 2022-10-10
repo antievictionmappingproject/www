@@ -16,7 +16,6 @@ export async function load({
     params
   )
 
-  console.log(page)
   return {
     page
   }

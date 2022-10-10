@@ -7,6 +7,7 @@
 
 <script lang="ts">
   import {nextUniqueId} from '$lib/utils/uniqueId'
+  import uiClasses from '$lib/ui.module.css'
 
   export let tags: Filter[] = []
   export let locations: Filter[] = []
@@ -14,15 +15,16 @@
   const id = nextUniqueId()
 </script>
 
-<div class="filters">
+<form>
   {#each [{title: 'Tags', filters: tags}, {title: 'Locations', filters: locations}] as { title, filters }}
     <section>
-      <div class="sectionLabel">{title}</div>
+      <div class="sectionTitle">{title}</div>
       <ul>
         {#each filters as filter}
           <li>
             <input
               id={`${id}-${filter.slug}`}
+              name={filter.slug}
               type="checkbox"
             />
             <label for={`${id}-${filter.slug}`}>
@@ -33,21 +35,31 @@
       </ul>
     </section>
   {/each}
-</div>
+  <button type="submit" class={uiClasses.input}
+    >Apply Filters</button
+  >
+</form>
 
 <style>
-  section {
-    margin: 1rem 0;
+  form {
+    display: flex;
+    flex-direction: column;
+    gap: var(--spacing-1);
+    min-width: 10rem;
   }
 
-  .sectionLabel {
-    font-size: 1rem;
+  .sectionTitle {
     text-transform: uppercase;
-    color: var(--faded-text);
+    padding-block-end: var(--spacing-minus-1);
+    border-block-end: var(--border-thin);
   }
 
   ul {
     display: flex;
     flex-direction: column;
+  }
+
+  li {
+    margin-block: var(--spacing-minus-1);
   }
 </style>
