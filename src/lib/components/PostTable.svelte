@@ -22,6 +22,7 @@
   import groq from 'groq'
   import type {SvelteComponentProps} from '$lib/types'
   import FilterAnchor from './FilterAnchor.svelte'
+  import CommaSeparatedEach from './CommaSeparatedEach.svelte'
 
   export let posts: Post[] = []
   export let labelledBy: string
@@ -45,9 +46,9 @@
             </a>
           </td>
           <td>
-            {#each post.tags.map( (tag, index) => ({tag, join: index < post.tags.length - 1 ? ', ' : ''}) ) as { tag, join }}
-              <FilterAnchor {...tag} />{join}
-            {/each}
+            <CommaSeparatedEach items={post.tags} let:item>
+              <FilterAnchor {...item} />
+            </CommaSeparatedEach>
           </td>
           <td>
             {post.author}
