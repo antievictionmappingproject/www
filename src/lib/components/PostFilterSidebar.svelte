@@ -25,6 +25,7 @@
             <input
               id={`${id}-${filter.slug}`}
               name={filter.slug}
+              class={uiClasses.checkbox}
               type="checkbox"
             />
             <label for={`${id}-${filter.slug}`}>
@@ -61,5 +62,8 @@
 
   li {
     margin-block: var(--spacing-minus-1);
+    display: flex;
+    align-items: center;
+    gap: var(--spacing-minus-1);
   }
 </style>
