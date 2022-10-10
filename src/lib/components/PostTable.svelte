@@ -58,12 +58,22 @@
             {post.author}
           </td>
         </tr>
+      {:else}
+        <tr
+          ><td colspan="3" class="empty"
+            >There's nothing here.</td
+          ></tr
+        >
       {/each}
     </tbody>
   </table>
 </div>
 
 <style>
+  table {
+    min-width: 100%;
+  }
+
   [role='region'][aria-labelledby][tabindex] {
     overflow: auto;
     max-width: 100%;
@@ -115,5 +125,10 @@
     text-transform: uppercase;
     padding-block-start: 0;
     border-block-end: var(--border-thin);
+  }
+
+  .empty {
+    text-align: center;
+    padding-block: var(--spacing-2);
   }
 </style>
