@@ -30,10 +30,13 @@
 }
 
 .checkbox::after {
+  display: flex;
+  align-items: center;
+  justify-content: center;
   visibility: hidden;
   position: absolute;
-  inset: -0.1rem 0 0 0;
-  content: url('data:image/svg+xml,%3Csvg%20xmlns=%22http://www.w3.org/2000/svg%22%20fill=%22currentColor%22%20viewBox=%220%200%2016%2016%22%3E%3Cpath%20d=%22M12.736%203.97a.733.733%200%200%201%201.047%200c.286.289.29.756.01%201.05L7.88%2012.01a.733.733%200%200%201-1.065.02L3.217%208.384a.757.757%200%200%201%200-1.06.733.733%200%200%201%201.047%200l3.052%203.093%205.4-6.425a.247.247%200%200%201%20.02-.022Z%22/%3E%3C/svg%3E');
+  content: '✓';
+  inset: 0 0 0 0.1rem;
 }
 
 .checkbox:checked::after {
