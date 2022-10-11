@@ -1,7 +1,6 @@
 import groq from 'groq'
 import {client} from '$lib/sanity'
-import {postQuery as postTablePostQuery} from '$lib/components/PostTable.svelte'
-import {postQuery as postPreviewSidebarPostQuery} from '$lib/components/PostPreviewSidebar.svelte'
+import {post as postQuery} from '$lib/queries'
 
 interface SearchPageServerLoadArgs {
   params: {
@@ -9,11 +8,6 @@ interface SearchPageServerLoadArgs {
   }
   url: URL
 }
-
-const postQuery = groq`{
-  ...${postTablePostQuery},
-  ...${postPreviewSidebarPostQuery}
-}`
 
 export async function load({
   params,

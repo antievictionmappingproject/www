@@ -1,13 +1,3 @@
-<script lang="ts" context="module">
-  import groq from 'groq'
-
-  export const query = groq`{
-    "type": _type,
-    "title": coalesce(title[$locale], title),
-    "slug": slug.current
-  }`
-</script>
-
 <script lang="ts">
   import {locale} from '$i18n/i18n-svelte'
 

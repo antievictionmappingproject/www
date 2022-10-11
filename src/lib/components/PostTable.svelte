@@ -1,28 +1,8 @@
-<script lang="ts" context="module">
-  import {query as filterAnchorQuery} from '$lib/components/FilterAnchor.svelte'
-
-  export interface Post {
-    title: string
-    slug: string
-    author: string
-    tags: SvelteComponentProps<FilterAnchor>[]
-  }
-
-  export const postQuery = groq`{
-    _id,
-    "author": author->name,
-    "title": title[$locale],
-    "slug": slug.current,
-    "tags": tags[]->${filterAnchorQuery},
-  }`
-</script>
-
 <script lang="ts">
   import {locale} from '$i18n/i18n-svelte'
-  import groq from 'groq'
-  import type {SvelteComponentProps} from '$lib/types'
   import FilterAnchor from './FilterAnchor.svelte'
   import CommaSeparatedEach from './CommaSeparatedEach.svelte'
+  import type {Post} from '$lib/types'
 
   export let posts: Post[] = []
   export let labelledBy: string

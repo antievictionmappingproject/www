@@ -1,35 +1,9 @@
-<script lang="ts" context="module">
-  import {query as filterAnchorQuery} from '$lib/components/FilterAnchor.svelte'
-
-  export interface Post {
-    title: string
-    slug: string
-    author: string
-    datePublished: string
-    dateUpdated: string
-    tags: SvelteComponentProps<FilterAnchor>[]
-    locations: SvelteComponentProps<FilterAnchor>[]
-  }
-
-  export const postQuery = groq`{
-    "author": author->name,
-    "title": title[$locale],
-    "slug": slug.current,
-    "tags": tags[]->${filterAnchorQuery},
-    "locations": locations[]->${filterAnchorQuery},
-    "datePublished": datePublished,
-    "dateUpdated": dateUpdated,
-    "imageUrl": mainImage.asset->url
-  }`
-</script>
-
 <script lang="ts">
   import {fade} from 'svelte/transition'
   import {formatDate} from '$lib/utils/string'
-  import groq from 'groq'
   import FilterAnchor from './FilterAnchor.svelte'
-  import type {SvelteComponentProps} from '$lib/types'
   import CommaSeparatedEach from './CommaSeparatedEach.svelte'
+  import type {Post} from '$lib/types'
 
   export let post: Post | undefined
 </script>

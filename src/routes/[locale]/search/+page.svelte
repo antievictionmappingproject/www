@@ -4,23 +4,19 @@
   import {LL} from '$i18n/i18n-svelte'
   import {page} from '$app/stores'
   import PostTable from '$lib/components/PostTable.svelte'
-  import type {Post as PostTablePost} from '$lib/components/PostTable.svelte'
   import FilterSidebar from '$lib/components/FilterSidebar.svelte'
   import FilterSidebarFieldset from '$lib/components/FilterSidebarFieldset.svelte'
   import PostPreviewSidebar from '$lib/components/PostPreviewSidebar.svelte'
-  import type {Post as PostPreviewSidebarPost} from '$lib/components/PostPreviewSidebar.svelte'
   import {nextUniqueId} from '$lib/utils/uniqueId'
+  import type {Post} from '$lib/types'
 
   const titleId = nextUniqueId()
-
-  type Post = PostTablePost & PostPreviewSidebarPost
 
   export let data: {
     posts: Post[]
   }
 
-  let selectedPost: PostPreviewSidebarPost | undefined =
-    undefined
+  let selectedPost: Post | undefined = undefined
 
   $: query = $page.url.searchParams.get('query') ?? undefined
 
