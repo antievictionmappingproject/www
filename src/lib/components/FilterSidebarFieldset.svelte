@@ -1,5 +1,5 @@
 <script lang="ts" context="module">
-  interface Filter {
+  export interface Filter {
     type: string
     title: string
     slug: string

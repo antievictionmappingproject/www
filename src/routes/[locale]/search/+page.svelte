@@ -6,6 +6,7 @@
   import PostTable from '$lib/components/PostTable.svelte'
   import FilterSidebar from '$lib/components/FilterSidebar.svelte'
   import FilterSidebarFieldset from '$lib/components/FilterSidebarFieldset.svelte'
+  import type {Filter} from '$lib/components/FilterSidebarFieldset.svelte'
   import PostPreviewSidebar from '$lib/components/PostPreviewSidebar.svelte'
   import {nextUniqueId} from '$lib/utils/uniqueId'
   import type {Post} from '$lib/types'
@@ -14,24 +15,13 @@
 
   export let data: {
     posts: Post[]
+    tags: Filter[]
+    locations: Filter[]
   }
 
   let selectedPost: Post | undefined = undefined
 
   $: query = $page.url.searchParams.get('query') ?? undefined
-
-  function filtersFromPosts(
-    posts: Post[],
-    key: 'tags' | 'locations',
-    checkedFilters: string[]
-  ) {
-    return uniqBy(prop('slug'), posts.flatMap(prop(key)))
-      .filter(prop('slug'))
-      .map((filter) => ({
-        ...filter,
-        checked: checkedFilters.includes(filter.slug)
-      }))
-  }
 </script>
 
 <section>
@@ -42,20 +32,12 @@
     <FilterSidebarFieldset
       title="Tags"
       name="tags"
-      filters={filtersFromPosts(
-        data.posts,
-        'tags',
-        $page.url.searchParams.getAll('tag')
-      )}
+      filters={data.tags}
     />
     <FilterSidebarFieldset
       title="Locations"
       name="locations"
-      filters={filtersFromPosts(
-        data.posts,
-        'locations',
-        $page.url.searchParams.getAll('location')
-      )}
+      filters={data.locations}
     />
   </FilterSidebar>
   <PostTable posts={data.posts} labelledBy={titleId} />

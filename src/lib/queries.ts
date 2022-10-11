@@ -8,7 +8,7 @@ export const tag = groq`{
 
 export const location = groq`{
   "type": _type,
-  "title": title[$locale],
+  "title": title,
   "slug": slug.current
 }`
 
