@@ -1,6 +1,7 @@
 <script lang="ts">
   import {locale} from '$i18n/i18n-svelte'
   import FilterAnchor from './FilterAnchor.svelte'
+  import AuthorAnchor from './AuthorAnchor.svelte'
   import CommaSeparatedEach from './CommaSeparatedEach.svelte'
   import type {Post} from '$lib/types'
 
@@ -35,7 +36,7 @@
             </CommaSeparatedEach>
           </td>
           <td>
-            {post.author}
+            <AuthorAnchor {...post.author} />
           </td>
         </tr>
       {:else}

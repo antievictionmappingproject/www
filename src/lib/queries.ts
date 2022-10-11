@@ -12,8 +12,13 @@ export const location = groq`{
   "slug": slug.current
 }`
 
+export const author = groq`{
+  name,
+  "slug": slug.current
+}`
+
 export const post = groq`{
-  "author": author->name,
+  "author": author->${author},
   "title": title[$locale],
   "slug": slug.current,
   "tags": tags[]->${tag},

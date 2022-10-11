@@ -16,10 +16,15 @@ export interface Location {
   slug: string
 }
 
+export interface Author {
+  name: string
+  slug: string
+}
+
 export interface Post {
   title: string
   slug: string
-  author: string
+  author: Author
   datePublished: string
   dateUpdated: string
   tags: Tag[]
