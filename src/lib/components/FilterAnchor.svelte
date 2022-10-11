@@ -3,7 +3,7 @@
 
   export const query = groq`{
     "type": _type,
-    "title": title[$locale],
+    "title": coalesce(title[$locale], title),
     "slug": slug.current
   }`
 </script>

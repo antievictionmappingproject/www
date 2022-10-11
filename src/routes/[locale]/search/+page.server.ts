@@ -21,7 +21,6 @@ export async function load({
 }: SearchPageServerLoadArgs) {
   const query = url.searchParams.get('query')
   return {
-    query,
     posts: await client.fetch(
       query
         ? groq`

@@ -87,7 +87,7 @@
     display: grid;
     grid-template-rows: 1fr;
     grid-template-columns: 1fr;
-    min-width: 20rem;
+    min-width: 15rem;
   }
 
   .root > * {

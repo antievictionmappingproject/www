@@ -91,4 +91,11 @@ body,
 
 a {
   border-radius: var(--border-radius-small);
+  text-decoration-line: underline;
+  text-decoration-thickness: 1px;
+  text-decoration-style: dotted;
+}
+
+a:hover {
+  text-decoration-style: solid;
 }
