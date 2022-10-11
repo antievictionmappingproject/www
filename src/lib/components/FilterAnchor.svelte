@@ -6,4 +6,4 @@
   export let slug: string
 </script>
 
-<a href={`/${$locale}/${type}/${slug}`}>{title}</a>
+<a href={`/${$locale}/search?${type}=${slug}`}>{title}</a>
