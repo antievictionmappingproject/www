@@ -70,29 +70,27 @@
     border-radius: var(--border-radius-small);
     background: linear-gradient(
         to right,
-        var(--color-background),
-        rgba(255, 255, 255, 0)
+        var(--color-background) 50%,
+        var(--color-background-transparent)
       ),
       linear-gradient(
-          to right,
-          rgba(255, 255, 255, 0),
-          var(--color-background)
-        )
-        0 100%,
+        to left,
+        var(--color-background) 50%,
+        var(--color-background-transparent)
+      ),
       linear-gradient(
         to right,
         rgba(0, 0, 0, 0.1),
         rgba(0, 0, 0, 0)
       ),
       linear-gradient(
-          to left,
-          rgba(0, 0, 0, 0.1),
-          rgba(0, 0, 0, 0)
-        )
-        0 100%;
+        to left,
+        rgba(0, 0, 0, 0.1),
+        rgba(0, 0, 0, 0)
+      );
     background-repeat: no-repeat;
     background-color: var(--color-background);
-    background-size: 40px 100%, 40px 100%, 14px 100%, 14px 100%;
+    background-size: 2rem 100%, 2rem 100%, 1rem 100%, 1rem 100%;
     background-position: 0 0, 100%, 0 0, 100%;
     background-attachment: local, local, scroll, scroll;
   }

@@ -7,12 +7,39 @@
   --color-darker-gray: #4b4b4b;
   --color-darkest-gray: #2f2f2f;
   --color-black: #000000;
+  --color-white-transparent: #ffffff00;
+  --color-lightest-gray-transparent: #e2e2e200;
+  --color-lighter-gray-transparent: #cacaca00;
+  --color-light-gray-transparent: #b2b2b200;
+  --color-dark-gray-transparent: #6d6d6d00;
+  --color-darker-gray-transparent: #4b4b4b00;
+  --color-darkest-gray-transparent: #2f2f2f00;
+  --color-black-transparent: #00000000;
 
-  --color-field: var(--color-lightest-gray);
-  --color-background: var(--color-lighter-gray);
-  --color-faded-text: var(--color-dark-gray);
-  --color-text: var(--color-darker-gray);
-  --color-opaque-text: var(--color-black);
+  --color-0: var(--color-white);
+  --color-1: var(--color-lightest-gray);
+  --color-2: var(--color-lighter-gray);
+  --color-3: var(--color-light-gray);
+  --color-4: var(--color-dark-gray);
+  --color-5: var(--color-darker-gray);
+  --color-6: var(--color-darkest-gray);
+  --color-7: var(--color-black);
+  --color-0-transparent: var(--color-white-transparent);
+  --color-1-transparent: var(
+    --color-lightest-gray-transparent
+  );
+  --color-2-transparent: var(--color-lighter-gray-transparent);
+  --color-3-transparent: var(--color-light-gray-transparent);
+  --color-4-transparent: var(--color-dark-gray-transparent);
+  --color-5-transparent: var(--color-darker-gray-transparent);
+  --color-6-transparent: var(--color-darkest-gray-transparent);
+  --color-7-transparent: var(--color-black-transparent);
+
+  --color-field: var(--color-1);
+  --color-background: var(--color-2);
+  --color-background-transparent: var(--color-2-transparent);
+  --color-faded-text: var(--color-3);
+  --color-text: var(--color-5);
   --color-focus: #00ddc2;
   --color-focus-translucent: #00ddc244;
   --color-active: #fdf272;
@@ -40,7 +67,7 @@
 
   --border-radius-small: 0.2rem;
 
-  --border-thin: solid 1px var(--color-light-gray);
+  --border-thin: solid 1px var(--color-faded-text);
 }
 
 html {
@@ -53,23 +80,53 @@ html {
 }
 
 html[data-theme='dark'] {
-  --color-field: var(--color-darkest-gray);
-  --color-background: var(--color-darker-gray);
-  --color-faded-text: var(--color-light-gray);
-  --color-text: var(--color-lighter-gray);
-  --color-opaque-text: var(--color-white);
-  --border-thin: solid 1px var(--color-dark-gray);
+  --color-7: var(--color-white);
+  --color-6: var(--color-lightest-gray);
+  --color-5: var(--color-lighter-gray);
+  --color-4: var(--color-light-gray);
+  --color-3: var(--color-dark-gray);
+  --color-2: var(--color-darker-gray);
+  --color-1: var(--color-darkest-gray);
+  --color-0: var(--color-black);
+  --color-7-transparent: var(--color-white-transparent);
+  --color-6-transparent: var(
+    --color-lightest-gray-transparent
+  );
+  --color-5-transparent: var(--color-lighter-gray-transparent);
+  --color-4-transparent: var(--color-light-gray-transparent);
+  --color-3-transparent: var(--color-dark-gray-transparent);
+  --color-2-transparent: var(--color-darker-gray-transparent);
+  --color-1-transparent: var(--color-darkest-gray-transparent);
+  --color-0-transparent: var(--color-black-transparent);
   color-scheme: dark;
 }
 
 @media (prefers-color-scheme: dark) {
   html:not([data-theme='light']) {
-    --color-field: var(--color-darkest-gray);
-    --color-background: var(--color-darker-gray);
-    --color-faded-text: var(--color-light-gray);
-    --color-text: var(--color-lighter-gray);
-    --color-opaque-text: var(--color-white);
-    --border-thin: solid 1px var(--color-dark-gray);
+    --color-7: var(--color-white);
+    --color-6: var(--color-lightest-gray);
+    --color-5: var(--color-lighter-gray);
+    --color-4: var(--color-light-gray);
+    --color-3: var(--color-dark-gray);
+    --color-2: var(--color-darker-gray);
+    --color-1: var(--color-darkest-gray);
+    --color-0: var(--color-black);
+    --color-7-transparent: var(--color-white-transparent);
+    --color-6-transparent: var(
+      --color-lightest-gray-transparent
+    );
+    --color-5-transparent: var(
+      --color-lighter-gray-transparent
+    );
+    --color-4-transparent: var(--color-light-gray-transparent);
+    --color-3-transparent: var(--color-dark-gray-transparent);
+    --color-2-transparent: var(
+      --color-darker-gray-transparent
+    );
+    --color-1-transparent: var(
+      --color-darkest-gray-transparent
+    );
+    --color-0-transparent: var(--color-black-transparent);
     color-scheme: dark;
   }
 }
