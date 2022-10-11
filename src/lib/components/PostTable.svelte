@@ -15,8 +15,9 @@
     <thead>
       <tr>
         <th>Title</th>
-        <th>Tags</th>
         <th>Author</th>
+        <th>Tags</th>
+        <th>Locations</th>
       </tr>
     </thead>
     <tbody>
@@ -28,6 +29,9 @@
             </a>
           </td>
           <td>
+            <AuthorAnchor {...post.author} />
+          </td>
+          <td>
             <CommaSeparatedEach
               items={post.tags ?? []}
               let:item
@@ -36,12 +40,17 @@
             </CommaSeparatedEach>
           </td>
           <td>
-            <AuthorAnchor {...post.author} />
+            <CommaSeparatedEach
+              items={post.locations ?? []}
+              let:item
+            >
+              <FilterAnchor {...item} />
+            </CommaSeparatedEach>
           </td>
         </tr>
       {:else}
         <tr
-          ><td colspan="3" class="empty"
+          ><td colspan="4" class="empty"
             >There's nothing here.</td
           ></tr
         >
