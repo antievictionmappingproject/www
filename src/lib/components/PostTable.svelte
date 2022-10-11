@@ -109,6 +109,10 @@
     vertical-align: top;
   }
 
+  td a {
+    display: inline-block;
+  }
+
   th {
     text-transform: uppercase;
     padding-block-start: 0;
