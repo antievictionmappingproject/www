@@ -21,8 +21,8 @@ export const post = groq`{
   "author": author->${author},
   "title": title[$locale],
   "slug": slug.current,
-  "tags": tags[]->${tag},
-  "locations": locations[]->${location},
+  "tags": tags[0..5]->${tag},
+  "locations": locations[0..5]->${location},
   "datePublished": datePublished,
   "dateUpdated": dateUpdated,
   "imageUrl": mainImage.asset->url

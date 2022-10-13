@@ -7,66 +7,95 @@
 
   export let posts: Post[] = []
   export let labelledBy: string
+
+  let selectedPost: Post | undefined = undefined
+
+  function onFocusIn(event: FocusEvent) {
+    const target = event.target as HTMLElement
+    const row = target.closest('tr')
+    if (row) {
+      selectedPost = posts.find(
+        (post) => post.slug === row.dataset.slug
+      )
+    }
+  }
+
+  function onMouseOver(event: MouseEvent) {
+    const target = event.target as HTMLElement
+    const row = target.closest('tr')
+    if (row) {
+      selectedPost = posts.find(
+        (post) => post.slug === row.dataset.slug
+      )
+    }
+  }
+
+  function onMouseLeave() {
+    selectedPost = undefined
+  }
+
+  function onBlur() {
+    selectedPost = undefined
+  }
 </script>
 
 <!-- Tables that may scroll need to be focusable: https://adrianroselli.com/2020/11/under-engineered-responsive-tables.html -->
-<div role="region" aria-labelledby={labelledBy} tabindex="0">
+<div
+  role="region"
+  aria-labelledby={labelledBy}
+  tabindex="0"
+  on:blur={onBlur}
+>
   <table>
     <thead>
       <tr>
-        <th>Title</th>
-        <th>Author</th>
-        <th>Tags</th>
-        <th>Locations</th>
+        <th><button>Title</button></th>
+        <th><button>Author</button></th>
+        <th><button>Date Published</button></th>
       </tr>
     </thead>
-    <tbody>
+    <!-- svelte-ignore a11y-mouse-events-have-key-events -->
+    <tbody
+      on:focusin={onFocusIn}
+      on:mouseover={onMouseOver}
+      on:mouseleave={onMouseLeave}
+    >
       {#each posts as post}
-        <tr>
+        <tr
+          data-slug={post.slug}
+          class:selected={post === selectedPost}
+        >
           <td>
-            <a href={`/${$locale}/post/{post.slug}`}>
+            <a
+              href={`/${$locale}/post/{post.slug}`}
+              tabindex="-1"
+            >
               {post.title}
             </a>
           </td>
           <td>
-            <AuthorAnchor {...post.author} />
+            <AuthorAnchor {...post.author} tabindex={-1} />
           </td>
           <td>
-            <CommaSeparatedEach
-              items={post.tags ?? []}
-              let:item
-            >
-              <FilterAnchor {...item} />
-            </CommaSeparatedEach>
-          </td>
-          <td>
-            <CommaSeparatedEach
-              items={post.locations ?? []}
-              let:item
-            >
-              <FilterAnchor {...item} />
-            </CommaSeparatedEach>
+            {post.datePublished}
           </td>
         </tr>
       {:else}
-        <tr
-          ><td colspan="4" class="empty"
-            >There's nothing here.</td
-          ></tr
-        >
+        <tr>
+          <td colspan="4" class="empty">
+            There's nothing here.
+          </td>
+        </tr>
       {/each}
     </tbody>
   </table>
 </div>
 
 <style>
-  table {
-    min-width: 100%;
-  }
-
-  [role='region'][aria-labelledby][tabindex] {
+  [role='region'] {
     overflow: auto;
     max-width: 100%;
+    margin-top: calc(var(--spacing-minus-1) * -1);
     border-radius: var(--border-radius-small);
     background: linear-gradient(
         to right,
@@ -95,28 +124,55 @@
     background-attachment: local, local, scroll, scroll;
   }
 
-  tr {
-    transition: background-color ease-in-out 200ms;
-    cursor: pointer;
-    box-sizing: border-box;
-  }
-
-  th,
-  td {
-    width: fit-content;
-    padding-block: var(--spacing-minus-1);
-    padding-inline-end: var(--spacing-0);
-    vertical-align: top;
-  }
-
-  td a {
-    display: inline-block;
+  table {
+    min-width: 100%;
+    margin-inline: 2px;
   }
 
   th {
-    text-transform: uppercase;
-    padding-block-start: 0;
     border-block-end: var(--border-thin);
+    padding-block: var(--spacing-minus-1);
+    text-transform: uppercase;
+  }
+
+  th:first-child {
+    min-width: 25ch;
+  }
+
+  th button {
+    text-transform: uppercase;
+    border-radius: var(--border-radius-small);
+    padding-inline: var(--spacing-minus-1);
+    white-space: pre;
+  }
+
+  th button:hover {
+    background-color: var(--color-1);
+  }
+
+  tbody > tr {
+    position: relative;
+    border-radius: var(--border-radius-small);
+  }
+
+  tbody > tr::after {
+    content: '';
+    position: absolute;
+    inset: 0;
+    z-index: 0;
+    border-radius: var(--border-radius-small);
+  }
+
+  tbody > tr:hover::after {
+    background: var(--color-1);
+  }
+
+  td {
+    position: relative;
+    z-index: 1;
+    width: fit-content;
+    padding: var(--spacing-minus-1);
+    vertical-align: top;
   }
 
   .empty {

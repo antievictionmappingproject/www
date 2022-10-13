@@ -4,6 +4,9 @@
   export let type: string
   export let title: string
   export let slug: string
+  export let tabindex: number | undefined = undefined
 </script>
 
-<a href={`/${$locale}/search?${type}=${slug}`}>{title}</a>
+<a href={`/${$locale}/search?${type}=${slug}`} {tabindex}
+  >{title}</a
+>
