@@ -1,73 +1,29 @@
 <script lang="ts">
   import {locale} from '$i18n/i18n-svelte'
-  import FilterAnchor from './FilterAnchor.svelte'
   import AuthorAnchor from './AuthorAnchor.svelte'
-  import CommaSeparatedEach from './CommaSeparatedEach.svelte'
   import type {Post} from '$lib/types'
 
   export let posts: Post[] = []
   export let labelledBy: string
-
-  let selectedPost: Post | undefined = undefined
-
-  function onFocusIn(event: FocusEvent) {
-    const target = event.target as HTMLElement
-    const row = target.closest('tr')
-    if (row) {
-      selectedPost = posts.find(
-        (post) => post.slug === row.dataset.slug
-      )
-    }
-  }
-
-  function onMouseOver(event: MouseEvent) {
-    const target = event.target as HTMLElement
-    const row = target.closest('tr')
-    if (row) {
-      selectedPost = posts.find(
-        (post) => post.slug === row.dataset.slug
-      )
-    }
-  }
-
-  function onMouseLeave() {
-    selectedPost = undefined
-  }
-
-  function onBlur() {
-    selectedPost = undefined
-  }
 </script>
 
 <!-- Tables that may scroll need to be focusable: https://adrianroselli.com/2020/11/under-engineered-responsive-tables.html -->
-<div
-  role="region"
-  aria-labelledby={labelledBy}
-  tabindex="0"
-  on:blur={onBlur}
->
+<div role="region" aria-labelledby={labelledBy} tabindex="0">
   <table>
     <thead>
       <tr>
-        <th><button>Title</button></th>
-        <th><button>Author</button></th>
-        <th><button>Date Published</button></th>
+        <th><button tabindex="-1">Title</button></th>
+        <th><button tabindex="-1">Author</button></th>
+        <th><button tabindex="-1">Date Published</button></th>
       </tr>
     </thead>
     <!-- svelte-ignore a11y-mouse-events-have-key-events -->
-    <tbody
-      on:focusin={onFocusIn}
-      on:mouseover={onMouseOver}
-      on:mouseleave={onMouseLeave}
-    >
+    <tbody>
       {#each posts as post}
-        <tr
-          data-slug={post.slug}
-          class:selected={post === selectedPost}
-        >
+        <tr data-slug={post.slug}>
           <td>
             <a
-              href={`/${$locale}/post/{post.slug}`}
+              href={`/${$locale}/post/${post.slug}`}
               tabindex="-1"
             >
               {post.title}
