@@ -1,5 +1,6 @@
 import groq from 'groq'
 import {client} from '$lib/sanity'
+import {post as postQuery} from '$lib/queries'
 
 /** @type {import('./$types').PageLoad} */
 export async function load({
@@ -9,16 +10,7 @@ export async function load({
 }) {
   const post = await client.fetch(
     groq`
-        *[_type == "post" && slug.current == $postSlug][0] {
-          "title": title[$locale],
-          "subtitle": excerpt[$locale],
-          "author": author->name,
-          "tags": tags[]->title,
-          "locations": locations[]->title,
-          "datePublished": datePublished,
-          "dateUpdated": dateUpdated
-          "mainImage": mainImage.asset->
-        }
+        *[_type == "post" && slug.current == $postSlug][0]${postQuery}
       `,
     params
   )

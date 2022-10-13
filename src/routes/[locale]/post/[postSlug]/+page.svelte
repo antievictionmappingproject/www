@@ -4,6 +4,7 @@
   import classes from '$lib/text.module.css'
   import SanityPicture from '$lib/components/SanityPicture.svelte'
   import type {PageData} from './$types'
+  import AuthorAnchor from '$lib/components/AuthorAnchor.svelte'
 
   export let data: PageData
   $: ({post} = data)
@@ -18,8 +19,8 @@
           <p class={classes.subtitle}>{post.subtitle}</p>
         {/if}
         <div class="metadata">
-          <div>{formatDate(post.datePublished)}</div>
-          <div>{post.author}</div>
+          <span>{formatDate(post.datePublished)}</span>
+          <AuthorAnchor {...post.author} />
         </div>
       </div>
       {#if post.mainImage}
@@ -56,5 +57,14 @@
     flex-direction: column;
     justify-content: space-between;
     gap: var(--spacing-2);
+  }
+
+  .text h1 {
+    text-align: center;
+  }
+
+  .metadata {
+    display: flex;
+    flex-direction: column;
   }
 </style>
