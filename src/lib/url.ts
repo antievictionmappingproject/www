@@ -5,3 +5,9 @@ export function replaceLocale(
   const [, , ...rest] = path.split('/')
   return ['', locale, ...rest].join('/')
 }
+
+export function withoutSearchParam(url: URL, name: string) {
+  const nextURL = new URL(url)
+  nextURL.searchParams.delete(name)
+  return nextURL
+}

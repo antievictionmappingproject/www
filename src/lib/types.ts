@@ -1,24 +1,32 @@
-export interface Ref {
-  _key?: string
-  _ref: string
-  _type: string
+import type {SvelteComponentTyped} from 'svelte'
+
+export type SvelteComponentProps<T> =
+  // eslint-disable-next-line @typescript-eslint/no-explicit-any
+  T extends SvelteComponentTyped<infer P, any, any> ? P : never
+
+export interface Tag {
+  type: string
+  title: string
+  slug: string
 }
 
-/* meant for categorical items in
- * Sanity that we use to filter or tag posts
- * */
-export interface Category {
+export interface Location {
+  type: string
+  title: string
+  slug: string
+}
+
+export interface Author {
   name: string
-  color: string
+  slug: string
 }
 
 export interface Post {
-  author: string
-  datePublished: string
-  dateUpdated: string
-  locations: string[]
   title: string
   slug: string
-  tags: {[locale: string]: string}[]
-  imageUrl: string
+  author: Author
+  datePublished: string
+  dateUpdated: string
+  tags: Tag[]
+  locations: Location[]
 }

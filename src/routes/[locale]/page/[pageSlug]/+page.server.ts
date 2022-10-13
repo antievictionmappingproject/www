@@ -6,14 +6,13 @@ import {query as pageQuery} from '$lib/components/Page.svelte'
 export async function load({
   params
 }: {
-  params: {locale: string}
+  params: {pageSlug: string; locale: string}
 }) {
-  const {page} = await client.fetch(
-    groq`
-      *[_type == "site"][0] {
-        "page": homePage->${pageQuery}
-      }
-    `,
+  const page = await client.fetch(
+    groq`*[_type == "page" && slug.current == $pageSlug][0] {
+      ...${pageQuery},
+      _type
+    }`,
     params
   )
 

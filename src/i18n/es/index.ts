@@ -1,8 +1,9 @@
 import type {Translation} from '../i18n-types'
 
 const es: Translation = {
-  localeSwitcher: {
-    description: 'Seleccione el idioma'
+  siteTitle: 'El Proyecto de Mapeo Anti-Desalojo',
+  localeSelect: {
+    label: 'Lengua'
   },
   searchForm: {
     inputLabel: 'Buscar',
@@ -12,9 +13,16 @@ const es: Translation = {
     empty: 'No hay sugerencias para “{query}”'
   },
   themeSelect: {
+    label: 'Tema',
     light: 'Luz',
     dark: 'Oscuridad',
     system: 'Sistema'
+  },
+  search: {
+    results: 'Resultados de búsqueda para “{query}”'
+  },
+  postStub: {
+    date: '{0|shortDate}'
   }
 }
 

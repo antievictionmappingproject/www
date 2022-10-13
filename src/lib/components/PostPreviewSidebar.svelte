@@ -1,12 +1,11 @@
 <script lang="ts">
-  import {page} from '$app/stores'
-  import type {Post} from '$lib/types'
-  import Tag from './Tag.svelte'
   import {fade} from 'svelte/transition'
   import {formatDate} from '$lib/utils/string'
-  export let post: Post
+  import FilterAnchor from './FilterAnchor.svelte'
+  import CommaSeparatedEach from './CommaSeparatedEach.svelte'
+  import type {Post} from '$lib/types'
 
-  const locale = $page.params.locale
+  export let post: Post | undefined
 </script>
 
 <div class="root">
@@ -17,7 +16,6 @@
       class="preview"
     >
       {#if post}
-        <img src={post.imageUrl} />
         <h1>{post.title}</h1>
         <h2 class="author">by {post.author}</h2>
         <h2 class="published">
@@ -32,9 +30,9 @@
           <div class="tags">
             <h2>Tags</h2>
             <div class="items">
-              {#each post.tags as tag}
-                <Tag tag={tag[locale]} type="tag" />
-              {/each}
+              <CommaSeparatedEach items={post.tags} let:item>
+                <FilterAnchor {...item} />
+              </CommaSeparatedEach>
             </div>
           </div>
         {/if}
@@ -42,9 +40,12 @@
           <div class="locations">
             <h2>Locations</h2>
             <div class="items">
-              {#each post.locations as location}
-                <Tag tag={location} type="location" />
-              {/each}
+              <CommaSeparatedEach
+                items={post.locations}
+                let:item
+              >
+                <FilterAnchor {...item} />
+              </CommaSeparatedEach>
             </div>
           </div>
         {/if}
@@ -57,12 +58,15 @@
 
 <style>
   .root {
-    /* so that the fade transition can happen without
-       a layout shift
-     */
     display: grid;
-    grid-template-columns: 1 / 2;
-    grid-template-rows: 1 / 2;
+    grid-template-rows: 1fr;
+    grid-template-columns: 1fr;
+    min-width: 15rem;
+  }
+
+  .root > * {
+    grid-column: 1 / -1;
+    grid-row: 1 / -1;
   }
 
   h1 {

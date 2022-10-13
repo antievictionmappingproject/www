@@ -23,7 +23,11 @@ export default {
     {
       name: 'sections',
       type: 'array',
-      of: [{type: 'textSection'}]
+      of: [
+        {type: 'textSection'},
+        {type: 'twoPostSection'},
+        {type: 'threePostSection'}
+      ]
     }
   ],
 

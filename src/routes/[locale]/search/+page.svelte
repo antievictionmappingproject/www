@@ -1,50 +1,59 @@
 <script lang="ts">
-  import PostTable from '$lib/components/PostTable/Table.svelte'
+  import textClasses from '$lib/text.module.css'
+  import {uniqBy, prop} from 'ramda'
+  import {LL} from '$i18n/i18n-svelte'
   import {page} from '$app/stores'
-  import {onMount} from 'svelte'
-  import {tags, locations} from '$lib/store'
-  import {genColor} from '$lib/utils/string'
-  import type {Post, Category} from '$lib/types'
+  import PostTable from '$lib/components/PostTable.svelte'
+  import FilterSidebar from '$lib/components/FilterSidebar.svelte'
+  import FilterSidebarFieldset from '$lib/components/FilterSidebarFieldset.svelte'
+  import type {Filter} from '$lib/components/FilterSidebarFieldset.svelte'
+  import PostPreviewSidebar from '$lib/components/PostPreviewSidebar.svelte'
+  import {nextUniqueId} from '$lib/utils/uniqueId'
+  import type {Post} from '$lib/types'
 
-  export let data: {postStubs: Post[]; query: string}
+  const titleId = nextUniqueId()
 
-  function addToStore(
-    map: Map<string, Category>,
-    category: string
-  ) {
-    if (!map.has(category)) {
-      const generatedColor = genColor()
-      map.set(category, {
-        name: category,
-        color: generatedColor
-      })
-    }
+  export let data: {
+    posts: Post[]
+    tags: Filter[]
+    locations: Filter[]
   }
 
-  onMount(() => {
-    data.postStubs.forEach((posts: Post) => {
-      posts.tags?.forEach((tag) =>
-        addToStore($tags, tag[$page.params.locale])
-      )
-      posts.locations?.forEach((location) =>
-        addToStore($locations, location)
-      )
-      /* to trigger app-wide update */
-      tags.set($tags)
-      locations.set($locations)
-    })
-  })
+  let selectedPost: Post | undefined = undefined
+
+  $: query = $page.url.searchParams.get('query') ?? undefined
 </script>
 
-<div class="page">
-  <PostTable posts={data.postStubs} query={data.query} />
-</div>
+<section>
+  <h1 id={titleId} class={textClasses.titleSans}>
+    {query ? $LL.search.results({query}) : 'Posts'}
+  </h1>
+  <FilterSidebar {query}>
+    <FilterSidebarFieldset
+      title="Tags"
+      name="tags"
+      filters={data.tags}
+    />
+    <FilterSidebarFieldset
+      title="Locations"
+      name="locations"
+      filters={data.locations}
+    />
+  </FilterSidebar>
+  <PostTable posts={data.posts} labelledBy={titleId} />
+  <PostPreviewSidebar post={selectedPost} />
+</section>
 
 <style>
-  .page {
-    width: 100%;
-    height: 100%;
-    display: flex;
-    place-content: center;
+  section {
+    display: grid;
+    grid-template-columns: auto 1fr auto;
+    gap: var(--spacing-0);
+    padding-inline: var(--spacing-0);
+  }
+
+  h1 {
+    grid-column: 1 / -1;
+    margin-block: calc(var(--spacing-2) - var(--spacing-0));
   }
 </style>

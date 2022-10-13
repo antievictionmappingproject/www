@@ -14,57 +14,83 @@ export type Translation = RootTranslation
 export type Translations = RootTranslation
 
 type RootTranslation = {
-	localeSwitcher: {
+	/**
+	 * T​h​e​ ​A​n​t​i​-​E​v​i​c​t​i​o​n​ ​M​a​p​p​i​n​g​ ​P​r​o​j​e​c​t
+	 */
+	siteTitle: string
+	localeSelect: {
 		/**
-		 * Select language
+		 * L​a​n​g​u​a​g​e
 		 */
-		description: string
+		label: string
 	}
 	searchForm: {
 		/**
-		 * Search
+		 * S​e​a​r​c​h
 		 */
 		inputLabel: string
 		/**
-		 * See all results
+		 * S​e​e​ ​a​l​l​ ​r​e​s​u​l​t​s
 		 */
 		buttonLabel: string
 		/**
-		 * Suggestions
+		 * S​u​g​g​e​s​t​i​o​n​s
 		 */
 		suggestionsLabel: string
 		/**
-		 * Waiting for suggestions...
+		 * W​a​i​t​i​n​g​ ​f​o​r​ ​s​u​g​g​e​s​t​i​o​n​s​.​.​.
 		 */
 		loading: string
 		/**
-		 * No suggestions for “{query}”
+		 * N​o​ ​s​u​g​g​e​s​t​i​o​n​s​ ​f​o​r​ ​“​{​q​u​e​r​y​}​”
 		 * @param {unknown} query
 		 */
 		empty: RequiredParams<'query'>
 	}
 	themeSelect: {
 		/**
-		 * Light
+		 * T​h​e​m​e
+		 */
+		label: string
+		/**
+		 * L​i​g​h​t
 		 */
 		light: string
 		/**
-		 * Dark
+		 * D​a​r​k
 		 */
 		dark: string
 		/**
-		 * System
+		 * S​y​s​t​e​m
 		 */
 		system: string
+	}
+	search: {
+		/**
+		 * S​e​a​r​c​h​ ​r​e​s​u​l​t​s​ ​f​o​r​ ​“​{​q​u​e​r​y​}​”
+		 * @param {unknown} query
+		 */
+		results: RequiredParams<'query'>
+	}
+	postStub: {
+		/**
+		 * {​0​|​s​h​o​r​t​D​a​t​e​}
+		 * @param {unknown} 0
+		 */
+		date: RequiredParams<'0|shortDate'>
 	}
 }
 
 export type TranslationFunctions = {
-	localeSwitcher: {
+	/**
+	 * The Anti-Eviction Mapping Project
+	 */
+	siteTitle: () => LocalizedString
+	localeSelect: {
 		/**
-		 * Select language
+		 * Language
 		 */
-		description: () => LocalizedString
+		label: () => LocalizedString
 	}
 	searchForm: {
 		/**
@@ -90,6 +116,10 @@ export type TranslationFunctions = {
 	}
 	themeSelect: {
 		/**
+		 * Theme
+		 */
+		label: () => LocalizedString
+		/**
 		 * Light
 		 */
 		light: () => LocalizedString
@@ -102,6 +132,20 @@ export type TranslationFunctions = {
 		 */
 		system: () => LocalizedString
 	}
+	search: {
+		/**
+		 * Search results for “{query}”
+		 */
+		results: (arg: { query: unknown }) => LocalizedString
+	}
+	postStub: {
+		/**
+		 * {0|shortDate}
+		 */
+		date: (arg0: unknown) => LocalizedString
+	}
 }
 
-export type Formatters = {}
+export type Formatters = {
+	shortDate: (value: unknown) => unknown
+}

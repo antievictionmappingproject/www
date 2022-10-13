@@ -71,6 +71,7 @@
 </script>
 
 <script lang="ts">
+  import uiClasses from '$lib/ui.module.css'
   import icons from 'bootstrap-icons/bootstrap-icons.svg'
   import {nextUniqueId} from '$lib/utils/uniqueId'
   import {goto} from '$app/navigation'
@@ -177,18 +178,6 @@
     }
   }
 
-  /*
-  We if we click on the options list, prevent blur because the options list belongs to the input.
-  */
-  function onPointerDown() {
-    if (hasFocus) {
-      blurPrevented = true
-      setTimeout(() => {
-        blurPrevented = false
-      }, 0)
-    }
-  }
-
   function onFocus() {
     hasFocus = true
   }
@@ -201,16 +190,30 @@
     }
   }
 
-  function onMouseOver(event: MouseEvent) {
+  function onPointerDown() {
+    selectedOption = undefined
+  }
+
+  /*
+  We if we click on the options list, prevent blur because the options list belongs to the input.
+  */
+  function onListboxPointerDown(event: MouseEvent) {
     const target = event.target as HTMLElement
     if (target && target.getAttribute('role') === 'option') {
       selectedOption = options.find(
         (option) => option.id === target.id
       )
     }
+
+    if (hasFocus) {
+      blurPrevented = true
+      setTimeout(() => {
+        blurPrevented = false
+      }, 0)
+    }
   }
 
-  function onClick() {
+  function onListboxClick() {
     if (selectedOption) {
       goto(`/${$locale}/post/${selectedOption.slug}`)
     }
@@ -218,9 +221,11 @@
 </script>
 
 <form action={`/${$locale}/search`} method="get" role="search">
+  <label for={inputId}>{$LL.searchForm.inputLabel()}:</label>
   <div class="inputContainer">
-    <label for={inputId}>{$LL.searchForm.inputLabel()}</label>
     <input
+      class={uiClasses.input}
+      class:hasFocus={hasFocus && !selectedOption}
       id={inputId}
       name="query"
       type="text"
@@ -231,82 +236,129 @@
       aria-controls={listboxId}
       bind:value
       bind:this={inputElement}
+      on:pointerdown={onPointerDown}
       on:keydown={onKeyDown}
       on:keyup={onKeyUp}
       on:focus={onFocus}
       on:blur={onBlur}
     />
-    <button
-      type="submit"
-      aria-label={$LL.searchForm.buttonLabel()}
-    >
-      <svg
-        fill="currentColor"
-        aria-hidden="true"
-        focusable="false"
-        style="forced-color-adjust: auto"
+    {#if hasFocus && value.length > 0}
+      <!-- I shouldn't have to use svelte-ignore here. We already have 'aria-controls' attribute on the input... -->
+      <!-- svelte-ignore a11y-mouse-events-have-key-events -->
+      <ul
+        id={listboxId}
+        role="listbox"
+        aria-label={$LL.searchForm.suggestionsLabel()}
+        on:pointerdown={onListboxPointerDown}
+        on:click={onListboxClick}
       >
-        <use xlink:href={`${icons}#search`} />
-      </svg>
-    </button>
+        {#await response}
+          <div class="message">
+            {$LL.searchForm.loading()}
+          </div>
+        {:then options}
+          {#each options as option}
+            <li
+              id={option.id}
+              role="option"
+              aria-selected={option.id === selectedOption?.id
+                ? 'true'
+                : 'false'}
+            >
+              <!-- No anchor here because SvelteKit blocks the main thread on anchor mouseenter events, causing jank. -->
+              {option.title}
+            </li>
+          {:else}
+            <div class="message">
+              {$LL.searchForm.empty({query: value})}
+            </div>
+          {/each}
+        {/await}
+      </ul>
+    {/if}
   </div>
-  {#if hasFocus && value.length > 0}
-    <!-- I shouldn't have to use svelte-ignore here. We already have 'aria-controls' attribute on the input... -->
-    <!-- svelte-ignore a11y-mouse-events-have-key-events -->
-    <ul
-      id={listboxId}
-      role="listbox"
-      aria-label={$LL.searchForm.suggestionsLabel()}
-      on:pointerdown={onPointerDown}
-      on:mouseover={onMouseOver}
-      on:click={onClick}
+  <button
+    class={uiClasses.iconButton}
+    type="submit"
+    aria-label={$LL.searchForm.buttonLabel()}
+  >
+    <svg
+      fill="currentColor"
+      aria-hidden="true"
+      focusable="false"
     >
-      {#await response}
-        {$LL.searchForm.loading()}
-      {:then options}
-        {#each options as option}
-          <li
-            id={option.id}
-            role="option"
-            aria-selected={option.id === selectedOption?.id
-              ? 'true'
-              : 'false'}
-          >
-            <!-- No anchor here because SvelteKit blocks the main thread on anchor mouseenter events, causing jank. -->
-            {option.title}
-          </li>
-        {:else}
-          {$LL.searchForm.empty({query: value})}
-        {/each}
-      {/await}
-    </ul>
-  {/if}
+      <use xlink:href={`${icons}#search`} />
+    </svg>
+  </button>
 </form>
 
 <style>
   form {
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    gap: var(--spacing-minus-1);
+  }
+
+  .inputContainer {
     position: relative;
   }
 
-  svg {
-    width: 1rem;
-    height: 1rem;
+  input {
+    width: 25ch;
+  }
+
+  input:focus {
+    outline: none;
+  }
+
+  input.hasFocus {
+    outline: solid 2px var(--color-focus);
+  }
+
+  button {
+    background-color: var(--color-field);
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    width: 1.5rem;
+    height: 1.5rem;
   }
 
   [role='listbox'] {
-    background: var(--color-background);
-    left: 0;
-    top: 100%;
-    position: absolute;
+    background: var(--color-field);
+    color: var(--color-text);
+    border-radius: var(--border-radius-small);
     z-index: 1;
+    position: absolute;
+    right: 0;
+    top: calc(100% + 0.5rem);
+    min-width: 100%;
+    max-width: 50ch;
+    width: max-content;
   }
 
   [role='option'] {
     cursor: pointer;
     display: block;
+    border-radius: var(--border-radius-small);
+    max-width: 100%;
+    white-space: nowrap;
+    text-overflow: ellipsis;
+    overflow: hidden;
+  }
+
+  .message,
+  [role='option'] {
+    min-height: 1.5rem;
+    padding-inline: 0.5rem;
+  }
+
+  .message {
+    color: var(--color-faded-text);
   }
 
   [aria-selected='true'] {
-    background: cornflowerblue;
+    outline: solid 2px var(--color-focus);
   }
 </style>

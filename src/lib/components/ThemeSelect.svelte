@@ -1,6 +1,7 @@
 <script>
   import {onMount} from 'svelte'
   import {LL} from '$i18n/i18n-svelte'
+  import Select from './Select.svelte'
 
   let value = 'system'
   let isMounted = false
@@ -16,10 +17,12 @@
     value = localStorage.getItem('theme') ?? 'system'
     isMounted = true
   })
+
+  $: options = [
+    {value: 'light', label: $LL.themeSelect.light()},
+    {value: 'dark', label: $LL.themeSelect.dark()},
+    {value: 'system', label: $LL.themeSelect.system()}
+  ]
 </script>
 
-<select bind:value>
-  <option value="light">{$LL.themeSelect.light()}</option>
-  <option value="dark">{$LL.themeSelect.dark()}</option>
-  <option value="system">{$LL.themeSelect.system()}</option>
-</select>
+<Select label={$LL.themeSelect.label()} bind:value {options} />

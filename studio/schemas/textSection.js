@@ -2,7 +2,6 @@ import {createLocaleSchema} from '../lib/locales'
 
 export default {
   name: 'textSection',
-  title: 'Text section',
   type: 'object',
   fields: [
     createLocaleSchema({
