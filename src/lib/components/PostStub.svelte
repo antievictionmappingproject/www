@@ -1,14 +1,3 @@
-<script lang="ts" context="module">
-  import groq from 'groq'
-
-  export const query = groq`{
-    "title": title[$locale],
-    "image": mainImage.asset->,
-    "date": datePublished,
-    "slug": slug.current
-  }`
-</script>
-
 <script lang="ts">
   import type {SanityImageMetadata} from '$lib/sanity'
   import type {SanityImageSource} from '@sanity/image-url/lib/types/types'

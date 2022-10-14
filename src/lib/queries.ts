@@ -25,5 +25,34 @@ export const post = groq`{
   "locations": locations[0..5]->${location},
   "datePublished": datePublished,
   "dateUpdated": dateUpdated,
-  "imageUrl": mainImage.asset->url
+  "image": mainImage.asset->
+}`
+
+export const postStub = groq`{
+  "title": title[$locale],
+  "image": mainImage.asset->,
+  "date": datePublished,
+  "slug": slug.current
+}`
+
+export const textSection = groq`{
+  "body": body[$locale]
+}`
+
+export const twoPostSection = groq`{
+  "posts": posts[]->${postStub}
+}`
+
+export const threePostSection = groq`{
+  "posts": posts[]->${postStub}
+}`
+
+export const page = groq`{
+  "title": title[$locale],
+  "sections": sections[] {
+    _type,
+    _type == "textSection" => ${textSection},
+    _type == "twoPostSection" => ${twoPostSection},
+    _type == "threePostSection" => ${threePostSection}
+  }
 }`

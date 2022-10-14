@@ -1,13 +1,3 @@
-<script lang="ts" context="module">
-  import groq from 'groq'
-  import {query as postStubQuery} from '$lib/components/PostStub.svelte'
-
-  export const query = groq`{
-      "posts": posts[]->${postStubQuery}
-    }
-  `
-</script>
-
 <script lang="ts">
   import type {SvelteComponentProps} from '$lib/types'
   import PostStub from '$lib/components/PostStub.svelte'

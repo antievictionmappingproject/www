@@ -1,12 +1,3 @@
-<script lang="ts" context="module">
-  import groq from 'groq'
-
-  export const query = groq`{
-      "body": body[$locale]
-    }
-  `
-</script>
-
 <script lang="ts">
   import classes from '$lib/text.module.css'
   import {PortableText} from '@portabletext/svelte'

@@ -1,31 +1,16 @@
-<script lang="ts" context="module">
-  import groq from 'groq'
-  import {query as textSectionQuery} from '$lib/components/TextSection.svelte'
-  import {query as twoPostSectionQuery} from '$lib/components/TwoPostSection.svelte'
-  import {query as threePostSectionQuery} from '$lib/components/ThreePostSection.svelte'
-
-  export const query = groq`{
-      "title": title[$locale],
-      "sections": sections[] {
-        _type,
-        _type == "textSection" => ${textSectionQuery},
-        _type == "twoPostSection" => ${twoPostSectionQuery},
-        _type == "threePostSection" => ${threePostSectionQuery}
-      }
-    }
-  `
-</script>
-
 <script lang="ts">
   import TextSection from '$lib/components/TextSection.svelte'
   import ThreePostSection from '$lib/components/ThreePostSection.svelte'
   import TwoPostSection from '$lib/components/TwoPostSection.svelte'
   import type {SvelteComponentProps} from '$lib/types'
 
-  export let sections:
+  type Section = {_type: string} & (
     | SvelteComponentProps<TextSection>
     | SvelteComponentProps<TwoPostSection>
     | SvelteComponentProps<ThreePostSection>
+  )
+
+  export let sections: Section[]
 </script>
 
 <article>
