@@ -13,12 +13,12 @@
     {#if query}
       <input type="text" name="query" value={query} hidden />
       <a
-        class={uiClasses.input}
+        class={uiClasses.button}
         href={withoutSearchParam($page.url, 'query').href}
         >Clear search</a
       >
     {/if}
-    <button type="submit" class={uiClasses.input}>
+    <button type="submit" class={uiClasses.button}>
       Apply filters
     </button>
   </div>

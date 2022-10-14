@@ -11,7 +11,7 @@
 
 <div>
   <label for={id}>{label}:</label>
-  <select {id} bind:value class={classes.input}>
+  <select {id} bind:value class={classes.button}>
     {#each options as option}
       <option value={option.value}>{option.label}</option>
     {/each}
