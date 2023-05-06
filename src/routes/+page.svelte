@@ -1,11 +1,3 @@
-<script>
-
-</script>
-
 <div>
-
+  testing
 </div>
-
-<style>
-
-</style>
