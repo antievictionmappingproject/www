@@ -1,6 +1,11 @@
 [build]
-  command = "npm run build"
+  command = "pnpm build"
   publish = "build"
 
 [functions]
   node_bundler = "esbuild"
+
+[[redirects]]
+  from = "/*"
+  status = 200
+  to = "/.netlify/functions/render"
