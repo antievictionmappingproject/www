@@ -13,6 +13,7 @@ export async function load({
   params: {locale: string}
 }) {
   const locale = params.locale as Locales
+  console.log(locale)
 
   if (!locales.includes(locale)) {
     throw redirect(
