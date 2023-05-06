@@ -12,7 +12,6 @@ interface SearchPageServerLoadArgs {
 const searchFilter = groq`
   | score([title[$locale], body[$locale]] match $search)
   | order(_score desc)
-  [_score > 0]
 `
 
 const tagFilter = groq`

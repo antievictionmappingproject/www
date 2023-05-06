@@ -15,20 +15,21 @@
     "sanity"
   ],
   "dependencies": {
-    "@sanity/base": "^2.22.0",
+    "@sanity/base": "^2.36.1",
     "@sanity/components": "^2.14.0",
-    "@sanity/core": "^2.22.0",
-    "@sanity/default-layout": "^2.22.0",
-    "@sanity/default-login": "^2.22.0",
-    "@sanity/desk-tool": "^2.22.2",
-    "@sanity/vision": "^2.22.0",
+    "@sanity/core": "^2.36.1",
+    "@sanity/default-layout": "^2.36.1",
+    "@sanity/default-login": "^2.36.1",
+    "@sanity/desk-tool": "^2.36.1",
+    "@sanity/vision": "^2",
     "prop-types": "^15.7",
     "react": "^17.0",
     "react-dom": "^17.0",
+    "sanity": "^3.9.1",
     "styled-components": "^5.2.0"
   },
   "devDependencies": {
-    "@sanity/form-builder": "^2.31.1",
+    "@sanity/form-builder": "^2.36.1",
     "got": "^12.0.1",
     "jsdom": "^17.0.0",
     "p-queue": "^7.1.0",

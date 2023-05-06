@@ -55,6 +55,11 @@ reasonable to list or address them all here. Instead, please
 reach out to Nathan, who will happily assist and debug with
 you.
 
+Please also reach out to Nathan if you'd like to be added to
+the Sanity API. This is very useful to see the structure of
+queries and test new content structures. You may be able to get
+by with just using "\*" to query.
+
 ## Tech stack
 
 Described only briefly here.

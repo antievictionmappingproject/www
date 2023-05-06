@@ -18,6 +18,7 @@
     tags: Filter[]
     locations: Filter[]
   }
+  $: console.log(data.posts)
 
   let selectedPost: Post | undefined = undefined
 
