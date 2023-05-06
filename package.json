@@ -20,6 +20,7 @@
     "@sveltejs/adapter-netlify": "1.0.0-next.71",
     "@sveltejs/kit": "next",
     "@tsconfig/svelte": "^3.0.0",
+    "@types/ramda": "0.28.15",
     "@typescript-eslint/eslint-plugin": "^5.36.1",
     "@typescript-eslint/parser": "^5.36.1",
     "eslint": "^8.22.0",
@@ -28,18 +29,17 @@
     "prettier": "^2.4.1",
     "prettier-plugin-groq": "0.2.5",
     "prettier-plugin-svelte": "^2.4.0",
-    "svelte": "3.50.0",
+    "svelte": "3.59.0",
     "svelte-preprocess": "^4.10.7",
     "tslib": "^2.3.1",
     "typesafe-i18n": "5.14.0",
     "typescript": "^4.7.4",
-    "vite": "^3.1.0-beta.1"
+    "vite": "^4.3.5"
   },
   "dependencies": {
     "@nonphoto/css": "1.0.2",
     "@portabletext/types": "1.0.3",
     "@sanity/image-url": "1.0.1",
-    "@types/ramda": "0.28.15",
     "bootstrap-icons": "1.9.1",
     "groq": "^2.15.0",
     "picosanity": "^4.0.0",
