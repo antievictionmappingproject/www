@@ -13,6 +13,8 @@
 
   export let data: LayoutData
 
+  console.log(data)
+
   setLocale(data.locale)
 
   $: {
@@ -39,5 +41,4 @@
     />
   {/each}
 </svelte:head>
-
 <slot />

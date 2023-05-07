@@ -1,4 +1,5 @@
 import type {SvelteComponentTyped} from 'svelte'
+import type {SanityAsset} from '@sanity/image-url/lib/types/types'
 
 export type SvelteComponentProps<T> =
   // eslint-disable-next-line @typescript-eslint/no-explicit-any
@@ -22,11 +23,13 @@ export interface Author {
 }
 
 export interface Post {
+  author: Author
   title: string
   slug: string
-  author: Author
-  datePublished: string
-  dateUpdated: string
   tags: Tag[]
   locations: Location[]
+  datePublished: string
+  dateUpdated: string
+  image: SanityAsset
+  excerpt: string
 }

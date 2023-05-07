@@ -1,27 +1,30 @@
 <script lang="ts">
   import {locale} from '$i18n/i18n-svelte'
-  import AuthorAnchor from './AuthorAnchor.svelte'
   import type {Post} from '$lib/types'
+  import {formatDate, titleCase} from '$lib/utils/string'
+  import SanityPicture from './SanityPicture.svelte'
 
   export let posts: Post[] = []
   export let labelledBy: string
 </script>
 
 <!-- Tables that may scroll need to be focusable: https://adrianroselli.com/2020/11/under-engineered-responsive-tables.html -->
+<!-- svelte-ignore a11y-no-noninteractive-tabindex -->
 <div role="region" aria-labelledby={labelledBy} tabindex="0">
   <table>
-    <thead>
-      <tr>
-        <th><button tabindex="-1">Title</button></th>
-        <th><button tabindex="-1">Author</button></th>
-        <th><button tabindex="-1">Date Published</button></th>
-      </tr>
-    </thead>
-    <!-- svelte-ignore a11y-mouse-events-have-key-events -->
     <tbody>
       {#each posts as post}
         <tr data-slug={post.slug}>
-          <td>
+          <td class="image">
+            <div class="picture-container">
+              <SanityPicture
+                image={post.image}
+                metadata={post.image.metadata}
+                alt="placeholder"
+              />
+            </div>
+          </td>
+          <td class="title">
             <a
               href={`/${$locale}/post/${post.slug}`}
               tabindex="-1"
@@ -29,12 +32,25 @@
               {post.title}
             </a>
           </td>
-          <td>
-            <AuthorAnchor {...post.author} tabindex={-1} />
+          <td class="description">
+            {post.excerpt || ''}
           </td>
-          <td>
-            {post.datePublished}
+          <td class="date">
+            {formatDate(post.datePublished)}
           </td>
+          <td class="locations">
+            {post.locations
+              .map((loc) =>
+                titleCase(loc.title.replaceAll('-', ' '))
+              )
+              .join(', ')}
+          </td>
+          <td class="tags">
+            {post.tags
+              .map((tag) => titleCase(tag.title))
+              .join(', ')}
+          </td>
+          <td class="link-icon"> placeholder </td>
         </tr>
       {:else}
         <tr>
@@ -48,87 +64,39 @@
 </div>
 
 <style>
-  [role='region'] {
-    overflow: auto;
-    max-width: 100%;
-    margin-top: calc(var(--spacing-minus-1) * -1);
-    border-radius: var(--border-radius-small);
-    background: linear-gradient(
-        to right,
-        var(--color-background) 50%,
-        var(--color-background-transparent)
-      ),
-      linear-gradient(
-        to left,
-        var(--color-background) 50%,
-        var(--color-background-transparent)
-      ),
-      linear-gradient(
-        to right,
-        rgba(0, 0, 0, 0.1),
-        rgba(0, 0, 0, 0)
-      ),
-      linear-gradient(
-        to left,
-        rgba(0, 0, 0, 0.1),
-        rgba(0, 0, 0, 0)
-      );
-    background-repeat: no-repeat;
-    background-color: var(--color-background);
-    background-size: 2rem 100%, 2rem 100%, 1rem 100%, 1rem 100%;
-    background-position: 0 0, 100%, 0 0, 100%;
-    background-attachment: local, local, scroll, scroll;
-  }
-
   table {
     min-width: 100%;
-    margin-inline: 2px;
-  }
-
-  th {
-    border-block-end: var(--border-thin);
-    padding-block: var(--spacing-minus-1);
-    text-transform: uppercase;
-  }
-
-  th:first-child {
-    min-width: 25ch;
-  }
-
-  th button {
-    text-transform: uppercase;
-    border-radius: var(--border-radius-small);
-    padding-inline: var(--spacing-minus-1);
-    white-space: pre;
-  }
-
-  th button:hover {
-    background-color: var(--color-1);
   }
 
   tbody > tr {
     position: relative;
-    border-radius: var(--border-radius-small);
   }
 
-  tbody > tr::after {
-    content: '';
-    position: absolute;
-    inset: 0;
-    z-index: 0;
-    border-radius: var(--border-radius-small);
-  }
-
-  tbody > tr:hover::after {
-    background: var(--color-1);
+  tr {
+    border-bottom: 1px dashed rgba(0, 0, 0, 0.3);
   }
 
   td {
     position: relative;
-    z-index: 1;
-    width: fit-content;
-    padding: var(--spacing-minus-1);
     vertical-align: top;
+    padding: 1rem;
+  }
+
+  .picture-container {
+    width: 15ch;
+    aspect-ratio: 1 / 1;
+  }
+
+  .title {
+    font-size: 1.5rem;
+    word-wrap: normal;
+    max-width: 25ch;
+  }
+
+  .description {
+    display: flex;
+    flex-direction: column;
+    max-width: 40ch;
   }
 
   .empty {

@@ -1,6 +1,6 @@
 import groq from 'groq'
 import {client} from '$lib/sanity'
-import {page as pageQuery} from '$lib/queries'
+import {post as postQuery} from '$lib/queries'
 
 /** @type {import('./$types').PageLoad} */
 export async function load({
@@ -8,16 +8,13 @@ export async function load({
 }: {
   params: {locale: string}
 }) {
-  const {page} = await client.fetch(
-    groq`
-      *[_type == "site"][0] {
-        "page": homePage->${pageQuery}
-      }
+  const result = await client.fetch(
+    groq`*[_type == "post"]${postQuery}[0..10]
     `,
     params
   )
 
   return {
-    page
+    posts: result
   }
 }

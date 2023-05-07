@@ -25,7 +25,8 @@ export const post = groq`{
   "locations": locations[0..5]->${location},
   "datePublished": datePublished,
   "dateUpdated": dateUpdated,
-  "image": mainImage.asset->
+  "image": mainImage.asset->,
+  "excerpt": excerpt[$locale]
 }`
 
 export const postStub = groq`{

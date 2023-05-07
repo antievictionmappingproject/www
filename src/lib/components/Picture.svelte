@@ -20,11 +20,6 @@
       ? `url(${placeholderSrc})`
       : undefined
 
-  $: aspectRatio =
-    naturalWidth && naturalHeight
-      ? `${naturalWidth} / ${naturalHeight}`
-      : undefined
-
   onMount(() => {
     isMounted = true
 
@@ -38,7 +33,6 @@
   class:isMounted
   style:--background-image={backgroundImage}
   style:--object-fit={objectFit}
-  style:--aspect-ratio={aspectRatio}
 >
   <img
     {loading}
@@ -62,6 +56,9 @@
     background-position: var(--object-position);
     background-size: var(--object-fit);
     background-repeat: no-repeat;
+    display: block;
+    width: 100%;
+    height: 100%;
   }
 
   picture > img {

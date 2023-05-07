@@ -1,6 +1,5 @@
 <script lang="ts">
   import textClasses from '$lib/text.module.css'
-  import {uniqBy, prop} from 'ramda'
   import {LL} from '$i18n/i18n-svelte'
   import {page} from '$app/stores'
   import PostTable from '$lib/components/PostTable.svelte'

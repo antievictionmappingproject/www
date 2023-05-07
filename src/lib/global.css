@@ -36,19 +36,20 @@
   --color-7-transparent: var(--color-black-transparent);
 
   --color-field: var(--color-1);
-  --color-background: var(--color-2);
-  --color-background-transparent: var(--color-2-transparent);
+  --color-background: var(--color-white);
+  --color-background-transparent: var(--color-white);
   --color-faded-text: var(--color-3);
-  --color-text: var(--color-5);
+  --color-text: var(--color-7);
   --color-focus: #00ddc2;
   --color-focus-translucent: #00ddc244;
   --color-active: #fdf272;
   --color-active-translucent: #fdf27244;
 
-  --font-family-sans: 'Helvetica Neue', Helvetica, Arial,
+  --font-family-sans: 'Lato', 'Helvetica Neue', Helvetica, Arial,
     sans-serif;
   --font-family-serif: 'Times New Roman', Times, serif;
 
+  font-size: 14pt;
   --font-size-minus-1: 0.875rem;
   --font-size-0: 1rem;
   --font-size-1: 1.25rem;
@@ -133,9 +134,8 @@ html[data-theme='dark'] {
 
 body,
 #svelte {
-  flex-grow: 1;
-  display: flex;
-  flex-direction: column;
+  height: 100%;
+  width: 100%;
 }
 
 :focus-visible {
@@ -147,7 +147,6 @@ body,
 }
 
 a {
-  border-radius: var(--border-radius-small);
   text-decoration-line: underline;
   text-decoration-thickness: 1px;
   text-decoration-style: dotted;

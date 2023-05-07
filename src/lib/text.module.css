@@ -16,7 +16,7 @@
 
 .subtitle {
   font-size: var(--font-size-3);
-  font-family: var(--font-family-serif);
+  font-family: var(--font-family-sans);
   font-style: italic;
   line-height: 1.1;
   letter-spacing: -0.01em;

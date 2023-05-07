@@ -3,6 +3,25 @@
   import Footer from '$lib/components/Footer.svelte'
 </script>
 
-<Header />
-<slot />
-<Footer />
+<div class="page">
+  <div class="scrollable">
+    <Header />
+    <slot />
+  </div>
+  <Footer />
+</div>
+
+<style>
+  .page {
+    height: 100vh;
+    min-height: 100%;
+    max-height: 100%;
+    overflow: hidden;
+    display: grid;
+    grid-template-rows: auto 1fr;
+  }
+
+  .scrollable {
+    overflow: auto;
+  }
+</style>

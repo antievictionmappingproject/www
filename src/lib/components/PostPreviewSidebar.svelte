@@ -2,7 +2,6 @@
   import {fade} from 'svelte/transition'
   import {formatDate} from '$lib/utils/string'
   import FilterAnchor from './FilterAnchor.svelte'
-  import CommaSeparatedEach from './CommaSeparatedEach.svelte'
   import type {Post} from '$lib/types'
 
   export let post: Post | undefined
